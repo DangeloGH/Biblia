@@ -1,0 +1,1619 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noindex, nofollow">
+<title>Lectio · Diagnóstico</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Inter+Tight:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #0e0d0a;
+    --bg-elev: #1a1814;
+    --bg-card: #211e18;
+    --bg-card-hi: #2a2620;
+    --line: #2a2520;
+    --line-strong: #3a3530;
+    --ink: #e8e2d6;
+    --ink-soft: #c9bfae;
+    --ink-mute: #8a8070;
+    --gold: #c9a96a;
+    --gold-soft: #d4b87a;
+    --rose: #c97a8c;
+    --sage: #7a9a82;
+    --azure: #6f8aab;
+    --danger: #ff8b8b;
+    --success: #7ed089;
+    --warn: #e8c97a;
+    --serif: "Cormorant Garamond", Georgia, serif;
+    --sans: "Inter Tight", -apple-system, system-ui, sans-serif;
+    --mono: "JetBrains Mono", ui-monospace, monospace;
+    --radius: 10px;
+    --radius-lg: 14px;
+  }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; padding: 0; }
+  body {
+    background: var(--bg);
+    color: var(--ink);
+    font: 14px/1.5 var(--sans);
+    min-height: 100vh;
+    padding: 16px;
+    background-image:
+      radial-gradient(circle at 20% 0%, rgba(201, 169, 106, .04), transparent 50%),
+      radial-gradient(circle at 80% 100%, rgba(122, 154, 130, .03), transparent 50%);
+  }
+  .wrap { max-width: 1100px; margin: 0 auto; }
+
+  /* Header */
+  header.diag-head {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    margin-bottom: 18px;
+    padding-bottom: 14px;
+    border-bottom: 1px solid var(--line);
+  }
+  .brand-mark {
+    width: 44px;
+    height: 44px;
+    border-radius: 50%;
+    background: linear-gradient(135deg, var(--bg-card-hi), var(--bg-card));
+    border: 1px solid var(--gold);
+    color: var(--gold);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 22px;
+    box-shadow: 0 0 24px rgba(201, 169, 106, .15);
+  }
+  .head-text h1 {
+    margin: 0;
+    font-family: var(--serif);
+    font-weight: 600;
+    font-size: 22px;
+    letter-spacing: .01em;
+  }
+  .head-text p {
+    margin: 2px 0 0;
+    color: var(--ink-mute);
+    font-size: 12px;
+    letter-spacing: .03em;
+  }
+  .head-actions { margin-left: auto; display: flex; gap: 8px; flex-wrap: wrap; justify-content: flex-end; }
+
+  /* Botões */
+  button.btn {
+    background: var(--bg-card);
+    border: 1px solid var(--line-strong);
+    color: var(--ink);
+    padding: 8px 14px;
+    border-radius: 8px;
+    cursor: pointer;
+    font: 500 13px var(--sans);
+    transition: background .12s, border-color .12s, transform .08s;
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    white-space: nowrap;
+  }
+  button.btn:hover { background: var(--bg-card-hi); border-color: var(--gold); }
+  button.btn:active { transform: scale(.97); }
+  button.btn-primary {
+    background: var(--gold);
+    color: var(--bg);
+    border-color: var(--gold);
+    font-weight: 600;
+  }
+  button.btn-primary:hover { background: var(--gold-soft); border-color: var(--gold-soft); }
+  button.btn-danger { color: var(--danger); border-color: rgba(255, 139, 139, .3); }
+  button.btn-danger:hover { background: rgba(255, 80, 80, .1); border-color: var(--danger); }
+
+  /* Resumo / hero */
+  .summary {
+    background: linear-gradient(135deg, var(--bg-card), var(--bg-elev));
+    border: 1px solid var(--line);
+    border-radius: var(--radius-lg);
+    padding: 16px 18px;
+    margin-bottom: 18px;
+    display: flex;
+    align-items: center;
+    gap: 18px;
+    flex-wrap: wrap;
+  }
+  .sum-stat {
+    display: flex;
+    align-items: baseline;
+    gap: 6px;
+  }
+  .sum-num {
+    font-family: var(--mono);
+    font-size: 28px;
+    font-weight: 600;
+    line-height: 1;
+  }
+  .sum-num.ok { color: var(--success); }
+  .sum-num.warn { color: var(--warn); }
+  .sum-num.err { color: var(--danger); }
+  .sum-num.pend { color: var(--ink-mute); }
+  .sum-label {
+    color: var(--ink-mute);
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: .08em;
+  }
+  .sum-progress {
+    flex: 1 1 100%;
+    height: 4px;
+    background: var(--line);
+    border-radius: 2px;
+    overflow: hidden;
+    margin-top: 6px;
+  }
+  .sum-progress-bar {
+    height: 100%;
+    background: linear-gradient(90deg, var(--success), var(--gold));
+    transition: width .3s;
+    width: 0%;
+  }
+
+  /* Grid de seções */
+  .sections { display: grid; gap: 14px; grid-template-columns: 1fr; }
+  @media (min-width: 920px) {
+    .sections { grid-template-columns: 1fr 1fr; }
+  }
+
+  /* Card de seção */
+  section.card {
+    background: var(--bg-card);
+    border: 1px solid var(--line);
+    border-radius: var(--radius-lg);
+    overflow: hidden;
+  }
+  section.card.full { grid-column: 1 / -1; }
+  section.card > header {
+    background: var(--bg-elev);
+    padding: 12px 16px;
+    border-bottom: 1px solid var(--line);
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    cursor: pointer;
+    user-select: none;
+  }
+  section.card > header h2 {
+    margin: 0;
+    font-size: 14px;
+    font-weight: 600;
+    color: var(--gold);
+    letter-spacing: .03em;
+    text-transform: uppercase;
+    flex: 1;
+  }
+  .sec-icon {
+    width: 28px;
+    height: 28px;
+    flex-shrink: 0;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 6px;
+    background: var(--bg);
+    border: 1px solid var(--line-strong);
+    font-size: 14px;
+    color: var(--gold);
+  }
+  .sec-toggle {
+    color: var(--ink-mute);
+    font-size: 11px;
+    transition: transform .2s;
+  }
+  section.card.collapsed .sec-toggle { transform: rotate(-90deg); }
+  section.card.collapsed .rows { display: none; }
+  .sec-badge {
+    font: 600 10px var(--mono);
+    padding: 2px 7px;
+    border-radius: 999px;
+    color: var(--ink);
+    background: var(--bg);
+    border: 1px solid var(--line-strong);
+    margin-right: 4px;
+  }
+  .sec-badge.ok { color: var(--success); border-color: rgba(126, 208, 137, .3); }
+  .sec-badge.warn { color: var(--warn); border-color: rgba(232, 201, 122, .3); }
+  .sec-badge.err { color: var(--danger); border-color: rgba(255, 139, 139, .3); }
+
+  /* Linhas dentro do card */
+  .rows { padding: 4px 0; }
+  .row {
+    padding: 9px 16px;
+    border-top: 1px solid var(--line);
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    flex-wrap: wrap;
+    transition: background .15s;
+  }
+  .row:first-child { border-top: 0; }
+  .row:hover { background: rgba(255,255,255,.015); }
+  .row-label {
+    flex: 1 1 auto;
+    min-width: 140px;
+    font-size: 13px;
+    color: var(--ink-soft);
+  }
+  .row-value {
+    font: 500 12px var(--mono);
+    color: var(--ink);
+    text-align: right;
+    word-break: break-word;
+    max-width: 100%;
+  }
+  .row-detail {
+    flex: 1 1 100%;
+    margin: 4px 0 0;
+    font: 11px var(--mono);
+    color: var(--ink-mute);
+    word-break: break-word;
+    line-height: 1.5;
+    padding-left: 0;
+  }
+
+  /* Status badges nas linhas */
+  .badge {
+    font: 600 10px var(--mono);
+    padding: 3px 8px;
+    border-radius: 4px;
+    letter-spacing: .04em;
+    text-transform: uppercase;
+    white-space: nowrap;
+    flex-shrink: 0;
+  }
+  .badge.ok { background: rgba(126, 208, 137, .12); color: var(--success); }
+  .badge.warn { background: rgba(232, 201, 122, .14); color: var(--warn); }
+  .badge.err { background: rgba(255, 139, 139, .12); color: var(--danger); }
+  .badge.pend { background: var(--bg); color: var(--ink-mute); border: 1px dashed var(--line-strong); }
+  .badge.info { background: rgba(111, 138, 171, .14); color: var(--azure); }
+
+  /* Spinner */
+  .spinner {
+    width: 12px;
+    height: 12px;
+    border: 2px solid var(--line-strong);
+    border-top-color: var(--gold);
+    border-radius: 50%;
+    animation: spin .7s linear infinite;
+    display: inline-block;
+  }
+  @keyframes spin { to { transform: rotate(360deg); } }
+
+  /* Botões inline em rows */
+  .row-action {
+    margin-left: auto;
+    background: transparent;
+    border: 1px solid var(--line-strong);
+    color: var(--ink-soft);
+    padding: 3px 8px;
+    border-radius: 4px;
+    font: 500 11px var(--sans);
+    cursor: pointer;
+  }
+  .row-action:hover { border-color: var(--gold); color: var(--gold); }
+
+  /* Footer */
+  footer.diag-foot {
+    margin-top: 18px;
+    padding: 16px 0 24px;
+    border-top: 1px solid var(--line);
+    display: flex;
+    gap: 8px;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+  }
+  footer.diag-foot .foot-info {
+    font-size: 11px;
+    color: var(--ink-mute);
+  }
+  footer.diag-foot a { color: var(--gold); text-decoration: none; }
+  footer.diag-foot a:hover { text-decoration: underline; }
+
+  /* Toast */
+  #toast {
+    position: fixed;
+    bottom: 16px;
+    left: 50%;
+    transform: translateX(-50%) translateY(20px);
+    background: var(--bg-card);
+    border: 1px solid var(--gold);
+    color: var(--ink);
+    padding: 10px 16px;
+    border-radius: 8px;
+    font: 500 13px var(--sans);
+    opacity: 0;
+    transition: opacity .2s, transform .2s;
+    z-index: 1000;
+    pointer-events: none;
+    box-shadow: 0 8px 30px rgba(0,0,0,.4);
+  }
+  #toast.show { opacity: 1; transform: translateX(-50%) translateY(0); pointer-events: auto; }
+
+  /* Modal de relatório */
+  .report-modal {
+    position: fixed;
+    inset: 0;
+    background: rgba(0,0,0,.7);
+    display: none;
+    align-items: center;
+    justify-content: center;
+    z-index: 999;
+    padding: 16px;
+    backdrop-filter: blur(6px);
+  }
+  .report-modal.show { display: flex; }
+  .report-modal .card {
+    background: var(--bg-card);
+    border: 1px solid var(--gold);
+    border-radius: var(--radius-lg);
+    width: min(800px, 100%);
+    max-height: 90vh;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+  }
+  .report-modal header {
+    padding: 14px 18px;
+    border-bottom: 1px solid var(--line);
+    display: flex;
+    align-items: center;
+  }
+  .report-modal header h3 {
+    margin: 0;
+    font-family: var(--serif);
+    color: var(--gold);
+    flex: 1;
+    font-size: 18px;
+  }
+  .report-modal textarea {
+    flex: 1;
+    background: var(--bg);
+    color: var(--ink-soft);
+    border: 0;
+    padding: 16px;
+    font: 12px/1.5 var(--mono);
+    resize: none;
+    outline: none;
+  }
+  .report-modal footer {
+    padding: 12px 18px;
+    border-top: 1px solid var(--line);
+    display: flex;
+    gap: 8px;
+    justify-content: flex-end;
+  }
+
+  code {
+    font-family: var(--mono);
+    background: var(--bg);
+    padding: 1px 6px;
+    border-radius: 3px;
+    font-size: 11px;
+    border: 1px solid var(--line);
+  }
+  .empty-row {
+    padding: 14px 16px;
+    color: var(--ink-mute);
+    font-style: italic;
+    text-align: center;
+    font-size: 12px;
+  }
+</style>
+</head>
+<body>
+
+<div class="wrap">
+
+<header class="diag-head">
+  <div class="brand-mark">✠</div>
+  <div class="head-text">
+    <h1>Diagnóstico do Lectio</h1>
+    <p>Relatório completo do estado do app · <span id="diag-time">—</span></p>
+  </div>
+  <div class="head-actions">
+    <button class="btn" id="btn-rerun" title="Rodar tudo novamente">↻ Rodar de novo</button>
+    <button class="btn btn-primary" id="btn-export" title="Copiar relatório como texto">📋 Copiar relatório</button>
+  </div>
+</header>
+
+<!-- Resumo geral -->
+<div class="summary" id="summary">
+  <div class="sum-stat"><span class="sum-num ok" id="cnt-ok">0</span><span class="sum-label">OK</span></div>
+  <div class="sum-stat"><span class="sum-num warn" id="cnt-warn">0</span><span class="sum-label">Avisos</span></div>
+  <div class="sum-stat"><span class="sum-num err" id="cnt-err">0</span><span class="sum-label">Erros</span></div>
+  <div class="sum-stat"><span class="sum-num pend" id="cnt-pend">0</span><span class="sum-label">Pendentes</span></div>
+  <div style="margin-left:auto;font-size:11px;color:var(--ink-mute)">
+    Tempo de diagnóstico: <span id="diag-elapsed">—</span>
+  </div>
+  <div class="sum-progress"><div class="sum-progress-bar" id="prog-bar"></div></div>
+</div>
+
+<!-- Seções -->
+<div class="sections">
+
+  <!-- Sistema -->
+  <section class="card" data-sec="sys">
+    <header>
+      <span class="sec-icon">💻</span>
+      <h2>Sistema &amp; Navegador</h2>
+      <span class="sec-badge" id="badge-sys">—</span>
+      <span class="sec-toggle">▾</span>
+    </header>
+    <div class="rows" id="rows-sys"></div>
+  </section>
+
+  <!-- Service Worker -->
+  <section class="card" data-sec="sw">
+    <header>
+      <span class="sec-icon">⚙</span>
+      <h2>Service Worker &amp; Cache</h2>
+      <span class="sec-badge" id="badge-sw">—</span>
+      <span class="sec-toggle">▾</span>
+    </header>
+    <div class="rows" id="rows-sw"></div>
+  </section>
+
+  <!-- Storage -->
+  <section class="card" data-sec="storage">
+    <header>
+      <span class="sec-icon">💾</span>
+      <h2>Storage Local (este navegador)</h2>
+      <span class="sec-badge" id="badge-storage">—</span>
+      <span class="sec-toggle">▾</span>
+    </header>
+    <div class="rows" id="rows-storage"></div>
+  </section>
+
+  <!-- Módulos -->
+  <section class="card" data-sec="modules">
+    <header>
+      <span class="sec-icon">📦</span>
+      <h2>Módulos JavaScript</h2>
+      <span class="sec-badge" id="badge-modules">—</span>
+      <span class="sec-toggle">▾</span>
+    </header>
+    <div class="rows" id="rows-modules"></div>
+  </section>
+
+  <!-- Pacote / publicação -->
+  <section class="card" data-sec="package">
+    <header>
+      <span class="sec-icon">🧩</span>
+      <h2>Pacote &amp; Publicação</h2>
+      <span class="sec-badge" id="badge-package">—</span>
+      <span class="sec-toggle">▾</span>
+    </header>
+    <div class="rows" id="rows-package"></div>
+  </section>
+
+  <!-- UI / Acessibilidade -->
+  <section class="card" data-sec="a11y">
+    <header>
+      <span class="sec-icon">♿</span>
+      <h2>UI &amp; Acessibilidade</h2>
+      <span class="sec-badge" id="badge-a11y">—</span>
+      <span class="sec-toggle">▾</span>
+    </header>
+    <div class="rows" id="rows-a11y"></div>
+  </section>
+
+  <!-- Bíblias -->
+  <section class="card full" data-sec="bibles">
+    <header>
+      <span class="sec-icon">📖</span>
+      <h2>Traduções da Bíblia</h2>
+      <span class="sec-badge" id="badge-bibles">—</span>
+      <span class="sec-toggle">▾</span>
+    </header>
+    <div class="rows" id="rows-bibles"></div>
+  </section>
+
+  <!-- Referências -->
+  <section class="card" data-sec="refs">
+    <header>
+      <span class="sec-icon">🔗</span>
+      <h2>Referências &amp; Catecismo</h2>
+      <span class="sec-badge" id="badge-refs">—</span>
+      <span class="sec-toggle">▾</span>
+    </header>
+    <div class="rows" id="rows-refs"></div>
+  </section>
+
+  <!-- Firebase -->
+  <section class="card" data-sec="firebase">
+    <header>
+      <span class="sec-icon">🔥</span>
+      <h2>Firebase (login &amp; sync)</h2>
+      <span class="sec-badge" id="badge-firebase">—</span>
+      <span class="sec-toggle">▾</span>
+    </header>
+    <div class="rows" id="rows-firebase"></div>
+  </section>
+
+  <!-- Network -->
+  <section class="card" data-sec="net">
+    <header>
+      <span class="sec-icon">🌐</span>
+      <h2>Conectividade externa</h2>
+      <span class="sec-badge" id="badge-net">—</span>
+      <span class="sec-toggle">▾</span>
+    </header>
+    <div class="rows" id="rows-net"></div>
+  </section>
+
+  <!-- Performance -->
+  <section class="card" data-sec="perf">
+    <header>
+      <span class="sec-icon">⚡</span>
+      <h2>Performance</h2>
+      <span class="sec-badge" id="badge-perf">—</span>
+      <span class="sec-toggle">▾</span>
+    </header>
+    <div class="rows" id="rows-perf"></div>
+  </section>
+
+  <!-- Erros recentes -->
+  <section class="card full" data-sec="errors">
+    <header>
+      <span class="sec-icon">⚠</span>
+      <h2>Erros JavaScript capturados</h2>
+      <span class="sec-badge" id="badge-errors">—</span>
+      <span class="sec-toggle">▾</span>
+    </header>
+    <div class="rows" id="rows-errors"></div>
+  </section>
+
+</div>
+
+<!-- Footer com ações destrutivas -->
+<footer class="diag-foot">
+  <div class="foot-info">
+    <a href="./index.html">← Voltar pro Lectio</a>
+    &nbsp;·&nbsp;
+    Versão SW esperada: <code id="sw-version-expected">lectio-v67-primeira-experiencia</code>
+  </div>
+  <div style="display:flex;gap:8px;flex-wrap:wrap">
+    <button class="btn btn-danger" id="btn-clear-sw">⟲ Desregistrar SW + limpar cache</button>
+    <button class="btn btn-danger" id="btn-clear-storage">🗑 Apagar dados locais</button>
+  </div>
+</footer>
+
+</div>
+
+<div id="toast"></div>
+
+<!-- Modal do relatório -->
+<div class="report-modal" id="report-modal">
+  <div class="card">
+    <header>
+      <h3>📋 Relatório de diagnóstico</h3>
+      <button class="btn" id="btn-report-close">✕</button>
+    </header>
+    <textarea id="report-text" readonly></textarea>
+    <footer>
+      <button class="btn" id="btn-report-download">⬇ Baixar como .txt</button>
+      <button class="btn btn-primary" id="btn-report-copy">📋 Copiar tudo</button>
+    </footer>
+  </div>
+</div>
+
+<script>
+/* =========================================================
+   CAPTURA DE ERROS — registra antes de qualquer outra coisa
+   ========================================================= */
+const _errors = [];
+window.addEventListener("error", e => {
+  _errors.push({
+    type: "error",
+    when: new Date().toISOString(),
+    msg: e.message || (e.error && e.error.message) || "?",
+    file: e.filename ? `${e.filename}:${e.lineno||"?"}:${e.colno||"?"}` : "",
+    stack: (e.error && e.error.stack || "").slice(0, 500)
+  });
+});
+window.addEventListener("unhandledrejection", e => {
+  _errors.push({
+    type: "promise",
+    when: new Date().toISOString(),
+    msg: (e.reason && e.reason.message) || String(e.reason || "?"),
+    stack: (e.reason && e.reason.stack || "").slice(0, 500)
+  });
+});
+
+/* =========================================================
+   ESTADO do diagnóstico
+   ========================================================= */
+const EXPECTED_SW_CACHE = "lectio-v67-primeira-experiencia";
+const CORE_FILES = [
+  "./index.html", "./diag.html", "./manifest.json", "./sw.js", "./css/style.css",
+  "./js/main.js", "./js/reader.js", "./js/search.js", "./js/storage.js", "./js/crypto.js",
+  "./js/gemini.js", "./js/firebase-config.js", "./js/firebase-config.example.js",
+  "./livros.json", "./livros-ms.json", "./livros-en.json", "./livros-leandro.json", "./livros-pastoral.json",
+  "./referencias/cruzadas.json", "./referencias/catecismo.json", "./referencias/catecismo-texto.json"
+];
+const BIBLE_SOURCES = [
+  { id: "pt", name: "Ave-Maria", listFile: "./livros.json", dataDir: "./dados" },
+  { id: "ms", name: "Pe. Matos Soares (1956)", listFile: "./livros-ms.json", dataDir: "./dados-ms" },
+  { id: "en", name: "Douay-Rheims", listFile: "./livros-en.json", dataDir: "./dados-en" },
+  { id: "leandro", name: "Ave-Maria / LeandroLFE", listFile: "./livros-leandro.json", dataDir: "./dados-leandro" },
+  { id: "pastoral", name: "Bíblia Pastoral", listFile: "./livros-pastoral.json", dataDir: "./dados-pastoral" }
+];
+
+const stats = { ok: 0, warn: 0, err: 0, pend: 0 };
+const allRows = []; // p/ exportar relatório
+
+function bumpStat(status) {
+  if (status === "ok")   stats.ok++;
+  else if (status === "warn") stats.warn++;
+  else if (status === "err")  stats.err++;
+  else stats.pend++;
+  updateSummary();
+}
+
+function updateSummary() {
+  document.getElementById("cnt-ok").textContent   = stats.ok;
+  document.getElementById("cnt-warn").textContent = stats.warn;
+  document.getElementById("cnt-err").textContent  = stats.err;
+  document.getElementById("cnt-pend").textContent = stats.pend;
+  const total = stats.ok + stats.warn + stats.err + stats.pend;
+  const done  = stats.ok + stats.warn + stats.err;
+  const pct = total ? Math.round(done/total*100) : 0;
+  document.getElementById("prog-bar").style.width = pct + "%";
+}
+
+function fmt(label, status, value, detail) {
+  bumpStat(status);
+  return { label, status, value, detail };
+}
+
+function addRow(secId, row) {
+  allRows.push({ section: secId, ...row });
+  const c = document.getElementById("rows-" + secId);
+  if (!c) return;
+  const div = document.createElement("div");
+  div.className = "row";
+
+  const label = document.createElement("span");
+  label.className = "row-label";
+  label.textContent = row.label;
+  div.appendChild(label);
+
+  const badge = document.createElement("span");
+  badge.className = "badge " + row.status;
+  const labelMap = { ok: "OK", warn: "AVISO", err: "ERRO", pend: "—", info: "INFO" };
+  badge.textContent = labelMap[row.status] || row.status.toUpperCase();
+  div.appendChild(badge);
+
+  if (row.value) {
+    const v = document.createElement("span");
+    v.className = "row-value";
+    v.textContent = row.value;
+    div.appendChild(v);
+  }
+
+  if (row.detail) {
+    const d = document.createElement("div");
+    d.className = "row-detail";
+    d.textContent = row.detail;
+    div.appendChild(d);
+  }
+
+  if (row.action) {
+    const a = document.createElement("button");
+    a.className = "row-action";
+    a.textContent = row.action.label;
+    a.onclick = row.action.fn;
+    div.appendChild(a);
+  }
+
+  c.appendChild(div);
+}
+
+function setBadge(secId, txt, kind) {
+  const el = document.getElementById("badge-" + secId);
+  el.textContent = txt;
+  el.className = "sec-badge " + (kind || "");
+}
+
+function clearSection(secId) {
+  const c = document.getElementById("rows-" + secId);
+  if (c) c.innerHTML = "";
+}
+
+function emptyRow(secId, msg) {
+  const c = document.getElementById("rows-" + secId);
+  c.innerHTML = `<div class="empty-row">${msg}</div>`;
+}
+
+/* =========================================================
+   COLAPSAR seções
+   ========================================================= */
+document.querySelectorAll("section.card > header").forEach(h => {
+  h.addEventListener("click", () => {
+    h.parentElement.classList.toggle("collapsed");
+  });
+});
+
+/* =========================================================
+   TOAST
+   ========================================================= */
+function toast(msg, ms = 2400) {
+  const t = document.getElementById("toast");
+  t.textContent = msg;
+  t.classList.add("show");
+  clearTimeout(t._h);
+  t._h = setTimeout(() => t.classList.remove("show"), ms);
+}
+
+/* =========================================================
+   HELPERS de teste
+   ========================================================= */
+function bytes(n) {
+  if (n == null) return "—";
+  if (n < 1024) return n + " B";
+  if (n < 1024*1024) return (n/1024).toFixed(1) + " KB";
+  return (n/1024/1024).toFixed(2) + " MB";
+}
+
+async function timed(fn) {
+  const t0 = performance.now();
+  try {
+    const v = await fn();
+    return { v, ms: performance.now() - t0, err: null };
+  } catch (e) {
+    return { v: null, ms: performance.now() - t0, err: e };
+  }
+}
+
+async function fetchInfo(url) {
+  const t0 = performance.now();
+  try {
+    const r = await fetch(url, { cache: "no-store" });
+    if (!r.ok) {
+      return { ok: false, status: r.status, ms: Math.round(performance.now() - t0), err: `HTTP ${r.status}` };
+    }
+    const blob = await r.blob();
+    return { ok: true, status: 200, ms: Math.round(performance.now() - t0), size: blob.size };
+  } catch (e) {
+    return { ok: false, status: 0, ms: Math.round(performance.now() - t0), err: e.message };
+  }
+}
+
+async function fetchText(url) {
+  const t0 = performance.now();
+  try {
+    const r = await fetch(url, { cache: "no-store" });
+    const ms = Math.round(performance.now() - t0);
+    if (!r.ok) return { ok: false, status: r.status, ms, err: `HTTP ${r.status}` };
+    const text = await r.text();
+    return { ok: true, text, size: text.length, ms };
+  } catch (e) {
+    return { ok: false, status: 0, ms: Math.round(performance.now() - t0), err: e.message };
+  }
+}
+
+async function fetchJson(url) {
+  const t0 = performance.now();
+  const r = await fetchText(url);
+  const ms = Math.round(performance.now() - t0);
+  if (!r.ok) return { ok: false, status: r.status, ms, err: r.err };
+  try {
+    const data = JSON.parse(r.text);
+    return { ok: true, data, size: r.size, ms };
+  } catch (e) {
+    return { ok: false, ms, err: "JSON inválido: " + e.message };
+  }
+}
+
+async function mapLimit(items, limit, worker) {
+  const out = new Array(items.length);
+  let i = 0;
+  async function run() {
+    while (i < items.length) {
+      const idx = i++;
+      out[idx] = await worker(items[idx], idx);
+    }
+  }
+  await Promise.all(Array.from({ length: Math.min(limit, items.length) }, run));
+  return out;
+}
+
+function normalizeRefKey(key) {
+  const m = String(key || "").match(/^([^/]+)\/(\d+)\/(\d+)$/);
+  return m ? { livro: m[1], cap: Number(m[2]), v: Number(m[3]) } : null;
+}
+
+function cssEscapeIdent(v) {
+  if (window.CSS && typeof CSS.escape === "function") return CSS.escape(v);
+  return String(v || "").replace(/[^a-zA-Z0-9_-]/g, "\\$&");
+}
+
+async function buildCanonicalIndex() {
+  const lists = {};
+  for (const src of BIBLE_SOURCES) {
+    const list = await fetchJson(src.listFile);
+    if (list.ok && Array.isArray(list.data)) lists[src.id] = list.data;
+  }
+  const pt = lists.pt || [];
+  const bookCaps = new Map(pt.map(b => [b.id, b.caps || 0]));
+  return { lists, pt, bookCaps };
+}
+
+/* =========================================================
+   TESTES POR SEÇÃO
+   ========================================================= */
+
+async function runSystem() {
+  setBadge("sys", "rodando…", "");
+  const ua = navigator.userAgent;
+  const isMobile = /Mobile|Android|iPhone|iPad/i.test(ua);
+  const conn = navigator.connection || navigator.mozConnection || navigator.webkitConnection;
+
+  addRow("sys", fmt("URL atual", "info", location.href.length > 60 ? location.href.slice(0,57)+"…" : location.href, location.href));
+  addRow("sys", fmt("Protocolo", location.protocol === "https:" || location.hostname === "localhost" ? "ok" : "warn",
+    location.protocol,
+    location.protocol === "file:" ? "Service Worker e fetch não funcionam em file://" :
+    location.protocol !== "https:" && location.hostname !== "localhost" ? "PWA precisa de HTTPS" : "Service Worker e PWA suportados"));
+  addRow("sys", fmt("Online", navigator.onLine ? "ok" : "err", String(navigator.onLine), ""));
+  if (conn) {
+    addRow("sys", fmt("Conexão", conn.effectiveType === "4g" || conn.effectiveType === "5g" ? "ok" : "warn",
+      conn.effectiveType || "—", `downlink: ${conn.downlink || "—"}Mbps · rtt: ${conn.rtt || "—"}ms`));
+  }
+  addRow("sys", fmt("Plataforma", "info", isMobile ? "Mobile" : "Desktop", ua.slice(0, 90) + (ua.length > 90 ? "…" : "")));
+  addRow("sys", fmt("Tela", "info", `${screen.width}×${screen.height}`, `pixel ratio: ${window.devicePixelRatio}`));
+  addRow("sys", fmt("Viewport", "info", `${window.innerWidth}×${window.innerHeight}`, `orientação: ${screen.orientation?.type || "—"}`));
+  addRow("sys", fmt("Idioma", "info", navigator.language, `langs preferidos: ${(navigator.languages||[]).join(", ")}`));
+  addRow("sys", fmt("Tema preferido", "info",
+    matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light", ""));
+  addRow("sys", fmt("Cookies", navigator.cookieEnabled ? "ok" : "err", String(navigator.cookieEnabled), ""));
+  addRow("sys", fmt("LocalStorage", typeof localStorage !== "undefined" ? "ok" : "err",
+    typeof localStorage !== "undefined" ? "disponível" : "indisponível", ""));
+  addRow("sys", fmt("IndexedDB", typeof indexedDB !== "undefined" ? "ok" : "warn",
+    typeof indexedDB !== "undefined" ? "disponível" : "indisponível", ""));
+
+  // Storage estimate
+  if (navigator.storage && navigator.storage.estimate) {
+    try {
+      const est = await navigator.storage.estimate();
+      const pct = est.quota ? (est.usage/est.quota*100).toFixed(2) : 0;
+      addRow("sys", fmt("Quota de storage", "info",
+        `${bytes(est.usage)} de ${bytes(est.quota)}`, `${pct}% usado`));
+    } catch (e) {}
+  }
+
+  addRow("sys", fmt("Viewport", "info", `${innerWidth}×${innerHeight}px · DPR ${devicePixelRatio || 1}`,
+    `orientação: ${screen.orientation?.type || "—"} · tela: ${screen.width}×${screen.height}`));
+  addRow("sys", fmt("Idioma / timezone", "info", `${navigator.language || "—"} · ${Intl.DateTimeFormat().resolvedOptions().timeZone || "—"}`,
+    `online: ${navigator.onLine ? "sim" : "não"}`));
+  if (navigator.hardwareConcurrency || navigator.deviceMemory) {
+    addRow("sys", fmt("Hardware informado", "info",
+      `${navigator.hardwareConcurrency || "?"} thread(s) · ${navigator.deviceMemory || "?"} GB`,
+      "Valores aproximados informados pelo navegador"));
+  }
+
+  setBadge("sys", "✓", "ok");
+}
+
+async function runServiceWorker() {
+  setBadge("sw", "rodando…", "");
+  if (!("serviceWorker" in navigator)) {
+    addRow("sw", fmt("Service Worker", "err", "não suportado", "Navegador antigo"));
+    setBadge("sw", "✗", "err");
+    return;
+  }
+
+  const regs = await navigator.serviceWorker.getRegistrations();
+  if (!regs.length) {
+    addRow("sw", fmt("Registro", "warn", "não registrado",
+      "Será registrado ao abrir index.html. Se já abriu o app e isso ainda diz 'não registrado', há algum erro."));
+  } else {
+    for (const r of regs) {
+      const states = [];
+      if (r.installing) states.push("installing");
+      if (r.waiting) states.push("waiting");
+      if (r.active) states.push(`active (${r.active.state})`);
+      addRow("sw", fmt("Registro", "ok", states.join(" · ") || "?", `escopo: ${r.scope}`));
+    }
+  }
+
+  // Caches
+  if ("caches" in window) {
+    const keys = await caches.keys();
+    if (!keys.length) {
+      addRow("sw", fmt("Caches", "pend", "(vazio)", "Sem cache do app — primeira visita ou cache foi limpo"));
+    } else {
+      addRow("sw", fmt("Caches existentes", keys.includes("lectio-v67-primeira-experiencia") ? "ok" : "warn",
+        keys.length + " cache(s)",
+        keys.join(" · ") + (!keys.includes("lectio-v67-primeira-experiencia") ? "  ·  ⚠ versão atual esperada NÃO está em cache" : "")));
+
+      // Calcular tamanho do cache mais novo
+      const main = keys.find(k => k.includes("lectio")) || keys[0];
+      try {
+        const c = await caches.open(main);
+        const reqs = await c.keys();
+        let totalBytes = 0;
+        for (const req of reqs) {
+          const resp = await c.match(req);
+          if (resp) {
+            const blob = await resp.clone().blob();
+            totalBytes += blob.size;
+          }
+        }
+        addRow("sw", fmt(`Cache "${main}"`, "ok", `${reqs.length} arquivos · ${bytes(totalBytes)}`, ""));
+      } catch (e) {
+        addRow("sw", fmt(`Cache "${main}"`, "err", "erro ao ler", e.message));
+      }
+    }
+  }
+
+  const swText = await fetchText("./sw.js");
+  if (swText.ok) {
+    const nameMatch = swText.text.match(/CACHE_NAME\s*=\s*["']([^"']+)/);
+    const shellMatch = swText.text.match(/const\s+SHELL\s*=\s*\[([\s\S]*?)\]/);
+    const shellBlock = shellMatch ? shellMatch[1] : "";
+    addRow("sw", fmt("CACHE_NAME em sw.js", nameMatch?.[1] === EXPECTED_SW_CACHE ? "ok" : "warn",
+      nameMatch?.[1] || "não encontrado", `esperado: ${EXPECTED_SW_CACHE}`));
+    addRow("sw", fmt("firebase-config no pré-cache", shellBlock.includes("firebase-config.js") ? "ok" : "warn",
+      shellBlock.includes("firebase-config.js") ? "incluído" : "ausente",
+      "Necessário para abrir offline depois da primeira instalação"));
+    addRow("sw", fmt("diag.html no pré-cache", shellBlock.includes("diag.html") ? "ok" : "info",
+      shellBlock.includes("diag.html") ? "incluído" : "não incluído", "Útil para suporte offline"));
+  } else {
+    addRow("sw", fmt("sw.js", "err", swText.err, "Não foi possível ler o Service Worker"));
+  }
+
+  // Manifest
+  const m = await fetchJson("./manifest.json");
+  if (m.ok) {
+    const installable = m.data.start_url && m.data.display && m.data.icons?.length;
+    addRow("sw", fmt("manifest.json", installable ? "ok" : "warn",
+      `${m.data.name || "—"}`,
+      `display: ${m.data.display} · ícones: ${m.data.icons?.length || 0} · start_url: ${m.data.start_url}`));
+  } else {
+    addRow("sw", fmt("manifest.json", "err", "não encontrado", m.err));
+  }
+
+  // Beforeinstallprompt — capturado se evento dispará
+  addRow("sw", fmt("Pode instalar?", "info",
+    matchMedia("(display-mode: standalone)").matches ? "já instalado" : "depende de critérios PWA",
+    "Chrome só mostra 'instalar' se SW + manifest válidos + HTTPS + uso prévio"));
+
+  setBadge("sw", regs.length ? "✓" : "⚠", regs.length ? "ok" : "warn");
+}
+
+async function runStorage() {
+  setBadge("storage", "rodando…", "");
+
+  if (typeof localStorage === "undefined") {
+    addRow("storage", fmt("LocalStorage", "err", "indisponível", ""));
+    setBadge("storage", "✗", "err");
+    return;
+  }
+
+  const keys = Object.keys(localStorage).filter(k => k.startsWith("lectio."));
+  if (!keys.length) {
+    addRow("storage", fmt("Dados do Lectio", "pend", "vazio",
+      "Nenhuma marcação, nota ou config salva ainda"));
+  } else {
+    let totalBytes = 0;
+    for (const k of keys) {
+      const v = localStorage.getItem(k) || "";
+      totalBytes += k.length + v.length;
+      let info = "";
+      try {
+        const parsed = JSON.parse(v);
+        if (k === "lectio.hl") info = `${Object.keys(parsed).length} versículos marcados`;
+        else if (k === "lectio.notes") info = `${Object.keys(parsed).length} notas`;
+        else if (k === "lectio.prefs") info = JSON.stringify(parsed).slice(0, 80);
+        else if (k === "lectio.progress") info = `${parsed?.livro || "?"} cap. ${parsed?.cap || "?"}`;
+        else if (k === "lectio.keyVault") info = `chave Gemini cifrada · modelo ${parsed?.model || "?"}`;
+        else info = bytes(v.length);
+      } catch { info = bytes(v.length) + " (raw)"; }
+      addRow("storage", fmt(k, "ok", bytes(v.length), info));
+    }
+    addRow("storage", fmt("Total", "info", bytes(totalBytes), `${keys.length} chaves`));
+  }
+
+  // Outros dados não-Lectio
+  const otherKeys = Object.keys(localStorage).filter(k => !k.startsWith("lectio."));
+  if (otherKeys.length) {
+    addRow("storage", fmt("Outras chaves no localStorage", "info",
+      otherKeys.length + " keys", otherKeys.join(", ").slice(0, 200)));
+  }
+
+  setBadge("storage", "✓", "ok");
+}
+
+async function runModules() {
+  setBadge("modules", "rodando…", "");
+  let moduleErr = 0;
+
+  const mods = [
+    { name: "firebase-config.js", url: "./js/firebase-config.js" },
+    { name: "firebase-config.example.js", url: "./js/firebase-config.example.js" },
+    { name: "main.js (só fetch, não importa)", url: "./js/main.js", noImport: true },
+    { name: "storage.js", url: "./js/storage.js" },
+    { name: "crypto.js", url: "./js/crypto.js" },
+    { name: "reader.js", url: "./js/reader.js" },
+    { name: "search.js", url: "./js/search.js" },
+    { name: "gemini.js", url: "./js/gemini.js" }
+  ];
+
+  for (const m of mods) {
+    if (m.noImport) {
+      const f = await fetchInfo(m.url);
+      if (f.ok) {
+        addRow("modules", fmt(m.name, "ok", `${bytes(f.size)} · ${f.ms}ms`, m.url));
+      } else {
+        addRow("modules", fmt(m.name, "err", f.err, m.url));
+      }
+    } else {
+      const t0 = performance.now();
+      try {
+        const mod = await import(m.url + "?t=" + Date.now());
+        const ms = Math.round(performance.now() - t0);
+        const exports = Object.keys(mod);
+        addRow("modules", fmt(m.name, "ok", `${exports.length} exports · ${ms}ms`,
+          exports.slice(0, 10).join(", ") + (exports.length > 10 ? "…" : "")));
+
+        // Casos especiais — mostrar info do firebase-config
+        if (m.name === "firebase-config.js" && "FIREBASE_READY" in mod) {
+          window._fbModule = mod;
+        }
+      } catch (e) {
+        moduleErr++;
+        const ms = Math.round(performance.now() - t0);
+        addRow("modules", fmt(m.name, "err", `falhou após ${ms}ms`, e.message));
+      }
+    }
+  }
+
+  setBadge("modules", moduleErr ? "✗" : "✓", moduleErr ? "err" : "ok");
+}
+
+async function runPackage() {
+  setBadge("package", "rodando…", "");
+
+  let ok = 0, warn = 0, err = 0, totalSize = 0;
+  const results = await mapLimit(CORE_FILES, 8, async f => ({ f, r: await fetchInfo(f) }));
+  for (const { f, r } of results) {
+    if (r.ok) { ok++; totalSize += r.size || 0; }
+    else { err++; addRow("package", fmt(`Arquivo essencial: ${f}`, "err", r.err, "Inclua este arquivo na publicação")); }
+  }
+  addRow("package", fmt("Arquivos essenciais", err ? "err" : "ok", `${ok}/${CORE_FILES.length} encontrados`, `${bytes(totalSize)} somados nos arquivos essenciais testados`));
+
+  const dup = await fetchInfo("./lectio/referencias/cruzadas.json");
+  if (dup.ok) {
+    warn++;
+    const root = await fetchInfo("./referencias/cruzadas.json");
+    addRow("package", fmt("Pasta duplicada /lectio", "warn", "detectada", `lectio/referencias/cruzadas.json existe (${bytes(dup.size)}). Raiz: ${root.ok ? bytes(root.size) : root.err}. Remova a pasta duplicada antes do deploy para evitar publicar base antiga.`));
+  } else {
+    addRow("package", fmt("Pasta duplicada /lectio", "ok", "não detectada", "Bom sinal para publicação limpa"));
+  }
+
+  const cleanup = await fetchInfo("./scripts/limpar_publicacao_v30.py");
+  if (!cleanup.ok) warn++;
+  addRow("package", fmt("Script de limpeza citado nos relatórios", cleanup.ok ? "info" : "warn", cleanup.ok ? "presente" : "ausente", cleanup.ok ? `scripts/limpar_publicacao_v30.py · ${bytes(cleanup.size)}` : "Se os relatórios mandam rodar este script, ele não está no pacote publicado."));
+
+  const reports = [
+    "./relatorios/CHECKUP_GERAL_V30.md",
+    "./relatorios/RELATORIO_PATCH_V30.md",
+    "./relatorios/lectio_audit_20260430-155121.md"
+  ];
+  const reportHits = await mapLimit(reports, 3, async f => ({ f, r: await fetchText(f) }));
+  for (const { f, r } of reportHits) {
+    if (!r.ok) continue;
+    const saysFixed = /firebase-config\.js[\s\S]{0,160}(corrigido|ok|validado)/i.test(r.text);
+    if (saysFixed) warn++;
+    addRow("package", fmt(`Relatório: ${f.split("/").pop()}`, saysFixed ? "warn" : "info", `${bytes(r.size)} · ${r.ms}ms`, saysFixed ? "O relatório parece dizer que firebase-config.js foi corrigido; confira se isso combina com o arquivo real publicado." : "Relatório encontrado"));
+  }
+
+  setBadge("package", err ? "✗" : (warn ? "⚠" : "✓"), err ? "err" : (warn ? "warn" : "ok"));
+}
+
+async function runA11y() {
+  setBadge("a11y", "rodando…", "");
+  let anyWarn = false;
+  const page = await fetchText("./index.html");
+  if (!page.ok) {
+    addRow("a11y", fmt("index.html", "err", page.err, "Não foi possível analisar a UI"));
+    setBadge("a11y", "✗", "err");
+    return;
+  }
+  const doc = new DOMParser().parseFromString(page.text, "text/html");
+  const modals = [...doc.querySelectorAll(".modal")];
+  const dialogsOk = modals.filter(m => m.getAttribute("role") === "dialog" && m.getAttribute("aria-modal") === "true" && m.getAttribute("aria-labelledby")).length;
+  if (dialogsOk !== modals.length) anyWarn = true;
+  addRow("a11y", fmt("Modais com semântica de diálogo", dialogsOk === modals.length ? "ok" : "warn", `${dialogsOk}/${modals.length}`, "Esperado: role=dialog, aria-modal=true e título associado"));
+
+  const closeBtns = [...doc.querySelectorAll("[data-close]")];
+  const closeOk = closeBtns.filter(b => b.getAttribute("aria-label") || b.textContent.trim().length > 1).length;
+  if (closeOk !== closeBtns.length) anyWarn = true;
+  addRow("a11y", fmt("Botões de fechar com nome acessível", closeOk === closeBtns.length ? "ok" : "warn", `${closeOk}/${closeBtns.length}`, "Leitores de tela não devem anunciar só 'x'"));
+
+  const colorDots = [...doc.querySelectorAll(".color-dot")];
+  const colorOk = colorDots.filter(b => b.getAttribute("aria-label") || b.getAttribute("title")).length;
+  if (colorOk !== colorDots.length) anyWarn = true;
+  addRow("a11y", fmt("Botões de cor com aria-label", colorOk === colorDots.length ? "ok" : "warn", `${colorOk}/${colorDots.length}`, "Marcação por cor precisa de nome além da cor visual"));
+
+  const ids = new Set([...doc.querySelectorAll("[id]")].map(el => el.id));
+  const labels = [...doc.querySelectorAll("label[for]")];
+  const brokenLabels = labels.filter(l => !ids.has(l.getAttribute("for")));
+  if (brokenLabels.length) anyWarn = true;
+  addRow("a11y", fmt("Labels vinculados", brokenLabels.length ? "warn" : "ok", `${labels.length} label(s)`, brokenLabels.length ? `Labels sem alvo: ${brokenLabels.map(l => l.getAttribute("for")).join(", ")}` : "Todos os label[for] apontam para id existente"));
+
+  const inputs = [...doc.querySelectorAll("input, select, textarea")].filter(el => el.type !== "hidden");
+  const named = inputs.filter(el => el.getAttribute("aria-label") || el.getAttribute("aria-labelledby") || doc.querySelector(`label[for="${cssEscapeIdent(el.id || "")}"]`) || el.closest("label") || el.getAttribute("placeholder"));
+  if (named.length !== inputs.length) anyWarn = true;
+  addRow("a11y", fmt("Campos com nome/ajuda", named.length === inputs.length ? "ok" : "warn", `${named.length}/${inputs.length}`, "Preferir label real; placeholder sozinho é aceitável só como aviso"));
+
+  const css = await fetchText("./css/style.css");
+  if (css.ok) {
+    if (!/\.verse:focus-visible/.test(css.text)) anyWarn = true;
+    addRow("a11y", fmt("Foco visível em versículos", /\.verse:focus-visible/.test(css.text) ? "ok" : "warn", /\.verse:focus-visible/.test(css.text) ? "sim" : "não", "Necessário para navegação por teclado"));
+    addRow("a11y", fmt("Classe .sr-only", /\.sr-only/.test(css.text) ? "ok" : "info", /\.sr-only/.test(css.text) ? "presente" : "ausente", "Útil para labels visuais ocultos"));
+  }
+  const reader = await fetchText("./js/reader.js");
+  if (reader.ok) {
+    if (!(/tabindex="0"/.test(reader.text) && /role="button"/.test(reader.text))) anyWarn = true;
+    addRow("a11y", fmt("Versículos focáveis", /tabindex="0"/.test(reader.text) && /role="button"/.test(reader.text) ? "ok" : "warn", /tabindex="0"/.test(reader.text) ? "sim" : "não", "Permite selecionar com teclado"));
+  }
+  const main = await fetchText("./js/main.js");
+  if (main.ok) {
+    if (!(/trapModalFocus/.test(main.text) && /e\.key === "Escape"/.test(main.text))) anyWarn = true;
+    addRow("a11y", fmt("ESC / focus trap em modais", /trapModalFocus/.test(main.text) && /e\.key === "Escape"/.test(main.text) ? "ok" : "warn", /trapModalFocus/.test(main.text) ? "implementado" : "não detectado", "Evita que o foco escape para trás do modal"));
+  }
+
+  setBadge("a11y", anyWarn ? "⚠" : "✓", anyWarn ? "warn" : "ok");
+}
+
+async function runBibles() {
+  setBadge("bibles", "rodando…", "");
+
+  let anyErr = false, anyWarn = false;
+  for (const src of BIBLE_SOURCES) {
+    const list = await fetchJson(src.listFile);
+    if (!list.ok || !Array.isArray(list.data)) {
+      anyErr = true;
+      addRow("bibles", fmt(`${src.name} (${src.id})`, "err", list.err || "lista inválida", src.listFile));
+      continue;
+    }
+
+    const livros = list.data;
+    const totalEsperado = livros.reduce((sum, b) => sum + (Number(b.caps) || 0), 0);
+    const jobs = [];
+    for (const b of livros) {
+      for (let cap = 1; cap <= (Number(b.caps) || 0); cap++) jobs.push({ livro: b, cap, url: `${src.dataDir}/${b.id}/${cap}.json` });
+    }
+
+    let okCount = 0, totalBytes = 0, invalidJson = 0, emptyCaps = 0;
+    const missing = [];
+    const samples = [];
+    const t0 = performance.now();
+    await mapLimit(jobs, 18, async job => {
+      const r = await fetchJson(job.url);
+      if (r.ok) {
+        okCount++;
+        totalBytes += r.size || 0;
+        const arr = Array.isArray(r.data) ? r.data : (r.data?.versiculos || r.data?.verses || []);
+        if (!Array.isArray(arr)) invalidJson++;
+        else if (arr.length === 0) emptyCaps++;
+        if (samples.length < 3 && Array.isArray(arr) && arr.length) {
+          samples.push(`${job.livro.id}/${job.cap}: ${arr.length} verso(s)`);
+        }
+      } else {
+        if (/JSON inválido/i.test(r.err || "")) invalidJson++;
+        missing.push(`${job.livro.id}/${job.cap} (${r.err})`);
+      }
+    });
+    const ms = Math.round(performance.now() - t0);
+    const status = okCount === totalEsperado && !invalidJson && !emptyCaps ? "ok" : (okCount === 0 || invalidJson ? "err" : "warn");
+    if (status === "err") anyErr = true;
+    if (status === "warn") anyWarn = true;
+    addRow("bibles", fmt(`${src.name} (${src.id})`, status,
+      `${livros.length} livros · ${okCount}/${totalEsperado} capítulos · ${bytes(totalBytes)}`,
+      [
+        `verificação completa em ${ms}ms · pasta: ${src.dataDir}`,
+        missing.length ? `faltando (${missing.length}): ${missing.slice(0, 14).join(" · ")}${missing.length > 14 ? " · …" : ""}` : "nenhum capítulo faltando detectado",
+        invalidJson ? `JSON inválido/estrutura inesperada: ${invalidJson}` : "JSON dos capítulos com estrutura reconhecida",
+        emptyCaps ? `capítulos vazios: ${emptyCaps}` : "sem capítulos vazios detectados",
+        samples.length ? `amostras: ${samples.join(" · ")}` : ""
+      ].filter(Boolean).join("\n")));
+  }
+
+  setBadge("bibles", anyErr ? "✗" : (anyWarn ? "⚠" : "✓"), anyErr ? "err" : (anyWarn ? "warn" : "ok"));
+}
+
+async function runRefs() {
+  setBadge("refs", "rodando…", "");
+  const { bookCaps } = await buildCanonicalIndex();
+  let anyErr = false, anyWarn = false;
+
+  const refs = await fetchJson("./referencias/cruzadas.json");
+  if (refs.ok) {
+    const entries = Object.entries(refs.data || {});
+    let badOrigin = 0, badTarget = 0, totalTargets = 0;
+    for (const [origin, targets] of entries) {
+      const o = normalizeRefKey(origin);
+      if (!o || !bookCaps.has(o.livro) || o.cap < 1 || o.cap > bookCaps.get(o.livro)) badOrigin++;
+      const arr = Array.isArray(targets) ? targets : [];
+      totalTargets += arr.length;
+      for (const t of arr) {
+        const tk = typeof t === "string" ? t : (t?.key || t?.ref || t?.id || "");
+        const n = normalizeRefKey(tk);
+        if (!n || !bookCaps.has(n.livro) || n.cap < 1 || n.cap > bookCaps.get(n.livro)) badTarget++;
+      }
+    }
+    const status = badOrigin || badTarget ? "warn" : "ok";
+    if (status === "warn") anyWarn = true;
+    addRow("refs", fmt("Referências cruzadas", status,
+      `${entries.length} origens · ${totalTargets} vínculos · ${bytes(refs.size)}`,
+      badOrigin || badTarget ? `Origens inválidas: ${badOrigin} · destinos inválidos: ${badTarget}` : `${refs.ms}ms · formato de origem/destino consistente`));
+  } else {
+    anyErr = true;
+    addRow("refs", fmt("Referências cruzadas", "err", refs.err || "falhou", "./referencias/cruzadas.json"));
+  }
+
+  const cic = await fetchJson("./referencias/catecismo.json");
+  const cicText = await fetchJson("./referencias/catecismo-texto.json");
+  if (cic.ok) {
+    const entries = Object.entries(cic.data || {});
+    let links = 0, missingText = 0, badOrigin = 0;
+    for (const [origin, nums] of entries) {
+      const o = normalizeRefKey(origin);
+      if (!o || !bookCaps.has(o.livro) || o.cap < 1 || o.cap > bookCaps.get(o.livro)) badOrigin++;
+      const arr = Array.isArray(nums) ? nums : [];
+      links += arr.length;
+      if (cicText.ok) {
+        for (const item of arr) {
+          const num = String(item?.num || item || "");
+          if (num && !cicText.data?.[num]) missingText++;
+        }
+      }
+    }
+    const status = badOrigin || missingText ? "warn" : "ok";
+    if (status === "warn") anyWarn = true;
+    addRow("refs", fmt("Catecismo (índice)", status,
+      `${entries.length} versículos · ${links} vínculos · ${bytes(cic.size)}`,
+      `origens inválidas: ${badOrigin} · textos faltando: ${missingText}`));
+  } else {
+    anyErr = true;
+    addRow("refs", fmt("Catecismo (índice)", "err", cic.err || "falhou", "./referencias/catecismo.json"));
+  }
+
+  if (cicText.ok) {
+    const paras = Object.keys(cicText.data || {}).length;
+    const empty = Object.entries(cicText.data || {}).filter(([, v]) => !String(v || "").trim()).length;
+    addRow("refs", fmt("Catecismo (textos)", empty ? "warn" : "ok", `${paras} parágrafo(s) · ${bytes(cicText.size)}`, empty ? `parágrafos vazios: ${empty}` : `${cicText.ms}ms · textos disponíveis`));
+    if (empty) anyWarn = true;
+  } else {
+    anyErr = true;
+    addRow("refs", fmt("Catecismo (textos)", "err", cicText.err || "falhou", "./referencias/catecismo-texto.json"));
+  }
+
+  setBadge("refs", anyErr ? "✗" : (anyWarn ? "⚠" : "✓"), anyErr ? "err" : (anyWarn ? "warn" : "ok"));
+}
+
+async function runFirebase() {
+  setBadge("firebase", "rodando…", "");
+
+  const fb = window._fbModule;
+  if (!fb) {
+    addRow("firebase", fmt("Módulo firebase-config", "err",
+      "não importado",
+      "O módulo Modules deve ter falhado — veja seção acima"));
+    setBadge("firebase", "✗", "err");
+    return;
+  }
+
+  const ready = !!fb.FIREBASE_READY;
+  const fbStatus = fb.FIREBASE_STATUS || null;
+  addRow("firebase", fmt("FIREBASE_READY", ready ? "ok" : "warn",
+    String(ready),
+    fbStatus?.message || (ready ? "Config preenchida — login Google ativo"
+          : "Config com placeholder ou inválida — modo offline. Edite js/firebase-config.js.")));
+
+  if (fbStatus) {
+    addRow("firebase", fmt("Status detalhado", ready ? "ok" : "warn",
+      fbStatus.mode || "—",
+      fbStatus.error ? ("Erro: " + fbStatus.error) : (fbStatus.cleanedConfig ? "Config normalizada disponível" : "Sem config normalizada")));
+  }
+
+  addRow("firebase", fmt("auth", fb.auth ? "ok" : (ready ? "err" : "pend"),
+    fb.auth ? "objeto presente" : "null",
+    fb.auth ? "Firebase Auth inicializado"
+            : ready ? "FIREBASE_READY=true mas auth=null — initializeApp falhou"
+                    : "esperado quando READY=false"));
+
+  addRow("firebase", fmt("db (Firestore)", fb.db ? "ok" : (ready ? "err" : "pend"),
+    fb.db ? "objeto presente" : "null", ""));
+
+  // Tentar testar onAuthStateChanged se ready (sem ficar esperando pra sempre)
+  if (ready && fb.auth) {
+    const authResult = await new Promise(resolve => {
+      const timer = setTimeout(() => resolve({ ok: false, err: "timeout 4s — onAuthStateChanged não respondeu" }), 4000);
+      try {
+        const unsub = fb.onAuthStateChanged(fb.auth, user => {
+          clearTimeout(timer);
+          if (typeof unsub === "function") unsub();
+          resolve({ ok: true, user });
+        });
+      } catch (e) {
+        clearTimeout(timer);
+        resolve({ ok: false, err: e.message });
+      }
+    });
+    if (authResult.ok) {
+      const u = authResult.user;
+      addRow("firebase", fmt("onAuthStateChanged", "ok",
+        u ? (u.isAnonymous ? "anônimo" : (u.email || u.displayName || "logado")) : "não logado",
+        u ? `uid: ${u.uid}` : "callback respondeu — sistema de auth funcionando"));
+    } else {
+      addRow("firebase", fmt("onAuthStateChanged", "err", "falhou", authResult.err));
+    }
+  }
+
+  // CDN do Firebase
+  const cdnTests = [
+    "https://www.gstatic.com/firebasejs/10.12.5/firebase-app.js",
+    "https://www.gstatic.com/firebasejs/10.12.0/firebase-app.js"
+  ];
+  for (const u of cdnTests) {
+    const r = await fetchInfo(u);
+    addRow("firebase", fmt(`CDN ${u.match(/firebasejs\/([0-9.]+)/)[1]}`, r.ok ? "ok" : "err",
+      r.ok ? `${r.ms}ms` : r.err, u));
+  }
+
+  setBadge("firebase", ready ? "✓" : "○", ready ? "ok" : "warn");
+}
+
+async function runNetwork() {
+  setBadge("net", "rodando…", "");
+
+  const endpoints = [
+    { name: "Google Fonts API",        url: "https://fonts.googleapis.com/css2?family=Inter+Tight:wght@500" },
+    { name: "Gemini API (alcance)",    url: "https://generativelanguage.googleapis.com/v1beta/models", note: "401/403 sem chave é esperado" },
+    { name: "Liturgia (railway)",      url: "https://liturgia.up.railway.app/v2/", note: "API externa de liturgia" },
+    { name: "Servidor próprio",        url: "./" }
+  ];
+
+  for (const ep of endpoints) {
+    const t0 = performance.now();
+    try {
+      const r = await fetch(ep.url, { cache: "no-store", mode: "no-cors" }).catch(e => ({ ok: false, _err: e.message }));
+      const ms = Math.round(performance.now() - t0);
+      // mode: no-cors → opaque; só sabemos que respondeu se não jogou
+      if (r._err) {
+        addRow("net", fmt(ep.name, "err", r._err, `${ep.url}${ep.note ? " · " + ep.note : ""}`));
+      } else {
+        addRow("net", fmt(ep.name, "ok", `respondeu · ${ms}ms`, `${ep.url}${ep.note ? " · " + ep.note : ""}`));
+      }
+    } catch (e) {
+      const ms = Math.round(performance.now() - t0);
+      addRow("net", fmt(ep.name, "err", e.message, `${ep.url} · ${ms}ms`));
+    }
+  }
+
+  setBadge("net", "✓", "ok");
+}
+
+async function runPerf() {
+  setBadge("perf", "rodando…", "");
+
+  if (performance.timing) {
+    const t = performance.timing;
+    const total = t.loadEventEnd ? t.loadEventEnd - t.navigationStart : 0;
+    const dom   = t.domInteractive ? t.domInteractive - t.navigationStart : 0;
+    addRow("perf", fmt("Tempo até DOM interativo", dom < 1500 ? "ok" : (dom < 3000 ? "warn" : "err"),
+      dom + "ms", "Tempo desde a navegação até o DOM ficar interativo"));
+    if (total) addRow("perf", fmt("Tempo total de load", total < 3000 ? "ok" : "warn",
+      total + "ms", "Inclui SW, fontes, etc."));
+  }
+
+  // Memória (Chrome)
+  if (performance.memory) {
+    const m = performance.memory;
+    addRow("perf", fmt("Heap JS", "info",
+      `${bytes(m.usedJSHeapSize)} de ${bytes(m.jsHeapSizeLimit)}`,
+      `total: ${bytes(m.totalJSHeapSize)}`));
+  }
+
+  // Recursos carregados
+  if (performance.getEntriesByType) {
+    const entries = performance.getEntriesByType("resource");
+    addRow("perf", fmt("Recursos carregados nesta página", "info",
+      `${entries.length} arquivos`, "Inclui CSS, fontes e o próprio script"));
+
+    const slow = entries.filter(e => e.duration > 500).slice(0, 3);
+    if (slow.length) {
+      addRow("perf", fmt("Recursos lentos (>500ms)", "warn",
+        slow.length + " arquivos",
+        slow.map(s => `${s.name.split("/").pop()} (${Math.round(s.duration)}ms)`).join(" · ")));
+    }
+  }
+
+  setBadge("perf", "✓", "ok");
+}
+
+function runErrors() {
+  setBadge("errors", "...", "");
+  if (!_errors.length) {
+    emptyRow("errors", "✓ Nenhum erro JS capturado nesta página");
+    setBadge("errors", "limpo", "ok");
+    return;
+  }
+  for (const e of _errors) {
+    addRow("errors", fmt(`[${e.type}] ${e.when.split("T")[1].split(".")[0]}`, "err",
+      e.msg.slice(0, 80), `${e.file ? e.file + "  ·  " : ""}${e.stack.slice(0, 200)}`));
+  }
+  setBadge("errors", _errors.length + " erro(s)", "err");
+}
+
+/* =========================================================
+   ORQUESTRAÇÃO
+   ========================================================= */
+async function runAll() {
+  // limpa estado
+  Object.keys(stats).forEach(k => stats[k] = 0);
+  allRows.length = 0;
+  ["sys","sw","storage","modules","package","a11y","bibles","refs","firebase","net","perf","errors"].forEach(s => {
+    clearSection(s);
+    setBadge(s, "—", "");
+  });
+  updateSummary();
+
+  document.getElementById("diag-time").textContent = new Date().toLocaleString("pt-BR");
+
+  const t0 = performance.now();
+
+  // Roda em sequência (algumas dependem de outras — module test antes de firebase)
+  await runSystem();
+  await runServiceWorker();
+  await runStorage();
+  await runModules();
+  await runPackage();
+  await runA11y();
+  await runBibles();
+  await runRefs();
+  await runFirebase();
+  await runNetwork();
+  await runPerf();
+  runErrors();
+
+  const elapsed = ((performance.now() - t0)/1000).toFixed(1);
+  document.getElementById("diag-elapsed").textContent = elapsed + "s";
+}
+
+/* =========================================================
+   EXPORT do relatório como texto
+   ========================================================= */
+function buildReport() {
+  const lines = [];
+  lines.push("=".repeat(60));
+  lines.push("LECTIO — RELATÓRIO DE DIAGNÓSTICO");
+  lines.push("Gerado em: " + new Date().toLocaleString("pt-BR"));
+  lines.push("URL: " + location.href);
+  lines.push("=".repeat(60));
+  lines.push("");
+  lines.push(`RESUMO: ${stats.ok} OK · ${stats.warn} avisos · ${stats.err} erros · ${stats.pend} pendentes`);
+  lines.push("");
+
+  const secNames = {
+    sys: "SISTEMA & NAVEGADOR",
+    sw: "SERVICE WORKER & CACHE",
+    storage: "STORAGE LOCAL",
+    modules: "MÓDULOS JAVASCRIPT",
+    package: "PACOTE & PUBLICAÇÃO",
+    a11y: "UI & ACESSIBILIDADE",
+    bibles: "TRADUÇÕES DA BÍBLIA",
+    refs: "REFERÊNCIAS & CATECISMO",
+    firebase: "FIREBASE",
+    net: "REDE EXTERNA",
+    perf: "PERFORMANCE",
+    errors: "ERROS JAVASCRIPT"
+  };
+
+  const grouped = {};
+  for (const r of allRows) {
+    if (!grouped[r.section]) grouped[r.section] = [];
+    grouped[r.section].push(r);
+  }
+
+  for (const sec of Object.keys(secNames)) {
+    if (!grouped[sec]) continue;
+    lines.push("--- " + secNames[sec] + " ---");
+    for (const r of grouped[sec]) {
+      const tag = r.status === "ok"   ? "✓" :
+                  r.status === "warn" ? "⚠" :
+                  r.status === "err"  ? "✗" :
+                  r.status === "info" ? "·" : "○";
+      lines.push(`  ${tag} ${r.label.padEnd(30)} ${r.value || ""}`);
+      if (r.detail) {
+        const d = r.detail.split("\n").map(l => "      " + l).join("\n");
+        lines.push(d);
+      }
+    }
+    lines.push("");
+  }
+
+  lines.push("=".repeat(60));
+  lines.push("Cole isto na conversa para ajudar no diagnóstico.");
+  return lines.join("\n");
+}
+
+document.getElementById("btn-export").onclick = () => {
+  document.getElementById("report-text").value = buildReport();
+  document.getElementById("report-modal").classList.add("show");
+};
+document.getElementById("btn-report-close").onclick = () => {
+  document.getElementById("report-modal").classList.remove("show");
+};
+document.getElementById("btn-report-copy").onclick = async () => {
+  const t = document.getElementById("report-text");
+  try {
+    await navigator.clipboard.writeText(t.value);
+    toast("✓ Copiado para a área de transferência");
+  } catch {
+    t.select();
+    document.execCommand("copy");
+    toast("Copiado (modo legado)");
+  }
+};
+document.getElementById("btn-report-download").onclick = () => {
+  const blob = new Blob([buildReport()], { type: "text/plain;charset=utf-8" });
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement("a");
+  a.href = url;
+  a.download = `lectio-diag-${new Date().toISOString().slice(0,19).replace(/[:T]/g,"-")}.txt`;
+  a.click();
+  URL.revokeObjectURL(url);
+};
+
+/* =========================================================
+   AÇÕES destrutivas (footer)
+   ========================================================= */
+document.getElementById("btn-rerun").onclick = () => runAll();
+
+document.getElementById("btn-clear-sw").onclick = async () => {
+  if (!confirm("Desregistrar Service Worker e apagar TODOS os caches do app? Isso força recarregar tudo do servidor.")) return;
+  if ("serviceWorker" in navigator) {
+    const regs = await navigator.serviceWorker.getRegistrations();
+    for (const r of regs) await r.unregister();
+  }
+  if ("caches" in window) {
+    const keys = await caches.keys();
+    await Promise.all(keys.map(k => caches.delete(k)));
+  }
+  toast("✓ SW desregistrado e cache limpo. Recarregue index.html.", 4000);
+  setTimeout(() => runAll(), 800);
+};
+
+document.getElementById("btn-clear-storage").onclick = () => {
+  if (!confirm("Apagar TODOS os dados locais do Lectio (marcações, notas, chave Gemini cifrada, preferências)? Esta ação não pode ser desfeita.")) return;
+  const before = Object.keys(localStorage).filter(k => k.startsWith("lectio.")).length;
+  Object.keys(localStorage).filter(k => k.startsWith("lectio.")).forEach(k => localStorage.removeItem(k));
+  toast(`✓ ${before} chave(s) apagadas`);
+  setTimeout(() => runAll(), 600);
+};
+
+/* =========================================================
+   GO
+   ========================================================= */
+runAll();
+</script>
+
+</body>
+</html>
+
+<!-- v13: diagnóstico também deve considerar localStorage lectio.readChapters para progresso de leitura. -->

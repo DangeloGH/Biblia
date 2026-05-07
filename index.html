@@ -1,0 +1,597 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Lectio — Bíblia Católica de Estudo</title>
+<meta name="description" content="Bíblia católica completa com referências cruzadas, Catecismo, Padres da Igreja e Lectio Divina assistida por IA.">
+<meta name="theme-color" content="#f4ecdc">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=Lora:ital,wght@0,400;0,500;0,600;1,400&family=Merriweather:wght@300;400;700&family=Inter+Tight:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+
+<link rel="stylesheet" href="css/style.css">
+<link rel="manifest" href="manifest.json">
+</head>
+<body data-theme="sepia" data-reader-bg="parchment">
+
+<!-- ============== SPLASH / LOGIN ============== -->
+<div id="auth-overlay" class="overlay hidden">
+  <div class="auth-card">
+    <div class="auth-brand">
+      <div class="auth-mark">✠</div>
+      <h1 class="auth-title">Lectio</h1>
+      <p class="auth-tag">Bíblia Católica de Estudo</p>
+    </div>
+
+    <div id="auth-step-login">
+      <button id="btn-google" class="auth-btn auth-btn-primary">
+        <span class="g-icon">G</span> Entrar com Google
+      </button>
+      <button id="btn-anon" class="auth-btn auth-btn-ghost">Continuar sem login (offline)</button>
+      <p class="auth-note">Login sincroniza marcações, anotações e a chave Gemini cifrada entre dispositivos.</p>
+    </div>
+
+    <div id="auth-step-master" class="hidden">
+      <h2 class="auth-sub">Senha-mestra</h2>
+      <p class="auth-explainer">Esta senha cifra sua chave Gemini <strong>no seu navegador</strong>. Nem o servidor, nem nós a vemos. Se esquecer, será preciso cadastrar a chave de novo.</p>
+      <input id="master-pass" type="password" placeholder="Senha-mestra (mín. 8 caracteres)" class="auth-input">
+      <input id="master-pass-2" type="password" placeholder="Repita a senha" class="auth-input">
+      <button id="btn-master-set" class="auth-btn auth-btn-primary">Continuar</button>
+      <button id="btn-master-skip" class="auth-btn auth-btn-ghost">Configurar depois</button>
+    </div>
+
+    <div id="auth-step-unlock" class="hidden">
+      <h2 class="auth-sub">Desbloquear chave</h2>
+      <p class="auth-explainer">Digite sua senha-mestra para liberar a chave Gemini.</p>
+      <input id="master-unlock" type="password" placeholder="Senha-mestra" class="auth-input">
+      <button id="btn-master-unlock" class="auth-btn auth-btn-primary">Desbloquear</button>
+      <button id="btn-master-later" class="auth-btn auth-btn-ghost">Agora não</button>
+      <button id="btn-master-reset" class="auth-btn auth-btn-link">Esqueci a senha (apaga a chave)</button>
+    </div>
+  </div>
+</div>
+
+<!-- ============== TOP BAR ============== -->
+<header class="topbar">
+  <div class="topbar-left">
+    <button class="icon-btn" id="btn-menu" aria-label="Menu de livros">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M4 7h16M4 12h16M4 17h16"/></svg>
+    </button>
+    <div class="brand desktop-only">
+      <span class="brand-mark">✠</span>
+      <span class="brand-name">Lectio</span>
+    </div>
+  </div>
+
+  <!-- Ações: 4 botões + busca, antes do ref-pill -->
+  <div class="topbar-actions">
+    <button class="icon-btn action-btn" id="btn-lectio" aria-label="Lectio Divina" title="Lectio Divina">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><circle cx="12" cy="12" r="3"/><circle cx="12" cy="4" r="1.5"/><circle cx="12" cy="20" r="1.5"/><circle cx="4" cy="12" r="1.5"/><circle cx="20" cy="12" r="1.5"/><circle cx="6.3" cy="6.3" r="1.5"/><circle cx="17.7" cy="17.7" r="1.5"/><circle cx="6.3" cy="17.7" r="1.5"/><circle cx="17.7" cy="6.3" r="1.5"/></svg>
+      <span class="action-label">Lectio</span>
+    </button>
+    <button class="icon-btn action-btn" id="btn-compare" aria-label="Comparar traduções" title="Comparar">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M7 4l-3 3 3 3M17 14l3 3-3 3M4 7h13M20 17H7"/></svg>
+      <span class="action-label">Comparar</span>
+    </button>
+    <button class="icon-btn action-btn" id="btn-fullread" aria-label="Modo foco" title="Foco">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M4 9V5a1 1 0 0 1 1-1h4M20 9V5a1 1 0 0 0-1-1h-4M4 15v4a1 1 0 0 0 1 1h4M20 15v4a1 1 0 0 1-1 1h-4"/></svg>
+      <span class="action-label">Foco</span>
+    </button>
+    <button class="icon-btn action-btn" id="btn-liturgia" aria-label="Liturgia do dia" title="Liturgia do dia">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><rect x="3" y="5" width="18" height="16" rx="2"/><path d="M3 9h18M8 3v4M16 3v4"/></svg>
+      <span class="action-label">Liturgia</span>
+    </button>
+    <button class="icon-btn action-btn" id="btn-oracoes" aria-label="Devocionário" title="Devocionário">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3v6"/><path d="M9 6h6"/><path d="M7.5 11.5c-1.4.6-2.4 2-2.4 3.7 0 2.6 2.5 4.8 6.9 6.3 4.4-1.5 6.9-3.7 6.9-6.3 0-1.7-1-3.1-2.4-3.7-1.6-.7-3.3-.1-4.5 1.3-1.2-1.4-2.9-2-4.5-1.3z"/></svg>
+      <span class="action-label">Orações</span>
+    </button>
+    <button class="icon-btn action-btn" id="btn-search" aria-label="Buscar" title="Buscar">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.3-4.3"/></svg>
+      <span class="action-label">Buscar</span>
+    </button>
+  </div>
+
+  <div class="topbar-center">
+    <button class="ref-pill" id="ref-pill">
+      <span id="ref-livro">Gênesis</span>
+      <span class="ref-sep">·</span>
+      <span id="ref-cap">1</span>
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M6 9l6 6 6-6"/></svg>
+    </button>
+  </div>
+
+  <div class="topbar-right">
+    <button class="icon-btn desktop-only" id="btn-settings" aria-label="Configurações">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.7 1.7 0 0 0 .3 1.8l.1.1a2 2 0 1 1-2.8 2.8l-.1-.1a1.7 1.7 0 0 0-1.8-.3 1.7 1.7 0 0 0-1 1.5V21a2 2 0 1 1-4 0v-.1a1.7 1.7 0 0 0-1.1-1.5 1.7 1.7 0 0 0-1.8.3l-.1.1a2 2 0 1 1-2.8-2.8l.1-.1a1.7 1.7 0 0 0 .3-1.8 1.7 1.7 0 0 0-1.5-1H3a2 2 0 1 1 0-4h.1a1.7 1.7 0 0 0 1.5-1.1 1.7 1.7 0 0 0-.3-1.8l-.1-.1a2 2 0 1 1 2.8-2.8l.1.1a1.7 1.7 0 0 0 1.8.3H9a1.7 1.7 0 0 0 1-1.5V3a2 2 0 1 1 4 0v.1a1.7 1.7 0 0 0 1 1.5 1.7 1.7 0 0 0 1.8-.3l.1-.1a2 2 0 1 1 2.8 2.8l-.1.1a1.7 1.7 0 0 0-.3 1.8V9a1.7 1.7 0 0 0 1.5 1H21a2 2 0 1 1 0 4h-.1a1.7 1.7 0 0 0-1.5 1z"/></svg>
+    </button>
+    <button class="icon-btn mobile-only" id="btn-more" aria-label="Configurações" title="Configurações">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.7 1.7 0 0 0 .3 1.8l.1.1a2 2 0 1 1-2.8 2.8l-.1-.1a1.7 1.7 0 0 0-1.8-.3 1.7 1.7 0 0 0-1 1.5V21a2 2 0 1 1-4 0v-.1a1.7 1.7 0 0 0-1.1-1.5 1.7 1.7 0 0 0-1.8.3l-.1.1a2 2 0 1 1-2.8-2.8l.1-.1a1.7 1.7 0 0 0 .3-1.8 1.7 1.7 0 0 0-1.5-1H3a2 2 0 1 1 0-4h.1a1.7 1.7 0 0 0 1.5-1.1 1.7 1.7 0 0 0-.3-1.8l-.1-.1a2 2 0 1 1 2.8-2.8l.1.1a1.7 1.7 0 0 0 1.8.3H9a1.7 1.7 0 0 0 1-1.5V3a2 2 0 1 1 4 0v.1a1.7 1.7 0 0 0 1 1.5 1.7 1.7 0 0 0 1.8-.3l.1-.1a2 2 0 1 1 2.8 2.8l-.1.1a1.7 1.7 0 0 0-.3 1.8V9a1.7 1.7 0 0 0 1.5 1H21a2 2 0 1 1 0 4h-.1a1.7 1.7 0 0 0-1.5 1z"/></svg>
+    </button>
+  </div>
+</header>
+
+<!-- Menu mais opções (mobile) — agora só Configurações -->
+<div id="more-menu" class="more-menu hidden">
+  <button class="more-item" data-action="settings"><span>⚙️</span> Configurações</button>
+</div>
+
+<!-- ============== MAIN LAYOUT ============== -->
+<div class="layout" id="layout">
+
+  <!-- LEFT: SIDEBAR (livros) -->
+  <aside class="sidebar" id="sidebar">
+    <div class="side-head mobile-only">
+      <span class="side-head-title">Navegar</span>
+      <button class="icon-btn side-close" id="btn-side-close" aria-label="Fechar">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M6 6l12 12M18 6L6 18"/></svg>
+      </button>
+    </div>
+    <div class="side-tabs">
+      <button class="side-tab active" data-tab="livros">Livros</button>
+      <button class="side-tab" data-tab="favoritos">Marcados</button>
+      <button class="side-tab" data-tab="notas">Notas</button>
+    </div>
+    <div class="side-search">
+      <input id="livro-filter" placeholder="Filtrar livro…">
+    </div>
+    <div class="side-content" id="side-content"></div>
+  </aside>
+
+  <!-- CENTER: LEITURA -->
+  <main class="reader" id="reader">
+    <div class="reader-inner">
+      <div class="reader-head">
+        <div class="reader-title-group">
+          <h1 class="reader-livro" id="reader-livro">Gênesis</h1>
+          <div class="reader-cap" id="reader-cap">Capítulo 1</div>
+        </div>
+      </div>
+      <div class="reader-progress" id="reader-progress">
+        <div class="read-progress-meta">
+          <span id="read-percent">0% da Bíblia lida</span>
+          <span class="read-progress-track"><span id="read-progress-fill"></span></span>
+        </div>
+      </div>
+      <article class="reader-text" id="reader-text"></article>
+      <nav class="reader-nav" aria-label="Navegação de capítulos">
+        <button id="prev-cap" class="nav-btn">‹ Anterior</button>
+        <button id="btn-toggle-read" class="read-toggle nav-read-toggle" type="button" aria-pressed="false">Marcar capítulo como lido</button>
+        <button id="next-cap" class="nav-btn">Próximo ›</button>
+      </nav>
+    </div>
+  </main>
+
+  <!-- RIGHT: STUDY PANEL -->
+  <aside class="study" id="study">
+    <div class="side-head mobile-only">
+      <span class="side-head-title">Estudo</span>
+      <button class="icon-btn side-close" id="btn-study-close" aria-label="Fechar">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M6 6l12 12M18 6L6 18"/></svg>
+      </button>
+    </div>
+    <div class="study-tabs">
+      <button class="study-tab active" data-stab="ai">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M12 2l2.39 6.96L22 10l-5.5 4.5L18 22l-6-4-6 4 1.5-7.5L2 10l7.61-1.04L12 2z"/></svg>
+        <span>Estudo</span>
+      </button>
+      <button class="study-tab" data-stab="refs">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M4 6h16M4 12h16M4 18h10"/></svg>
+        <span>Referências</span>
+      </button>
+      <button class="study-tab" data-stab="cic">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M2 5h13a4 4 0 0 1 4 4v12H6a4 4 0 0 1-4-4V5z"/><path d="M19 5h3v12"/></svg>
+        <span>Catecismo</span>
+      </button>
+      <button class="study-tab" data-stab="notes">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M4 4h12l4 4v12H4z"/><path d="M16 4v4h4"/></svg>
+        <span>Notas</span>
+      </button>
+      <button class="study-tab" data-stab="studies">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M4 5h16v14H4z"/><path d="M8 9h8M8 13h5"/></svg>
+        <span>Estudos</span>
+      </button>
+    </div>
+
+    <div class="study-context" id="study-context">
+      <span class="ctx-label">Contexto:</span>
+      <span class="ctx-value" id="ctx-value">Selecione um versículo</span>
+    </div>
+
+    <div class="study-body" id="study-body">
+      <!-- AI PANEL -->
+      <section class="study-pane active" data-pane="ai">
+        <div class="ai-prompts">
+          <button class="prompt-chip" data-prompt="contexto">📜 Contexto histórico</button>
+          <button class="prompt-chip" data-prompt="catolico">✠ Leitura católica</button>
+          <button class="prompt-chip" data-prompt="patristica">👴 Padres da Igreja</button>
+          <button class="prompt-chip" data-prompt="catecismo">📖 No Catecismo</button>
+          <button class="prompt-chip" data-prompt="aplicacao">🌿 Aplicação prática</button>
+          <button class="prompt-chip" data-prompt="oracao">🕊️ Inspirar oração</button>
+        </div>
+        <div class="ai-output" id="ai-output">
+          <div class="ai-empty">
+            <p>Toque em um versículo da Bíblia para abrir estudo com IA, referências, Catecismo, notas e oração. Depois escolha uma lente abaixo ou faça uma pergunta.</p>
+            <p class="ai-hint" id="ai-key-hint">⚠ Configure sua chave Gemini em <strong>Configurações</strong> para ativar.</p>
+          </div>
+        </div>
+        <div class="ai-input-row">
+          <textarea id="ai-input" placeholder="Pergunte algo sobre a passagem…" rows="1"></textarea>
+          <button id="ai-send" class="send-btn" aria-label="Enviar">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M5 12l14-7-7 14-2-5-5-2z"/></svg>
+          </button>
+        </div>
+      </section>
+
+      <!-- REFS PANEL -->
+      <section class="study-pane" data-pane="refs">
+        <div class="pane-empty" id="refs-empty">Toque em um versículo para ver passagens relacionadas na Bíblia.</div>
+        <div class="refs-list" id="refs-list"></div>
+      </section>
+
+      <!-- CIC PANEL -->
+      <section class="study-pane" data-pane="cic">
+        <div class="pane-empty" id="cic-empty">Selecione um versículo para ver passagens do Catecismo relacionadas.</div>
+        <div class="cic-list" id="cic-list"></div>
+      </section>
+
+      <!-- NOTES PANEL -->
+      <section class="study-pane" data-pane="notes">
+        <div class="notes-head">
+          <span class="ctx-label">Notas para:</span>
+          <span id="notes-target">—</span>
+        </div>
+        <textarea id="note-text" placeholder="Suas anotações pessoais sobre este versículo…"></textarea>
+        <p class="note-hint">Toque no versículo para selecionar. Ele só entra em Marcados quando você escolher uma cor abaixo.</p>
+        <div class="notes-color">
+          <span>Marcar intencionalmente:</span>
+          <button class="color-dot" data-color="none" style="background:transparent;border:1px dashed #555" title="Remover marcação" aria-label="Remover marcação"></button>
+          <button class="color-dot" data-color="gold" style="background:#c9a96a" aria-label="Marcar em dourado"></button>
+          <button class="color-dot" data-color="rose" style="background:#c97a8c" aria-label="Marcar em rosa"></button>
+          <button class="color-dot" data-color="sage" style="background:#7a9a82" aria-label="Marcar em verde"></button>
+          <button class="color-dot" data-color="azure" style="background:#6f8aab" aria-label="Marcar em azul"></button>
+          <button class="color-dot" data-color="violet" style="background:#8e7aaa" aria-label="Marcar em violeta"></button>
+        </div>
+        <div class="notes-actions">
+          <button class="tool-btn full" id="save-note">Salvar nota</button>
+          <button class="tool-btn full" id="btn-share-verse" type="button" disabled>Gerar imagem do versículo</button>
+        </div>
+      </section>
+
+      <!-- SAVED AI STUDIES PANEL -->
+      <section class="study-pane" data-pane="studies">
+        <div class="saved-studies-head">
+          <div>
+            <h3>Caderno de Estudos</h3>
+            <p>Estudos da IA salvos somente neste navegador.</p>
+          </div>
+          <div class="saved-studies-actions">
+            <button class="tool-btn small" id="btn-export-studies" type="button">Backup</button>
+            <button class="tool-btn small" id="btn-import-studies" type="button">Importar</button>
+            <input id="studies-import-file" type="file" accept="application/json" class="hidden">
+          </div>
+        </div>
+        <div class="saved-studies-list" id="saved-studies-list">
+          <div class="pane-empty">Nenhum estudo salvo ainda.</div>
+        </div>
+      </section>
+    </div>
+  </aside>
+
+  <!-- ============== ABA LATERAL MOBILE — abre/fecha biblioteca ============== -->
+  <button id="library-edge-tab" class="library-edge-tab mobile-only" aria-label="Biblioteca" type="button">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true">
+      <path d="M9 6l6 6-6 6"/>
+    </svg>
+    <span class="edge-label">Biblioteca</span>
+  </button>
+
+  <!-- ============== ABA LATERAL MOBILE — abre/fecha painel de estudo ============== -->
+  <button id="study-edge-tab" class="study-edge-tab mobile-only" aria-label="Painel de estudo" type="button">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true">
+      <path d="M15 6l-6 6 6 6"/>
+    </svg>
+    <span class="edge-label">Estudo</span>
+  </button>
+
+  <!-- ============== OVERLAY pra fechar painéis tocando fora (mobile) ============== -->
+  <div id="panel-scrim" class="panel-scrim hidden" aria-hidden="true"></div>
+</div>
+
+<!-- ============== BOTÃO SAIR DO FOCO ============== -->
+<button id="btn-focus-exit" class="focus-exit hidden" aria-label="Sair do modo foco">
+  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M9 4H5a1 1 0 0 0-1 1v4M15 4h4a1 1 0 0 1 1 1v4M9 20H5a1 1 0 0 1-1-1v-4M15 20h4a1 1 0 0 0 1-1v-4"/></svg>
+</button>
+
+<!-- ============== CONTROLE FLUTUANTE DE FONTE ============== -->
+<div class="fz-fab" id="fz-fab" aria-label="Controle de fonte">
+  <button class="fz-toggle" id="fz-toggle" type="button" aria-label="Abrir controle de fonte" aria-expanded="false">Aa</button>
+  <div class="fz-popover hidden" id="fz-popover" role="menu" aria-label="Tamanho da fonte">
+    <button class="fz-pop-btn" id="fz-down" type="button" role="menuitem" aria-label="Diminuir fonte">A−</button>
+    <button class="fz-pop-btn" id="fz-up" type="button" role="menuitem" aria-label="Aumentar fonte">A+</button>
+    <button class="fz-pop-link" id="fz-settings" type="button" role="menuitem" aria-label="Abrir escolha de fonte">Fontes</button>
+    <button class="fz-pop-link" id="fz-bg-toggle" type="button" role="menuitem" aria-label="Alternar fundo da leitura">Fundo</button>
+  </div>
+</div>
+
+<!-- ============== MODAIS ============== -->
+
+<!-- Seletor livro/cap -->
+<div id="modal-ref" class="modal hidden" role="dialog" aria-modal="true" aria-labelledby="modal-ref-title" aria-hidden="true">
+  <div class="modal-card">
+    <header class="modal-head">
+      <h2 id="modal-ref-title">Ir para</h2>
+      <button class="icon-btn modal-close" data-close aria-label="Fechar janela">✕</button>
+    </header>
+    <div class="ref-grid">
+      <div class="ref-col">
+        <h3>Livro</h3>
+        <div id="ref-livros-list"></div>
+      </div>
+      <div class="ref-col">
+        <h3>Capítulo</h3>
+        <div id="ref-caps-grid" class="caps-grid"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Busca -->
+<div id="modal-search" class="modal hidden" role="dialog" aria-modal="true" aria-labelledby="modal-search-title" aria-hidden="true">
+  <div class="modal-card modal-card-wide">
+    <header class="modal-head">
+      <h2 id="modal-search-title">Buscar nas Escrituras</h2>
+      <button class="icon-btn modal-close" data-close aria-label="Fechar janela">✕</button>
+    </header>
+    <label class="sr-only" for="search-input">Digite uma palavra ou frase para buscar nas Escrituras</label>
+    <input id="search-input" class="search-bar" placeholder="Digite uma palavra ou frase…" autocomplete="off">
+    <div class="search-meta" id="search-meta"></div>
+    <div id="search-results" class="search-results"></div>
+  </div>
+</div>
+
+<!-- Configurações -->
+<div id="modal-settings" class="modal hidden" role="dialog" aria-modal="true" aria-labelledby="modal-settings-title" aria-hidden="true">
+  <div class="modal-card">
+    <header class="modal-head">
+      <h2 id="modal-settings-title">Configurações</h2>
+      <button class="icon-btn modal-close" data-close aria-label="Fechar janela">✕</button>
+    </header>
+
+    <div class="settings-body">
+    <div class="settings-block">
+      <h3>Conta</h3>
+      <div id="account-info">Não conectado</div>
+      <button id="btn-logout" class="tool-btn">Sair</button>
+    </div>
+
+    <div class="settings-block">
+      <h3>Chave Gemini</h3>
+      <p class="settings-help">A chave é cifrada localmente com sua senha-mestra (AES-GCM). Apenas seu navegador, com sua senha, consegue lê-la.</p>
+      <div id="gemini-status" class="gem-status">—</div>
+      <a href="https://aistudio.google.com/apikey" target="_blank" class="link-out">Obter chave Gemini grátis →</a>
+      <input id="gemini-input" type="password" placeholder="Cole sua chave (AIza…)" class="auth-input">
+      <select id="gemini-model" class="auth-input">
+        <optgroup label="💎 Mais qualidade">
+          <option value="gemini-2.5-pro">Gemini 2.5 Pro — análise profunda</option>
+        </optgroup>
+        <optgroup label="✅ Recomendados para uso diário">
+          <option value="gemini-2.5-flash" selected>Gemini 2.5 Flash — rápido e equilibrado</option>
+          <option value="gemini-flash-latest">Gemini Flash Latest — alias dinâmico</option>
+          <option value="gemini-3-flash-preview">Gemini 3 Flash Preview — quando disponível</option>
+        </optgroup>
+        <optgroup label="⚡ Econômicos / fallback">
+          <option value="gemini-2.5-flash-lite">Gemini 2.5 Flash Lite</option>
+          <option value="gemini-flash-lite-latest">Gemini Flash Lite Latest</option>
+          <option value="gemini-3.1-flash-lite-preview">Gemini 3.1 Flash-Lite Preview</option>
+        </optgroup>
+        <optgroup label="🆓 Gemma via Gemini API">
+          <option value="gemma-4-31b-it">Gemma 4 — 31B</option>
+          <option value="gemma-4-26b-a4b-it">Gemma 4 — 26B MoE</option>
+          <option value="gemma-3-27b-it">Gemma 3 — 27B</option>
+          <option value="gemma-3-12b-it">Gemma 3 — 12B</option>
+          <option value="gemma-3-4b-it">Gemma 3 — 4B</option>
+        </optgroup>
+      </select>
+      <p class="settings-help">O modelo acima é só o preferido. Se ele falhar, ficar sem cota ou sair do ar, o Lectio lista os modelos disponíveis da sua chave e tenta automaticamente outro Gemini/Gemma. Depois de alguns minutos, volta ao preferido.</p>
+      <div class="settings-row">
+        <button id="btn-save-key" class="tool-btn full">Salvar chave</button>
+        <button id="btn-clear-key" class="tool-btn">Apagar</button>
+      </div>
+    </div>
+
+    <div class="settings-block">
+      <h3>Bíblia</h3>
+      <p class="settings-help">Escolha a tradução ou a biblioteca de estudos. A Biblioteca Bíblica Expandida aparece somente em leitura/estudo e não entra na comparação.</p>
+      <div class="settings-row settings-row-wrap">
+        <button class="tool-btn lang-pick" data-lang="pt">🇧🇷 Ave-Maria</button>
+        <button class="tool-btn lang-pick" data-lang="ms">🇧🇷 Matos Soares</button>
+        <button class="tool-btn lang-pick" data-lang="en">🇺🇸 Douay-Rheims</button>
+        <button class="tool-btn lang-pick" data-lang="leandro">🇧🇷 LeandroLFE</button>
+        <button class="tool-btn lang-pick" data-lang="pastoral">🇧🇷 Pastoral</button>
+        <button class="tool-btn lang-pick" data-lang="biblioteca_expandida">📚 Biblioteca Expandida</button>
+      </div>
+    </div>
+
+    <div class="settings-block">
+      <h3>Aparência</h3>
+      <div class="settings-row">
+        <button class="tool-btn theme-pick" data-theme="dark">Escuro</button>
+        <button class="tool-btn theme-pick" data-theme="sepia">Sépia</button>
+        <button class="tool-btn theme-pick" data-theme="light">Claro</button>
+      </div>
+      <label class="settings-field settings-field-soft">
+        <span>Fundo da leitura</span>
+        <div class="settings-row settings-row-wrap">
+          <button class="tool-btn bg-pick" type="button" data-bg="plain">Limpo</button>
+          <button class="tool-btn bg-pick" type="button" data-bg="parchment">Pergaminho suave</button>
+        </div>
+      </label>
+      <label class="settings-field">
+        <span>Fonte da leitura</span>
+        <select id="reader-font" class="auth-input">
+          <option value="garamond">Clássica — Cormorant Garamond</option>
+          <option value="georgia">Tradicional — Georgia</option>
+          <option value="lora">Confortável — Lora</option>
+          <option value="merriweather">Forte — Merriweather</option>
+          <option value="sans">Limpa — Sem serifa</option>
+        </select>
+      </label>
+      <label class="range-row">
+        Tamanho da fonte
+        <input id="font-size" type="range" min="14" max="32" step="1" value="18">
+      </label>
+      <p class="settings-help">Agora o toque no versículo só seleciona para estudo. Para salvar em Marcados, selecione o versículo e escolha uma cor no painel Notas/Marcar.</p>
+      <p class="settings-help">O tamanho da fonte vale para a Bíblia, IA, Lectio e Liturgia. Use o botão flutuante Aa para ajustar rápido a fonte e alternar o fundo de leitura.</p>
+    </div>
+    </div>
+  </div>
+</div>
+
+<!-- Lectio Divina -->
+<div id="modal-lectio" class="modal hidden" role="dialog" aria-modal="true" aria-labelledby="modal-lectio-title" aria-hidden="true">
+  <div class="modal-card modal-card-wide">
+    <header class="modal-head">
+      <h2 id="modal-lectio-title">Lectio Divina</h2>
+      <button class="icon-btn modal-close" data-close aria-label="Fechar janela">✕</button>
+    </header>
+    <div class="lectio-steps">
+      <button class="lectio-step active" data-step="1"><span>I</span> Lectio</button>
+      <button class="lectio-step" data-step="2"><span>II</span> Meditatio</button>
+      <button class="lectio-step" data-step="3"><span>III</span> Oratio</button>
+      <button class="lectio-step" data-step="4"><span>IV</span> Contemplatio</button>
+    </div>
+    <div class="lectio-body" id="lectio-body"></div>
+  </div>
+</div>
+
+<!-- Liturgia -->
+<div id="modal-liturgia" class="modal hidden" role="dialog" aria-modal="true" aria-labelledby="liturgia-title" aria-hidden="true">
+  <div class="modal-card liturgia-modal-card">
+    <header class="modal-head liturgia-head">
+      <h2 id="liturgia-title">Liturgia do dia</h2>
+      <button class="modal-close liturgia-close" data-close type="button" aria-label="Fechar liturgia do dia">
+        <span aria-hidden="true">✕</span>
+        <span class="close-word">Sair</span>
+      </button>
+    </header>
+    <div id="liturgia-body" class="liturgia-body">Carregando…</div>
+  </div>
+</div>
+
+<!-- Devocionário -->
+<div id="modal-oracoes" class="modal hidden" role="dialog" aria-modal="true" aria-labelledby="oracoes-title" aria-hidden="true" data-no-initial-input-focus>
+  <div class="modal-card modal-card-wide oracoes-modal-card">
+    <header class="modal-head oracoes-head">
+      <div>
+        <p class="oracoes-head-kicker">Devocionário Lectio</p>
+        <h2 id="oracoes-title">Orações Católicas</h2>
+      </div>
+      <button class="icon-btn modal-close" data-close aria-label="Fechar Devocionário">✕</button>
+    </header>
+    <div id="oracoes-body" class="oracoes-body">
+      <section class="oracoes-hero" aria-label="Introdução ao Devocionário">
+        <div class="oracoes-hero-mark">✠</div>
+        <p class="oracoes-kicker">Rezar, guardar e continuar</p>
+        <h3>Um lugar calmo para a sua vida de oração.</h3>
+        <p>Continue uma devoção, escolha um caminho pronto ou encontre uma oração para o momento que você está vivendo.</p>
+        <div id="oracoes-now" class="oracoes-now"></div>
+        <div class="oracoes-search-row">
+          <label class="sr-only" for="oracoes-search">Buscar oração por nome, santo, intenção ou palavra</label>
+          <input id="oracoes-search" class="oracoes-search" type="search" autocomplete="off" placeholder="Buscar por medo, família, São José, noite…" inputmode="search">
+          <button id="oracoes-clear-search" class="tool-btn small" type="button">Limpar</button>
+        </div>
+      </section>
+      <nav id="oracoes-tabs" class="oracoes-tabs" aria-label="Categorias do Devocionário"></nav>
+      <div id="oracoes-content" class="oracoes-content">
+        <div class="pane-empty">Carregando Devocionário…</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Primeira experiência -->
+<div id="modal-welcome" class="modal hidden" role="dialog" aria-modal="true" aria-labelledby="welcome-title" aria-hidden="true" data-no-initial-input-focus>
+  <div class="modal-card welcome-modal-card">
+    <header class="modal-head welcome-head">
+      <div>
+        <p class="oracoes-head-kicker">Bem-vindo ao Lectio</p>
+        <h2 id="welcome-title">Leia, aprofunde e reze com calma</h2>
+      </div>
+      <button class="icon-btn modal-close" type="button" data-onboarding-action="dismiss" aria-label="Fechar boas-vindas">✕</button>
+    </header>
+    <div class="welcome-body">
+      <section class="welcome-hero">
+        <div class="welcome-mark">✠</div>
+        <p>O Lectio une Bíblia, Catecismo, referências, estudo com IA e Devocionário em uma caminhada simples: ler, tocar, aprofundar e rezar.</p>
+      </section>
+      <div class="welcome-steps" aria-label="Como usar o Lectio">
+        <article><span>1</span><strong>Leia</strong><p>Escolha um livro e um capítulo da Bíblia.</p></article>
+        <article><span>2</span><strong>Toque</strong><p>Selecione um versículo para abrir o contexto.</p></article>
+        <article><span>3</span><strong>Aprofunde</strong><p>Veja Catecismo, referências, notas e estudo com IA.</p></article>
+        <article><span>4</span><strong>Reze</strong><p>Continue com uma oração, terço, rosário ou novena.</p></article>
+      </div>
+      <div class="welcome-actions">
+        <button class="tool-btn oracao-share-btn" type="button" data-onboarding-action="read">Começar lendo a Bíblia</button>
+        <button class="tool-btn" type="button" data-onboarding-action="pray">Abrir Orações</button>
+        <button class="tool-btn subtle" type="button" data-onboarding-action="dismiss">Entendi</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Toast -->
+<div id="toast" class="toast hidden"></div>
+
+<!-- ============== TRAP DE ERROS PRECOCE ==============
+     Captura erros que acontecem ANTES do main.js rodar (ex.: imports
+     do firebase-config.js falhando). Sem isso, em mobile não há como
+     ver o erro porque não há console. -->
+<script>
+(function () {
+  function showEarly(label, msg, stack) {
+    var box = document.getElementById("lectio-fatal-box");
+    if (!box) {
+      box = document.createElement("div");
+      box.id = "lectio-fatal-box";
+      box.style.cssText = "position:fixed;left:12px;right:12px;bottom:12px;z-index:99999;background:#2a1212;color:#ffd9d9;border:1px solid #ff6b6b;border-radius:10px;padding:12px 14px;font:13px/1.45 system-ui;box-shadow:0 8px 30px rgba(0,0,0,.4);max-height:60vh;overflow:auto";
+      box.innerHTML = '<strong style="color:#ff8b8b">⚠ Erro de carregamento</strong>' +
+        '<button id="lectio-fatal-close" style="float:right;background:transparent;color:#ffd9d9;border:1px solid #ff6b6b;border-radius:6px;padding:2px 8px;cursor:pointer">fechar</button>' +
+        '<div id="lectio-fatal-msg" style="margin-top:6px;word-break:break-word"></div>' +
+        '<pre id="lectio-fatal-stack" style="margin-top:6px;font:11px ui-monospace,monospace;white-space:pre-wrap;color:#ffb8b8;opacity:.85"></pre>';
+      (document.body || document.documentElement).appendChild(box);
+      box.querySelector("#lectio-fatal-close").onclick = function () { box.remove(); };
+    }
+    box.querySelector("#lectio-fatal-msg").textContent = "[" + label + "] " + msg;
+    if (stack) box.querySelector("#lectio-fatal-stack").textContent = String(stack).slice(0, 600);
+  }
+  window.addEventListener("error", function (e) {
+    var msg = e.message || (e.error && e.error.message) || "erro desconhecido";
+    if (e.filename) msg += "  ·  " + e.filename + ":" + (e.lineno || "?");
+    showEarly("script", msg, e.error && e.error.stack);
+  });
+  window.addEventListener("unhandledrejection", function (e) {
+    var r = e.reason || {};
+    showEarly("promise", r.message || String(r), r.stack);
+  });
+})();
+</script>
+
+<!-- ============== FIREBASE ============== -->
+<script type="module" src="js/firebase-config.js?v=lectio-v67-primeira-experiencia"></script>
+<script type="module" src="js/main.js?v=lectio-v67-primeira-experiencia"></script>
+
+<!-- ============== SERVICE WORKER (PWA offline) ============== -->
+<script>
+  if ("serviceWorker" in navigator) {
+    window.addEventListener("load", () => {
+      navigator.serviceWorker.register("./sw.js").catch(err => {
+        console.warn("[Lectio] SW falhou:", err);
+      });
+    });
+  }
+</script>
+
+</body>
+</html>

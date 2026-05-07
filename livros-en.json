@@ -1,0 +1,367 @@
+[
+  {
+    "id": "genesis",
+    "nome": "Genesis",
+    "caps": 50
+  },
+  {
+    "id": "exodo",
+    "nome": "Exodus",
+    "caps": 40
+  },
+  {
+    "id": "levitico",
+    "nome": "Leviticus",
+    "caps": 27
+  },
+  {
+    "id": "numeros",
+    "nome": "Numbers",
+    "caps": 35
+  },
+  {
+    "id": "deuteronomio",
+    "nome": "Deuteronomy",
+    "caps": 34
+  },
+  {
+    "id": "josue",
+    "nome": "Joshua",
+    "caps": 22
+  },
+  {
+    "id": "juizes",
+    "nome": "Judges",
+    "caps": 17
+  },
+  {
+    "id": "rute",
+    "nome": "Ruth",
+    "caps": 2
+  },
+  {
+    "id": "1_samuel",
+    "nome": "1 Samuel",
+    "caps": 31
+  },
+  {
+    "id": "2_samuel",
+    "nome": "2 Samuel",
+    "caps": 23
+  },
+  {
+    "id": "1_reis",
+    "nome": "1 Kings",
+    "caps": 22
+  },
+  {
+    "id": "2_reis",
+    "nome": "2 Kings",
+    "caps": 25
+  },
+  {
+    "id": "1_cronicas",
+    "nome": "1 Chronicles",
+    "caps": 27
+  },
+  {
+    "id": "2_cronicas",
+    "nome": "2 Chronicles",
+    "caps": 36
+  },
+  {
+    "id": "esdras",
+    "nome": "Ezra",
+    "caps": 10
+  },
+  {
+    "id": "neemias",
+    "nome": "Nehemiah",
+    "caps": 11
+  },
+  {
+    "id": "tobias",
+    "nome": "Tobit",
+    "caps": 14
+  },
+  {
+    "id": "judite",
+    "nome": "Judith",
+    "caps": 11
+  },
+  {
+    "id": "ester",
+    "nome": "Esther",
+    "caps": 13
+  },
+  {
+    "id": "1_macabeus",
+    "nome": "1 Maccabees",
+    "caps": 16
+  },
+  {
+    "id": "2_macabeus",
+    "nome": "2 Maccabees",
+    "caps": 14
+  },
+  {
+    "id": "job",
+    "nome": "Job",
+    "caps": 19
+  },
+  {
+    "id": "salmos",
+    "nome": "Psalms",
+    "caps": 150
+  },
+  {
+    "id": "proverbios",
+    "nome": "Proverbs",
+    "caps": 28
+  },
+  {
+    "id": "eclesiastes",
+    "nome": "Ecclesiastes",
+    "caps": 12
+  },
+  {
+    "id": "canticos",
+    "nome": "Song of Songs",
+    "caps": 8
+  },
+  {
+    "id": "sabedoria",
+    "nome": "Wisdom",
+    "caps": 19
+  },
+  {
+    "id": "eclesiastico",
+    "nome": "Sirach",
+    "caps": 48
+  },
+  {
+    "id": "isaias",
+    "nome": "Isaiah",
+    "caps": 66
+  },
+  {
+    "id": "jeremias",
+    "nome": "Jeremiah",
+    "caps": 51
+  },
+  {
+    "id": "lamentacoes",
+    "nome": "Lamentations",
+    "caps": 5
+  },
+  {
+    "id": "baruc",
+    "nome": "Baruch",
+    "caps": 6
+  },
+  {
+    "id": "ezequiel",
+    "nome": "Ezekiel",
+    "caps": 44
+  },
+  {
+    "id": "daniel",
+    "nome": "Daniel",
+    "caps": 14
+  },
+  {
+    "id": "oseias",
+    "nome": "Hosea",
+    "caps": 11
+  },
+  {
+    "id": "joel",
+    "nome": "Joel",
+    "caps": 3
+  },
+  {
+    "id": "amos",
+    "nome": "Amos",
+    "caps": 7
+  },
+  {
+    "id": "abdias",
+    "nome": "Obadiah",
+    "caps": 1
+  },
+  {
+    "id": "jonas",
+    "nome": "Jonah",
+    "caps": 4
+  },
+  {
+    "id": "miqueias",
+    "nome": "Micah",
+    "caps": 6
+  },
+  {
+    "id": "naum",
+    "nome": "Nahum",
+    "caps": 3
+  },
+  {
+    "id": "habacuc",
+    "nome": "Habakkuk",
+    "caps": 3
+  },
+  {
+    "id": "sofonias",
+    "nome": "Zephaniah",
+    "caps": 3
+  },
+  {
+    "id": "ageu",
+    "nome": "Haggai",
+    "caps": 2
+  },
+  {
+    "id": "zacarias",
+    "nome": "Zechariah",
+    "caps": 11
+  },
+  {
+    "id": "malaquias",
+    "nome": "Malachi",
+    "caps": 4
+  },
+  {
+    "id": "mateus",
+    "nome": "Matthew",
+    "caps": 28
+  },
+  {
+    "id": "marcos",
+    "nome": "Mark",
+    "caps": 16
+  },
+  {
+    "id": "lucas",
+    "nome": "Luke",
+    "caps": 24
+  },
+  {
+    "id": "joao",
+    "nome": "John",
+    "caps": 21
+  },
+  {
+    "id": "atos",
+    "nome": "Acts",
+    "caps": 28
+  },
+  {
+    "id": "romanos",
+    "nome": "Romans",
+    "caps": 16
+  },
+  {
+    "id": "1_corintios",
+    "nome": "1 Corinthians",
+    "caps": 15
+  },
+  {
+    "id": "2_corintios",
+    "nome": "2 Corinthians",
+    "caps": 13
+  },
+  {
+    "id": "galatas",
+    "nome": "Galatians",
+    "caps": 6
+  },
+  {
+    "id": "efesios",
+    "nome": "Ephesians",
+    "caps": 6
+  },
+  {
+    "id": "filipenses",
+    "nome": "Philippians",
+    "caps": 4
+  },
+  {
+    "id": "colossenses",
+    "nome": "Colossians",
+    "caps": 4
+  },
+  {
+    "id": "1_tessalonicenses",
+    "nome": "1 Thessalonians",
+    "caps": 5
+  },
+  {
+    "id": "2_tessalonicenses",
+    "nome": "2 Thessalonians",
+    "caps": 3
+  },
+  {
+    "id": "1_timoteo",
+    "nome": "1 Timothy",
+    "caps": 6
+  },
+  {
+    "id": "2_timoteo",
+    "nome": "2 Timothy",
+    "caps": 4
+  },
+  {
+    "id": "tito",
+    "nome": "Titus",
+    "caps": 3
+  },
+  {
+    "id": "filemon",
+    "nome": "Philemon",
+    "caps": 1
+  },
+  {
+    "id": "hebreus",
+    "nome": "Hebrews",
+    "caps": 13
+  },
+  {
+    "id": "tiago",
+    "nome": "James",
+    "caps": 5
+  },
+  {
+    "id": "1_pedro",
+    "nome": "1 Peter",
+    "caps": 5
+  },
+  {
+    "id": "2_pedro",
+    "nome": "2 Peter",
+    "caps": 3
+  },
+  {
+    "id": "1_joao",
+    "nome": "1 John",
+    "caps": 5
+  },
+  {
+    "id": "2_joao",
+    "nome": "2 John",
+    "caps": 1
+  },
+  {
+    "id": "3_joao",
+    "nome": "3 John",
+    "caps": 1
+  },
+  {
+    "id": "judas",
+    "nome": "Jude",
+    "caps": 1
+  },
+  {
+    "id": "apocalipse",
+    "nome": "Revelation",
+    "caps": 22
+  }
+]

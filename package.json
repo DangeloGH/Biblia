@@ -1,0 +1,14 @@
+{
+  "name": "lectio-biblia-catolica-estudo",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node tests/run-all.mjs",
+    "verify:js": "node tools/verify-js.mjs",
+    "verify:prayers": "node tools/verify-prayers.mjs && node tools/verify-tercos-guided.mjs && node tools/audit-prayers-content.mjs",
+    "audit:data": "node tools/audit-data-integrity.mjs",
+    "verify": "npm run verify:js && npm test && npm run verify:prayers && npm run audit:data",
+    "bump": "node tools/bump-version.mjs"
+  }
+}

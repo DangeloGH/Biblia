@@ -1,0 +1,1700 @@
+{
+  "id": "novenas",
+  "title": "Novenas",
+  "items": [
+    {
+      "id": "novena-sao-jose",
+      "titulo": "Novena de São José",
+      "categoria": "novenas",
+      "tipo": "novena",
+      "tags": [
+        "são josé",
+        "novena",
+        "família",
+        "trabalho"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para rezar durante nove dias por uma intenção, devoção ou preparação espiritual.",
+      "texto": "Novena de São José\n\nEsta novena é um caminho de nove dias de oração, confiança e perseverança. Reze cada dia com calma, apresentando sua intenção a Deus e buscando crescer na fé.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [],
+      "dias": [
+        {
+          "dia": 1,
+          "titulo": "Dia 1",
+          "texto": "Senhor Deus, neste dia 1 desta novena, apresento minha intenção com fé e perseverança. Pela intercessão deste santo auxílio, ajudai-me a buscar antes de tudo a vossa vontade e a crescer em amor, confiança e conversão. Amém."
+        },
+        {
+          "dia": 2,
+          "titulo": "Dia 2",
+          "texto": "Senhor Deus, neste dia 2 desta novena, apresento minha intenção com fé e perseverança. Pela intercessão deste santo auxílio, ajudai-me a buscar antes de tudo a vossa vontade e a crescer em amor, confiança e conversão. Amém."
+        },
+        {
+          "dia": 3,
+          "titulo": "Dia 3",
+          "texto": "Senhor Deus, neste dia 3 desta novena, apresento minha intenção com fé e perseverança. Pela intercessão deste santo auxílio, ajudai-me a buscar antes de tudo a vossa vontade e a crescer em amor, confiança e conversão. Amém."
+        },
+        {
+          "dia": 4,
+          "titulo": "Dia 4",
+          "texto": "Senhor Deus, neste dia 4 desta novena, apresento minha intenção com fé e perseverança. Pela intercessão deste santo auxílio, ajudai-me a buscar antes de tudo a vossa vontade e a crescer em amor, confiança e conversão. Amém."
+        },
+        {
+          "dia": 5,
+          "titulo": "Dia 5",
+          "texto": "Senhor Deus, neste dia 5 desta novena, apresento minha intenção com fé e perseverança. Pela intercessão deste santo auxílio, ajudai-me a buscar antes de tudo a vossa vontade e a crescer em amor, confiança e conversão. Amém."
+        },
+        {
+          "dia": 6,
+          "titulo": "Dia 6",
+          "texto": "Senhor Deus, neste dia 6 desta novena, apresento minha intenção com fé e perseverança. Pela intercessão deste santo auxílio, ajudai-me a buscar antes de tudo a vossa vontade e a crescer em amor, confiança e conversão. Amém."
+        },
+        {
+          "dia": 7,
+          "titulo": "Dia 7",
+          "texto": "Senhor Deus, neste dia 7 desta novena, apresento minha intenção com fé e perseverança. Pela intercessão deste santo auxílio, ajudai-me a buscar antes de tudo a vossa vontade e a crescer em amor, confiança e conversão. Amém."
+        },
+        {
+          "dia": 8,
+          "titulo": "Dia 8",
+          "texto": "Senhor Deus, neste dia 8 desta novena, apresento minha intenção com fé e perseverança. Pela intercessão deste santo auxílio, ajudai-me a buscar antes de tudo a vossa vontade e a crescer em amor, confiança e conversão. Amém."
+        },
+        {
+          "dia": 9,
+          "titulo": "Dia 9",
+          "texto": "Senhor Deus, neste dia 9 desta novena, apresento minha intenção com fé e perseverança. Pela intercessão deste santo auxílio, ajudai-me a buscar antes de tudo a vossa vontade e a crescer em amor, confiança e conversão. Amém."
+        }
+      ],
+      "duracao": "novena",
+      "curadoria": {
+        "selo": "Novena guiada",
+        "familia": "novenas",
+        "uso": "caminho de 9 dias",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "devoção diária",
+        "nove dias",
+        "novena de jose",
+        "promessa de oração"
+      ]
+    },
+    {
+      "id": "novena-divina-misericordia",
+      "titulo": "Novena da Divina Misericórdia",
+      "categoria": "novenas",
+      "tipo": "novena",
+      "tags": [
+        "misericórdia",
+        "novena",
+        "jesus"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para rezar durante nove dias por uma intenção, devoção ou preparação espiritual.",
+      "texto": "Novena da Divina Misericórdia\n\nEsta novena é um caminho de nove dias de oração, confiança e perseverança. Reze cada dia com calma, apresentando sua intenção a Deus e buscando crescer na fé.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [],
+      "dias": [
+        {
+          "dia": 1,
+          "titulo": "Dia 1",
+          "texto": "Senhor Deus, neste dia 1 desta novena, apresento minha intenção com fé e perseverança. Pela intercessão deste santo auxílio, ajudai-me a buscar antes de tudo a vossa vontade e a crescer em amor, confiança e conversão. Amém."
+        },
+        {
+          "dia": 2,
+          "titulo": "Dia 2",
+          "texto": "Senhor Deus, neste dia 2 desta novena, apresento minha intenção com fé e perseverança. Pela intercessão deste santo auxílio, ajudai-me a buscar antes de tudo a vossa vontade e a crescer em amor, confiança e conversão. Amém."
+        },
+        {
+          "dia": 3,
+          "titulo": "Dia 3",
+          "texto": "Senhor Deus, neste dia 3 desta novena, apresento minha intenção com fé e perseverança. Pela intercessão deste santo auxílio, ajudai-me a buscar antes de tudo a vossa vontade e a crescer em amor, confiança e conversão. Amém."
+        },
+        {
+          "dia": 4,
+          "titulo": "Dia 4",
+          "texto": "Senhor Deus, neste dia 4 desta novena, apresento minha intenção com fé e perseverança. Pela intercessão deste santo auxílio, ajudai-me a buscar antes de tudo a vossa vontade e a crescer em amor, confiança e conversão. Amém."
+        },
+        {
+          "dia": 5,
+          "titulo": "Dia 5",
+          "texto": "Senhor Deus, neste dia 5 desta novena, apresento minha intenção com fé e perseverança. Pela intercessão deste santo auxílio, ajudai-me a buscar antes de tudo a vossa vontade e a crescer em amor, confiança e conversão. Amém."
+        },
+        {
+          "dia": 6,
+          "titulo": "Dia 6",
+          "texto": "Senhor Deus, neste dia 6 desta novena, apresento minha intenção com fé e perseverança. Pela intercessão deste santo auxílio, ajudai-me a buscar antes de tudo a vossa vontade e a crescer em amor, confiança e conversão. Amém."
+        },
+        {
+          "dia": 7,
+          "titulo": "Dia 7",
+          "texto": "Senhor Deus, neste dia 7 desta novena, apresento minha intenção com fé e perseverança. Pela intercessão deste santo auxílio, ajudai-me a buscar antes de tudo a vossa vontade e a crescer em amor, confiança e conversão. Amém."
+        },
+        {
+          "dia": 8,
+          "titulo": "Dia 8",
+          "texto": "Senhor Deus, neste dia 8 desta novena, apresento minha intenção com fé e perseverança. Pela intercessão deste santo auxílio, ajudai-me a buscar antes de tudo a vossa vontade e a crescer em amor, confiança e conversão. Amém."
+        },
+        {
+          "dia": 9,
+          "titulo": "Dia 9",
+          "texto": "Senhor Deus, neste dia 9 desta novena, apresento minha intenção com fé e perseverança. Pela intercessão deste santo auxílio, ajudai-me a buscar antes de tudo a vossa vontade e a crescer em amor, confiança e conversão. Amém."
+        }
+      ],
+      "duracao": "novena",
+      "curadoria": {
+        "selo": "Novena guiada",
+        "familia": "novenas",
+        "uso": "caminho de 9 dias",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "devoção diária",
+        "nove dias",
+        "promessa de oração"
+      ]
+    },
+    {
+      "id": "novena-nossa-senhora-aparecida",
+      "titulo": "Novena de Nossa Senhora Aparecida",
+      "categoria": "novenas",
+      "tipo": "novena",
+      "tags": [
+        "aparecida",
+        "maria",
+        "novena"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para rezar durante nove dias por uma intenção, devoção ou preparação espiritual.",
+      "texto": "Novena de Nossa Senhora Aparecida\n\nEsta novena é um caminho de nove dias de oração, confiança e perseverança. Reze cada dia com calma, apresentando sua intenção a Deus e buscando crescer na fé.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [],
+      "dias": [
+        {
+          "dia": 1,
+          "titulo": "Dia 1",
+          "texto": "Senhor Deus, neste dia 1 desta novena, apresento minha intenção com fé e perseverança. Pela intercessão deste santo auxílio, ajudai-me a buscar antes de tudo a vossa vontade e a crescer em amor, confiança e conversão. Amém."
+        },
+        {
+          "dia": 2,
+          "titulo": "Dia 2",
+          "texto": "Senhor Deus, neste dia 2 desta novena, apresento minha intenção com fé e perseverança. Pela intercessão deste santo auxílio, ajudai-me a buscar antes de tudo a vossa vontade e a crescer em amor, confiança e conversão. Amém."
+        },
+        {
+          "dia": 3,
+          "titulo": "Dia 3",
+          "texto": "Senhor Deus, neste dia 3 desta novena, apresento minha intenção com fé e perseverança. Pela intercessão deste santo auxílio, ajudai-me a buscar antes de tudo a vossa vontade e a crescer em amor, confiança e conversão. Amém."
+        },
+        {
+          "dia": 4,
+          "titulo": "Dia 4",
+          "texto": "Senhor Deus, neste dia 4 desta novena, apresento minha intenção com fé e perseverança. Pela intercessão deste santo auxílio, ajudai-me a buscar antes de tudo a vossa vontade e a crescer em amor, confiança e conversão. Amém."
+        },
+        {
+          "dia": 5,
+          "titulo": "Dia 5",
+          "texto": "Senhor Deus, neste dia 5 desta novena, apresento minha intenção com fé e perseverança. Pela intercessão deste santo auxílio, ajudai-me a buscar antes de tudo a vossa vontade e a crescer em amor, confiança e conversão. Amém."
+        },
+        {
+          "dia": 6,
+          "titulo": "Dia 6",
+          "texto": "Senhor Deus, neste dia 6 desta novena, apresento minha intenção com fé e perseverança. Pela intercessão deste santo auxílio, ajudai-me a buscar antes de tudo a vossa vontade e a crescer em amor, confiança e conversão. Amém."
+        },
+        {
+          "dia": 7,
+          "titulo": "Dia 7",
+          "texto": "Senhor Deus, neste dia 7 desta novena, apresento minha intenção com fé e perseverança. Pela intercessão deste santo auxílio, ajudai-me a buscar antes de tudo a vossa vontade e a crescer em amor, confiança e conversão. Amém."
+        },
+        {
+          "dia": 8,
+          "titulo": "Dia 8",
+          "texto": "Senhor Deus, neste dia 8 desta novena, apresento minha intenção com fé e perseverança. Pela intercessão deste santo auxílio, ajudai-me a buscar antes de tudo a vossa vontade e a crescer em amor, confiança e conversão. Amém."
+        },
+        {
+          "dia": 9,
+          "titulo": "Dia 9",
+          "texto": "Senhor Deus, neste dia 9 desta novena, apresento minha intenção com fé e perseverança. Pela intercessão deste santo auxílio, ajudai-me a buscar antes de tudo a vossa vontade e a crescer em amor, confiança e conversão. Amém."
+        }
+      ],
+      "duracao": "novena",
+      "curadoria": {
+        "selo": "Novena guiada",
+        "familia": "novenas",
+        "uso": "caminho de 9 dias",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "devoção diária",
+        "nove dias",
+        "novena de mae de deus aparecida",
+        "novena de virgem maria aparecida",
+        "promessa de oração"
+      ]
+    },
+    {
+      "id": "novena-santa-rita",
+      "titulo": "Novena de Santa Rita de Cássia",
+      "categoria": "novenas",
+      "tipo": "novena",
+      "tags": [
+        "santa rita",
+        "causas impossíveis",
+        "novena"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para rezar durante nove dias por uma intenção, devoção ou preparação espiritual.",
+      "texto": "Novena de Santa Rita de Cássia\n\nEsta novena é um caminho de nove dias de oração, confiança e perseverança. Reze cada dia com calma, apresentando sua intenção a Deus e buscando crescer na fé.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [],
+      "dias": [
+        {
+          "dia": 1,
+          "titulo": "Dia 1",
+          "texto": "Senhor Deus, neste dia 1 desta novena, apresento minha intenção com fé e perseverança. Pela intercessão deste santo auxílio, ajudai-me a buscar antes de tudo a vossa vontade e a crescer em amor, confiança e conversão. Amém."
+        },
+        {
+          "dia": 2,
+          "titulo": "Dia 2",
+          "texto": "Senhor Deus, neste dia 2 desta novena, apresento minha intenção com fé e perseverança. Pela intercessão deste santo auxílio, ajudai-me a buscar antes de tudo a vossa vontade e a crescer em amor, confiança e conversão. Amém."
+        },
+        {
+          "dia": 3,
+          "titulo": "Dia 3",
+          "texto": "Senhor Deus, neste dia 3 desta novena, apresento minha intenção com fé e perseverança. Pela intercessão deste santo auxílio, ajudai-me a buscar antes de tudo a vossa vontade e a crescer em amor, confiança e conversão. Amém."
+        },
+        {
+          "dia": 4,
+          "titulo": "Dia 4",
+          "texto": "Senhor Deus, neste dia 4 desta novena, apresento minha intenção com fé e perseverança. Pela intercessão deste santo auxílio, ajudai-me a buscar antes de tudo a vossa vontade e a crescer em amor, confiança e conversão. Amém."
+        },
+        {
+          "dia": 5,
+          "titulo": "Dia 5",
+          "texto": "Senhor Deus, neste dia 5 desta novena, apresento minha intenção com fé e perseverança. Pela intercessão deste santo auxílio, ajudai-me a buscar antes de tudo a vossa vontade e a crescer em amor, confiança e conversão. Amém."
+        },
+        {
+          "dia": 6,
+          "titulo": "Dia 6",
+          "texto": "Senhor Deus, neste dia 6 desta novena, apresento minha intenção com fé e perseverança. Pela intercessão deste santo auxílio, ajudai-me a buscar antes de tudo a vossa vontade e a crescer em amor, confiança e conversão. Amém."
+        },
+        {
+          "dia": 7,
+          "titulo": "Dia 7",
+          "texto": "Senhor Deus, neste dia 7 desta novena, apresento minha intenção com fé e perseverança. Pela intercessão deste santo auxílio, ajudai-me a buscar antes de tudo a vossa vontade e a crescer em amor, confiança e conversão. Amém."
+        },
+        {
+          "dia": 8,
+          "titulo": "Dia 8",
+          "texto": "Senhor Deus, neste dia 8 desta novena, apresento minha intenção com fé e perseverança. Pela intercessão deste santo auxílio, ajudai-me a buscar antes de tudo a vossa vontade e a crescer em amor, confiança e conversão. Amém."
+        },
+        {
+          "dia": 9,
+          "titulo": "Dia 9",
+          "texto": "Senhor Deus, neste dia 9 desta novena, apresento minha intenção com fé e perseverança. Pela intercessão deste santo auxílio, ajudai-me a buscar antes de tudo a vossa vontade e a crescer em amor, confiança e conversão. Amém."
+        }
+      ],
+      "duracao": "novena",
+      "curadoria": {
+        "selo": "Novena guiada",
+        "familia": "novenas",
+        "uso": "caminho de 9 dias",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "devoção diária",
+        "nove dias",
+        "novena de rita de cassia",
+        "promessa de oração"
+      ]
+    },
+    {
+      "id": "novena-sao-miguel",
+      "titulo": "Novena de São Miguel Arcanjo",
+      "categoria": "novenas",
+      "tipo": "novena",
+      "tags": [
+        "são miguel",
+        "proteção",
+        "novena"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para rezar durante nove dias por uma intenção, devoção ou preparação espiritual.",
+      "texto": "Novena de São Miguel Arcanjo\n\nEsta novena é um caminho de nove dias de oração, confiança e perseverança. Reze cada dia com calma, apresentando sua intenção a Deus e buscando crescer na fé.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [],
+      "dias": [
+        {
+          "dia": 1,
+          "titulo": "Dia 1",
+          "texto": "Senhor Deus, neste dia 1 desta novena, apresento minha intenção com fé e perseverança. Pela intercessão deste santo auxílio, ajudai-me a buscar antes de tudo a vossa vontade e a crescer em amor, confiança e conversão. Amém."
+        },
+        {
+          "dia": 2,
+          "titulo": "Dia 2",
+          "texto": "Senhor Deus, neste dia 2 desta novena, apresento minha intenção com fé e perseverança. Pela intercessão deste santo auxílio, ajudai-me a buscar antes de tudo a vossa vontade e a crescer em amor, confiança e conversão. Amém."
+        },
+        {
+          "dia": 3,
+          "titulo": "Dia 3",
+          "texto": "Senhor Deus, neste dia 3 desta novena, apresento minha intenção com fé e perseverança. Pela intercessão deste santo auxílio, ajudai-me a buscar antes de tudo a vossa vontade e a crescer em amor, confiança e conversão. Amém."
+        },
+        {
+          "dia": 4,
+          "titulo": "Dia 4",
+          "texto": "Senhor Deus, neste dia 4 desta novena, apresento minha intenção com fé e perseverança. Pela intercessão deste santo auxílio, ajudai-me a buscar antes de tudo a vossa vontade e a crescer em amor, confiança e conversão. Amém."
+        },
+        {
+          "dia": 5,
+          "titulo": "Dia 5",
+          "texto": "Senhor Deus, neste dia 5 desta novena, apresento minha intenção com fé e perseverança. Pela intercessão deste santo auxílio, ajudai-me a buscar antes de tudo a vossa vontade e a crescer em amor, confiança e conversão. Amém."
+        },
+        {
+          "dia": 6,
+          "titulo": "Dia 6",
+          "texto": "Senhor Deus, neste dia 6 desta novena, apresento minha intenção com fé e perseverança. Pela intercessão deste santo auxílio, ajudai-me a buscar antes de tudo a vossa vontade e a crescer em amor, confiança e conversão. Amém."
+        },
+        {
+          "dia": 7,
+          "titulo": "Dia 7",
+          "texto": "Senhor Deus, neste dia 7 desta novena, apresento minha intenção com fé e perseverança. Pela intercessão deste santo auxílio, ajudai-me a buscar antes de tudo a vossa vontade e a crescer em amor, confiança e conversão. Amém."
+        },
+        {
+          "dia": 8,
+          "titulo": "Dia 8",
+          "texto": "Senhor Deus, neste dia 8 desta novena, apresento minha intenção com fé e perseverança. Pela intercessão deste santo auxílio, ajudai-me a buscar antes de tudo a vossa vontade e a crescer em amor, confiança e conversão. Amém."
+        },
+        {
+          "dia": 9,
+          "titulo": "Dia 9",
+          "texto": "Senhor Deus, neste dia 9 desta novena, apresento minha intenção com fé e perseverança. Pela intercessão deste santo auxílio, ajudai-me a buscar antes de tudo a vossa vontade e a crescer em amor, confiança e conversão. Amém."
+        }
+      ],
+      "duracao": "novena",
+      "curadoria": {
+        "selo": "Novena guiada",
+        "familia": "novenas",
+        "uso": "caminho de 9 dias",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "devoção diária",
+        "nove dias",
+        "novena de miguel arcanjo",
+        "promessa de oração"
+      ]
+    },
+    {
+      "id": "novena-santo-antonio",
+      "titulo": "Novena de Santo Antônio",
+      "categoria": "novenas",
+      "tipo": "novena",
+      "tags": [
+        "santo antônio",
+        "família",
+        "novena"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para rezar durante nove dias por uma intenção, devoção ou preparação espiritual.",
+      "texto": "Novena de Santo Antônio\n\nEsta novena é um caminho de nove dias de oração, confiança e perseverança. Reze cada dia com calma, apresentando sua intenção a Deus e buscando crescer na fé.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [],
+      "dias": [
+        {
+          "dia": 1,
+          "titulo": "Dia 1",
+          "texto": "Senhor Deus, neste dia 1 desta novena, apresento minha intenção com fé e perseverança. Pela intercessão deste santo auxílio, ajudai-me a buscar antes de tudo a vossa vontade e a crescer em amor, confiança e conversão. Amém."
+        },
+        {
+          "dia": 2,
+          "titulo": "Dia 2",
+          "texto": "Senhor Deus, neste dia 2 desta novena, apresento minha intenção com fé e perseverança. Pela intercessão deste santo auxílio, ajudai-me a buscar antes de tudo a vossa vontade e a crescer em amor, confiança e conversão. Amém."
+        },
+        {
+          "dia": 3,
+          "titulo": "Dia 3",
+          "texto": "Senhor Deus, neste dia 3 desta novena, apresento minha intenção com fé e perseverança. Pela intercessão deste santo auxílio, ajudai-me a buscar antes de tudo a vossa vontade e a crescer em amor, confiança e conversão. Amém."
+        },
+        {
+          "dia": 4,
+          "titulo": "Dia 4",
+          "texto": "Senhor Deus, neste dia 4 desta novena, apresento minha intenção com fé e perseverança. Pela intercessão deste santo auxílio, ajudai-me a buscar antes de tudo a vossa vontade e a crescer em amor, confiança e conversão. Amém."
+        },
+        {
+          "dia": 5,
+          "titulo": "Dia 5",
+          "texto": "Senhor Deus, neste dia 5 desta novena, apresento minha intenção com fé e perseverança. Pela intercessão deste santo auxílio, ajudai-me a buscar antes de tudo a vossa vontade e a crescer em amor, confiança e conversão. Amém."
+        },
+        {
+          "dia": 6,
+          "titulo": "Dia 6",
+          "texto": "Senhor Deus, neste dia 6 desta novena, apresento minha intenção com fé e perseverança. Pela intercessão deste santo auxílio, ajudai-me a buscar antes de tudo a vossa vontade e a crescer em amor, confiança e conversão. Amém."
+        },
+        {
+          "dia": 7,
+          "titulo": "Dia 7",
+          "texto": "Senhor Deus, neste dia 7 desta novena, apresento minha intenção com fé e perseverança. Pela intercessão deste santo auxílio, ajudai-me a buscar antes de tudo a vossa vontade e a crescer em amor, confiança e conversão. Amém."
+        },
+        {
+          "dia": 8,
+          "titulo": "Dia 8",
+          "texto": "Senhor Deus, neste dia 8 desta novena, apresento minha intenção com fé e perseverança. Pela intercessão deste santo auxílio, ajudai-me a buscar antes de tudo a vossa vontade e a crescer em amor, confiança e conversão. Amém."
+        },
+        {
+          "dia": 9,
+          "titulo": "Dia 9",
+          "texto": "Senhor Deus, neste dia 9 desta novena, apresento minha intenção com fé e perseverança. Pela intercessão deste santo auxílio, ajudai-me a buscar antes de tudo a vossa vontade e a crescer em amor, confiança e conversão. Amém."
+        }
+      ],
+      "duracao": "novena",
+      "curadoria": {
+        "selo": "Novena guiada",
+        "familia": "novenas",
+        "uso": "caminho de 9 dias",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "devoção diária",
+        "nove dias",
+        "novena de antonio",
+        "promessa de oração"
+      ]
+    },
+    {
+      "id": "novena-novena-a-sao-francisco-de-assis",
+      "titulo": "Novena a São Francisco de Assis",
+      "categoria": "novenas",
+      "tipo": "novena",
+      "tags": [
+        "novena",
+        "são francisco",
+        "paz",
+        "simplicidade"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para rezar durante nove dias por paz, simplicidade e reconciliação.",
+      "texto": "Novena a São Francisco de Assis\n\nEsta novena é um caminho de nove dias para rezar por paz, simplicidade e reconciliação. Reze cada dia com calma, mantendo a mesma intenção e buscando a vontade de Deus acima de tudo.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [],
+      "dias": [
+        {
+          "dia": 1,
+          "titulo": "Dia 1",
+          "texto": "Senhor Deus, neste dia 1 desta novena, apresento minha intenção com fé. Conduzi meu coração no caminho de paz, simplicidade e reconciliação, purificai meus desejos e ajudai-me a perseverar na oração. Por Cristo, nosso Senhor. Amém."
+        },
+        {
+          "dia": 2,
+          "titulo": "Dia 2",
+          "texto": "Senhor Deus, neste dia 2 desta novena, apresento minha intenção com fé. Conduzi meu coração no caminho de paz, simplicidade e reconciliação, purificai meus desejos e ajudai-me a perseverar na oração. Por Cristo, nosso Senhor. Amém."
+        },
+        {
+          "dia": 3,
+          "titulo": "Dia 3",
+          "texto": "Senhor Deus, neste dia 3 desta novena, apresento minha intenção com fé. Conduzi meu coração no caminho de paz, simplicidade e reconciliação, purificai meus desejos e ajudai-me a perseverar na oração. Por Cristo, nosso Senhor. Amém."
+        },
+        {
+          "dia": 4,
+          "titulo": "Dia 4",
+          "texto": "Senhor Deus, neste dia 4 desta novena, apresento minha intenção com fé. Conduzi meu coração no caminho de paz, simplicidade e reconciliação, purificai meus desejos e ajudai-me a perseverar na oração. Por Cristo, nosso Senhor. Amém."
+        },
+        {
+          "dia": 5,
+          "titulo": "Dia 5",
+          "texto": "Senhor Deus, neste dia 5 desta novena, apresento minha intenção com fé. Conduzi meu coração no caminho de paz, simplicidade e reconciliação, purificai meus desejos e ajudai-me a perseverar na oração. Por Cristo, nosso Senhor. Amém."
+        },
+        {
+          "dia": 6,
+          "titulo": "Dia 6",
+          "texto": "Senhor Deus, neste dia 6 desta novena, apresento minha intenção com fé. Conduzi meu coração no caminho de paz, simplicidade e reconciliação, purificai meus desejos e ajudai-me a perseverar na oração. Por Cristo, nosso Senhor. Amém."
+        },
+        {
+          "dia": 7,
+          "titulo": "Dia 7",
+          "texto": "Senhor Deus, neste dia 7 desta novena, apresento minha intenção com fé. Conduzi meu coração no caminho de paz, simplicidade e reconciliação, purificai meus desejos e ajudai-me a perseverar na oração. Por Cristo, nosso Senhor. Amém."
+        },
+        {
+          "dia": 8,
+          "titulo": "Dia 8",
+          "texto": "Senhor Deus, neste dia 8 desta novena, apresento minha intenção com fé. Conduzi meu coração no caminho de paz, simplicidade e reconciliação, purificai meus desejos e ajudai-me a perseverar na oração. Por Cristo, nosso Senhor. Amém."
+        },
+        {
+          "dia": 9,
+          "titulo": "Dia 9",
+          "texto": "Senhor Deus, neste dia 9 desta novena, apresento minha intenção com fé. Conduzi meu coração no caminho de paz, simplicidade e reconciliação, purificai meus desejos e ajudai-me a perseverar na oração. Por Cristo, nosso Senhor. Amém."
+        }
+      ],
+      "duracao": "novena",
+      "curadoria": {
+        "selo": "Novena guiada",
+        "familia": "novenas",
+        "uso": "caminho de 9 dias",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "devoção diária",
+        "nove dias",
+        "novena a francisco de assis",
+        "promessa de oração"
+      ]
+    },
+    {
+      "id": "novena-novena-a-santo-agostinho",
+      "titulo": "Novena a Santo Agostinho",
+      "categoria": "novenas",
+      "tipo": "novena",
+      "tags": [
+        "novena",
+        "santo agostinho",
+        "conversão",
+        "verdade"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para rezar durante nove dias por conversão e busca da verdade.",
+      "texto": "Novena a Santo Agostinho\n\nEsta novena é um caminho de nove dias para rezar por conversão e busca da verdade. Reze cada dia com calma, mantendo a mesma intenção e buscando a vontade de Deus acima de tudo.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [],
+      "dias": [
+        {
+          "dia": 1,
+          "titulo": "Dia 1",
+          "texto": "Senhor Deus, neste dia 1 desta novena, apresento minha intenção com fé. Conduzi meu coração no caminho de conversão e busca da verdade, purificai meus desejos e ajudai-me a perseverar na oração. Por Cristo, nosso Senhor. Amém."
+        },
+        {
+          "dia": 2,
+          "titulo": "Dia 2",
+          "texto": "Senhor Deus, neste dia 2 desta novena, apresento minha intenção com fé. Conduzi meu coração no caminho de conversão e busca da verdade, purificai meus desejos e ajudai-me a perseverar na oração. Por Cristo, nosso Senhor. Amém."
+        },
+        {
+          "dia": 3,
+          "titulo": "Dia 3",
+          "texto": "Senhor Deus, neste dia 3 desta novena, apresento minha intenção com fé. Conduzi meu coração no caminho de conversão e busca da verdade, purificai meus desejos e ajudai-me a perseverar na oração. Por Cristo, nosso Senhor. Amém."
+        },
+        {
+          "dia": 4,
+          "titulo": "Dia 4",
+          "texto": "Senhor Deus, neste dia 4 desta novena, apresento minha intenção com fé. Conduzi meu coração no caminho de conversão e busca da verdade, purificai meus desejos e ajudai-me a perseverar na oração. Por Cristo, nosso Senhor. Amém."
+        },
+        {
+          "dia": 5,
+          "titulo": "Dia 5",
+          "texto": "Senhor Deus, neste dia 5 desta novena, apresento minha intenção com fé. Conduzi meu coração no caminho de conversão e busca da verdade, purificai meus desejos e ajudai-me a perseverar na oração. Por Cristo, nosso Senhor. Amém."
+        },
+        {
+          "dia": 6,
+          "titulo": "Dia 6",
+          "texto": "Senhor Deus, neste dia 6 desta novena, apresento minha intenção com fé. Conduzi meu coração no caminho de conversão e busca da verdade, purificai meus desejos e ajudai-me a perseverar na oração. Por Cristo, nosso Senhor. Amém."
+        },
+        {
+          "dia": 7,
+          "titulo": "Dia 7",
+          "texto": "Senhor Deus, neste dia 7 desta novena, apresento minha intenção com fé. Conduzi meu coração no caminho de conversão e busca da verdade, purificai meus desejos e ajudai-me a perseverar na oração. Por Cristo, nosso Senhor. Amém."
+        },
+        {
+          "dia": 8,
+          "titulo": "Dia 8",
+          "texto": "Senhor Deus, neste dia 8 desta novena, apresento minha intenção com fé. Conduzi meu coração no caminho de conversão e busca da verdade, purificai meus desejos e ajudai-me a perseverar na oração. Por Cristo, nosso Senhor. Amém."
+        },
+        {
+          "dia": 9,
+          "titulo": "Dia 9",
+          "texto": "Senhor Deus, neste dia 9 desta novena, apresento minha intenção com fé. Conduzi meu coração no caminho de conversão e busca da verdade, purificai meus desejos e ajudai-me a perseverar na oração. Por Cristo, nosso Senhor. Amém."
+        }
+      ],
+      "duracao": "novena",
+      "curadoria": {
+        "selo": "Novena guiada",
+        "familia": "novenas",
+        "uso": "caminho de 9 dias",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "devoção diária",
+        "nove dias",
+        "novena a agostinho",
+        "promessa de oração"
+      ]
+    },
+    {
+      "id": "novena-novena-a-sao-tomas-de-aquino",
+      "titulo": "Novena a São Tomás de Aquino",
+      "categoria": "novenas",
+      "tipo": "novena",
+      "tags": [
+        "novena",
+        "são tomás",
+        "estudo",
+        "sabedoria"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para rezar durante nove dias por estudo, provas e sabedoria.",
+      "texto": "Novena a São Tomás de Aquino\n\nEsta novena é um caminho de nove dias para rezar por estudo, provas e sabedoria. Reze cada dia com calma, mantendo a mesma intenção e buscando a vontade de Deus acima de tudo.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [],
+      "dias": [
+        {
+          "dia": 1,
+          "titulo": "Dia 1",
+          "texto": "Senhor Deus, neste dia 1 desta novena, apresento minha intenção com fé. Conduzi meu coração no caminho de estudo, provas e sabedoria, purificai meus desejos e ajudai-me a perseverar na oração. Por Cristo, nosso Senhor. Amém."
+        },
+        {
+          "dia": 2,
+          "titulo": "Dia 2",
+          "texto": "Senhor Deus, neste dia 2 desta novena, apresento minha intenção com fé. Conduzi meu coração no caminho de estudo, provas e sabedoria, purificai meus desejos e ajudai-me a perseverar na oração. Por Cristo, nosso Senhor. Amém."
+        },
+        {
+          "dia": 3,
+          "titulo": "Dia 3",
+          "texto": "Senhor Deus, neste dia 3 desta novena, apresento minha intenção com fé. Conduzi meu coração no caminho de estudo, provas e sabedoria, purificai meus desejos e ajudai-me a perseverar na oração. Por Cristo, nosso Senhor. Amém."
+        },
+        {
+          "dia": 4,
+          "titulo": "Dia 4",
+          "texto": "Senhor Deus, neste dia 4 desta novena, apresento minha intenção com fé. Conduzi meu coração no caminho de estudo, provas e sabedoria, purificai meus desejos e ajudai-me a perseverar na oração. Por Cristo, nosso Senhor. Amém."
+        },
+        {
+          "dia": 5,
+          "titulo": "Dia 5",
+          "texto": "Senhor Deus, neste dia 5 desta novena, apresento minha intenção com fé. Conduzi meu coração no caminho de estudo, provas e sabedoria, purificai meus desejos e ajudai-me a perseverar na oração. Por Cristo, nosso Senhor. Amém."
+        },
+        {
+          "dia": 6,
+          "titulo": "Dia 6",
+          "texto": "Senhor Deus, neste dia 6 desta novena, apresento minha intenção com fé. Conduzi meu coração no caminho de estudo, provas e sabedoria, purificai meus desejos e ajudai-me a perseverar na oração. Por Cristo, nosso Senhor. Amém."
+        },
+        {
+          "dia": 7,
+          "titulo": "Dia 7",
+          "texto": "Senhor Deus, neste dia 7 desta novena, apresento minha intenção com fé. Conduzi meu coração no caminho de estudo, provas e sabedoria, purificai meus desejos e ajudai-me a perseverar na oração. Por Cristo, nosso Senhor. Amém."
+        },
+        {
+          "dia": 8,
+          "titulo": "Dia 8",
+          "texto": "Senhor Deus, neste dia 8 desta novena, apresento minha intenção com fé. Conduzi meu coração no caminho de estudo, provas e sabedoria, purificai meus desejos e ajudai-me a perseverar na oração. Por Cristo, nosso Senhor. Amém."
+        },
+        {
+          "dia": 9,
+          "titulo": "Dia 9",
+          "texto": "Senhor Deus, neste dia 9 desta novena, apresento minha intenção com fé. Conduzi meu coração no caminho de estudo, provas e sabedoria, purificai meus desejos e ajudai-me a perseverar na oração. Por Cristo, nosso Senhor. Amém."
+        }
+      ],
+      "duracao": "novena",
+      "curadoria": {
+        "selo": "Novena guiada",
+        "familia": "novenas",
+        "uso": "caminho de 9 dias",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "devoção diária",
+        "nove dias",
+        "novena a tomas de aquino",
+        "promessa de oração"
+      ]
+    },
+    {
+      "id": "novena-novena-a-nossa-senhora-de-fatima",
+      "titulo": "Novena a Nossa Senhora de Fátima",
+      "categoria": "novenas",
+      "tipo": "novena",
+      "tags": [
+        "novena",
+        "fátima",
+        "maria",
+        "conversão"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para rezar durante nove dias por conversão, oração e paz.",
+      "texto": "Novena a Nossa Senhora de Fátima\n\nEsta novena é um caminho de nove dias para rezar por conversão, oração e paz. Reze cada dia com calma, mantendo a mesma intenção e buscando a vontade de Deus acima de tudo.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [],
+      "dias": [
+        {
+          "dia": 1,
+          "titulo": "Dia 1",
+          "texto": "Senhor Deus, neste dia 1 desta novena, apresento minha intenção com fé. Conduzi meu coração no caminho de conversão, oração e paz, purificai meus desejos e ajudai-me a perseverar na oração. Por Cristo, nosso Senhor. Amém."
+        },
+        {
+          "dia": 2,
+          "titulo": "Dia 2",
+          "texto": "Senhor Deus, neste dia 2 desta novena, apresento minha intenção com fé. Conduzi meu coração no caminho de conversão, oração e paz, purificai meus desejos e ajudai-me a perseverar na oração. Por Cristo, nosso Senhor. Amém."
+        },
+        {
+          "dia": 3,
+          "titulo": "Dia 3",
+          "texto": "Senhor Deus, neste dia 3 desta novena, apresento minha intenção com fé. Conduzi meu coração no caminho de conversão, oração e paz, purificai meus desejos e ajudai-me a perseverar na oração. Por Cristo, nosso Senhor. Amém."
+        },
+        {
+          "dia": 4,
+          "titulo": "Dia 4",
+          "texto": "Senhor Deus, neste dia 4 desta novena, apresento minha intenção com fé. Conduzi meu coração no caminho de conversão, oração e paz, purificai meus desejos e ajudai-me a perseverar na oração. Por Cristo, nosso Senhor. Amém."
+        },
+        {
+          "dia": 5,
+          "titulo": "Dia 5",
+          "texto": "Senhor Deus, neste dia 5 desta novena, apresento minha intenção com fé. Conduzi meu coração no caminho de conversão, oração e paz, purificai meus desejos e ajudai-me a perseverar na oração. Por Cristo, nosso Senhor. Amém."
+        },
+        {
+          "dia": 6,
+          "titulo": "Dia 6",
+          "texto": "Senhor Deus, neste dia 6 desta novena, apresento minha intenção com fé. Conduzi meu coração no caminho de conversão, oração e paz, purificai meus desejos e ajudai-me a perseverar na oração. Por Cristo, nosso Senhor. Amém."
+        },
+        {
+          "dia": 7,
+          "titulo": "Dia 7",
+          "texto": "Senhor Deus, neste dia 7 desta novena, apresento minha intenção com fé. Conduzi meu coração no caminho de conversão, oração e paz, purificai meus desejos e ajudai-me a perseverar na oração. Por Cristo, nosso Senhor. Amém."
+        },
+        {
+          "dia": 8,
+          "titulo": "Dia 8",
+          "texto": "Senhor Deus, neste dia 8 desta novena, apresento minha intenção com fé. Conduzi meu coração no caminho de conversão, oração e paz, purificai meus desejos e ajudai-me a perseverar na oração. Por Cristo, nosso Senhor. Amém."
+        },
+        {
+          "dia": 9,
+          "titulo": "Dia 9",
+          "texto": "Senhor Deus, neste dia 9 desta novena, apresento minha intenção com fé. Conduzi meu coração no caminho de conversão, oração e paz, purificai meus desejos e ajudai-me a perseverar na oração. Por Cristo, nosso Senhor. Amém."
+        }
+      ],
+      "duracao": "novena",
+      "curadoria": {
+        "selo": "Novena guiada",
+        "familia": "novenas",
+        "uso": "caminho de 9 dias",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "devoção diária",
+        "nove dias",
+        "novena a mae de deus de fatima",
+        "novena a virgem maria de fatima",
+        "promessa de oração"
+      ]
+    },
+    {
+      "id": "novena-novena-ao-sagrado-coracao-de-jesus",
+      "titulo": "Novena ao Sagrado Coração de Jesus",
+      "categoria": "novenas",
+      "tipo": "novena",
+      "tags": [
+        "novena",
+        "sagrado coração",
+        "jesus",
+        "confiança"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para rezar durante nove dias por confiança no amor de Cristo.",
+      "texto": "Novena ao Sagrado Coração de Jesus\n\nEsta novena é um caminho de nove dias para rezar por confiança no amor de Cristo. Reze cada dia com calma, mantendo a mesma intenção e buscando a vontade de Deus acima de tudo.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [],
+      "dias": [
+        {
+          "dia": 1,
+          "titulo": "Dia 1",
+          "texto": "Senhor Deus, neste dia 1 desta novena, apresento minha intenção com fé. Conduzi meu coração no caminho de confiança no amor de Cristo, purificai meus desejos e ajudai-me a perseverar na oração. Por Cristo, nosso Senhor. Amém."
+        },
+        {
+          "dia": 2,
+          "titulo": "Dia 2",
+          "texto": "Senhor Deus, neste dia 2 desta novena, apresento minha intenção com fé. Conduzi meu coração no caminho de confiança no amor de Cristo, purificai meus desejos e ajudai-me a perseverar na oração. Por Cristo, nosso Senhor. Amém."
+        },
+        {
+          "dia": 3,
+          "titulo": "Dia 3",
+          "texto": "Senhor Deus, neste dia 3 desta novena, apresento minha intenção com fé. Conduzi meu coração no caminho de confiança no amor de Cristo, purificai meus desejos e ajudai-me a perseverar na oração. Por Cristo, nosso Senhor. Amém."
+        },
+        {
+          "dia": 4,
+          "titulo": "Dia 4",
+          "texto": "Senhor Deus, neste dia 4 desta novena, apresento minha intenção com fé. Conduzi meu coração no caminho de confiança no amor de Cristo, purificai meus desejos e ajudai-me a perseverar na oração. Por Cristo, nosso Senhor. Amém."
+        },
+        {
+          "dia": 5,
+          "titulo": "Dia 5",
+          "texto": "Senhor Deus, neste dia 5 desta novena, apresento minha intenção com fé. Conduzi meu coração no caminho de confiança no amor de Cristo, purificai meus desejos e ajudai-me a perseverar na oração. Por Cristo, nosso Senhor. Amém."
+        },
+        {
+          "dia": 6,
+          "titulo": "Dia 6",
+          "texto": "Senhor Deus, neste dia 6 desta novena, apresento minha intenção com fé. Conduzi meu coração no caminho de confiança no amor de Cristo, purificai meus desejos e ajudai-me a perseverar na oração. Por Cristo, nosso Senhor. Amém."
+        },
+        {
+          "dia": 7,
+          "titulo": "Dia 7",
+          "texto": "Senhor Deus, neste dia 7 desta novena, apresento minha intenção com fé. Conduzi meu coração no caminho de confiança no amor de Cristo, purificai meus desejos e ajudai-me a perseverar na oração. Por Cristo, nosso Senhor. Amém."
+        },
+        {
+          "dia": 8,
+          "titulo": "Dia 8",
+          "texto": "Senhor Deus, neste dia 8 desta novena, apresento minha intenção com fé. Conduzi meu coração no caminho de confiança no amor de Cristo, purificai meus desejos e ajudai-me a perseverar na oração. Por Cristo, nosso Senhor. Amém."
+        },
+        {
+          "dia": 9,
+          "titulo": "Dia 9",
+          "texto": "Senhor Deus, neste dia 9 desta novena, apresento minha intenção com fé. Conduzi meu coração no caminho de confiança no amor de Cristo, purificai meus desejos e ajudai-me a perseverar na oração. Por Cristo, nosso Senhor. Amém."
+        }
+      ],
+      "duracao": "novena",
+      "curadoria": {
+        "selo": "Novena guiada",
+        "familia": "novenas",
+        "uso": "caminho de 9 dias",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "devoção diária",
+        "nove dias",
+        "promessa de oração"
+      ]
+    },
+    {
+      "id": "novena-novena-a-nossa-senhora-desatadora-dos-nos",
+      "titulo": "Novena a Nossa Senhora Desatadora dos Nós",
+      "categoria": "novenas",
+      "tipo": "novena",
+      "tags": [
+        "novena",
+        "desatadora",
+        "maria",
+        "nós"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para rezar durante nove dias por situações difíceis e reconciliação.",
+      "texto": "Novena a Nossa Senhora Desatadora dos Nós\n\nEsta novena é um caminho de nove dias para rezar por situações difíceis e reconciliação. Reze cada dia com calma, mantendo a mesma intenção e buscando a vontade de Deus acima de tudo.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [],
+      "dias": [
+        {
+          "dia": 1,
+          "titulo": "Dia 1",
+          "texto": "Senhor Deus, neste dia 1 desta novena, apresento minha intenção com fé. Conduzi meu coração no caminho de situações difíceis e reconciliação, purificai meus desejos e ajudai-me a perseverar na oração. Por Cristo, nosso Senhor. Amém."
+        },
+        {
+          "dia": 2,
+          "titulo": "Dia 2",
+          "texto": "Senhor Deus, neste dia 2 desta novena, apresento minha intenção com fé. Conduzi meu coração no caminho de situações difíceis e reconciliação, purificai meus desejos e ajudai-me a perseverar na oração. Por Cristo, nosso Senhor. Amém."
+        },
+        {
+          "dia": 3,
+          "titulo": "Dia 3",
+          "texto": "Senhor Deus, neste dia 3 desta novena, apresento minha intenção com fé. Conduzi meu coração no caminho de situações difíceis e reconciliação, purificai meus desejos e ajudai-me a perseverar na oração. Por Cristo, nosso Senhor. Amém."
+        },
+        {
+          "dia": 4,
+          "titulo": "Dia 4",
+          "texto": "Senhor Deus, neste dia 4 desta novena, apresento minha intenção com fé. Conduzi meu coração no caminho de situações difíceis e reconciliação, purificai meus desejos e ajudai-me a perseverar na oração. Por Cristo, nosso Senhor. Amém."
+        },
+        {
+          "dia": 5,
+          "titulo": "Dia 5",
+          "texto": "Senhor Deus, neste dia 5 desta novena, apresento minha intenção com fé. Conduzi meu coração no caminho de situações difíceis e reconciliação, purificai meus desejos e ajudai-me a perseverar na oração. Por Cristo, nosso Senhor. Amém."
+        },
+        {
+          "dia": 6,
+          "titulo": "Dia 6",
+          "texto": "Senhor Deus, neste dia 6 desta novena, apresento minha intenção com fé. Conduzi meu coração no caminho de situações difíceis e reconciliação, purificai meus desejos e ajudai-me a perseverar na oração. Por Cristo, nosso Senhor. Amém."
+        },
+        {
+          "dia": 7,
+          "titulo": "Dia 7",
+          "texto": "Senhor Deus, neste dia 7 desta novena, apresento minha intenção com fé. Conduzi meu coração no caminho de situações difíceis e reconciliação, purificai meus desejos e ajudai-me a perseverar na oração. Por Cristo, nosso Senhor. Amém."
+        },
+        {
+          "dia": 8,
+          "titulo": "Dia 8",
+          "texto": "Senhor Deus, neste dia 8 desta novena, apresento minha intenção com fé. Conduzi meu coração no caminho de situações difíceis e reconciliação, purificai meus desejos e ajudai-me a perseverar na oração. Por Cristo, nosso Senhor. Amém."
+        },
+        {
+          "dia": 9,
+          "titulo": "Dia 9",
+          "texto": "Senhor Deus, neste dia 9 desta novena, apresento minha intenção com fé. Conduzi meu coração no caminho de situações difíceis e reconciliação, purificai meus desejos e ajudai-me a perseverar na oração. Por Cristo, nosso Senhor. Amém."
+        }
+      ],
+      "duracao": "novena",
+      "curadoria": {
+        "selo": "Novena guiada",
+        "familia": "novenas",
+        "uso": "caminho de 9 dias",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "devoção diária",
+        "nove dias",
+        "novena a mae de deus desatadora dos nos",
+        "novena a virgem maria desatadora dos nos",
+        "promessa de oração"
+      ]
+    },
+    {
+      "id": "novena-novena-a-sao-padre-pio",
+      "titulo": "Novena a São Padre Pio",
+      "categoria": "novenas",
+      "tipo": "novena",
+      "tags": [
+        "novena",
+        "padre pio",
+        "cura",
+        "confissão"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para rezar durante nove dias por cura, confissão e fortaleza.",
+      "texto": "Novena a São Padre Pio\n\nEsta novena é um caminho de nove dias para rezar por cura, confissão e fortaleza. Reze cada dia com calma, mantendo a mesma intenção e buscando a vontade de Deus acima de tudo.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [],
+      "dias": [
+        {
+          "dia": 1,
+          "titulo": "Dia 1",
+          "texto": "Senhor Deus, neste dia 1 desta novena, apresento minha intenção com fé. Conduzi meu coração no caminho de cura, confissão e fortaleza, purificai meus desejos e ajudai-me a perseverar na oração. Por Cristo, nosso Senhor. Amém."
+        },
+        {
+          "dia": 2,
+          "titulo": "Dia 2",
+          "texto": "Senhor Deus, neste dia 2 desta novena, apresento minha intenção com fé. Conduzi meu coração no caminho de cura, confissão e fortaleza, purificai meus desejos e ajudai-me a perseverar na oração. Por Cristo, nosso Senhor. Amém."
+        },
+        {
+          "dia": 3,
+          "titulo": "Dia 3",
+          "texto": "Senhor Deus, neste dia 3 desta novena, apresento minha intenção com fé. Conduzi meu coração no caminho de cura, confissão e fortaleza, purificai meus desejos e ajudai-me a perseverar na oração. Por Cristo, nosso Senhor. Amém."
+        },
+        {
+          "dia": 4,
+          "titulo": "Dia 4",
+          "texto": "Senhor Deus, neste dia 4 desta novena, apresento minha intenção com fé. Conduzi meu coração no caminho de cura, confissão e fortaleza, purificai meus desejos e ajudai-me a perseverar na oração. Por Cristo, nosso Senhor. Amém."
+        },
+        {
+          "dia": 5,
+          "titulo": "Dia 5",
+          "texto": "Senhor Deus, neste dia 5 desta novena, apresento minha intenção com fé. Conduzi meu coração no caminho de cura, confissão e fortaleza, purificai meus desejos e ajudai-me a perseverar na oração. Por Cristo, nosso Senhor. Amém."
+        },
+        {
+          "dia": 6,
+          "titulo": "Dia 6",
+          "texto": "Senhor Deus, neste dia 6 desta novena, apresento minha intenção com fé. Conduzi meu coração no caminho de cura, confissão e fortaleza, purificai meus desejos e ajudai-me a perseverar na oração. Por Cristo, nosso Senhor. Amém."
+        },
+        {
+          "dia": 7,
+          "titulo": "Dia 7",
+          "texto": "Senhor Deus, neste dia 7 desta novena, apresento minha intenção com fé. Conduzi meu coração no caminho de cura, confissão e fortaleza, purificai meus desejos e ajudai-me a perseverar na oração. Por Cristo, nosso Senhor. Amém."
+        },
+        {
+          "dia": 8,
+          "titulo": "Dia 8",
+          "texto": "Senhor Deus, neste dia 8 desta novena, apresento minha intenção com fé. Conduzi meu coração no caminho de cura, confissão e fortaleza, purificai meus desejos e ajudai-me a perseverar na oração. Por Cristo, nosso Senhor. Amém."
+        },
+        {
+          "dia": 9,
+          "titulo": "Dia 9",
+          "texto": "Senhor Deus, neste dia 9 desta novena, apresento minha intenção com fé. Conduzi meu coração no caminho de cura, confissão e fortaleza, purificai meus desejos e ajudai-me a perseverar na oração. Por Cristo, nosso Senhor. Amém."
+        }
+      ],
+      "duracao": "novena",
+      "curadoria": {
+        "selo": "Novena guiada",
+        "familia": "novenas",
+        "uso": "caminho de 9 dias",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "devoção diária",
+        "nove dias",
+        "novena a padre pio",
+        "promessa de oração"
+      ]
+    },
+    {
+      "id": "novena-novena-a-santa-teresinha",
+      "titulo": "Novena a Santa Teresinha",
+      "categoria": "novenas",
+      "tipo": "novena",
+      "tags": [
+        "novena",
+        "teresinha",
+        "simplicidade",
+        "confiança"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para rezar durante nove dias por confiança e pequena via.",
+      "texto": "Novena a Santa Teresinha\n\nEsta novena é um caminho de nove dias para rezar por confiança e pequena via. Reze cada dia com calma, mantendo a mesma intenção e buscando a vontade de Deus acima de tudo.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [],
+      "dias": [
+        {
+          "dia": 1,
+          "titulo": "Dia 1",
+          "texto": "Senhor Deus, neste dia 1 desta novena, apresento minha intenção com fé. Conduzi meu coração no caminho de confiança e pequena via, purificai meus desejos e ajudai-me a perseverar na oração. Por Cristo, nosso Senhor. Amém."
+        },
+        {
+          "dia": 2,
+          "titulo": "Dia 2",
+          "texto": "Senhor Deus, neste dia 2 desta novena, apresento minha intenção com fé. Conduzi meu coração no caminho de confiança e pequena via, purificai meus desejos e ajudai-me a perseverar na oração. Por Cristo, nosso Senhor. Amém."
+        },
+        {
+          "dia": 3,
+          "titulo": "Dia 3",
+          "texto": "Senhor Deus, neste dia 3 desta novena, apresento minha intenção com fé. Conduzi meu coração no caminho de confiança e pequena via, purificai meus desejos e ajudai-me a perseverar na oração. Por Cristo, nosso Senhor. Amém."
+        },
+        {
+          "dia": 4,
+          "titulo": "Dia 4",
+          "texto": "Senhor Deus, neste dia 4 desta novena, apresento minha intenção com fé. Conduzi meu coração no caminho de confiança e pequena via, purificai meus desejos e ajudai-me a perseverar na oração. Por Cristo, nosso Senhor. Amém."
+        },
+        {
+          "dia": 5,
+          "titulo": "Dia 5",
+          "texto": "Senhor Deus, neste dia 5 desta novena, apresento minha intenção com fé. Conduzi meu coração no caminho de confiança e pequena via, purificai meus desejos e ajudai-me a perseverar na oração. Por Cristo, nosso Senhor. Amém."
+        },
+        {
+          "dia": 6,
+          "titulo": "Dia 6",
+          "texto": "Senhor Deus, neste dia 6 desta novena, apresento minha intenção com fé. Conduzi meu coração no caminho de confiança e pequena via, purificai meus desejos e ajudai-me a perseverar na oração. Por Cristo, nosso Senhor. Amém."
+        },
+        {
+          "dia": 7,
+          "titulo": "Dia 7",
+          "texto": "Senhor Deus, neste dia 7 desta novena, apresento minha intenção com fé. Conduzi meu coração no caminho de confiança e pequena via, purificai meus desejos e ajudai-me a perseverar na oração. Por Cristo, nosso Senhor. Amém."
+        },
+        {
+          "dia": 8,
+          "titulo": "Dia 8",
+          "texto": "Senhor Deus, neste dia 8 desta novena, apresento minha intenção com fé. Conduzi meu coração no caminho de confiança e pequena via, purificai meus desejos e ajudai-me a perseverar na oração. Por Cristo, nosso Senhor. Amém."
+        },
+        {
+          "dia": 9,
+          "titulo": "Dia 9",
+          "texto": "Senhor Deus, neste dia 9 desta novena, apresento minha intenção com fé. Conduzi meu coração no caminho de confiança e pequena via, purificai meus desejos e ajudai-me a perseverar na oração. Por Cristo, nosso Senhor. Amém."
+        }
+      ],
+      "duracao": "novena",
+      "curadoria": {
+        "selo": "Novena guiada",
+        "familia": "novenas",
+        "uso": "caminho de 9 dias",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "devoção diária",
+        "nove dias",
+        "novena a teresinha",
+        "promessa de oração"
+      ]
+    },
+    {
+      "id": "novena-novena-a-sao-bento",
+      "titulo": "Novena a São Bento",
+      "categoria": "novenas",
+      "tipo": "novena",
+      "tags": [
+        "novena",
+        "são bento",
+        "proteção",
+        "disciplina"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para rezar durante nove dias por proteção espiritual e disciplina.",
+      "texto": "Novena a São Bento\n\nEsta novena é um caminho de nove dias para rezar por proteção espiritual e disciplina. Reze cada dia com calma, mantendo a mesma intenção e buscando a vontade de Deus acima de tudo.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [],
+      "dias": [
+        {
+          "dia": 1,
+          "titulo": "Dia 1",
+          "texto": "Senhor Deus, neste dia 1 desta novena, apresento minha intenção com fé. Conduzi meu coração no caminho de proteção espiritual e disciplina, purificai meus desejos e ajudai-me a perseverar na oração. Por Cristo, nosso Senhor. Amém."
+        },
+        {
+          "dia": 2,
+          "titulo": "Dia 2",
+          "texto": "Senhor Deus, neste dia 2 desta novena, apresento minha intenção com fé. Conduzi meu coração no caminho de proteção espiritual e disciplina, purificai meus desejos e ajudai-me a perseverar na oração. Por Cristo, nosso Senhor. Amém."
+        },
+        {
+          "dia": 3,
+          "titulo": "Dia 3",
+          "texto": "Senhor Deus, neste dia 3 desta novena, apresento minha intenção com fé. Conduzi meu coração no caminho de proteção espiritual e disciplina, purificai meus desejos e ajudai-me a perseverar na oração. Por Cristo, nosso Senhor. Amém."
+        },
+        {
+          "dia": 4,
+          "titulo": "Dia 4",
+          "texto": "Senhor Deus, neste dia 4 desta novena, apresento minha intenção com fé. Conduzi meu coração no caminho de proteção espiritual e disciplina, purificai meus desejos e ajudai-me a perseverar na oração. Por Cristo, nosso Senhor. Amém."
+        },
+        {
+          "dia": 5,
+          "titulo": "Dia 5",
+          "texto": "Senhor Deus, neste dia 5 desta novena, apresento minha intenção com fé. Conduzi meu coração no caminho de proteção espiritual e disciplina, purificai meus desejos e ajudai-me a perseverar na oração. Por Cristo, nosso Senhor. Amém."
+        },
+        {
+          "dia": 6,
+          "titulo": "Dia 6",
+          "texto": "Senhor Deus, neste dia 6 desta novena, apresento minha intenção com fé. Conduzi meu coração no caminho de proteção espiritual e disciplina, purificai meus desejos e ajudai-me a perseverar na oração. Por Cristo, nosso Senhor. Amém."
+        },
+        {
+          "dia": 7,
+          "titulo": "Dia 7",
+          "texto": "Senhor Deus, neste dia 7 desta novena, apresento minha intenção com fé. Conduzi meu coração no caminho de proteção espiritual e disciplina, purificai meus desejos e ajudai-me a perseverar na oração. Por Cristo, nosso Senhor. Amém."
+        },
+        {
+          "dia": 8,
+          "titulo": "Dia 8",
+          "texto": "Senhor Deus, neste dia 8 desta novena, apresento minha intenção com fé. Conduzi meu coração no caminho de proteção espiritual e disciplina, purificai meus desejos e ajudai-me a perseverar na oração. Por Cristo, nosso Senhor. Amém."
+        },
+        {
+          "dia": 9,
+          "titulo": "Dia 9",
+          "texto": "Senhor Deus, neste dia 9 desta novena, apresento minha intenção com fé. Conduzi meu coração no caminho de proteção espiritual e disciplina, purificai meus desejos e ajudai-me a perseverar na oração. Por Cristo, nosso Senhor. Amém."
+        }
+      ],
+      "duracao": "novena",
+      "curadoria": {
+        "selo": "Novena guiada",
+        "familia": "novenas",
+        "uso": "caminho de 9 dias",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "devoção diária",
+        "nove dias",
+        "novena a bento",
+        "promessa de oração"
+      ]
+    },
+    {
+      "id": "novena-novena-a-santa-monica",
+      "titulo": "Novena a Santa Mônica",
+      "categoria": "novenas",
+      "tipo": "novena",
+      "tags": [
+        "novena",
+        "santa mônica",
+        "filhos",
+        "conversão"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para rezar durante nove dias por conversão de filhos e familiares.",
+      "texto": "Novena a Santa Mônica\n\nEsta novena é um caminho de nove dias para rezar por conversão de filhos e familiares. Reze cada dia com calma, mantendo a mesma intenção e buscando a vontade de Deus acima de tudo.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [],
+      "dias": [
+        {
+          "dia": 1,
+          "titulo": "Dia 1",
+          "texto": "Senhor Deus, neste dia 1 desta novena, apresento minha intenção com fé. Conduzi meu coração no caminho de conversão de filhos e familiares, purificai meus desejos e ajudai-me a perseverar na oração. Por Cristo, nosso Senhor. Amém."
+        },
+        {
+          "dia": 2,
+          "titulo": "Dia 2",
+          "texto": "Senhor Deus, neste dia 2 desta novena, apresento minha intenção com fé. Conduzi meu coração no caminho de conversão de filhos e familiares, purificai meus desejos e ajudai-me a perseverar na oração. Por Cristo, nosso Senhor. Amém."
+        },
+        {
+          "dia": 3,
+          "titulo": "Dia 3",
+          "texto": "Senhor Deus, neste dia 3 desta novena, apresento minha intenção com fé. Conduzi meu coração no caminho de conversão de filhos e familiares, purificai meus desejos e ajudai-me a perseverar na oração. Por Cristo, nosso Senhor. Amém."
+        },
+        {
+          "dia": 4,
+          "titulo": "Dia 4",
+          "texto": "Senhor Deus, neste dia 4 desta novena, apresento minha intenção com fé. Conduzi meu coração no caminho de conversão de filhos e familiares, purificai meus desejos e ajudai-me a perseverar na oração. Por Cristo, nosso Senhor. Amém."
+        },
+        {
+          "dia": 5,
+          "titulo": "Dia 5",
+          "texto": "Senhor Deus, neste dia 5 desta novena, apresento minha intenção com fé. Conduzi meu coração no caminho de conversão de filhos e familiares, purificai meus desejos e ajudai-me a perseverar na oração. Por Cristo, nosso Senhor. Amém."
+        },
+        {
+          "dia": 6,
+          "titulo": "Dia 6",
+          "texto": "Senhor Deus, neste dia 6 desta novena, apresento minha intenção com fé. Conduzi meu coração no caminho de conversão de filhos e familiares, purificai meus desejos e ajudai-me a perseverar na oração. Por Cristo, nosso Senhor. Amém."
+        },
+        {
+          "dia": 7,
+          "titulo": "Dia 7",
+          "texto": "Senhor Deus, neste dia 7 desta novena, apresento minha intenção com fé. Conduzi meu coração no caminho de conversão de filhos e familiares, purificai meus desejos e ajudai-me a perseverar na oração. Por Cristo, nosso Senhor. Amém."
+        },
+        {
+          "dia": 8,
+          "titulo": "Dia 8",
+          "texto": "Senhor Deus, neste dia 8 desta novena, apresento minha intenção com fé. Conduzi meu coração no caminho de conversão de filhos e familiares, purificai meus desejos e ajudai-me a perseverar na oração. Por Cristo, nosso Senhor. Amém."
+        },
+        {
+          "dia": 9,
+          "titulo": "Dia 9",
+          "texto": "Senhor Deus, neste dia 9 desta novena, apresento minha intenção com fé. Conduzi meu coração no caminho de conversão de filhos e familiares, purificai meus desejos e ajudai-me a perseverar na oração. Por Cristo, nosso Senhor. Amém."
+        }
+      ],
+      "duracao": "novena",
+      "curadoria": {
+        "selo": "Novena guiada",
+        "familia": "novenas",
+        "uso": "caminho de 9 dias",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "devoção diária",
+        "nove dias",
+        "novena a monica",
+        "promessa de oração"
+      ]
+    },
+    {
+      "id": "novena-pelas-vocacoes",
+      "titulo": "Novena pelas Vocações",
+      "categoria": "novenas",
+      "tipo": "novena",
+      "tags": [
+        "vocações",
+        "igreja",
+        "jovens",
+        "novena"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para rezar durante nove dias por vocações santas para a Igreja.",
+      "texto": "Novena pelas Vocações\n\nEsta novena é um caminho de nove dias de oração perseverante por vocações santas para a Igreja. Reze com calma, apresentando sua intenção a Deus e buscando crescer na fé.",
+      "explicacao": "Novena devocional do Lectio para favorecer perseverança, recolhimento e confiança na providência de Deus.",
+      "relacionados": [],
+      "dias": [
+        {
+          "dia": 1,
+          "titulo": "Dia 1",
+          "texto": "Senhor Deus, neste dia 1 desta novena, apresento minha intenção ligada a vocações santas para a Igreja. Dai-me fé para perseverar, humildade para aceitar vossa vontade e amor para viver cada resposta como caminho de conversão. Pela intercessão dos santos, conduzi-me sempre para Cristo. Amém."
+        },
+        {
+          "dia": 2,
+          "titulo": "Dia 2",
+          "texto": "Senhor Deus, neste dia 2 desta novena, apresento minha intenção ligada a vocações santas para a Igreja. Dai-me fé para perseverar, humildade para aceitar vossa vontade e amor para viver cada resposta como caminho de conversão. Pela intercessão dos santos, conduzi-me sempre para Cristo. Amém."
+        },
+        {
+          "dia": 3,
+          "titulo": "Dia 3",
+          "texto": "Senhor Deus, neste dia 3 desta novena, apresento minha intenção ligada a vocações santas para a Igreja. Dai-me fé para perseverar, humildade para aceitar vossa vontade e amor para viver cada resposta como caminho de conversão. Pela intercessão dos santos, conduzi-me sempre para Cristo. Amém."
+        },
+        {
+          "dia": 4,
+          "titulo": "Dia 4",
+          "texto": "Senhor Deus, neste dia 4 desta novena, apresento minha intenção ligada a vocações santas para a Igreja. Dai-me fé para perseverar, humildade para aceitar vossa vontade e amor para viver cada resposta como caminho de conversão. Pela intercessão dos santos, conduzi-me sempre para Cristo. Amém."
+        },
+        {
+          "dia": 5,
+          "titulo": "Dia 5",
+          "texto": "Senhor Deus, neste dia 5 desta novena, apresento minha intenção ligada a vocações santas para a Igreja. Dai-me fé para perseverar, humildade para aceitar vossa vontade e amor para viver cada resposta como caminho de conversão. Pela intercessão dos santos, conduzi-me sempre para Cristo. Amém."
+        },
+        {
+          "dia": 6,
+          "titulo": "Dia 6",
+          "texto": "Senhor Deus, neste dia 6 desta novena, apresento minha intenção ligada a vocações santas para a Igreja. Dai-me fé para perseverar, humildade para aceitar vossa vontade e amor para viver cada resposta como caminho de conversão. Pela intercessão dos santos, conduzi-me sempre para Cristo. Amém."
+        },
+        {
+          "dia": 7,
+          "titulo": "Dia 7",
+          "texto": "Senhor Deus, neste dia 7 desta novena, apresento minha intenção ligada a vocações santas para a Igreja. Dai-me fé para perseverar, humildade para aceitar vossa vontade e amor para viver cada resposta como caminho de conversão. Pela intercessão dos santos, conduzi-me sempre para Cristo. Amém."
+        },
+        {
+          "dia": 8,
+          "titulo": "Dia 8",
+          "texto": "Senhor Deus, neste dia 8 desta novena, apresento minha intenção ligada a vocações santas para a Igreja. Dai-me fé para perseverar, humildade para aceitar vossa vontade e amor para viver cada resposta como caminho de conversão. Pela intercessão dos santos, conduzi-me sempre para Cristo. Amém."
+        },
+        {
+          "dia": 9,
+          "titulo": "Dia 9",
+          "texto": "Senhor Deus, neste dia 9 desta novena, apresento minha intenção ligada a vocações santas para a Igreja. Dai-me fé para perseverar, humildade para aceitar vossa vontade e amor para viver cada resposta como caminho de conversão. Pela intercessão dos santos, conduzi-me sempre para Cristo. Amém."
+        }
+      ],
+      "duracao": "novena",
+      "curadoria": {
+        "selo": "Novena guiada",
+        "familia": "novenas",
+        "uso": "caminho de 9 dias",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "devoção diária",
+        "nove dias",
+        "promessa de oração"
+      ]
+    },
+    {
+      "id": "novena-pelos-enfermos",
+      "titulo": "Novena pelos Enfermos",
+      "categoria": "novenas",
+      "tipo": "novena",
+      "tags": [
+        "enfermos",
+        "cura",
+        "saúde",
+        "novena"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para rezar durante nove dias por enfermos, cuidadores e pessoas em tratamento.",
+      "texto": "Novena pelos Enfermos\n\nEsta novena é um caminho de nove dias de oração perseverante por enfermos, cuidadores e pessoas em tratamento. Reze com calma, apresentando sua intenção a Deus e buscando crescer na fé.",
+      "explicacao": "Novena devocional do Lectio para favorecer perseverança, recolhimento e confiança na providência de Deus.",
+      "relacionados": [],
+      "dias": [
+        {
+          "dia": 1,
+          "titulo": "Dia 1",
+          "texto": "Senhor Deus, neste dia 1 desta novena, apresento minha intenção ligada a enfermos, cuidadores e pessoas em tratamento. Dai-me fé para perseverar, humildade para aceitar vossa vontade e amor para viver cada resposta como caminho de conversão. Pela intercessão dos santos, conduzi-me sempre para Cristo. Amém."
+        },
+        {
+          "dia": 2,
+          "titulo": "Dia 2",
+          "texto": "Senhor Deus, neste dia 2 desta novena, apresento minha intenção ligada a enfermos, cuidadores e pessoas em tratamento. Dai-me fé para perseverar, humildade para aceitar vossa vontade e amor para viver cada resposta como caminho de conversão. Pela intercessão dos santos, conduzi-me sempre para Cristo. Amém."
+        },
+        {
+          "dia": 3,
+          "titulo": "Dia 3",
+          "texto": "Senhor Deus, neste dia 3 desta novena, apresento minha intenção ligada a enfermos, cuidadores e pessoas em tratamento. Dai-me fé para perseverar, humildade para aceitar vossa vontade e amor para viver cada resposta como caminho de conversão. Pela intercessão dos santos, conduzi-me sempre para Cristo. Amém."
+        },
+        {
+          "dia": 4,
+          "titulo": "Dia 4",
+          "texto": "Senhor Deus, neste dia 4 desta novena, apresento minha intenção ligada a enfermos, cuidadores e pessoas em tratamento. Dai-me fé para perseverar, humildade para aceitar vossa vontade e amor para viver cada resposta como caminho de conversão. Pela intercessão dos santos, conduzi-me sempre para Cristo. Amém."
+        },
+        {
+          "dia": 5,
+          "titulo": "Dia 5",
+          "texto": "Senhor Deus, neste dia 5 desta novena, apresento minha intenção ligada a enfermos, cuidadores e pessoas em tratamento. Dai-me fé para perseverar, humildade para aceitar vossa vontade e amor para viver cada resposta como caminho de conversão. Pela intercessão dos santos, conduzi-me sempre para Cristo. Amém."
+        },
+        {
+          "dia": 6,
+          "titulo": "Dia 6",
+          "texto": "Senhor Deus, neste dia 6 desta novena, apresento minha intenção ligada a enfermos, cuidadores e pessoas em tratamento. Dai-me fé para perseverar, humildade para aceitar vossa vontade e amor para viver cada resposta como caminho de conversão. Pela intercessão dos santos, conduzi-me sempre para Cristo. Amém."
+        },
+        {
+          "dia": 7,
+          "titulo": "Dia 7",
+          "texto": "Senhor Deus, neste dia 7 desta novena, apresento minha intenção ligada a enfermos, cuidadores e pessoas em tratamento. Dai-me fé para perseverar, humildade para aceitar vossa vontade e amor para viver cada resposta como caminho de conversão. Pela intercessão dos santos, conduzi-me sempre para Cristo. Amém."
+        },
+        {
+          "dia": 8,
+          "titulo": "Dia 8",
+          "texto": "Senhor Deus, neste dia 8 desta novena, apresento minha intenção ligada a enfermos, cuidadores e pessoas em tratamento. Dai-me fé para perseverar, humildade para aceitar vossa vontade e amor para viver cada resposta como caminho de conversão. Pela intercessão dos santos, conduzi-me sempre para Cristo. Amém."
+        },
+        {
+          "dia": 9,
+          "titulo": "Dia 9",
+          "texto": "Senhor Deus, neste dia 9 desta novena, apresento minha intenção ligada a enfermos, cuidadores e pessoas em tratamento. Dai-me fé para perseverar, humildade para aceitar vossa vontade e amor para viver cada resposta como caminho de conversão. Pela intercessão dos santos, conduzi-me sempre para Cristo. Amém."
+        }
+      ],
+      "duracao": "novena",
+      "curadoria": {
+        "selo": "Novena guiada",
+        "familia": "novenas",
+        "uso": "caminho de 9 dias",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "devoção diária",
+        "nove dias",
+        "promessa de oração"
+      ]
+    },
+    {
+      "id": "novena-pela-familia",
+      "titulo": "Novena pela Família",
+      "categoria": "novenas",
+      "tipo": "novena",
+      "tags": [
+        "família",
+        "casa",
+        "reconciliação",
+        "novena"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para rezar durante nove dias por cura, união e santificação da família.",
+      "texto": "Novena pela Família\n\nEsta novena é um caminho de nove dias de oração perseverante por cura, união e santificação da família. Reze com calma, apresentando sua intenção a Deus e buscando crescer na fé.",
+      "explicacao": "Novena devocional do Lectio para favorecer perseverança, recolhimento e confiança na providência de Deus.",
+      "relacionados": [],
+      "dias": [
+        {
+          "dia": 1,
+          "titulo": "Dia 1",
+          "texto": "Senhor Deus, neste dia 1 desta novena, apresento minha intenção ligada a cura, união e santificação da família. Dai-me fé para perseverar, humildade para aceitar vossa vontade e amor para viver cada resposta como caminho de conversão. Pela intercessão dos santos, conduzi-me sempre para Cristo. Amém."
+        },
+        {
+          "dia": 2,
+          "titulo": "Dia 2",
+          "texto": "Senhor Deus, neste dia 2 desta novena, apresento minha intenção ligada a cura, união e santificação da família. Dai-me fé para perseverar, humildade para aceitar vossa vontade e amor para viver cada resposta como caminho de conversão. Pela intercessão dos santos, conduzi-me sempre para Cristo. Amém."
+        },
+        {
+          "dia": 3,
+          "titulo": "Dia 3",
+          "texto": "Senhor Deus, neste dia 3 desta novena, apresento minha intenção ligada a cura, união e santificação da família. Dai-me fé para perseverar, humildade para aceitar vossa vontade e amor para viver cada resposta como caminho de conversão. Pela intercessão dos santos, conduzi-me sempre para Cristo. Amém."
+        },
+        {
+          "dia": 4,
+          "titulo": "Dia 4",
+          "texto": "Senhor Deus, neste dia 4 desta novena, apresento minha intenção ligada a cura, união e santificação da família. Dai-me fé para perseverar, humildade para aceitar vossa vontade e amor para viver cada resposta como caminho de conversão. Pela intercessão dos santos, conduzi-me sempre para Cristo. Amém."
+        },
+        {
+          "dia": 5,
+          "titulo": "Dia 5",
+          "texto": "Senhor Deus, neste dia 5 desta novena, apresento minha intenção ligada a cura, união e santificação da família. Dai-me fé para perseverar, humildade para aceitar vossa vontade e amor para viver cada resposta como caminho de conversão. Pela intercessão dos santos, conduzi-me sempre para Cristo. Amém."
+        },
+        {
+          "dia": 6,
+          "titulo": "Dia 6",
+          "texto": "Senhor Deus, neste dia 6 desta novena, apresento minha intenção ligada a cura, união e santificação da família. Dai-me fé para perseverar, humildade para aceitar vossa vontade e amor para viver cada resposta como caminho de conversão. Pela intercessão dos santos, conduzi-me sempre para Cristo. Amém."
+        },
+        {
+          "dia": 7,
+          "titulo": "Dia 7",
+          "texto": "Senhor Deus, neste dia 7 desta novena, apresento minha intenção ligada a cura, união e santificação da família. Dai-me fé para perseverar, humildade para aceitar vossa vontade e amor para viver cada resposta como caminho de conversão. Pela intercessão dos santos, conduzi-me sempre para Cristo. Amém."
+        },
+        {
+          "dia": 8,
+          "titulo": "Dia 8",
+          "texto": "Senhor Deus, neste dia 8 desta novena, apresento minha intenção ligada a cura, união e santificação da família. Dai-me fé para perseverar, humildade para aceitar vossa vontade e amor para viver cada resposta como caminho de conversão. Pela intercessão dos santos, conduzi-me sempre para Cristo. Amém."
+        },
+        {
+          "dia": 9,
+          "titulo": "Dia 9",
+          "texto": "Senhor Deus, neste dia 9 desta novena, apresento minha intenção ligada a cura, união e santificação da família. Dai-me fé para perseverar, humildade para aceitar vossa vontade e amor para viver cada resposta como caminho de conversão. Pela intercessão dos santos, conduzi-me sempre para Cristo. Amém."
+        }
+      ],
+      "duracao": "novena",
+      "curadoria": {
+        "selo": "Novena guiada",
+        "familia": "novenas",
+        "uso": "caminho de 9 dias",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "devoção diária",
+        "nove dias",
+        "promessa de oração"
+      ]
+    },
+    {
+      "id": "novena-ao-preciosissimo-sangue",
+      "titulo": "Novena ao Preciosíssimo Sangue de Jesus",
+      "categoria": "novenas",
+      "tipo": "novena",
+      "tags": [
+        "preciosíssimo sangue",
+        "jesus",
+        "proteção",
+        "novena"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para rezar durante nove dias por proteção, purificação e confiança na redenção de Cristo.",
+      "texto": "Novena ao Preciosíssimo Sangue de Jesus\n\nEsta novena é um caminho de nove dias de oração perseverante por proteção, purificação e confiança na redenção de Cristo. Reze com calma, apresentando sua intenção a Deus e buscando crescer na fé.",
+      "explicacao": "Novena devocional do Lectio para favorecer perseverança, recolhimento e confiança na providência de Deus.",
+      "relacionados": [],
+      "dias": [
+        {
+          "dia": 1,
+          "titulo": "Dia 1",
+          "texto": "Senhor Deus, neste dia 1 desta novena, apresento minha intenção ligada a proteção, purificação e confiança na redenção de Cristo. Dai-me fé para perseverar, humildade para aceitar vossa vontade e amor para viver cada resposta como caminho de conversão. Pela intercessão dos santos, conduzi-me sempre para Cristo. Amém."
+        },
+        {
+          "dia": 2,
+          "titulo": "Dia 2",
+          "texto": "Senhor Deus, neste dia 2 desta novena, apresento minha intenção ligada a proteção, purificação e confiança na redenção de Cristo. Dai-me fé para perseverar, humildade para aceitar vossa vontade e amor para viver cada resposta como caminho de conversão. Pela intercessão dos santos, conduzi-me sempre para Cristo. Amém."
+        },
+        {
+          "dia": 3,
+          "titulo": "Dia 3",
+          "texto": "Senhor Deus, neste dia 3 desta novena, apresento minha intenção ligada a proteção, purificação e confiança na redenção de Cristo. Dai-me fé para perseverar, humildade para aceitar vossa vontade e amor para viver cada resposta como caminho de conversão. Pela intercessão dos santos, conduzi-me sempre para Cristo. Amém."
+        },
+        {
+          "dia": 4,
+          "titulo": "Dia 4",
+          "texto": "Senhor Deus, neste dia 4 desta novena, apresento minha intenção ligada a proteção, purificação e confiança na redenção de Cristo. Dai-me fé para perseverar, humildade para aceitar vossa vontade e amor para viver cada resposta como caminho de conversão. Pela intercessão dos santos, conduzi-me sempre para Cristo. Amém."
+        },
+        {
+          "dia": 5,
+          "titulo": "Dia 5",
+          "texto": "Senhor Deus, neste dia 5 desta novena, apresento minha intenção ligada a proteção, purificação e confiança na redenção de Cristo. Dai-me fé para perseverar, humildade para aceitar vossa vontade e amor para viver cada resposta como caminho de conversão. Pela intercessão dos santos, conduzi-me sempre para Cristo. Amém."
+        },
+        {
+          "dia": 6,
+          "titulo": "Dia 6",
+          "texto": "Senhor Deus, neste dia 6 desta novena, apresento minha intenção ligada a proteção, purificação e confiança na redenção de Cristo. Dai-me fé para perseverar, humildade para aceitar vossa vontade e amor para viver cada resposta como caminho de conversão. Pela intercessão dos santos, conduzi-me sempre para Cristo. Amém."
+        },
+        {
+          "dia": 7,
+          "titulo": "Dia 7",
+          "texto": "Senhor Deus, neste dia 7 desta novena, apresento minha intenção ligada a proteção, purificação e confiança na redenção de Cristo. Dai-me fé para perseverar, humildade para aceitar vossa vontade e amor para viver cada resposta como caminho de conversão. Pela intercessão dos santos, conduzi-me sempre para Cristo. Amém."
+        },
+        {
+          "dia": 8,
+          "titulo": "Dia 8",
+          "texto": "Senhor Deus, neste dia 8 desta novena, apresento minha intenção ligada a proteção, purificação e confiança na redenção de Cristo. Dai-me fé para perseverar, humildade para aceitar vossa vontade e amor para viver cada resposta como caminho de conversão. Pela intercessão dos santos, conduzi-me sempre para Cristo. Amém."
+        },
+        {
+          "dia": 9,
+          "titulo": "Dia 9",
+          "texto": "Senhor Deus, neste dia 9 desta novena, apresento minha intenção ligada a proteção, purificação e confiança na redenção de Cristo. Dai-me fé para perseverar, humildade para aceitar vossa vontade e amor para viver cada resposta como caminho de conversão. Pela intercessão dos santos, conduzi-me sempre para Cristo. Amém."
+        }
+      ],
+      "duracao": "novena",
+      "curadoria": {
+        "selo": "Novena guiada",
+        "familia": "novenas",
+        "uso": "caminho de 9 dias",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "devoção diária",
+        "nove dias",
+        "promessa de oração"
+      ]
+    },
+    {
+      "id": "novena-a-nossa-senhora-de-lourdes",
+      "titulo": "Novena a Nossa Senhora de Lourdes",
+      "categoria": "novenas",
+      "tipo": "novena",
+      "tags": [
+        "lourdes",
+        "maria",
+        "enfermos",
+        "novena"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para rezar durante nove dias por cura, esperança e consolação dos enfermos.",
+      "texto": "Novena a Nossa Senhora de Lourdes\n\nEsta novena é um caminho de nove dias de oração perseverante por cura, esperança e consolação dos enfermos. Reze com calma, apresentando sua intenção a Deus e buscando crescer na fé.",
+      "explicacao": "Novena devocional do Lectio para favorecer perseverança, recolhimento e confiança na providência de Deus.",
+      "relacionados": [],
+      "dias": [
+        {
+          "dia": 1,
+          "titulo": "Dia 1",
+          "texto": "Senhor Deus, neste dia 1 desta novena, apresento minha intenção ligada a cura, esperança e consolação dos enfermos. Dai-me fé para perseverar, humildade para aceitar vossa vontade e amor para viver cada resposta como caminho de conversão. Pela intercessão dos santos, conduzi-me sempre para Cristo. Amém."
+        },
+        {
+          "dia": 2,
+          "titulo": "Dia 2",
+          "texto": "Senhor Deus, neste dia 2 desta novena, apresento minha intenção ligada a cura, esperança e consolação dos enfermos. Dai-me fé para perseverar, humildade para aceitar vossa vontade e amor para viver cada resposta como caminho de conversão. Pela intercessão dos santos, conduzi-me sempre para Cristo. Amém."
+        },
+        {
+          "dia": 3,
+          "titulo": "Dia 3",
+          "texto": "Senhor Deus, neste dia 3 desta novena, apresento minha intenção ligada a cura, esperança e consolação dos enfermos. Dai-me fé para perseverar, humildade para aceitar vossa vontade e amor para viver cada resposta como caminho de conversão. Pela intercessão dos santos, conduzi-me sempre para Cristo. Amém."
+        },
+        {
+          "dia": 4,
+          "titulo": "Dia 4",
+          "texto": "Senhor Deus, neste dia 4 desta novena, apresento minha intenção ligada a cura, esperança e consolação dos enfermos. Dai-me fé para perseverar, humildade para aceitar vossa vontade e amor para viver cada resposta como caminho de conversão. Pela intercessão dos santos, conduzi-me sempre para Cristo. Amém."
+        },
+        {
+          "dia": 5,
+          "titulo": "Dia 5",
+          "texto": "Senhor Deus, neste dia 5 desta novena, apresento minha intenção ligada a cura, esperança e consolação dos enfermos. Dai-me fé para perseverar, humildade para aceitar vossa vontade e amor para viver cada resposta como caminho de conversão. Pela intercessão dos santos, conduzi-me sempre para Cristo. Amém."
+        },
+        {
+          "dia": 6,
+          "titulo": "Dia 6",
+          "texto": "Senhor Deus, neste dia 6 desta novena, apresento minha intenção ligada a cura, esperança e consolação dos enfermos. Dai-me fé para perseverar, humildade para aceitar vossa vontade e amor para viver cada resposta como caminho de conversão. Pela intercessão dos santos, conduzi-me sempre para Cristo. Amém."
+        },
+        {
+          "dia": 7,
+          "titulo": "Dia 7",
+          "texto": "Senhor Deus, neste dia 7 desta novena, apresento minha intenção ligada a cura, esperança e consolação dos enfermos. Dai-me fé para perseverar, humildade para aceitar vossa vontade e amor para viver cada resposta como caminho de conversão. Pela intercessão dos santos, conduzi-me sempre para Cristo. Amém."
+        },
+        {
+          "dia": 8,
+          "titulo": "Dia 8",
+          "texto": "Senhor Deus, neste dia 8 desta novena, apresento minha intenção ligada a cura, esperança e consolação dos enfermos. Dai-me fé para perseverar, humildade para aceitar vossa vontade e amor para viver cada resposta como caminho de conversão. Pela intercessão dos santos, conduzi-me sempre para Cristo. Amém."
+        },
+        {
+          "dia": 9,
+          "titulo": "Dia 9",
+          "texto": "Senhor Deus, neste dia 9 desta novena, apresento minha intenção ligada a cura, esperança e consolação dos enfermos. Dai-me fé para perseverar, humildade para aceitar vossa vontade e amor para viver cada resposta como caminho de conversão. Pela intercessão dos santos, conduzi-me sempre para Cristo. Amém."
+        }
+      ],
+      "duracao": "novena",
+      "curadoria": {
+        "selo": "Novena guiada",
+        "familia": "novenas",
+        "uso": "caminho de 9 dias",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "devoção diária",
+        "nove dias",
+        "novena a mae de deus de lourdes",
+        "novena a virgem maria de lourdes",
+        "promessa de oração"
+      ]
+    }
+  ]
+}

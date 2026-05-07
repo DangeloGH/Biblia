@@ -1,0 +1,3183 @@
+{
+  "id": "intencoes",
+  "title": "Orações por intenção",
+  "items": [
+    {
+      "id": "oracao-medo",
+      "titulo": "Oração em momentos de medo",
+      "categoria": "intencoes",
+      "tipo": "oracao",
+      "tags": [
+        "medo",
+        "ansiedade",
+        "confiança",
+        "proteção",
+        "paz"
+      ],
+      "momento": [
+        "qualquer_hora",
+        "noite"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Quando o coração estiver inquieto, inseguro ou tomado por preocupação.",
+      "texto": "Senhor, meu coração está inquieto e eu preciso da vossa paz.\n\nAjudai-me a respirar com calma, a recordar que não estou sozinho e a confiar que vossa graça me sustenta mesmo quando eu não vejo o caminho.\n\nTomai meus medos, ordenai meus pensamentos e guardai-me sob a vossa presença. Amém.",
+      "explicacao": "Oração curta para entregar medo e ansiedade a Deus com fé e serenidade.",
+      "relacionados": [
+        "sao-miguel-arcanjo",
+        "jesus-eu-confio-em-vos",
+        "santo-anjo"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "jesus-e-eucaristia",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "intenção",
+        "necessidade",
+        "pedido"
+      ]
+    },
+    {
+      "id": "oracao-da-familia",
+      "titulo": "Oração pela família",
+      "categoria": "intencoes",
+      "tipo": "oracao",
+      "tags": [
+        "família",
+        "casa",
+        "filhos",
+        "casamento",
+        "proteção"
+      ],
+      "momento": [
+        "meio_dia",
+        "noite",
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Pela casa, pelo casamento, pelos filhos, pelos pais e pelos vínculos familiares.",
+      "texto": "Senhor Deus, abençoai minha família.\n\nVisitai nossa casa com paz, curai nossas feridas, fortalecei nossos vínculos e ensinai-nos a falar com mais caridade, ouvir com mais paciência e perdoar com mais humildade.\n\nQue nossa família seja guardada no vosso amor e conduzida pela vossa luz. Amém.",
+      "explicacao": "Oração para confiar a família a Deus, pedindo paz, união, cura e proteção.",
+      "relacionados": [
+        "sao-jose",
+        "nossa-senhora-aparecida",
+        "sagrado-coracao"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "intencoes",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "intenção",
+        "necessidade",
+        "pedido"
+      ]
+    },
+    {
+      "id": "oracao-trabalho",
+      "titulo": "Oração pelo trabalho",
+      "categoria": "intencoes",
+      "tipo": "oracao",
+      "tags": [
+        "trabalho",
+        "emprego",
+        "responsabilidade",
+        "provisão",
+        "rotina"
+      ],
+      "momento": [
+        "manha",
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Antes do trabalho, em busca de emprego ou diante de decisões profissionais.",
+      "texto": "Senhor, abençoai meu trabalho e todas as responsabilidades que estão em minhas mãos.\n\nDai-me honestidade, concentração, paciência e coragem. Que eu não trabalhe apenas por obrigação, mas também como alguém que deseja servir, crescer e sustentar com dignidade aquilo que me foi confiado.\n\nAbri caminhos justos e livrai-me da ansiedade. Amém.",
+      "explicacao": "Oração para viver o trabalho com dignidade, fé, responsabilidade e esperança.",
+      "relacionados": [
+        "sao-jose",
+        "oferecimento-do-dia",
+        "oracao-discernimento"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "santos",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "intenção",
+        "necessidade",
+        "pedido"
+      ]
+    },
+    {
+      "id": "oracao-enfermos",
+      "titulo": "Oração pelos enfermos",
+      "categoria": "intencoes",
+      "tipo": "oracao",
+      "tags": [
+        "doença",
+        "saúde",
+        "cura",
+        "enfermos",
+        "consolo"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Por quem está doente, hospitalizado, em tratamento ou precisando de consolo.",
+      "texto": "Senhor, olhai com misericórdia para os enfermos e para todos que sofrem no corpo ou na alma.\n\nDai-lhes força, paciência, bons cuidados e a graça de não perderem a esperança. Consolai também as famílias, os cuidadores e todos que acompanham essa dor.\n\nQue vossa presença seja remédio, luz e paz. Amém.",
+      "explicacao": "Oração de intercessão pelos doentes, familiares e pessoas que cuidam dos que sofrem.",
+      "relacionados": [
+        "jesus-eu-confio-em-vos",
+        "oracao-medo",
+        "oracao-da-familia"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "santos",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "intenção",
+        "necessidade",
+        "pedido"
+      ]
+    },
+    {
+      "id": "oracao-luto",
+      "titulo": "Oração no luto",
+      "categoria": "intencoes",
+      "tipo": "oracao",
+      "tags": [
+        "luto",
+        "saudade",
+        "morte",
+        "consolo",
+        "esperança"
+      ],
+      "momento": [
+        "qualquer_hora",
+        "noite"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Quando a saudade pesa e o coração precisa de consolo diante da morte.",
+      "texto": "Senhor, recebei minha dor e minha saudade.\n\nEntrego em vossas mãos a pessoa que amo e confio à vossa misericórdia tudo aquilo que não consigo compreender. Consolai meu coração, sustentai minha fé e ajudai-me a atravessar este tempo sem perder a esperança da vida eterna.\n\nDai descanso aos que partiram e paz aos que ficaram. Amém.",
+      "explicacao": "Oração de consolo cristão para momentos de perda, saudade e esperança na vida eterna.",
+      "relacionados": [
+        "oracao-da-noite",
+        "salve-rainha",
+        "jesus-eu-confio-em-vos"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "jesus-e-eucaristia",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "intenção",
+        "necessidade",
+        "pedido"
+      ]
+    },
+    {
+      "id": "oracao-discernimento",
+      "titulo": "Oração para discernimento",
+      "categoria": "intencoes",
+      "tipo": "oracao",
+      "tags": [
+        "discernimento",
+        "decisão",
+        "sabedoria",
+        "espírito santo",
+        "caminho"
+      ],
+      "momento": [
+        "manha",
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Antes de uma decisão importante, mudança, conversa difícil ou escolha vocacional.",
+      "texto": "Espírito Santo, iluminai minha mente e pacificai meu coração.\n\nAjudai-me a distinguir o que vem de Deus daquilo que nasce do medo, da pressa ou do orgulho. Dai-me liberdade interior para escolher o bem, coragem para obedecer à verdade e humildade para esperar o tempo certo.\n\nConduzi meus passos segundo a vontade do Pai. Amém.",
+      "explicacao": "Oração para pedir luz e liberdade interior antes de uma decisão importante.",
+      "relacionados": [
+        "vinde-espirito-santo",
+        "sao-jose",
+        "oracao-trabalho"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "santos",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "intenção",
+        "necessidade",
+        "pedido"
+      ]
+    },
+    {
+      "id": "oracao-perdao",
+      "titulo": "Oração para pedir perdão",
+      "categoria": "intencoes",
+      "tipo": "oracao",
+      "tags": [
+        "perdão",
+        "reconciliação",
+        "arrependimento",
+        "cura"
+      ],
+      "momento": [
+        "noite",
+        "confissao",
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Ao reconhecer uma falta, desejar recomeçar ou buscar reconciliação.",
+      "texto": "Senhor, eu reconheço minhas falhas e peço a vossa misericórdia.\n\nDai-me a coragem de reparar o mal que fiz, a humildade de pedir perdão e a sinceridade de mudar o que precisa ser mudado.\n\nNão permitais que eu me esconda atrás do orgulho. Conduzi-me de volta ao vosso amor. Amém.",
+      "explicacao": "Oração de arrependimento e recomeço, especialmente útil antes do exame de consciência.",
+      "relacionados": [
+        "ato-contricao",
+        "antes-da-confissao",
+        "exame-de-consciencia"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "intencoes",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "intenção",
+        "necessidade",
+        "pedido"
+      ]
+    },
+    {
+      "id": "oracao-gratidao",
+      "titulo": "Oração de gratidão",
+      "categoria": "intencoes",
+      "tipo": "oracao",
+      "tags": [
+        "gratidão",
+        "alegria",
+        "louvor",
+        "vida",
+        "família"
+      ],
+      "momento": [
+        "manha",
+        "noite",
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Ao reconhecer uma graça recebida ou desejar terminar o dia agradecendo.",
+      "texto": "Senhor, obrigado por tudo o que recebi, mesmo pelas graças pequenas que muitas vezes passam despercebidas.\n\nObrigado pela vida, pelas pessoas que me sustentam, pelas oportunidades, pelos livramentos e também pelas dificuldades que me ensinam a crescer.\n\nQue minha gratidão não seja apenas palavra, mas uma forma mais generosa de viver. Amém.",
+      "explicacao": "Oração para educar o coração na gratidão e reconhecer a presença de Deus na vida cotidiana.",
+      "relacionados": [
+        "oracao-da-manha",
+        "oracao-da-noite",
+        "gloria-ao-pai"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "jesus-e-eucaristia",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "intenção",
+        "necessidade",
+        "pedido"
+      ]
+    },
+    {
+      "id": "oracao-protecao",
+      "titulo": "Oração de proteção",
+      "categoria": "intencoes",
+      "tipo": "oracao",
+      "tags": [
+        "proteção",
+        "casa",
+        "família",
+        "medo",
+        "viagem"
+      ],
+      "momento": [
+        "manha",
+        "noite",
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Pela casa, pela família, em viagens ou diante de insegurança.",
+      "texto": "Senhor, guardai-me sob a vossa proteção.\n\nProtegei minha casa, minha família, meus caminhos e todas as pessoas que hoje precisam de amparo. Livrai-nos do mal, dos perigos visíveis e invisíveis, e conduzi-nos com a luz da vossa presença.\n\nQue a vossa paz esteja sobre nós. Amém.",
+      "explicacao": "Oração simples para pedir a proteção de Deus sobre a casa, a família e os caminhos do dia.",
+      "relacionados": [
+        "sao-miguel-arcanjo",
+        "santo-anjo",
+        "sub-tuum-praesidium"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "intencoes",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "intenção",
+        "necessidade",
+        "pedido"
+      ]
+    },
+    {
+      "id": "oracao-filhos",
+      "titulo": "Oração pelos filhos",
+      "categoria": "intencoes",
+      "tipo": "oracao",
+      "tags": [
+        "filhos",
+        "família",
+        "proteção"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para necessidades concretas da vida cotidiana.",
+      "texto": "Senhor, entrego-vos meus filhos. Guardai seus caminhos, iluminai suas escolhas e protegei seus corações. Que cresçam em sabedoria, fé, saúde e amor, e que nunca se afastem da vossa presença. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "intencoes",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "intenção",
+        "necessidade",
+        "pedido"
+      ]
+    },
+    {
+      "id": "oracao-casamento",
+      "titulo": "Oração pelo casamento",
+      "categoria": "intencoes",
+      "tipo": "oracao",
+      "tags": [
+        "casamento",
+        "família",
+        "amor"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para necessidades concretas da vida cotidiana.",
+      "texto": "Senhor, abençoai nosso casamento. Curai nossas feridas, fortalecei nosso diálogo e ensinai-nos a amar com paciência, fidelidade e perdão. Que nossa união seja sustentada por vossa graça. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "intencoes",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "intenção",
+        "necessidade",
+        "pedido"
+      ]
+    },
+    {
+      "id": "oracao-viagem",
+      "titulo": "Oração para viagem",
+      "categoria": "intencoes",
+      "tipo": "oracao",
+      "tags": [
+        "viagem",
+        "proteção",
+        "caminho"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para necessidades concretas da vida cotidiana.",
+      "texto": "Senhor, acompanhai-me nesta viagem. Protegei meu caminho, dai prudência a quem conduz, livrai-nos dos perigos e fazei-nos chegar em paz ao destino. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "intencoes",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "intenção",
+        "necessidade",
+        "pedido"
+      ]
+    },
+    {
+      "id": "oracao-paz",
+      "titulo": "Oração pela paz",
+      "categoria": "intencoes",
+      "tipo": "oracao",
+      "tags": [
+        "paz",
+        "mundo",
+        "reconciliação"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para necessidades concretas da vida cotidiana.",
+      "texto": "Senhor, fazei de mim instrumento da vossa paz. Onde houver ódio, que eu leve amor; onde houver discórdia, reconciliação; onde houver tristeza, esperança. Começai a paz em meu coração. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "intencoes",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "intenção",
+        "necessidade",
+        "pedido"
+      ]
+    },
+    {
+      "id": "oracao-pela-igreja",
+      "titulo": "Oração pela Igreja",
+      "categoria": "intencoes",
+      "tipo": "oracao",
+      "tags": [
+        "igreja",
+        "papa",
+        "bispos"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para necessidades concretas da vida cotidiana.",
+      "texto": "Senhor Jesus, guardai a vossa Igreja. Iluminai o Papa, os bispos, sacerdotes, religiosos e leigos. Fazei-nos fiéis ao Evangelho, unidos na caridade e corajosos na missão. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "intencoes",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "intenção",
+        "necessidade",
+        "pedido"
+      ]
+    },
+    {
+      "id": "oracao-sacerdotes",
+      "titulo": "Oração pelos sacerdotes",
+      "categoria": "intencoes",
+      "tipo": "oracao",
+      "tags": [
+        "sacerdotes",
+        "vocação",
+        "igreja"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para necessidades concretas da vida cotidiana.",
+      "texto": "Senhor, santificai os sacerdotes. Fortalecei os que estão cansados, consolai os que sofrem e dai-lhes coração semelhante ao vosso, para servirem o povo de Deus com fé e amor. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "intencoes",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "intenção",
+        "necessidade",
+        "pedido"
+      ]
+    },
+    {
+      "id": "oracao-necessidade-urgente",
+      "titulo": "Oração em necessidade urgente",
+      "categoria": "intencoes",
+      "tipo": "oracao",
+      "tags": [
+        "urgente",
+        "socorro",
+        "esperança"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para necessidades concretas da vida cotidiana.",
+      "texto": "Senhor, estou diante de uma necessidade urgente e deposito minha confiança em vós. Ajudai-me a agir com sabedoria, abri os caminhos necessários e dai-me paz enquanto espero. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "intencoes",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "intenção",
+        "necessidade",
+        "pedido"
+      ]
+    },
+    {
+      "id": "oracao-sabedoria",
+      "titulo": "Oração por sabedoria",
+      "categoria": "intencoes",
+      "tipo": "oracao",
+      "tags": [
+        "sabedoria",
+        "decisão",
+        "discernimento"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para necessidades concretas da vida cotidiana.",
+      "texto": "Senhor, dai-me sabedoria para escolher o bem, prudência para falar, humildade para aprender e coragem para obedecer à vossa vontade. Iluminai meus passos. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "santos",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "intenção",
+        "necessidade",
+        "pedido"
+      ]
+    },
+    {
+      "id": "oracao-estudos-provas",
+      "titulo": "Oração para estudos e provas",
+      "categoria": "intencoes",
+      "tipo": "oracao",
+      "tags": [
+        "estudos",
+        "provas",
+        "sabedoria"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Em momentos de oração pessoal e devoção católica.",
+      "texto": "Senhor, acompanhai meus estudos. Dai-me atenção, memória, disciplina e calma. Que eu faça minha parte com responsabilidade e enfrente as provas sem medo, confiando em vossa luz. Amém.",
+      "explicacao": "Oração devocional composta para favorecer recolhimento, confiança e vida espiritual católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "intencoes",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "intenção",
+        "necessidade",
+        "pedido"
+      ]
+    },
+    {
+      "id": "oracao-ansiedade-serenidade",
+      "titulo": "Oração por serenidade",
+      "categoria": "intencoes",
+      "tipo": "oracao",
+      "tags": [
+        "ansiedade",
+        "serenidade",
+        "paz"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Em momentos de oração pessoal e devoção católica.",
+      "texto": "Senhor, meu coração está acelerado. Dai-me serenidade para viver um passo de cada vez, sabedoria para fazer o que posso e confiança para entregar o que não controlo. Guardai-me em vossa paz. Amém.",
+      "explicacao": "Oração devocional composta para favorecer recolhimento, confiança e vida espiritual católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "intencoes",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "intenção",
+        "necessidade",
+        "pedido"
+      ]
+    },
+    {
+      "id": "oracao-tristeza-profunda",
+      "titulo": "Oração em tristeza profunda",
+      "categoria": "intencoes",
+      "tipo": "oracao",
+      "tags": [
+        "tristeza",
+        "consolo",
+        "esperança"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Em momentos de oração pessoal e devoção católica.",
+      "texto": "Senhor, quando a tristeza pesa, permanecei comigo. Não permitais que eu me feche à esperança. Enviai pessoas boas ao meu caminho, sustentai minha fé e ajudai-me a atravessar esta noite interior com vossa luz. Amém.",
+      "explicacao": "Oração devocional composta para favorecer recolhimento, confiança e vida espiritual católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "intencoes",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "intenção",
+        "necessidade",
+        "pedido"
+      ]
+    },
+    {
+      "id": "oracao-contra-vicios",
+      "titulo": "Oração para vencer vícios e maus hábitos",
+      "categoria": "intencoes",
+      "tipo": "oracao",
+      "tags": [
+        "vícios",
+        "libertação",
+        "conversão"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Em momentos de oração pessoal e devoção católica.",
+      "texto": "Senhor, reconheço minhas fraquezas e peço vossa ajuda. Dai-me força para romper maus hábitos, humildade para buscar auxílio e perseverança para recomeçar quantas vezes for necessário. Amém.",
+      "explicacao": "Oração devocional composta para favorecer recolhimento, confiança e vida espiritual católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "santos",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "intenção",
+        "necessidade",
+        "pedido"
+      ]
+    },
+    {
+      "id": "oracao-pelas-dividas",
+      "titulo": "Oração pelas dívidas",
+      "categoria": "intencoes",
+      "tipo": "oracao",
+      "tags": [
+        "dívidas",
+        "finanças",
+        "providência"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Em momentos de oração pessoal e devoção católica.",
+      "texto": "Senhor, apresento-vos minhas dívidas e preocupações financeiras. Dai-me prudência para organizar minha vida, coragem para agir corretamente e oportunidades honestas para cumprir minhas responsabilidades. Amém.",
+      "explicacao": "Oração devocional composta para favorecer recolhimento, confiança e vida espiritual católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "intencoes",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "intenção",
+        "necessidade",
+        "pedido"
+      ]
+    },
+    {
+      "id": "oracao-desempregados",
+      "titulo": "Oração pelos desempregados",
+      "categoria": "intencoes",
+      "tipo": "oracao",
+      "tags": [
+        "desemprego",
+        "trabalho",
+        "providência"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Em momentos de oração pessoal e devoção católica.",
+      "texto": "Senhor, olhai pelos que procuram trabalho. Abri portas honestas, sustentai a esperança, fortalecei a dignidade e ajudai cada família a atravessar este tempo com fé e solidariedade. Amém.",
+      "explicacao": "Oração devocional composta para favorecer recolhimento, confiança e vida espiritual católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "intencoes",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "intenção",
+        "necessidade",
+        "pedido"
+      ]
+    },
+    {
+      "id": "oracao-ambiente-trabalho",
+      "titulo": "Oração pelo ambiente de trabalho",
+      "categoria": "intencoes",
+      "tipo": "oracao",
+      "tags": [
+        "trabalho",
+        "paz",
+        "convivência"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Em momentos de oração pessoal e devoção católica.",
+      "texto": "Senhor, abençoai meu ambiente de trabalho. Dai-nos respeito, justiça, paciência e colaboração. Livrai-nos de fofocas, humilhações e rivalidades, e ajudai-nos a trabalhar com dignidade. Amém.",
+      "explicacao": "Oração devocional composta para favorecer recolhimento, confiança e vida espiritual católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "intencoes",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "intenção",
+        "necessidade",
+        "pedido"
+      ]
+    },
+    {
+      "id": "oracao-contra-inveja",
+      "titulo": "Oração contra inveja e maledicência",
+      "categoria": "intencoes",
+      "tipo": "oracao",
+      "tags": [
+        "inveja",
+        "proteção",
+        "maledicência"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Em momentos de oração pessoal e devoção católica.",
+      "texto": "Senhor, protegei meu coração da inveja e da maledicência. Livrai-me de desejar o mal, de alimentar comparações e de temer palavras injustas. Que eu permaneça firme no bem e na paz. Amém.",
+      "explicacao": "Oração devocional composta para favorecer recolhimento, confiança e vida espiritual católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "intencoes",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "intenção",
+        "necessidade",
+        "pedido"
+      ]
+    },
+    {
+      "id": "oracao-pelos-inimigos",
+      "titulo": "Oração pelos inimigos",
+      "categoria": "intencoes",
+      "tipo": "oracao",
+      "tags": [
+        "inimigos",
+        "perdão",
+        "paz"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Em momentos de oração pessoal e devoção católica.",
+      "texto": "Senhor Jesus, ensinai-me a rezar por quem me feriu. Não permitais que o ressentimento governe meu coração. Dai-me prudência, proteção e a graça de desejar a conversão e o bem de todos. Amém.",
+      "explicacao": "Oração devocional composta para favorecer recolhimento, confiança e vida espiritual católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "intencoes",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "intenção",
+        "necessidade",
+        "pedido"
+      ]
+    },
+    {
+      "id": "oracao-por-justica",
+      "titulo": "Oração por justiça",
+      "categoria": "intencoes",
+      "tipo": "oracao",
+      "tags": [
+        "justiça",
+        "verdade",
+        "proteção"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Em momentos de oração pessoal e devoção católica.",
+      "texto": "Senhor justo e misericordioso, iluminai tudo o que está escondido, protegei os inocentes e conduzi as situações difíceis à verdade. Que eu busque justiça sem ódio e paz sem omissão. Amém.",
+      "explicacao": "Oração devocional composta para favorecer recolhimento, confiança e vida espiritual católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "intencoes",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "intenção",
+        "necessidade",
+        "pedido"
+      ]
+    },
+    {
+      "id": "oracao-cirurgia-tratamento",
+      "titulo": "Oração antes de cirurgia ou tratamento",
+      "categoria": "intencoes",
+      "tipo": "oracao",
+      "tags": [
+        "saúde",
+        "cirurgia",
+        "tratamento"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Em momentos de oração pessoal e devoção católica.",
+      "texto": "Senhor, entrego-vos este tratamento e todos os profissionais envolvidos. Dai sabedoria aos médicos, serenidade ao meu coração e força ao meu corpo. Que tudo aconteça sob vossa proteção. Amém.",
+      "explicacao": "Oração devocional composta para favorecer recolhimento, confiança e vida espiritual católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "intencoes",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "intenção",
+        "necessidade",
+        "pedido"
+      ]
+    },
+    {
+      "id": "oracao-cuidadores",
+      "titulo": "Oração pelos cuidadores",
+      "categoria": "intencoes",
+      "tipo": "oracao",
+      "tags": [
+        "cuidadores",
+        "enfermos",
+        "família"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Em momentos de oração pessoal e devoção católica.",
+      "texto": "Senhor, sustentai quem cuida dos enfermos, idosos e dependentes. Dai paciência, descanso, ternura e força. Que nenhum cuidador se sinta sozinho em sua missão de amor. Amém.",
+      "explicacao": "Oração devocional composta para favorecer recolhimento, confiança e vida espiritual católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "intencoes",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "intenção",
+        "necessidade",
+        "pedido"
+      ]
+    },
+    {
+      "id": "oracao-idosos",
+      "titulo": "Oração pelos idosos",
+      "categoria": "intencoes",
+      "tipo": "oracao",
+      "tags": [
+        "idosos",
+        "família",
+        "cuidado"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Em momentos de oração pessoal e devoção católica.",
+      "texto": "Senhor, abençoai os idosos. Concedei-lhes respeito, companhia, saúde possível e paz interior. Que suas histórias sejam acolhidas com gratidão e suas fragilidades tratadas com amor. Amém.",
+      "explicacao": "Oração devocional composta para favorecer recolhimento, confiança e vida espiritual católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "intencoes",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "intenção",
+        "necessidade",
+        "pedido"
+      ]
+    },
+    {
+      "id": "oracao-jovens",
+      "titulo": "Oração pelos jovens",
+      "categoria": "intencoes",
+      "tipo": "oracao",
+      "tags": [
+        "jovens",
+        "vocação",
+        "pureza"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Em momentos de oração pessoal e devoção católica.",
+      "texto": "Senhor, guardai os jovens. Iluminai suas escolhas, protegei sua pureza, fortalecei sua fé e dai-lhes amigos bons, sonhos santos e coragem para seguir Cristo no mundo de hoje. Amém.",
+      "explicacao": "Oração devocional composta para favorecer recolhimento, confiança e vida espiritual católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "intencoes",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "intenção",
+        "necessidade",
+        "pedido"
+      ]
+    },
+    {
+      "id": "oracao-pelos-catequistas",
+      "titulo": "Oração pelos catequistas",
+      "categoria": "intencoes",
+      "tipo": "oracao",
+      "tags": [
+        "catequistas",
+        "evangelização",
+        "igreja"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Em momentos de oração pessoal e devoção católica.",
+      "texto": "Senhor, abençoai os catequistas. Dai-lhes paciência, sabedoria e alegria para transmitir a fé. Que ensinem com palavras claras, vida coerente e amor pela Igreja. Amém.",
+      "explicacao": "Oração devocional composta para favorecer recolhimento, confiança e vida espiritual católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "intencoes",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "intenção",
+        "necessidade",
+        "pedido"
+      ]
+    },
+    {
+      "id": "oracao-pelos-professores",
+      "titulo": "Oração pelos professores",
+      "categoria": "intencoes",
+      "tipo": "oracao",
+      "tags": [
+        "professores",
+        "educação",
+        "sabedoria"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Em momentos de oração pessoal e devoção católica.",
+      "texto": "Senhor, iluminai os professores. Dai-lhes paciência, criatividade, justiça e amor pelos alunos. Que seu trabalho forme inteligência, caráter e esperança. Amém.",
+      "explicacao": "Oração devocional composta para favorecer recolhimento, confiança e vida espiritual católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "intencoes",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "intenção",
+        "necessidade",
+        "pedido"
+      ]
+    },
+    {
+      "id": "oracao-pelos-motoristas",
+      "titulo": "Oração pelos motoristas",
+      "categoria": "intencoes",
+      "tipo": "oracao",
+      "tags": [
+        "motoristas",
+        "trânsito",
+        "proteção"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Em momentos de oração pessoal e devoção católica.",
+      "texto": "Senhor, protegei todos os motoristas. Dai prudência, atenção e respeito no trânsito. Livrai-nos da pressa irresponsável e conduzi-nos em segurança ao destino. Amém.",
+      "explicacao": "Oração devocional composta para favorecer recolhimento, confiança e vida espiritual católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "intencoes",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "intenção",
+        "necessidade",
+        "pedido"
+      ]
+    },
+    {
+      "id": "oracao-pelos-moribundos",
+      "titulo": "Oração pelos moribundos",
+      "categoria": "intencoes",
+      "tipo": "oracao",
+      "tags": [
+        "moribundos",
+        "boa morte",
+        "misericórdia"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Em momentos de oração pessoal e devoção católica.",
+      "texto": "Senhor Jesus, tende misericórdia dos que estão na última hora. Concedei-lhes perdão, paz e confiança. Que Maria os acompanhe e que vossa luz os receba na esperança da vida eterna. Amém.",
+      "explicacao": "Oração devocional composta para favorecer recolhimento, confiança e vida espiritual católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "intencoes",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "intenção",
+        "necessidade",
+        "pedido"
+      ]
+    },
+    {
+      "id": "oracao-pelo-brasil",
+      "titulo": "Oração pelo Brasil",
+      "categoria": "intencoes",
+      "tipo": "oracao",
+      "tags": [
+        "brasil",
+        "paz",
+        "nação"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Em momentos de oração pessoal e devoção católica.",
+      "texto": "Senhor, abençoai o Brasil. Dai ao nosso povo paz, justiça, honestidade, solidariedade e respeito pela vida. Conduzi nossas famílias e autoridades pelos caminhos do bem comum. Amém.",
+      "explicacao": "Oração devocional composta para favorecer recolhimento, confiança e vida espiritual católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "intencoes",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "intenção",
+        "necessidade",
+        "pedido"
+      ]
+    },
+    {
+      "id": "oracao-pela-chuva",
+      "titulo": "Oração pela chuva",
+      "categoria": "intencoes",
+      "tipo": "oracao",
+      "tags": [
+        "chuva",
+        "seca",
+        "criação"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Em momentos de oração pessoal e devoção católica.",
+      "texto": "Senhor da criação, olhai para a terra sedenta e para os que sofrem com a seca. Enviai a chuva necessária, protegei as plantações e ensinai-nos a cuidar da criação com responsabilidade. Amém.",
+      "explicacao": "Oração devocional composta para favorecer recolhimento, confiança e vida espiritual católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "intencoes",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "intenção",
+        "necessidade",
+        "pedido"
+      ]
+    },
+    {
+      "id": "oracao-pelos-animais",
+      "titulo": "Oração pelos animais",
+      "categoria": "intencoes",
+      "tipo": "oracao",
+      "tags": [
+        "animais",
+        "criação",
+        "são francisco"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Em momentos de oração pessoal e devoção católica.",
+      "texto": "Senhor, criador de todos os seres, abençoai os animais que nos fazem companhia e serviço. Ensinai-nos a cuidar deles com respeito, gratidão e responsabilidade. Amém.",
+      "explicacao": "Oração devocional composta para favorecer recolhimento, confiança e vida espiritual católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "santos",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "intenção",
+        "necessidade",
+        "pedido"
+      ]
+    },
+    {
+      "id": "oracao-pela-casa-nova",
+      "titulo": "Oração pela casa nova",
+      "categoria": "intencoes",
+      "tipo": "oracao",
+      "tags": [
+        "casa",
+        "família",
+        "bênção"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Em momentos de oração pessoal e devoção católica.",
+      "texto": "Senhor, abençoai esta casa. Que nela haja paz, pão, perdão, respeito e oração. Afastai todo mal e fazei deste lar um lugar de acolhida, fé e amor. Amém.",
+      "explicacao": "Oração devocional composta para favorecer recolhimento, confiança e vida espiritual católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "intencoes",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "intenção",
+        "necessidade",
+        "pedido"
+      ]
+    },
+    {
+      "id": "oracao-oracao-por-quem-sofre-depressao",
+      "titulo": "Oração por quem sofre depressão",
+      "categoria": "intencoes",
+      "tipo": "oracao",
+      "tags": [
+        "depressão",
+        "tristeza",
+        "cura interior"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para rezar quando a intenção principal for o sofrimento da depressão e a necessidade de acompanhamento, fé e esperança.",
+      "texto": "Senhor Deus, coloco diante de vós esta necessidade: o sofrimento da depressão e a necessidade de acompanhamento, fé e esperança. Vós conheceis meu coração, minhas preocupações e aquilo que eu não consigo resolver sozinho.\n\nDai-me serenidade para aceitar o que não depende de mim, coragem para fazer o bem possível e fé para confiar na vossa providência. Que esta situação me aproxime de vós e me torne mais humilde, paciente e caridoso. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "pai-nosso",
+        "oracao-gratidao"
+      ],
+      "duracao": "media",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "santos",
+        "uso": "oração pessoal",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "intenção",
+        "necessidade",
+        "pedido"
+      ]
+    },
+    {
+      "id": "oracao-oracao-por-quem-luta-contra-ansiedade",
+      "titulo": "Oração por quem luta contra ansiedade",
+      "categoria": "intencoes",
+      "tipo": "oracao",
+      "tags": [
+        "ansiedade",
+        "paz",
+        "serenidade"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para rezar quando a intenção principal for a luta contra ansiedade e inquietação.",
+      "texto": "Senhor Deus, coloco diante de vós esta necessidade: a luta contra ansiedade e inquietação. Vós conheceis meu coração, minhas preocupações e aquilo que eu não consigo resolver sozinho.\n\nDai-me serenidade para aceitar o que não depende de mim, coragem para fazer o bem possível e fé para confiar na vossa providência. Que esta situação me aproxime de vós e me torne mais humilde, paciente e caridoso. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "pai-nosso",
+        "oracao-gratidao"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "intencoes",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "intenção",
+        "necessidade",
+        "pedido"
+      ]
+    },
+    {
+      "id": "oracao-oracao-por-quem-perdeu-a-fe",
+      "titulo": "Oração por quem perdeu a fé",
+      "categoria": "intencoes",
+      "tipo": "oracao",
+      "tags": [
+        "fé",
+        "crise",
+        "retorno"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para rezar quando a intenção principal for a crise de fé e o desejo de reencontrar Deus.",
+      "texto": "Senhor Deus, coloco diante de vós esta necessidade: a crise de fé e o desejo de reencontrar Deus. Vós conheceis meu coração, minhas preocupações e aquilo que eu não consigo resolver sozinho.\n\nDai-me serenidade para aceitar o que não depende de mim, coragem para fazer o bem possível e fé para confiar na vossa providência. Que esta situação me aproxime de vós e me torne mais humilde, paciente e caridoso. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "pai-nosso",
+        "oracao-gratidao"
+      ],
+      "duracao": "media",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "intencoes",
+        "uso": "oração pessoal",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "intenção",
+        "necessidade",
+        "pedido"
+      ]
+    },
+    {
+      "id": "oracao-oracao-por-filhos-afastados-da-igreja",
+      "titulo": "Oração por filhos afastados da Igreja",
+      "categoria": "intencoes",
+      "tipo": "oracao",
+      "tags": [
+        "filhos",
+        "igreja",
+        "família"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para rezar quando a intenção principal for filhos ou familiares afastados da fé.",
+      "texto": "Senhor Deus, coloco diante de vós esta necessidade: filhos ou familiares afastados da fé. Vós conheceis meu coração, minhas preocupações e aquilo que eu não consigo resolver sozinho.\n\nDai-me serenidade para aceitar o que não depende de mim, coragem para fazer o bem possível e fé para confiar na vossa providência. Que esta situação me aproxime de vós e me torne mais humilde, paciente e caridoso. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "pai-nosso",
+        "oracao-gratidao"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "intencoes",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "intenção",
+        "necessidade",
+        "pedido"
+      ]
+    },
+    {
+      "id": "oracao-oracao-por-reconciliacao-familiar",
+      "titulo": "Oração por reconciliação familiar",
+      "categoria": "intencoes",
+      "tipo": "oracao",
+      "tags": [
+        "família",
+        "reconciliação",
+        "perdão"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para rezar quando a intenção principal for a reconciliação dentro da família.",
+      "texto": "Senhor Deus, coloco diante de vós esta necessidade: a reconciliação dentro da família. Vós conheceis meu coração, minhas preocupações e aquilo que eu não consigo resolver sozinho.\n\nDai-me serenidade para aceitar o que não depende de mim, coragem para fazer o bem possível e fé para confiar na vossa providência. Que esta situação me aproxime de vós e me torne mais humilde, paciente e caridoso. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "pai-nosso",
+        "oracao-gratidao"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "intencoes",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "intenção",
+        "necessidade",
+        "pedido"
+      ]
+    },
+    {
+      "id": "oracao-oracao-por-namoro-santo",
+      "titulo": "Oração por namoro santo",
+      "categoria": "intencoes",
+      "tipo": "oracao",
+      "tags": [
+        "namoro",
+        "castidade",
+        "discernimento"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para rezar quando a intenção principal for um namoro vivido com respeito, castidade e discernimento.",
+      "texto": "Senhor Deus, coloco diante de vós esta necessidade: um namoro vivido com respeito, castidade e discernimento. Vós conheceis meu coração, minhas preocupações e aquilo que eu não consigo resolver sozinho.\n\nDai-me serenidade para aceitar o que não depende de mim, coragem para fazer o bem possível e fé para confiar na vossa providência. Que esta situação me aproxime de vós e me torne mais humilde, paciente e caridoso. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "pai-nosso",
+        "oracao-gratidao"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "santos",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "intenção",
+        "necessidade",
+        "pedido"
+      ]
+    },
+    {
+      "id": "oracao-oracao-por-noivado",
+      "titulo": "Oração por noivado",
+      "categoria": "intencoes",
+      "tipo": "oracao",
+      "tags": [
+        "noivado",
+        "casamento",
+        "família"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para rezar quando a intenção principal for a preparação para o matrimônio.",
+      "texto": "Senhor Deus, coloco diante de vós esta necessidade: a preparação para o matrimônio. Vós conheceis meu coração, minhas preocupações e aquilo que eu não consigo resolver sozinho.\n\nDai-me serenidade para aceitar o que não depende de mim, coragem para fazer o bem possível e fé para confiar na vossa providência. Que esta situação me aproxime de vós e me torne mais humilde, paciente e caridoso. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "pai-nosso",
+        "oracao-gratidao"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "intencoes",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "intenção",
+        "necessidade",
+        "pedido"
+      ]
+    },
+    {
+      "id": "oracao-oracao-por-quem-procura-moradia",
+      "titulo": "Oração por quem procura moradia",
+      "categoria": "intencoes",
+      "tipo": "oracao",
+      "tags": [
+        "moradia",
+        "casa",
+        "providência"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para rezar quando a intenção principal for a busca por casa, aluguel ou moradia digna.",
+      "texto": "Senhor Deus, coloco diante de vós esta necessidade: a busca por casa, aluguel ou moradia digna. Vós conheceis meu coração, minhas preocupações e aquilo que eu não consigo resolver sozinho.\n\nDai-me serenidade para aceitar o que não depende de mim, coragem para fazer o bem possível e fé para confiar na vossa providência. Que esta situação me aproxime de vós e me torne mais humilde, paciente e caridoso. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "pai-nosso",
+        "oracao-gratidao"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "intencoes",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "intenção",
+        "necessidade",
+        "pedido"
+      ]
+    },
+    {
+      "id": "oracao-oracao-por-quem-vai-fazer-entrevista-de-emprego",
+      "titulo": "Oração por quem vai fazer entrevista de emprego",
+      "categoria": "intencoes",
+      "tipo": "oracao",
+      "tags": [
+        "emprego",
+        "entrevista",
+        "trabalho"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para rezar quando a intenção principal for uma entrevista de emprego ou oportunidade profissional.",
+      "texto": "Senhor Deus, coloco diante de vós esta necessidade: uma entrevista de emprego ou oportunidade profissional. Vós conheceis meu coração, minhas preocupações e aquilo que eu não consigo resolver sozinho.\n\nDai-me serenidade para aceitar o que não depende de mim, coragem para fazer o bem possível e fé para confiar na vossa providência. Que esta situação me aproxime de vós e me torne mais humilde, paciente e caridoso. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "pai-nosso",
+        "oracao-gratidao"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "intencoes",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "intenção",
+        "necessidade",
+        "pedido"
+      ]
+    },
+    {
+      "id": "oracao-oracao-por-pequenos-empreendedores",
+      "titulo": "Oração por pequenos empreendedores",
+      "categoria": "intencoes",
+      "tipo": "oracao",
+      "tags": [
+        "empreendedores",
+        "trabalho",
+        "providência"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para rezar quando a intenção principal for quem trabalha por conta própria ou sustenta um pequeno negócio.",
+      "texto": "Senhor Deus, coloco diante de vós esta necessidade: quem trabalha por conta própria ou sustenta um pequeno negócio. Vós conheceis meu coração, minhas preocupações e aquilo que eu não consigo resolver sozinho.\n\nDai-me serenidade para aceitar o que não depende de mim, coragem para fazer o bem possível e fé para confiar na vossa providência. Que esta situação me aproxime de vós e me torne mais humilde, paciente e caridoso. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "pai-nosso",
+        "oracao-gratidao"
+      ],
+      "duracao": "media",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "intencoes",
+        "uso": "oração pessoal",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "intenção",
+        "necessidade",
+        "pedido"
+      ]
+    },
+    {
+      "id": "oracao-oracao-pelos-endividados-da-familia",
+      "titulo": "Oração pelos endividados da família",
+      "categoria": "intencoes",
+      "tipo": "oracao",
+      "tags": [
+        "dívidas",
+        "família",
+        "providência"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para rezar quando a intenção principal for dívidas e organização financeira da família.",
+      "texto": "Senhor Deus, coloco diante de vós esta necessidade: dívidas e organização financeira da família. Vós conheceis meu coração, minhas preocupações e aquilo que eu não consigo resolver sozinho.\n\nDai-me serenidade para aceitar o que não depende de mim, coragem para fazer o bem possível e fé para confiar na vossa providência. Que esta situação me aproxime de vós e me torne mais humilde, paciente e caridoso. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "pai-nosso",
+        "oracao-gratidao"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "intencoes",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "intenção",
+        "necessidade",
+        "pedido"
+      ]
+    },
+    {
+      "id": "oracao-oracao-por-protecao-digital",
+      "titulo": "Oração por proteção digital",
+      "categoria": "intencoes",
+      "tipo": "oracao",
+      "tags": [
+        "internet",
+        "tecnologia",
+        "prudência"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para rezar quando a intenção principal for uso prudente da internet, redes sociais e tecnologia.",
+      "texto": "Senhor Deus, coloco diante de vós esta necessidade: uso prudente da internet, redes sociais e tecnologia. Vós conheceis meu coração, minhas preocupações e aquilo que eu não consigo resolver sozinho.\n\nDai-me serenidade para aceitar o que não depende de mim, coragem para fazer o bem possível e fé para confiar na vossa providência. Que esta situação me aproxime de vós e me torne mais humilde, paciente e caridoso. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "pai-nosso",
+        "oracao-gratidao"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "intencoes",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "intenção",
+        "necessidade",
+        "pedido"
+      ]
+    },
+    {
+      "id": "oracao-oracao-antes-de-uma-conversa-dificil",
+      "titulo": "Oração antes de uma conversa difícil",
+      "categoria": "intencoes",
+      "tipo": "oracao",
+      "tags": [
+        "conversa",
+        "perdão",
+        "sabedoria"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para rezar quando a intenção principal for uma conversa difícil que exige prudência e caridade.",
+      "texto": "Senhor Deus, coloco diante de vós esta necessidade: uma conversa difícil que exige prudência e caridade. Vós conheceis meu coração, minhas preocupações e aquilo que eu não consigo resolver sozinho.\n\nDai-me serenidade para aceitar o que não depende de mim, coragem para fazer o bem possível e fé para confiar na vossa providência. Que esta situação me aproxime de vós e me torne mais humilde, paciente e caridoso. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "pai-nosso",
+        "oracao-gratidao"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "intencoes",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "intenção",
+        "necessidade",
+        "pedido"
+      ]
+    },
+    {
+      "id": "oracao-oracao-por-quem-sofre-calunia",
+      "titulo": "Oração por quem sofre calúnia",
+      "categoria": "intencoes",
+      "tipo": "oracao",
+      "tags": [
+        "calúnia",
+        "justiça",
+        "paz"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para rezar quando a intenção principal for calúnia, fofoca ou injustiça contra a boa fama.",
+      "texto": "Senhor Deus, coloco diante de vós esta necessidade: calúnia, fofoca ou injustiça contra a boa fama. Vós conheceis meu coração, minhas preocupações e aquilo que eu não consigo resolver sozinho.\n\nDai-me serenidade para aceitar o que não depende de mim, coragem para fazer o bem possível e fé para confiar na vossa providência. Que esta situação me aproxime de vós e me torne mais humilde, paciente e caridoso. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "pai-nosso",
+        "oracao-gratidao"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "intencoes",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "intenção",
+        "necessidade",
+        "pedido"
+      ]
+    },
+    {
+      "id": "oracao-oracao-por-quem-sente-solidao",
+      "titulo": "Oração por quem sente solidão",
+      "categoria": "intencoes",
+      "tipo": "oracao",
+      "tags": [
+        "solidão",
+        "consolo",
+        "amizade"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para rezar quando a intenção principal for solidão, abandono e necessidade de consolo.",
+      "texto": "Senhor Deus, coloco diante de vós esta necessidade: solidão, abandono e necessidade de consolo. Vós conheceis meu coração, minhas preocupações e aquilo que eu não consigo resolver sozinho.\n\nDai-me serenidade para aceitar o que não depende de mim, coragem para fazer o bem possível e fé para confiar na vossa providência. Que esta situação me aproxime de vós e me torne mais humilde, paciente e caridoso. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "pai-nosso",
+        "oracao-gratidao"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "intencoes",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "intenção",
+        "necessidade",
+        "pedido"
+      ]
+    },
+    {
+      "id": "oracao-oracao-por-amizades-verdadeiras",
+      "titulo": "Oração por amizades verdadeiras",
+      "categoria": "intencoes",
+      "tipo": "oracao",
+      "tags": [
+        "amizade",
+        "discernimento",
+        "paz"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para rezar quando a intenção principal for amizades boas, sinceras e santas.",
+      "texto": "Senhor Deus, coloco diante de vós esta necessidade: amizades boas, sinceras e santas. Vós conheceis meu coração, minhas preocupações e aquilo que eu não consigo resolver sozinho.\n\nDai-me serenidade para aceitar o que não depende de mim, coragem para fazer o bem possível e fé para confiar na vossa providência. Que esta situação me aproxime de vós e me torne mais humilde, paciente e caridoso. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "pai-nosso",
+        "oracao-gratidao"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "intencoes",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "intenção",
+        "necessidade",
+        "pedido"
+      ]
+    },
+    {
+      "id": "oracao-oracao-por-quem-cuida-da-casa",
+      "titulo": "Oração por quem cuida da casa",
+      "categoria": "intencoes",
+      "tipo": "oracao",
+      "tags": [
+        "casa",
+        "rotina",
+        "serviço"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para rezar quando a intenção principal for a rotina doméstica e o serviço escondido.",
+      "texto": "Senhor Deus, coloco diante de vós esta necessidade: a rotina doméstica e o serviço escondido. Vós conheceis meu coração, minhas preocupações e aquilo que eu não consigo resolver sozinho.\n\nDai-me serenidade para aceitar o que não depende de mim, coragem para fazer o bem possível e fé para confiar na vossa providência. Que esta situação me aproxime de vós e me torne mais humilde, paciente e caridoso. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "pai-nosso",
+        "oracao-gratidao"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "intencoes",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "intenção",
+        "necessidade",
+        "pedido"
+      ]
+    },
+    {
+      "id": "oracao-oracao-por-maes-cansadas",
+      "titulo": "Oração por mães cansadas",
+      "categoria": "intencoes",
+      "tipo": "oracao",
+      "tags": [
+        "mães",
+        "família",
+        "cansaço"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para rezar quando a intenção principal for o cansaço das mães e cuidadoras.",
+      "texto": "Senhor Deus, coloco diante de vós esta necessidade: o cansaço das mães e cuidadoras. Vós conheceis meu coração, minhas preocupações e aquilo que eu não consigo resolver sozinho.\n\nDai-me serenidade para aceitar o que não depende de mim, coragem para fazer o bem possível e fé para confiar na vossa providência. Que esta situação me aproxime de vós e me torne mais humilde, paciente e caridoso. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "pai-nosso",
+        "oracao-gratidao"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "intencoes",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "intenção",
+        "necessidade",
+        "pedido"
+      ]
+    },
+    {
+      "id": "oracao-oracao-por-pais-de-familia",
+      "titulo": "Oração por pais de família",
+      "categoria": "intencoes",
+      "tipo": "oracao",
+      "tags": [
+        "pais",
+        "família",
+        "trabalho"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para rezar quando a intenção principal for a missão dos pais e provedores.",
+      "texto": "Senhor Deus, coloco diante de vós esta necessidade: a missão dos pais e provedores. Vós conheceis meu coração, minhas preocupações e aquilo que eu não consigo resolver sozinho.\n\nDai-me serenidade para aceitar o que não depende de mim, coragem para fazer o bem possível e fé para confiar na vossa providência. Que esta situação me aproxime de vós e me torne mais humilde, paciente e caridoso. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "pai-nosso",
+        "oracao-gratidao"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "santos",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "intenção",
+        "necessidade",
+        "pedido"
+      ]
+    },
+    {
+      "id": "oracao-oracao-por-quem-sofre-insonia",
+      "titulo": "Oração por quem sofre insônia",
+      "categoria": "intencoes",
+      "tipo": "oracao",
+      "tags": [
+        "sono",
+        "noite",
+        "paz"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para rezar quando a intenção principal for insônia, preocupação noturna e descanso.",
+      "texto": "Senhor Deus, coloco diante de vós esta necessidade: insônia, preocupação noturna e descanso. Vós conheceis meu coração, minhas preocupações e aquilo que eu não consigo resolver sozinho.\n\nDai-me serenidade para aceitar o que não depende de mim, coragem para fazer o bem possível e fé para confiar na vossa providência. Que esta situação me aproxime de vós e me torne mais humilde, paciente e caridoso. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "pai-nosso",
+        "oracao-gratidao"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "intencoes",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "intenção",
+        "necessidade",
+        "pedido"
+      ]
+    },
+    {
+      "id": "oracao-oracao-por-decisoes-financeiras",
+      "titulo": "Oração por decisões financeiras",
+      "categoria": "intencoes",
+      "tipo": "oracao",
+      "tags": [
+        "dinheiro",
+        "prudência",
+        "providência"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para rezar quando a intenção principal for decisões financeiras e prudência.",
+      "texto": "Senhor Deus, coloco diante de vós esta necessidade: decisões financeiras e prudência. Vós conheceis meu coração, minhas preocupações e aquilo que eu não consigo resolver sozinho.\n\nDai-me serenidade para aceitar o que não depende de mim, coragem para fazer o bem possível e fé para confiar na vossa providência. Que esta situação me aproxime de vós e me torne mais humilde, paciente e caridoso. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "pai-nosso",
+        "oracao-gratidao"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "intencoes",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "intenção",
+        "necessidade",
+        "pedido"
+      ]
+    },
+    {
+      "id": "oracao-oracao-por-cura-de-traumas",
+      "titulo": "Oração por cura de traumas",
+      "categoria": "intencoes",
+      "tipo": "oracao",
+      "tags": [
+        "cura interior",
+        "trauma",
+        "memória"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para rezar quando a intenção principal for feridas antigas e traumas emocionais.",
+      "texto": "Senhor Deus, coloco diante de vós esta necessidade: feridas antigas e traumas emocionais. Vós conheceis meu coração, minhas preocupações e aquilo que eu não consigo resolver sozinho.\n\nDai-me serenidade para aceitar o que não depende de mim, coragem para fazer o bem possível e fé para confiar na vossa providência. Que esta situação me aproxime de vós e me torne mais humilde, paciente e caridoso. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "pai-nosso",
+        "oracao-gratidao"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "intencoes",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "intenção",
+        "necessidade",
+        "pedido"
+      ]
+    },
+    {
+      "id": "oracao-oracao-por-libertacao-do-orgulho",
+      "titulo": "Oração por libertação do orgulho",
+      "categoria": "intencoes",
+      "tipo": "oracao",
+      "tags": [
+        "orgulho",
+        "humildade",
+        "conversão"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para rezar quando a intenção principal for orgulho, vaidade e dureza de coração.",
+      "texto": "Senhor Deus, coloco diante de vós esta necessidade: orgulho, vaidade e dureza de coração. Vós conheceis meu coração, minhas preocupações e aquilo que eu não consigo resolver sozinho.\n\nDai-me serenidade para aceitar o que não depende de mim, coragem para fazer o bem possível e fé para confiar na vossa providência. Que esta situação me aproxime de vós e me torne mais humilde, paciente e caridoso. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "pai-nosso",
+        "oracao-gratidao"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "jesus-e-eucaristia",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "intenção",
+        "necessidade",
+        "pedido"
+      ]
+    },
+    {
+      "id": "oracao-oracao-por-paciencia-no-transito",
+      "titulo": "Oração por paciência no trânsito",
+      "categoria": "intencoes",
+      "tipo": "oracao",
+      "tags": [
+        "trânsito",
+        "paciência",
+        "caridade"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para rezar quando a intenção principal for paciência no trânsito e no deslocamento.",
+      "texto": "Senhor Deus, coloco diante de vós esta necessidade: paciência no trânsito e no deslocamento. Vós conheceis meu coração, minhas preocupações e aquilo que eu não consigo resolver sozinho.\n\nDai-me serenidade para aceitar o que não depende de mim, coragem para fazer o bem possível e fé para confiar na vossa providência. Que esta situação me aproxime de vós e me torne mais humilde, paciente e caridoso. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "pai-nosso",
+        "oracao-gratidao"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "intencoes",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "intenção",
+        "necessidade",
+        "pedido"
+      ]
+    },
+    {
+      "id": "oracao-oracao-por-vitimas-de-violencia",
+      "titulo": "Oração por vítimas de violência",
+      "categoria": "intencoes",
+      "tipo": "oracao",
+      "tags": [
+        "violência",
+        "paz",
+        "justiça"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para rezar quando a intenção principal for vítimas de violência, medo e injustiça.",
+      "texto": "Senhor Deus, coloco diante de vós esta necessidade: vítimas de violência, medo e injustiça. Vós conheceis meu coração, minhas preocupações e aquilo que eu não consigo resolver sozinho.\n\nDai-me serenidade para aceitar o que não depende de mim, coragem para fazer o bem possível e fé para confiar na vossa providência. Que esta situação me aproxime de vós e me torne mais humilde, paciente e caridoso. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "pai-nosso",
+        "oracao-gratidao"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "intencoes",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "intenção",
+        "necessidade",
+        "pedido"
+      ]
+    },
+    {
+      "id": "oracao-oracao-pelos-encarcerados",
+      "titulo": "Oração pelos encarcerados",
+      "categoria": "intencoes",
+      "tipo": "oracao",
+      "tags": [
+        "presos",
+        "misericórdia",
+        "conversão"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para rezar quando a intenção principal for pessoas encarceradas e suas famílias.",
+      "texto": "Senhor Deus, coloco diante de vós esta necessidade: pessoas encarceradas e suas famílias. Vós conheceis meu coração, minhas preocupações e aquilo que eu não consigo resolver sozinho.\n\nDai-me serenidade para aceitar o que não depende de mim, coragem para fazer o bem possível e fé para confiar na vossa providência. Que esta situação me aproxime de vós e me torne mais humilde, paciente e caridoso. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "pai-nosso",
+        "oracao-gratidao"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "santos",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "intenção",
+        "necessidade",
+        "pedido"
+      ]
+    },
+    {
+      "id": "oracao-oracao-por-missionarios",
+      "titulo": "Oração por missionários",
+      "categoria": "intencoes",
+      "tipo": "oracao",
+      "tags": [
+        "missão",
+        "igreja",
+        "evangelização"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para rezar quando a intenção principal for missionários e evangelizadores.",
+      "texto": "Senhor Deus, coloco diante de vós esta necessidade: missionários e evangelizadores. Vós conheceis meu coração, minhas preocupações e aquilo que eu não consigo resolver sozinho.\n\nDai-me serenidade para aceitar o que não depende de mim, coragem para fazer o bem possível e fé para confiar na vossa providência. Que esta situação me aproxime de vós e me torne mais humilde, paciente e caridoso. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "pai-nosso",
+        "oracao-gratidao"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "santos",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "intenção",
+        "necessidade",
+        "pedido"
+      ]
+    },
+    {
+      "id": "oracao-oracao-por-comunicadores-catolicos",
+      "titulo": "Oração por comunicadores católicos",
+      "categoria": "intencoes",
+      "tipo": "oracao",
+      "tags": [
+        "comunicação",
+        "internet",
+        "evangelização"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para rezar quando a intenção principal for comunicadores católicos e evangelização digital.",
+      "texto": "Senhor Deus, coloco diante de vós esta necessidade: comunicadores católicos e evangelização digital. Vós conheceis meu coração, minhas preocupações e aquilo que eu não consigo resolver sozinho.\n\nDai-me serenidade para aceitar o que não depende de mim, coragem para fazer o bem possível e fé para confiar na vossa providência. Que esta situação me aproxime de vós e me torne mais humilde, paciente e caridoso. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "pai-nosso",
+        "oracao-gratidao"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "intencoes",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "intenção",
+        "necessidade",
+        "pedido"
+      ]
+    },
+    {
+      "id": "oracao-oracao-por-artistas-e-musicos",
+      "titulo": "Oração por artistas e músicos",
+      "categoria": "intencoes",
+      "tipo": "oracao",
+      "tags": [
+        "arte",
+        "música",
+        "dons"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para rezar quando a intenção principal for artistas, músicos e dons criativos.",
+      "texto": "Senhor Deus, coloco diante de vós esta necessidade: artistas, músicos e dons criativos. Vós conheceis meu coração, minhas preocupações e aquilo que eu não consigo resolver sozinho.\n\nDai-me serenidade para aceitar o que não depende de mim, coragem para fazer o bem possível e fé para confiar na vossa providência. Que esta situação me aproxime de vós e me torne mais humilde, paciente e caridoso. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "pai-nosso",
+        "oracao-gratidao"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "intencoes",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "intenção",
+        "necessidade",
+        "pedido"
+      ]
+    },
+    {
+      "id": "oracao-oracao-por-medicos-e-enfermeiros",
+      "titulo": "Oração por médicos e enfermeiros",
+      "categoria": "intencoes",
+      "tipo": "oracao",
+      "tags": [
+        "saúde",
+        "médicos",
+        "enfermeiros"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para rezar quando a intenção principal for profissionais da saúde.",
+      "texto": "Senhor Deus, coloco diante de vós esta necessidade: profissionais da saúde. Vós conheceis meu coração, minhas preocupações e aquilo que eu não consigo resolver sozinho.\n\nDai-me serenidade para aceitar o que não depende de mim, coragem para fazer o bem possível e fé para confiar na vossa providência. Que esta situação me aproxime de vós e me torne mais humilde, paciente e caridoso. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "pai-nosso",
+        "oracao-gratidao"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "intencoes",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "intenção",
+        "necessidade",
+        "pedido"
+      ]
+    },
+    {
+      "id": "oracao-oracao-por-policiais-e-bombeiros",
+      "titulo": "Oração por policiais e bombeiros",
+      "categoria": "intencoes",
+      "tipo": "oracao",
+      "tags": [
+        "proteção",
+        "segurança",
+        "serviço"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para rezar quando a intenção principal for quem trabalha protegendo e socorrendo vidas.",
+      "texto": "Senhor Deus, coloco diante de vós esta necessidade: quem trabalha protegendo e socorrendo vidas. Vós conheceis meu coração, minhas preocupações e aquilo que eu não consigo resolver sozinho.\n\nDai-me serenidade para aceitar o que não depende de mim, coragem para fazer o bem possível e fé para confiar na vossa providência. Que esta situação me aproxime de vós e me torne mais humilde, paciente e caridoso. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "pai-nosso",
+        "oracao-gratidao"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "intencoes",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "intenção",
+        "necessidade",
+        "pedido"
+      ]
+    },
+    {
+      "id": "oracao-oracao-por-agricultores",
+      "titulo": "Oração por agricultores",
+      "categoria": "intencoes",
+      "tipo": "oracao",
+      "tags": [
+        "agricultura",
+        "chuva",
+        "trabalho"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para rezar quando a intenção principal for agricultores, lavouras e sustento da terra.",
+      "texto": "Senhor Deus, coloco diante de vós esta necessidade: agricultores, lavouras e sustento da terra. Vós conheceis meu coração, minhas preocupações e aquilo que eu não consigo resolver sozinho.\n\nDai-me serenidade para aceitar o que não depende de mim, coragem para fazer o bem possível e fé para confiar na vossa providência. Que esta situação me aproxime de vós e me torne mais humilde, paciente e caridoso. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "pai-nosso",
+        "oracao-gratidao"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "intencoes",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "intenção",
+        "necessidade",
+        "pedido"
+      ]
+    },
+    {
+      "id": "oracao-oracao-por-comerciantes",
+      "titulo": "Oração por comerciantes",
+      "categoria": "intencoes",
+      "tipo": "oracao",
+      "tags": [
+        "comércio",
+        "trabalho",
+        "honestidade"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para rezar quando a intenção principal for comerciantes e trabalho honesto.",
+      "texto": "Senhor Deus, coloco diante de vós esta necessidade: comerciantes e trabalho honesto. Vós conheceis meu coração, minhas preocupações e aquilo que eu não consigo resolver sozinho.\n\nDai-me serenidade para aceitar o que não depende de mim, coragem para fazer o bem possível e fé para confiar na vossa providência. Que esta situação me aproxime de vós e me torne mais humilde, paciente e caridoso. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "pai-nosso",
+        "oracao-gratidao"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "intencoes",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "intenção",
+        "necessidade",
+        "pedido"
+      ]
+    },
+    {
+      "id": "oracao-oracao-por-estudantes-universitarios",
+      "titulo": "Oração por estudantes universitários",
+      "categoria": "intencoes",
+      "tipo": "oracao",
+      "tags": [
+        "universidade",
+        "estudo",
+        "discernimento"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para rezar quando a intenção principal for vida universitária, estudos e escolhas.",
+      "texto": "Senhor Deus, coloco diante de vós esta necessidade: vida universitária, estudos e escolhas. Vós conheceis meu coração, minhas preocupações e aquilo que eu não consigo resolver sozinho.\n\nDai-me serenidade para aceitar o que não depende de mim, coragem para fazer o bem possível e fé para confiar na vossa providência. Que esta situação me aproxime de vós e me torne mais humilde, paciente e caridoso. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "pai-nosso",
+        "oracao-gratidao"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "intencoes",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "intenção",
+        "necessidade",
+        "pedido"
+      ]
+    },
+    {
+      "id": "oracao-oracao-por-vestibulandos-e-concurseiros",
+      "titulo": "Oração por vestibulandos e concurseiros",
+      "categoria": "intencoes",
+      "tipo": "oracao",
+      "tags": [
+        "provas",
+        "estudo",
+        "concurso"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para rezar quando a intenção principal for vestibulares, concursos e provas importantes.",
+      "texto": "Senhor Deus, coloco diante de vós esta necessidade: vestibulares, concursos e provas importantes. Vós conheceis meu coração, minhas preocupações e aquilo que eu não consigo resolver sozinho.\n\nDai-me serenidade para aceitar o que não depende de mim, coragem para fazer o bem possível e fé para confiar na vossa providência. Que esta situação me aproxime de vós e me torne mais humilde, paciente e caridoso. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "pai-nosso",
+        "oracao-gratidao"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "intencoes",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "intenção",
+        "necessidade",
+        "pedido"
+      ]
+    },
+    {
+      "id": "oracao-oracao-por-quem-vai-mudar-de-cidade",
+      "titulo": "Oração por quem vai mudar de cidade",
+      "categoria": "intencoes",
+      "tipo": "oracao",
+      "tags": [
+        "mudança",
+        "cidade",
+        "família"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para rezar quando a intenção principal for mudanças, recomeços e adaptação.",
+      "texto": "Senhor Deus, coloco diante de vós esta necessidade: mudanças, recomeços e adaptação. Vós conheceis meu coração, minhas preocupações e aquilo que eu não consigo resolver sozinho.\n\nDai-me serenidade para aceitar o que não depende de mim, coragem para fazer o bem possível e fé para confiar na vossa providência. Que esta situação me aproxime de vós e me torne mais humilde, paciente e caridoso. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "pai-nosso",
+        "oracao-gratidao"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "intencoes",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "intenção",
+        "necessidade",
+        "pedido"
+      ]
+    },
+    {
+      "id": "oracao-oracao-por-quem-espera-uma-resposta",
+      "titulo": "Oração por quem espera uma resposta",
+      "categoria": "intencoes",
+      "tipo": "oracao",
+      "tags": [
+        "espera",
+        "ansiedade",
+        "confiança"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para rezar quando a intenção principal for a espera por uma resposta importante.",
+      "texto": "Senhor Deus, coloco diante de vós esta necessidade: a espera por uma resposta importante. Vós conheceis meu coração, minhas preocupações e aquilo que eu não consigo resolver sozinho.\n\nDai-me serenidade para aceitar o que não depende de mim, coragem para fazer o bem possível e fé para confiar na vossa providência. Que esta situação me aproxime de vós e me torne mais humilde, paciente e caridoso. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "pai-nosso",
+        "oracao-gratidao"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "intencoes",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "intenção",
+        "necessidade",
+        "pedido"
+      ]
+    },
+    {
+      "id": "oracao-oracao-por-quem-precisa-perdoar-a-si-mesmo",
+      "titulo": "Oração por quem precisa perdoar a si mesmo",
+      "categoria": "intencoes",
+      "tipo": "oracao",
+      "tags": [
+        "perdão",
+        "culpa",
+        "misericórdia"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para rezar quando a intenção principal for culpa, arrependimento e misericórdia consigo mesmo.",
+      "texto": "Senhor Deus, coloco diante de vós esta necessidade: culpa, arrependimento e misericórdia consigo mesmo. Vós conheceis meu coração, minhas preocupações e aquilo que eu não consigo resolver sozinho.\n\nDai-me serenidade para aceitar o que não depende de mim, coragem para fazer o bem possível e fé para confiar na vossa providência. Que esta situação me aproxime de vós e me torne mais humilde, paciente e caridoso. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "pai-nosso",
+        "oracao-gratidao"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "intencoes",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "intenção",
+        "necessidade",
+        "pedido"
+      ]
+    },
+    {
+      "id": "oracao-oracao-por-pureza-do-olhar",
+      "titulo": "Oração por pureza do olhar",
+      "categoria": "intencoes",
+      "tipo": "oracao",
+      "tags": [
+        "pureza",
+        "olhar",
+        "castidade"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para rezar quando a intenção principal for pureza do olhar, da imaginação e do coração.",
+      "texto": "Senhor Deus, coloco diante de vós esta necessidade: pureza do olhar, da imaginação e do coração. Vós conheceis meu coração, minhas preocupações e aquilo que eu não consigo resolver sozinho.\n\nDai-me serenidade para aceitar o que não depende de mim, coragem para fazer o bem possível e fé para confiar na vossa providência. Que esta situação me aproxime de vós e me torne mais humilde, paciente e caridoso. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "pai-nosso",
+        "oracao-gratidao"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "jesus-e-eucaristia",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "intenção",
+        "necessidade",
+        "pedido"
+      ]
+    },
+    {
+      "id": "oracao-oracao-por-alegria-crista",
+      "titulo": "Oração por alegria cristã",
+      "categoria": "intencoes",
+      "tipo": "oracao",
+      "tags": [
+        "alegria",
+        "esperança",
+        "gratidão"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para rezar quando a intenção principal for recuperar a alegria cristã.",
+      "texto": "Senhor Deus, coloco diante de vós esta necessidade: recuperar a alegria cristã. Vós conheceis meu coração, minhas preocupações e aquilo que eu não consigo resolver sozinho.\n\nDai-me serenidade para aceitar o que não depende de mim, coragem para fazer o bem possível e fé para confiar na vossa providência. Que esta situação me aproxime de vós e me torne mais humilde, paciente e caridoso. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "pai-nosso",
+        "oracao-gratidao"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "intencoes",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "intenção",
+        "necessidade",
+        "pedido"
+      ]
+    },
+    {
+      "id": "oracao-por-vocacao",
+      "titulo": "Oração por discernimento vocacional",
+      "categoria": "intencoes",
+      "tipo": "oracao",
+      "tags": [
+        "vocação",
+        "discernimento",
+        "chamado",
+        "futuro"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Quando alguém precisa descobrir o chamado de Deus para sua vida",
+      "texto": "Senhor, mostrai-me o caminho que preparastes para mim. Afastai o medo de responder ao vosso chamado e libertai-me da ilusão de viver apenas para mim mesmo. Dai-me coragem para dizer sim, paciência para esperar e generosidade para servir. Amém.",
+      "explicacao": "Oração organizada para o Devocionário Lectio, com linguagem simples, reverente e fiel à espiritualidade católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "intencoes",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "intenção",
+        "necessidade",
+        "pedido"
+      ]
+    },
+    {
+      "id": "oracao-por-conversao-de-um-filho",
+      "titulo": "Pela conversão de um filho",
+      "categoria": "intencoes",
+      "tipo": "oracao",
+      "tags": [
+        "filhos",
+        "conversão",
+        "família",
+        "esperança"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para pais que sofrem ao ver um filho afastado da fé",
+      "texto": "Senhor, entrego-vos meu filho com amor e confiança. Onde minhas palavras não alcançam, que vossa graça alcance; onde meu medo aperta, que vossa misericórdia trabalhe. Guardai seu coração, iluminai seus passos e conduzi-o de volta ao vosso amor. Amém.",
+      "explicacao": "Oração organizada para o Devocionário Lectio, com linguagem simples, reverente e fiel à espiritualidade católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "santos",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "intenção",
+        "necessidade",
+        "pedido",
+        "pela converde um filho"
+      ]
+    },
+    {
+      "id": "oracao-por-restauracao-do-casamento",
+      "titulo": "Pela restauração do casamento",
+      "categoria": "intencoes",
+      "tipo": "oracao",
+      "tags": [
+        "casamento",
+        "família",
+        "perdão",
+        "reconciliação"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Quando o casamento precisa de cura, diálogo e fidelidade",
+      "texto": "Senhor, visitai este casamento com vossa graça. Curai as palavras que feriram, as ausências que esfriaram e os orgulhos que afastaram. Dai-nos humildade para pedir perdão, coragem para recomeçar e amor para escolher o bem todos os dias. Amém.",
+      "explicacao": "Oração organizada para o Devocionário Lectio, com linguagem simples, reverente e fiel à espiritualidade católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "intencoes",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "intenção",
+        "necessidade",
+        "pedido"
+      ]
+    },
+    {
+      "id": "oracao-por-quem-esta-desempregado",
+      "titulo": "Por quem está desempregado",
+      "categoria": "intencoes",
+      "tipo": "oracao",
+      "tags": [
+        "trabalho",
+        "desemprego",
+        "providência",
+        "esperança"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para pedir trabalho digno e força durante a espera",
+      "texto": "Senhor, sustentai quem procura trabalho e sente o peso da incerteza. Abri portas honestas, fortalecei a esperança e não permitais que a falta de resposta roube a dignidade ou a fé. Conduzi cada passo com providência e paz. Amém.",
+      "explicacao": "Oração organizada para o Devocionário Lectio, com linguagem simples, reverente e fiel à espiritualidade católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "intencoes",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "intenção",
+        "necessidade",
+        "pedido"
+      ]
+    },
+    {
+      "id": "oracao-por-quem-cuida-de-enfermo",
+      "titulo": "Por quem cuida de enfermo",
+      "categoria": "intencoes",
+      "tipo": "oracao",
+      "tags": [
+        "cuidadores",
+        "enfermos",
+        "paciência",
+        "caridade"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para familiares, cuidadores e profissionais que acompanham doentes",
+      "texto": "Senhor, dai força a quem cuida. Quando o cansaço pesar, renovai a paciência; quando a tristeza aparecer, sustentai o coração; quando faltar reconhecimento, recordai que todo gesto de amor feito aos pequenos chega até vós. Amém.",
+      "explicacao": "Oração organizada para o Devocionário Lectio, com linguagem simples, reverente e fiel à espiritualidade católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "intencoes",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "intenção",
+        "necessidade",
+        "pedido"
+      ]
+    },
+    {
+      "id": "oracao-por-memoria-e-estudos",
+      "titulo": "Por memória e estudos",
+      "categoria": "intencoes",
+      "tipo": "oracao",
+      "tags": [
+        "estudos",
+        "memória",
+        "provas",
+        "sabedoria"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Antes de estudar, prestar prova ou apresentar trabalho",
+      "texto": "Espírito Santo, iluminai minha inteligência e ordenai minha memória. Ajudai-me a estudar com disciplina, compreender com clareza e responder com calma. Livrai-me da ansiedade e fazei do conhecimento um serviço ao bem. Amém.",
+      "explicacao": "Oração organizada para o Devocionário Lectio, com linguagem simples, reverente e fiel à espiritualidade católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "intencoes",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "intenção",
+        "necessidade",
+        "pedido"
+      ]
+    },
+    {
+      "id": "oracao-por-paz-na-casa",
+      "titulo": "Por paz dentro de casa",
+      "categoria": "intencoes",
+      "tipo": "oracao",
+      "tags": [
+        "casa",
+        "família",
+        "paz",
+        "reconciliação"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Quando o ambiente familiar está tenso ou dividido",
+      "texto": "Senhor, colocai vossa paz dentro desta casa. Calai palavras agressivas, curai ressentimentos antigos e ensinai-nos a escutar antes de julgar. Que este lar volte a ser lugar de respeito, perdão e presença de Deus. Amém.",
+      "explicacao": "Oração organizada para o Devocionário Lectio, com linguagem simples, reverente e fiel à espiritualidade católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "intencoes",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "intenção",
+        "necessidade",
+        "pedido"
+      ]
+    },
+    {
+      "id": "oracao-contra-inveja-e-maldade",
+      "titulo": "Contra inveja e maldade",
+      "categoria": "intencoes",
+      "tipo": "oracao",
+      "tags": [
+        "proteção",
+        "inveja",
+        "maldade",
+        "paz"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Quando houver medo de maldade, inveja ou perseguição",
+      "texto": "Senhor, guardai-me de toda maldade e de toda inveja. Não permitais que o medo domine meu coração nem que eu responda ao mal com mal. Cobri-me com vossa paz, protegei minha casa e ensinai-me a permanecer no bem. Amém.",
+      "explicacao": "Oração organizada para o Devocionário Lectio, com linguagem simples, reverente e fiel à espiritualidade católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "intencoes",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "intenção",
+        "necessidade",
+        "pedido"
+      ]
+    },
+    {
+      "id": "oracao-por-decisao-financeira",
+      "titulo": "Por decisão financeira",
+      "categoria": "intencoes",
+      "tipo": "oracao",
+      "tags": [
+        "finanças",
+        "discernimento",
+        "dívidas",
+        "prudência"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Antes de comprar, vender, investir ou assumir compromisso financeiro",
+      "texto": "Senhor, dai-me prudência nas decisões financeiras. Livrai-me da pressa, da vaidade e do descontrole. Ajudai-me a escolher com honestidade, responsabilidade e confiança na providência, sem colocar o dinheiro no lugar de Deus. Amém.",
+      "explicacao": "Oração organizada para o Devocionário Lectio, com linguagem simples, reverente e fiel à espiritualidade católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "santos",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "intenção",
+        "necessidade",
+        "pedido",
+        "por decifinanceira"
+      ]
+    },
+    {
+      "id": "oracao-por-quem-mora-longe",
+      "titulo": "Por quem mora longe da família",
+      "categoria": "intencoes",
+      "tipo": "oracao",
+      "tags": [
+        "saudade",
+        "família",
+        "viagem",
+        "proteção"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para familiares distantes, filhos fora de casa ou pessoas em outra cidade",
+      "texto": "Senhor, cuidai de quem amo e está longe dos meus olhos. Protegei seus caminhos, consolai sua saudade e mantende unidos nossos corações pela fé, pelo amor e pela oração. Que a distância não enfraqueça o bem que nos une. Amém.",
+      "explicacao": "Oração organizada para o Devocionário Lectio, com linguagem simples, reverente e fiel à espiritualidade católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "intencoes",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "intenção",
+        "necessidade",
+        "pedido"
+      ]
+    },
+    {
+      "id": "oracao-por-libertacao-de-vicio",
+      "titulo": "Por libertação de vício",
+      "categoria": "intencoes",
+      "tipo": "oracao",
+      "tags": [
+        "vício",
+        "libertação",
+        "cura",
+        "perseverança"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para pedir força contra dependências, compulsões ou hábitos destrutivos",
+      "texto": "Jesus libertador, alcançai-me onde minhas forças falham. Dai-me coragem para pedir ajuda, humildade para recomeçar e perseverança para vencer um dia de cada vez. Que nada escravize meu coração mais do que o vosso amor. Amém.",
+      "explicacao": "Oração organizada para o Devocionário Lectio, com linguagem simples, reverente e fiel à espiritualidade católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "intencoes",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "intenção",
+        "necessidade",
+        "pedido"
+      ]
+    },
+    {
+      "id": "oracao-por-protecao-das-criancas",
+      "titulo": "Pela proteção das crianças",
+      "categoria": "intencoes",
+      "tipo": "oracao",
+      "tags": [
+        "crianças",
+        "proteção",
+        "família",
+        "anjos"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Pelas crianças da família, da comunidade e do mundo",
+      "texto": "Senhor Jesus, que acolhestes as crianças com ternura, protegei todas elas. Guardai sua inocência, livrai-as de perigos e cercai-as de adultos bons, responsáveis e santos. Que cresçam em amor, fé, saúde e alegria. Amém.",
+      "explicacao": "Oração organizada para o Devocionário Lectio, com linguagem simples, reverente e fiel à espiritualidade católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "anjos-e-arcanjos",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "intenção",
+        "necessidade",
+        "pedido"
+      ]
+    },
+    {
+      "id": "oracao-pelos-professores-e-educadores",
+      "titulo": "Pelos professores e educadores",
+      "categoria": "intencoes",
+      "tipo": "oracao",
+      "tags": [
+        "professores",
+        "educação",
+        "sabedoria",
+        "paciência"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Por quem ensina, orienta e forma crianças, jovens ou adultos",
+      "texto": "Senhor, abençoai os professores e educadores. Dai-lhes paciência, sabedoria e amor pela verdade. Que cada aula seja serviço, cada correção seja justa e cada palavra ajude a formar pessoas mais humanas, livres e responsáveis. Amém.",
+      "explicacao": "Oração organizada para o Devocionário Lectio, com linguagem simples, reverente e fiel à espiritualidade católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "intencoes",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "intenção",
+        "necessidade",
+        "pedido"
+      ]
+    },
+    {
+      "id": "oracao-pelos-sacerdotes",
+      "titulo": "Pelos sacerdotes",
+      "categoria": "intencoes",
+      "tipo": "oracao",
+      "tags": [
+        "sacerdotes",
+        "igreja",
+        "vocação",
+        "missa"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Pelos padres, especialmente aqueles que acompanham sua comunidade",
+      "texto": "Senhor Jesus, eterno sacerdote, sustentai os sacerdotes na fidelidade. Guardai-os da solidão, do desânimo e das tentações. Dai-lhes coração de pastor, amor à Eucaristia, zelo pelas almas e humildade para servir. Amém.",
+      "explicacao": "Oração organizada para o Devocionário Lectio, com linguagem simples, reverente e fiel à espiritualidade católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "liturgia-sacramentos",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "intenção",
+        "necessidade",
+        "pedido"
+      ]
+    }
+  ]
+}

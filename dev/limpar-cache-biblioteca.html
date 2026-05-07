@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Limpar cache Lectio</title>
+  <style>
+    body{font-family:system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;line-height:1.45;padding:24px;max-width:820px;margin:auto;background:#f7f1e6;color:#261d14}
+    button{border:0;border-radius:10px;padding:12px 16px;background:#6b3f22;color:white;font-weight:700;cursor:pointer}
+    pre{white-space:pre-wrap;background:#fff;border:1px solid #decfb8;border-radius:10px;padding:14px;min-height:120px}
+    .warn{background:#fff7df;border:1px solid #e7c66d;border-radius:10px;padding:12px;margin:14px 0}
+  </style>
+</head>
+<body>
+  <h1>Limpar cache do Lectio</h1>
+  <p>Use esta página quando a Biblioteca Bíblica Expandida aparece no servidor, mas o app continua carregando arquivos antigos.</p>
+  <div class="warn"><strong>Seguro:</strong> isto apaga cache e service worker. Não apaga suas notas, marcações, chave Gemini nem login salvo no localStorage.</div>
+  <button id="go">Limpar cache e atualizar app</button>
+  <pre id="out">Aguardando...</pre>
+<script>
+const out = document.getElementById('out');
+function log(msg){ out.textContent += '\n' + msg; }
+out.textContent = '';
+
+document.getElementById('go').addEventListener('click', async () => {
+  out.textContent = '';
+  try {
+    if ('serviceWorker' in navigator) {
+      const regs = await navigator.serviceWorker.getRegistrations();
+      log('Service workers encontrados: ' + regs.length);
+      for (const reg of regs) {
+        await reg.unregister();
+        log('Service worker removido.');
+      }
+    } else {
+      log('Este navegador não usa service worker.');
+    }
+
+    if ('caches' in window) {
+      const names = await caches.keys();
+      log('Caches encontrados: ' + names.length);
+      for (const name of names) {
+        await caches.delete(name);
+        log('Cache removido: ' + name);
+      }
+    }
+
+    log('\nOK. Agora vou abrir o app limpo.');
+    setTimeout(() => {
+      location.href = '../index.html?cachefix=' + Date.now();
+    }, 900);
+  } catch (e) {
+    log('ERRO: ' + (e.message || e));
+  }
+});
+</script>
+</body>
+</html>

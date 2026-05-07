@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="pt-BR"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Debug Biblioteca Expandida</title>
+<body style="font-family:system-ui;padding:24px;line-height:1.45">
+<h1>Debug Biblioteca Bíblica Expandida</h1>
+<pre id="out">Testando...</pre>
+<script type="module">
+const out = document.getElementById('out');
+function log(x){ out.textContent += '\n' + x; }
+out.textContent = '';
+async function test(url, kind='json'){
+  try {
+    const r = await fetch(url, { cache: 'no-store' });
+    log(`${url} => HTTP ${r.status}`);
+    if (!r.ok) return null;
+    if (kind === 'text') return await r.text();
+    return await r.json();
+  } catch(e) { log(`${url} => ERRO ${e.message}`); return null; }
+}
+const reader = await test('../js/reader.js?v=debug', 'text');
+log(reader && reader.includes('biblioteca_expandida') ? 'OK: reader.js conhece biblioteca_expandida' : 'FALHA: reader.js antigo ou não contém biblioteca_expandida');
+const main = await test('../js/main.js?v=debug', 'text');
+log(main && main.includes('isBibliotecaExpandidaActive') ? 'OK: main.js tem integração da Biblioteca Expandida' : 'FALHA: main.js antigo ou sem integração');
+const livros = await test('../livros-biblioteca-expandida.json');
+if (Array.isArray(livros)) {
+  log(`OK: livros-biblioteca-expandida.json carregou ${livros.length} livros`);
+  const b = livros[0];
+  log(`Primeiro livro: ${b.id} — ${b.nome} — ${b.caps} caps`);
+  const cap = await test(`../dados-biblioteca-expandida/${encodeURIComponent(b.id)}/1.json`);
+  if (Array.isArray(cap)) {
+    log(`OK: capítulo carregou ${cap.length} versículos`);
+    log(`Primeiro versículo: ${JSON.stringify(cap[0]).slice(0,220)}`);
+    log('RESULTADO: a base está acessível. Se no app não troca, é cache/service worker ou JS antigo.');
+  } else {
+    log('FALHA: capítulo 1 do primeiro livro não carregou como array.');
+  }
+} else {
+  log('FALHA: livros-biblioteca-expandida.json não carregou como array.');
+}
+if ('serviceWorker' in navigator) {
+  const regs = await navigator.serviceWorker.getRegistrations();
+  log(`Service workers registrados: ${regs.length}`);
+}
+</script>
+</body></html>

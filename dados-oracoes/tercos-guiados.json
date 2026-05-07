@@ -1,0 +1,2146 @@
+{
+  "schema": "lectio.tercos-guiados.v1",
+  "updated": "2026-05-06",
+  "title": "Terços e Rosários guiados",
+  "description": "Sequências guiadas para todos os terços e rosários do Devocionário Lectio.",
+  "common_prayers": {
+    "sinal_da_cruz": {
+      "title": "Sinal da Cruz",
+      "text": "Em nome do Pai, e do Filho, e do Espírito Santo. Amém."
+    },
+    "pai_nosso": {
+      "title": "Pai-Nosso",
+      "text": "Pai nosso que estais nos céus, santificado seja o vosso nome; venha a nós o vosso Reino; seja feita a vossa vontade, assim na terra como no céu.\n\nO pão nosso de cada dia nos dai hoje; perdoai-nos as nossas ofensas, assim como nós perdoamos a quem nos tem ofendido; e não nos deixeis cair em tentação, mas livrai-nos do mal. Amém."
+    },
+    "ave_maria": {
+      "title": "Ave-Maria",
+      "text": "Ave Maria, cheia de graça, o Senhor é convosco; bendita sois vós entre as mulheres, e bendito é o fruto do vosso ventre, Jesus.\n\nSanta Maria, Mãe de Deus, rogai por nós, pecadores, agora e na hora da nossa morte. Amém."
+    },
+    "gloria": {
+      "title": "Glória ao Pai",
+      "text": "Glória ao Pai, ao Filho e ao Espírito Santo.\n\nComo era no princípio, agora e sempre. Amém."
+    },
+    "credo": {
+      "title": "Credo",
+      "text": "Creio em Deus Pai todo-poderoso, criador do céu e da terra; e em Jesus Cristo, seu único Filho, nosso Senhor, que foi concebido pelo poder do Espírito Santo; nasceu da Virgem Maria, padeceu sob Pôncio Pilatos, foi crucificado, morto e sepultado; desceu à mansão dos mortos; ressuscitou ao terceiro dia; subiu aos céus, está sentado à direita de Deus Pai todo-poderoso, donde há de vir a julgar os vivos e os mortos.\n\nCreio no Espírito Santo, na santa Igreja Católica, na comunhão dos santos, na remissão dos pecados, na ressurreição da carne e na vida eterna. Amém."
+    },
+    "fatima": {
+      "title": "Jaculatória de Fátima",
+      "text": "Ó meu Jesus, perdoai-nos, livrai-nos do fogo do inferno, levai as almas todas para o céu e socorrei principalmente as que mais precisarem."
+    },
+    "salve_rainha": {
+      "title": "Salve Rainha",
+      "text": "Salve, Rainha, Mãe de misericórdia, vida, doçura e esperança nossa, salve! A vós bradamos, os degredados filhos de Eva; a vós suspiramos, gemendo e chorando neste vale de lágrimas.\n\nEia, pois, advogada nossa, esses vossos olhos misericordiosos a nós volvei; e depois deste desterro, mostrai-nos Jesus, bendito fruto do vosso ventre. Ó clemente, ó piedosa, ó doce sempre Virgem Maria.\n\nRogai por nós, Santa Mãe de Deus, para que sejamos dignos das promessas de Cristo. Amém."
+    },
+    "sao_miguel": {
+      "title": "Oração a São Miguel Arcanjo",
+      "text": "São Miguel Arcanjo, defendei-nos no combate, sede o nosso refúgio contra as maldades e ciladas do demônio.\n\nOrdene-lhe Deus, instantemente o pedimos; e vós, príncipe da milícia celeste, pelo poder divino, precipitai no inferno a Satanás e aos outros espíritos malignos que andam pelo mundo para perder as almas. Amém."
+    }
+  },
+  "guides": {
+    "santo-rosario": {
+      "id": "santo-rosario",
+      "title": "Santo Rosário guiado",
+      "kind": "rosary",
+      "intro": "Reze o Santo Rosário contemplando os mistérios da vida de Cristo com Nossa Senhora.",
+      "start": [
+        "sinal_da_cruz",
+        "credo",
+        "pai_nosso",
+        {
+          "repeat": "ave_maria",
+          "count": 3,
+          "badge": "Três Ave-Marias"
+        },
+        "gloria"
+      ],
+      "groups": [
+        {
+          "title": "1º mistério",
+          "meditation": "Reze o Santo Rosário contemplando os mistérios da vida de Cristo com Nossa Senhora.",
+          "reference": "Mistério 1",
+          "large": {
+            "title": "Pai-Nosso",
+            "text": "Reze o Pai-Nosso nesta conta grande."
+          },
+          "small": {
+            "title": "Ave-Maria",
+            "text": "Reze a Ave-Maria nesta conta pequena.",
+            "count": 10
+          },
+          "closing": {
+            "title": "Glória e jaculatória",
+            "text": "Reze o Glória ao Pai e, se desejar, a jaculatória de Fátima."
+          }
+        },
+        {
+          "title": "2º mistério",
+          "meditation": "Contemple o segundo mistério e peça a graça de permanecer fiel no caminho.",
+          "reference": "Mistério 2",
+          "large": {
+            "title": "Pai-Nosso",
+            "text": "Reze o Pai-Nosso nesta conta grande."
+          },
+          "small": {
+            "title": "Ave-Maria",
+            "text": "Reze a Ave-Maria nesta conta pequena.",
+            "count": 10
+          },
+          "closing": {
+            "title": "Glória e jaculatória",
+            "text": "Reze o Glória ao Pai e, se desejar, a jaculatória de Fátima."
+          }
+        },
+        {
+          "title": "3º mistério",
+          "meditation": "Contemple o terceiro mistério e entregue ao Senhor as pessoas que você traz no coração.",
+          "reference": "Mistério 3",
+          "large": {
+            "title": "Pai-Nosso",
+            "text": "Reze o Pai-Nosso nesta conta grande."
+          },
+          "small": {
+            "title": "Ave-Maria",
+            "text": "Reze a Ave-Maria nesta conta pequena.",
+            "count": 10
+          },
+          "closing": {
+            "title": "Glória e jaculatória",
+            "text": "Reze o Glória ao Pai e, se desejar, a jaculatória de Fátima."
+          }
+        },
+        {
+          "title": "4º mistério",
+          "meditation": "Contemple o quarto mistério e peça luz, fortaleza e perseverança.",
+          "reference": "Mistério 4",
+          "large": {
+            "title": "Pai-Nosso",
+            "text": "Reze o Pai-Nosso nesta conta grande."
+          },
+          "small": {
+            "title": "Ave-Maria",
+            "text": "Reze a Ave-Maria nesta conta pequena.",
+            "count": 10
+          },
+          "closing": {
+            "title": "Glória e jaculatória",
+            "text": "Reze o Glória ao Pai e, se desejar, a jaculatória de Fátima."
+          }
+        },
+        {
+          "title": "5º mistério",
+          "meditation": "Contemple o quinto mistério e conclua confiando tudo à intercessão de Nossa Senhora.",
+          "reference": "Mistério 5",
+          "large": {
+            "title": "Pai-Nosso",
+            "text": "Reze o Pai-Nosso nesta conta grande."
+          },
+          "small": {
+            "title": "Ave-Maria",
+            "text": "Reze a Ave-Maria nesta conta pequena.",
+            "count": 10
+          },
+          "closing": {
+            "title": "Glória e jaculatória",
+            "text": "Reze o Glória ao Pai e, se desejar, a jaculatória de Fátima."
+          }
+        }
+      ],
+      "ending": [
+        "salve_rainha"
+      ]
+    },
+    "misterios-rosario": {
+      "id": "misterios-rosario",
+      "title": "Mistérios do Rosário — guia de contemplação",
+      "kind": "meditation",
+      "intro": "Percorra os quatro conjuntos de mistérios e escolha depois aquele que deseja rezar no Rosário guiado.",
+      "start": [
+        "sinal_da_cruz"
+      ],
+      "groups": [
+        {
+          "title": "Mistérios Gozosos",
+          "meditation": "Anunciação, visitação, nascimento de Jesus, apresentação no Templo e encontro de Jesus no Templo.",
+          "small": {
+            "title": "Meditar",
+            "text": "Leia com calma e escolha um mistério para contemplar.",
+            "count": 1
+          }
+        },
+        {
+          "title": "Mistérios Luminosos",
+          "meditation": "Batismo de Jesus, bodas de Caná, anúncio do Reino, transfiguração e instituição da Eucaristia.",
+          "small": {
+            "title": "Meditar",
+            "text": "Leia com calma e escolha um mistério para contemplar.",
+            "count": 1
+          }
+        },
+        {
+          "title": "Mistérios Dolorosos",
+          "meditation": "Agonia no Horto, flagelação, coroação de espinhos, caminho da cruz e crucifixão.",
+          "small": {
+            "title": "Meditar",
+            "text": "Leia com calma e escolha um mistério para contemplar.",
+            "count": 1
+          }
+        },
+        {
+          "title": "Mistérios Gloriosos",
+          "meditation": "Ressurreição, ascensão, vinda do Espírito Santo, assunção de Maria e coroação de Nossa Senhora.",
+          "small": {
+            "title": "Meditar",
+            "text": "Leia com calma e escolha um mistério para contemplar.",
+            "count": 1
+          }
+        }
+      ],
+      "ending": [
+        "salve_rainha"
+      ]
+    },
+    "rosario-pelos-filhos": {
+      "id": "rosario-pelos-filhos",
+      "title": "Rosário pelos filhos guiado",
+      "kind": "rosary",
+      "intro": "Ofereça cada mistério pelos filhos, pedindo que conheçam Cristo, sejam guardados no bem e permaneçam na fé.",
+      "start": [
+        "sinal_da_cruz",
+        "credo",
+        "pai_nosso",
+        {
+          "repeat": "ave_maria",
+          "count": 3,
+          "badge": "Três Ave-Marias"
+        },
+        "gloria"
+      ],
+      "groups": [
+        {
+          "title": "1º mistério",
+          "meditation": "Ofereça cada mistério pelos filhos, pedindo que conheçam Cristo, sejam guardados no bem e permaneçam na fé.",
+          "reference": "Mistério 1",
+          "large": {
+            "title": "Pai-Nosso",
+            "text": "Reze o Pai-Nosso nesta conta grande."
+          },
+          "small": {
+            "title": "Ave-Maria",
+            "text": "Reze a Ave-Maria nesta conta pequena.",
+            "count": 10
+          },
+          "closing": {
+            "title": "Glória e jaculatória",
+            "text": "Reze o Glória ao Pai e, se desejar, a jaculatória de Fátima."
+          }
+        },
+        {
+          "title": "2º mistério",
+          "meditation": "Contemple o segundo mistério e peça a graça de permanecer fiel no caminho.",
+          "reference": "Mistério 2",
+          "large": {
+            "title": "Pai-Nosso",
+            "text": "Reze o Pai-Nosso nesta conta grande."
+          },
+          "small": {
+            "title": "Ave-Maria",
+            "text": "Reze a Ave-Maria nesta conta pequena.",
+            "count": 10
+          },
+          "closing": {
+            "title": "Glória e jaculatória",
+            "text": "Reze o Glória ao Pai e, se desejar, a jaculatória de Fátima."
+          }
+        },
+        {
+          "title": "3º mistério",
+          "meditation": "Contemple o terceiro mistério e entregue ao Senhor as pessoas que você traz no coração.",
+          "reference": "Mistério 3",
+          "large": {
+            "title": "Pai-Nosso",
+            "text": "Reze o Pai-Nosso nesta conta grande."
+          },
+          "small": {
+            "title": "Ave-Maria",
+            "text": "Reze a Ave-Maria nesta conta pequena.",
+            "count": 10
+          },
+          "closing": {
+            "title": "Glória e jaculatória",
+            "text": "Reze o Glória ao Pai e, se desejar, a jaculatória de Fátima."
+          }
+        },
+        {
+          "title": "4º mistério",
+          "meditation": "Contemple o quarto mistério e peça luz, fortaleza e perseverança.",
+          "reference": "Mistério 4",
+          "large": {
+            "title": "Pai-Nosso",
+            "text": "Reze o Pai-Nosso nesta conta grande."
+          },
+          "small": {
+            "title": "Ave-Maria",
+            "text": "Reze a Ave-Maria nesta conta pequena.",
+            "count": 10
+          },
+          "closing": {
+            "title": "Glória e jaculatória",
+            "text": "Reze o Glória ao Pai e, se desejar, a jaculatória de Fátima."
+          }
+        },
+        {
+          "title": "5º mistério",
+          "meditation": "Contemple o quinto mistério e conclua confiando tudo à intercessão de Nossa Senhora.",
+          "reference": "Mistério 5",
+          "large": {
+            "title": "Pai-Nosso",
+            "text": "Reze o Pai-Nosso nesta conta grande."
+          },
+          "small": {
+            "title": "Ave-Maria",
+            "text": "Reze a Ave-Maria nesta conta pequena.",
+            "count": 10
+          },
+          "closing": {
+            "title": "Glória e jaculatória",
+            "text": "Reze o Glória ao Pai e, se desejar, a jaculatória de Fátima."
+          }
+        }
+      ],
+      "ending": [
+        "salve_rainha"
+      ]
+    },
+    "rosario-pela-familia": {
+      "id": "rosario-pela-familia",
+      "title": "Rosário pela família guiado",
+      "kind": "rosary",
+      "intro": "Apresente cada pessoa da família a Deus, pedindo cura, perdão, unidade e fidelidade dentro do lar.",
+      "start": [
+        "sinal_da_cruz",
+        "credo",
+        "pai_nosso",
+        {
+          "repeat": "ave_maria",
+          "count": 3,
+          "badge": "Três Ave-Marias"
+        },
+        "gloria"
+      ],
+      "groups": [
+        {
+          "title": "1º mistério",
+          "meditation": "Apresente cada pessoa da família a Deus, pedindo cura, perdão, unidade e fidelidade dentro do lar.",
+          "reference": "Mistério 1",
+          "large": {
+            "title": "Pai-Nosso",
+            "text": "Reze o Pai-Nosso nesta conta grande."
+          },
+          "small": {
+            "title": "Ave-Maria",
+            "text": "Reze a Ave-Maria nesta conta pequena.",
+            "count": 10
+          },
+          "closing": {
+            "title": "Glória e jaculatória",
+            "text": "Reze o Glória ao Pai e, se desejar, a jaculatória de Fátima."
+          }
+        },
+        {
+          "title": "2º mistério",
+          "meditation": "Contemple o segundo mistério e peça a graça de permanecer fiel no caminho.",
+          "reference": "Mistério 2",
+          "large": {
+            "title": "Pai-Nosso",
+            "text": "Reze o Pai-Nosso nesta conta grande."
+          },
+          "small": {
+            "title": "Ave-Maria",
+            "text": "Reze a Ave-Maria nesta conta pequena.",
+            "count": 10
+          },
+          "closing": {
+            "title": "Glória e jaculatória",
+            "text": "Reze o Glória ao Pai e, se desejar, a jaculatória de Fátima."
+          }
+        },
+        {
+          "title": "3º mistério",
+          "meditation": "Contemple o terceiro mistério e entregue ao Senhor as pessoas que você traz no coração.",
+          "reference": "Mistério 3",
+          "large": {
+            "title": "Pai-Nosso",
+            "text": "Reze o Pai-Nosso nesta conta grande."
+          },
+          "small": {
+            "title": "Ave-Maria",
+            "text": "Reze a Ave-Maria nesta conta pequena.",
+            "count": 10
+          },
+          "closing": {
+            "title": "Glória e jaculatória",
+            "text": "Reze o Glória ao Pai e, se desejar, a jaculatória de Fátima."
+          }
+        },
+        {
+          "title": "4º mistério",
+          "meditation": "Contemple o quarto mistério e peça luz, fortaleza e perseverança.",
+          "reference": "Mistério 4",
+          "large": {
+            "title": "Pai-Nosso",
+            "text": "Reze o Pai-Nosso nesta conta grande."
+          },
+          "small": {
+            "title": "Ave-Maria",
+            "text": "Reze a Ave-Maria nesta conta pequena.",
+            "count": 10
+          },
+          "closing": {
+            "title": "Glória e jaculatória",
+            "text": "Reze o Glória ao Pai e, se desejar, a jaculatória de Fátima."
+          }
+        },
+        {
+          "title": "5º mistério",
+          "meditation": "Contemple o quinto mistério e conclua confiando tudo à intercessão de Nossa Senhora.",
+          "reference": "Mistério 5",
+          "large": {
+            "title": "Pai-Nosso",
+            "text": "Reze o Pai-Nosso nesta conta grande."
+          },
+          "small": {
+            "title": "Ave-Maria",
+            "text": "Reze a Ave-Maria nesta conta pequena.",
+            "count": 10
+          },
+          "closing": {
+            "title": "Glória e jaculatória",
+            "text": "Reze o Glória ao Pai e, se desejar, a jaculatória de Fátima."
+          }
+        }
+      ],
+      "ending": [
+        "salve_rainha"
+      ]
+    },
+    "rosario-pelos-enfermos": {
+      "id": "rosario-pelos-enfermos",
+      "title": "Rosário pelos enfermos guiado",
+      "kind": "rosary",
+      "intro": "Ofereça cada dezena por uma pessoa enferma, pelos médicos, cuidadores e familiares.",
+      "start": [
+        "sinal_da_cruz",
+        "credo",
+        "pai_nosso",
+        {
+          "repeat": "ave_maria",
+          "count": 3,
+          "badge": "Três Ave-Marias"
+        },
+        "gloria"
+      ],
+      "groups": [
+        {
+          "title": "1º mistério",
+          "meditation": "Ofereça cada dezena por uma pessoa enferma, pelos médicos, cuidadores e familiares.",
+          "reference": "Mistério 1",
+          "large": {
+            "title": "Pai-Nosso",
+            "text": "Reze o Pai-Nosso nesta conta grande."
+          },
+          "small": {
+            "title": "Ave-Maria",
+            "text": "Reze a Ave-Maria nesta conta pequena.",
+            "count": 10
+          },
+          "closing": {
+            "title": "Glória e jaculatória",
+            "text": "Reze o Glória ao Pai e, se desejar, a jaculatória de Fátima."
+          }
+        },
+        {
+          "title": "2º mistério",
+          "meditation": "Contemple o segundo mistério e peça a graça de permanecer fiel no caminho.",
+          "reference": "Mistério 2",
+          "large": {
+            "title": "Pai-Nosso",
+            "text": "Reze o Pai-Nosso nesta conta grande."
+          },
+          "small": {
+            "title": "Ave-Maria",
+            "text": "Reze a Ave-Maria nesta conta pequena.",
+            "count": 10
+          },
+          "closing": {
+            "title": "Glória e jaculatória",
+            "text": "Reze o Glória ao Pai e, se desejar, a jaculatória de Fátima."
+          }
+        },
+        {
+          "title": "3º mistério",
+          "meditation": "Contemple o terceiro mistério e entregue ao Senhor as pessoas que você traz no coração.",
+          "reference": "Mistério 3",
+          "large": {
+            "title": "Pai-Nosso",
+            "text": "Reze o Pai-Nosso nesta conta grande."
+          },
+          "small": {
+            "title": "Ave-Maria",
+            "text": "Reze a Ave-Maria nesta conta pequena.",
+            "count": 10
+          },
+          "closing": {
+            "title": "Glória e jaculatória",
+            "text": "Reze o Glória ao Pai e, se desejar, a jaculatória de Fátima."
+          }
+        },
+        {
+          "title": "4º mistério",
+          "meditation": "Contemple o quarto mistério e peça luz, fortaleza e perseverança.",
+          "reference": "Mistério 4",
+          "large": {
+            "title": "Pai-Nosso",
+            "text": "Reze o Pai-Nosso nesta conta grande."
+          },
+          "small": {
+            "title": "Ave-Maria",
+            "text": "Reze a Ave-Maria nesta conta pequena.",
+            "count": 10
+          },
+          "closing": {
+            "title": "Glória e jaculatória",
+            "text": "Reze o Glória ao Pai e, se desejar, a jaculatória de Fátima."
+          }
+        },
+        {
+          "title": "5º mistério",
+          "meditation": "Contemple o quinto mistério e conclua confiando tudo à intercessão de Nossa Senhora.",
+          "reference": "Mistério 5",
+          "large": {
+            "title": "Pai-Nosso",
+            "text": "Reze o Pai-Nosso nesta conta grande."
+          },
+          "small": {
+            "title": "Ave-Maria",
+            "text": "Reze a Ave-Maria nesta conta pequena.",
+            "count": 10
+          },
+          "closing": {
+            "title": "Glória e jaculatória",
+            "text": "Reze o Glória ao Pai e, se desejar, a jaculatória de Fátima."
+          }
+        }
+      ],
+      "ending": [
+        "salve_rainha"
+      ]
+    },
+    "rosario-pelas-almas": {
+      "id": "rosario-pelas-almas",
+      "title": "Rosário pelas almas do purgatório guiado",
+      "kind": "rosary",
+      "intro": "Ofereça o Rosário pelas almas do purgatório, especialmente as mais esquecidas.",
+      "start": [
+        "sinal_da_cruz",
+        "credo",
+        "pai_nosso",
+        {
+          "repeat": "ave_maria",
+          "count": 3,
+          "badge": "Três Ave-Marias"
+        },
+        "gloria"
+      ],
+      "groups": [
+        {
+          "title": "1º mistério",
+          "meditation": "Ofereça o Rosário pelas almas do purgatório, especialmente as mais esquecidas.",
+          "reference": "Mistério 1",
+          "large": {
+            "title": "Pai-Nosso",
+            "text": "Reze o Pai-Nosso nesta conta grande."
+          },
+          "small": {
+            "title": "Ave-Maria",
+            "text": "Reze a Ave-Maria nesta conta pequena.",
+            "count": 10
+          },
+          "closing": {
+            "title": "Glória e jaculatória",
+            "text": "Reze o Glória ao Pai e, se desejar, a jaculatória de Fátima."
+          }
+        },
+        {
+          "title": "2º mistério",
+          "meditation": "Contemple o segundo mistério e peça a graça de permanecer fiel no caminho.",
+          "reference": "Mistério 2",
+          "large": {
+            "title": "Pai-Nosso",
+            "text": "Reze o Pai-Nosso nesta conta grande."
+          },
+          "small": {
+            "title": "Ave-Maria",
+            "text": "Reze a Ave-Maria nesta conta pequena.",
+            "count": 10
+          },
+          "closing": {
+            "title": "Glória e jaculatória",
+            "text": "Reze o Glória ao Pai e, se desejar, a jaculatória de Fátima."
+          }
+        },
+        {
+          "title": "3º mistério",
+          "meditation": "Contemple o terceiro mistério e entregue ao Senhor as pessoas que você traz no coração.",
+          "reference": "Mistério 3",
+          "large": {
+            "title": "Pai-Nosso",
+            "text": "Reze o Pai-Nosso nesta conta grande."
+          },
+          "small": {
+            "title": "Ave-Maria",
+            "text": "Reze a Ave-Maria nesta conta pequena.",
+            "count": 10
+          },
+          "closing": {
+            "title": "Glória e jaculatória",
+            "text": "Reze o Glória ao Pai e, se desejar, a jaculatória de Fátima."
+          }
+        },
+        {
+          "title": "4º mistério",
+          "meditation": "Contemple o quarto mistério e peça luz, fortaleza e perseverança.",
+          "reference": "Mistério 4",
+          "large": {
+            "title": "Pai-Nosso",
+            "text": "Reze o Pai-Nosso nesta conta grande."
+          },
+          "small": {
+            "title": "Ave-Maria",
+            "text": "Reze a Ave-Maria nesta conta pequena.",
+            "count": 10
+          },
+          "closing": {
+            "title": "Glória e jaculatória",
+            "text": "Reze o Glória ao Pai e, se desejar, a jaculatória de Fátima."
+          }
+        },
+        {
+          "title": "5º mistério",
+          "meditation": "Contemple o quinto mistério e conclua confiando tudo à intercessão de Nossa Senhora.",
+          "reference": "Mistério 5",
+          "large": {
+            "title": "Pai-Nosso",
+            "text": "Reze o Pai-Nosso nesta conta grande."
+          },
+          "small": {
+            "title": "Ave-Maria",
+            "text": "Reze a Ave-Maria nesta conta pequena.",
+            "count": 10
+          },
+          "closing": {
+            "title": "Glória e jaculatória",
+            "text": "Reze o Glória ao Pai e, se desejar, a jaculatória de Fátima."
+          }
+        }
+      ],
+      "ending": [
+        "salve_rainha"
+      ]
+    },
+    "terco-misericordia": {
+      "id": "terco-misericordia",
+      "title": "Terço da Misericórdia guiado",
+      "kind": "chaplet",
+      "intro": "Reze o Terço da Misericórdia com calma, oferecendo ao Pai a Paixão de Cristo pelo mundo inteiro.",
+      "start": [
+        "sinal_da_cruz",
+        "pai_nosso",
+        "ave_maria",
+        "credo"
+      ],
+      "groups": [
+        {
+          "title": "1ª dezena da Misericórdia",
+          "meditation": "Apresente esta intenção diante de Deus: 1ª dezena da misericórdia.",
+          "large": {
+            "title": "Conta grande",
+            "text": "Eterno Pai, eu vos ofereço o Corpo e Sangue, Alma e Divindade de vosso diletíssimo Filho, Nosso Senhor Jesus Cristo, em expiação dos nossos pecados e dos pecados do mundo inteiro."
+          },
+          "small": {
+            "title": "Conta pequena",
+            "text": "Pela sua dolorosa Paixão, tende misericórdia de nós e do mundo inteiro.",
+            "count": 10
+          },
+          "closing": null
+        },
+        {
+          "title": "2ª dezena da Misericórdia",
+          "meditation": "Apresente esta intenção diante de Deus: 2ª dezena da misericórdia.",
+          "large": {
+            "title": "Conta grande",
+            "text": "Eterno Pai, eu vos ofereço o Corpo e Sangue, Alma e Divindade de vosso diletíssimo Filho, Nosso Senhor Jesus Cristo, em expiação dos nossos pecados e dos pecados do mundo inteiro."
+          },
+          "small": {
+            "title": "Conta pequena",
+            "text": "Pela sua dolorosa Paixão, tende misericórdia de nós e do mundo inteiro.",
+            "count": 10
+          },
+          "closing": null
+        },
+        {
+          "title": "3ª dezena da Misericórdia",
+          "meditation": "Apresente esta intenção diante de Deus: 3ª dezena da misericórdia.",
+          "large": {
+            "title": "Conta grande",
+            "text": "Eterno Pai, eu vos ofereço o Corpo e Sangue, Alma e Divindade de vosso diletíssimo Filho, Nosso Senhor Jesus Cristo, em expiação dos nossos pecados e dos pecados do mundo inteiro."
+          },
+          "small": {
+            "title": "Conta pequena",
+            "text": "Pela sua dolorosa Paixão, tende misericórdia de nós e do mundo inteiro.",
+            "count": 10
+          },
+          "closing": null
+        },
+        {
+          "title": "4ª dezena da Misericórdia",
+          "meditation": "Apresente esta intenção diante de Deus: 4ª dezena da misericórdia.",
+          "large": {
+            "title": "Conta grande",
+            "text": "Eterno Pai, eu vos ofereço o Corpo e Sangue, Alma e Divindade de vosso diletíssimo Filho, Nosso Senhor Jesus Cristo, em expiação dos nossos pecados e dos pecados do mundo inteiro."
+          },
+          "small": {
+            "title": "Conta pequena",
+            "text": "Pela sua dolorosa Paixão, tende misericórdia de nós e do mundo inteiro.",
+            "count": 10
+          },
+          "closing": null
+        },
+        {
+          "title": "5ª dezena da Misericórdia",
+          "meditation": "Apresente esta intenção diante de Deus: 5ª dezena da misericórdia.",
+          "large": {
+            "title": "Conta grande",
+            "text": "Eterno Pai, eu vos ofereço o Corpo e Sangue, Alma e Divindade de vosso diletíssimo Filho, Nosso Senhor Jesus Cristo, em expiação dos nossos pecados e dos pecados do mundo inteiro."
+          },
+          "small": {
+            "title": "Conta pequena",
+            "text": "Pela sua dolorosa Paixão, tende misericórdia de nós e do mundo inteiro.",
+            "count": 10
+          },
+          "closing": null
+        }
+      ],
+      "ending": [
+        {
+          "title": "Deus Santo",
+          "text": "Reze três vezes: Deus Santo, Deus Forte, Deus Imortal, tende piedade de nós e do mundo inteiro."
+        }
+      ]
+    },
+    "terco-sao-miguel": {
+      "id": "terco-sao-miguel",
+      "title": "Terço de São Miguel guiado",
+      "kind": "chaplet",
+      "intro": "Reze pedindo proteção, humildade e fidelidade no combate espiritual.",
+      "start": [
+        "sinal_da_cruz"
+      ],
+      "groups": [
+        {
+          "title": "1ª saudação — Serafins",
+          "meditation": "Pela intercessão de São Miguel e do coro celeste dos serafins, peça a graça de servir a Deus com fidelidade.",
+          "large": {
+            "title": "Pai-Nosso",
+            "text": "Reze um Pai-Nosso."
+          },
+          "small": {
+            "title": "Ave-Maria",
+            "text": "Reze uma Ave-Maria.",
+            "count": 3
+          },
+          "closing": {
+            "title": "Invocação",
+            "text": "São Miguel Arcanjo e todos os coros angélicos, rogai por nós."
+          }
+        },
+        {
+          "title": "2ª saudação — Querubins",
+          "meditation": "Pela intercessão de São Miguel e do coro celeste dos querubins, peça a graça de servir a Deus com fidelidade.",
+          "large": {
+            "title": "Pai-Nosso",
+            "text": "Reze um Pai-Nosso."
+          },
+          "small": {
+            "title": "Ave-Maria",
+            "text": "Reze uma Ave-Maria.",
+            "count": 3
+          },
+          "closing": {
+            "title": "Invocação",
+            "text": "São Miguel Arcanjo e todos os coros angélicos, rogai por nós."
+          }
+        },
+        {
+          "title": "3ª saudação — Tronos",
+          "meditation": "Pela intercessão de São Miguel e do coro celeste dos tronos, peça a graça de servir a Deus com fidelidade.",
+          "large": {
+            "title": "Pai-Nosso",
+            "text": "Reze um Pai-Nosso."
+          },
+          "small": {
+            "title": "Ave-Maria",
+            "text": "Reze uma Ave-Maria.",
+            "count": 3
+          },
+          "closing": {
+            "title": "Invocação",
+            "text": "São Miguel Arcanjo e todos os coros angélicos, rogai por nós."
+          }
+        },
+        {
+          "title": "4ª saudação — Dominações",
+          "meditation": "Pela intercessão de São Miguel e do coro celeste dos dominações, peça a graça de servir a Deus com fidelidade.",
+          "large": {
+            "title": "Pai-Nosso",
+            "text": "Reze um Pai-Nosso."
+          },
+          "small": {
+            "title": "Ave-Maria",
+            "text": "Reze uma Ave-Maria.",
+            "count": 3
+          },
+          "closing": {
+            "title": "Invocação",
+            "text": "São Miguel Arcanjo e todos os coros angélicos, rogai por nós."
+          }
+        },
+        {
+          "title": "5ª saudação — Potestades",
+          "meditation": "Pela intercessão de São Miguel e do coro celeste dos potestades, peça a graça de servir a Deus com fidelidade.",
+          "large": {
+            "title": "Pai-Nosso",
+            "text": "Reze um Pai-Nosso."
+          },
+          "small": {
+            "title": "Ave-Maria",
+            "text": "Reze uma Ave-Maria.",
+            "count": 3
+          },
+          "closing": {
+            "title": "Invocação",
+            "text": "São Miguel Arcanjo e todos os coros angélicos, rogai por nós."
+          }
+        },
+        {
+          "title": "6ª saudação — Virtudes",
+          "meditation": "Pela intercessão de São Miguel e do coro celeste dos virtudes, peça a graça de servir a Deus com fidelidade.",
+          "large": {
+            "title": "Pai-Nosso",
+            "text": "Reze um Pai-Nosso."
+          },
+          "small": {
+            "title": "Ave-Maria",
+            "text": "Reze uma Ave-Maria.",
+            "count": 3
+          },
+          "closing": {
+            "title": "Invocação",
+            "text": "São Miguel Arcanjo e todos os coros angélicos, rogai por nós."
+          }
+        },
+        {
+          "title": "7ª saudação — Principados",
+          "meditation": "Pela intercessão de São Miguel e do coro celeste dos principados, peça a graça de servir a Deus com fidelidade.",
+          "large": {
+            "title": "Pai-Nosso",
+            "text": "Reze um Pai-Nosso."
+          },
+          "small": {
+            "title": "Ave-Maria",
+            "text": "Reze uma Ave-Maria.",
+            "count": 3
+          },
+          "closing": {
+            "title": "Invocação",
+            "text": "São Miguel Arcanjo e todos os coros angélicos, rogai por nós."
+          }
+        },
+        {
+          "title": "8ª saudação — Arcanjos",
+          "meditation": "Pela intercessão de São Miguel e do coro celeste dos arcanjos, peça a graça de servir a Deus com fidelidade.",
+          "large": {
+            "title": "Pai-Nosso",
+            "text": "Reze um Pai-Nosso."
+          },
+          "small": {
+            "title": "Ave-Maria",
+            "text": "Reze uma Ave-Maria.",
+            "count": 3
+          },
+          "closing": {
+            "title": "Invocação",
+            "text": "São Miguel Arcanjo e todos os coros angélicos, rogai por nós."
+          }
+        },
+        {
+          "title": "9ª saudação — Anjos",
+          "meditation": "Pela intercessão de São Miguel e do coro celeste dos anjos, peça a graça de servir a Deus com fidelidade.",
+          "large": {
+            "title": "Pai-Nosso",
+            "text": "Reze um Pai-Nosso."
+          },
+          "small": {
+            "title": "Ave-Maria",
+            "text": "Reze uma Ave-Maria.",
+            "count": 3
+          },
+          "closing": {
+            "title": "Invocação",
+            "text": "São Miguel Arcanjo e todos os coros angélicos, rogai por nós."
+          }
+        }
+      ],
+      "ending": [
+        "sao_miguel"
+      ]
+    },
+    "terco-santas-chagas": {
+      "id": "terco-santas-chagas",
+      "title": "Terço das Santas Chagas guiado",
+      "kind": "chaplet",
+      "intro": "Contemple as Santas Chagas de Cristo, pedindo misericórdia, cura e conversão.",
+      "start": [
+        "sinal_da_cruz"
+      ],
+      "groups": [
+        {
+          "title": "Chaga da mão direita",
+          "meditation": "Apresente esta intenção diante de Deus: chaga da mão direita.",
+          "large": {
+            "title": "Conta grande",
+            "text": "Eterno Pai, eu vos ofereço as Chagas de Nosso Senhor Jesus Cristo para curar as chagas de nossas almas."
+          },
+          "small": {
+            "title": "Conta pequena",
+            "text": "Meu Jesus, perdão e misericórdia pelos méritos de vossas Santas Chagas.",
+            "count": 10
+          },
+          "closing": null
+        },
+        {
+          "title": "Chaga da mão esquerda",
+          "meditation": "Apresente esta intenção diante de Deus: chaga da mão esquerda.",
+          "large": {
+            "title": "Conta grande",
+            "text": "Eterno Pai, eu vos ofereço as Chagas de Nosso Senhor Jesus Cristo para curar as chagas de nossas almas."
+          },
+          "small": {
+            "title": "Conta pequena",
+            "text": "Meu Jesus, perdão e misericórdia pelos méritos de vossas Santas Chagas.",
+            "count": 10
+          },
+          "closing": null
+        },
+        {
+          "title": "Chaga do pé direito",
+          "meditation": "Apresente esta intenção diante de Deus: chaga do pé direito.",
+          "large": {
+            "title": "Conta grande",
+            "text": "Eterno Pai, eu vos ofereço as Chagas de Nosso Senhor Jesus Cristo para curar as chagas de nossas almas."
+          },
+          "small": {
+            "title": "Conta pequena",
+            "text": "Meu Jesus, perdão e misericórdia pelos méritos de vossas Santas Chagas.",
+            "count": 10
+          },
+          "closing": null
+        },
+        {
+          "title": "Chaga do pé esquerdo",
+          "meditation": "Apresente esta intenção diante de Deus: chaga do pé esquerdo.",
+          "large": {
+            "title": "Conta grande",
+            "text": "Eterno Pai, eu vos ofereço as Chagas de Nosso Senhor Jesus Cristo para curar as chagas de nossas almas."
+          },
+          "small": {
+            "title": "Conta pequena",
+            "text": "Meu Jesus, perdão e misericórdia pelos méritos de vossas Santas Chagas.",
+            "count": 10
+          },
+          "closing": null
+        },
+        {
+          "title": "Chaga do lado aberto",
+          "meditation": "Apresente esta intenção diante de Deus: chaga do lado aberto.",
+          "large": {
+            "title": "Conta grande",
+            "text": "Eterno Pai, eu vos ofereço as Chagas de Nosso Senhor Jesus Cristo para curar as chagas de nossas almas."
+          },
+          "small": {
+            "title": "Conta pequena",
+            "text": "Meu Jesus, perdão e misericórdia pelos méritos de vossas Santas Chagas.",
+            "count": 10
+          },
+          "closing": null
+        }
+      ],
+      "ending": [
+        {
+          "title": "Oferta final",
+          "text": "Jesus crucificado, pelas vossas Santas Chagas, tende misericórdia de nós e do mundo inteiro. Amém."
+        }
+      ]
+    },
+    "coroa-sete-dores": {
+      "id": "coroa-sete-dores",
+      "title": "Coroa das Sete Dores guiada",
+      "kind": "chaplet",
+      "intro": "Reze com Nossa Senhora das Dores, permanecendo fiel junto à cruz de Cristo.",
+      "start": [
+        "sinal_da_cruz"
+      ],
+      "groups": [
+        {
+          "title": "A profecia de Simeão",
+          "meditation": "Contemple esta dor de Maria e apresente a ela suas dores e as dores do mundo.",
+          "large": {
+            "title": "Pai-Nosso",
+            "text": "Reze um Pai-Nosso."
+          },
+          "small": {
+            "title": "Ave-Maria",
+            "text": "Reze uma Ave-Maria.",
+            "count": 7
+          },
+          "closing": {
+            "title": "Jaculatória",
+            "text": "Nossa Senhora das Dores, rogai por nós."
+          }
+        },
+        {
+          "title": "A fuga para o Egito",
+          "meditation": "Contemple esta dor de Maria e apresente a ela suas dores e as dores do mundo.",
+          "large": {
+            "title": "Pai-Nosso",
+            "text": "Reze um Pai-Nosso."
+          },
+          "small": {
+            "title": "Ave-Maria",
+            "text": "Reze uma Ave-Maria.",
+            "count": 7
+          },
+          "closing": {
+            "title": "Jaculatória",
+            "text": "Nossa Senhora das Dores, rogai por nós."
+          }
+        },
+        {
+          "title": "A perda do Menino Jesus",
+          "meditation": "Contemple esta dor de Maria e apresente a ela suas dores e as dores do mundo.",
+          "large": {
+            "title": "Pai-Nosso",
+            "text": "Reze um Pai-Nosso."
+          },
+          "small": {
+            "title": "Ave-Maria",
+            "text": "Reze uma Ave-Maria.",
+            "count": 7
+          },
+          "closing": {
+            "title": "Jaculatória",
+            "text": "Nossa Senhora das Dores, rogai por nós."
+          }
+        },
+        {
+          "title": "O encontro de Jesus no caminho do Calvário",
+          "meditation": "Contemple esta dor de Maria e apresente a ela suas dores e as dores do mundo.",
+          "large": {
+            "title": "Pai-Nosso",
+            "text": "Reze um Pai-Nosso."
+          },
+          "small": {
+            "title": "Ave-Maria",
+            "text": "Reze uma Ave-Maria.",
+            "count": 7
+          },
+          "closing": {
+            "title": "Jaculatória",
+            "text": "Nossa Senhora das Dores, rogai por nós."
+          }
+        },
+        {
+          "title": "A morte de Jesus na cruz",
+          "meditation": "Contemple esta dor de Maria e apresente a ela suas dores e as dores do mundo.",
+          "large": {
+            "title": "Pai-Nosso",
+            "text": "Reze um Pai-Nosso."
+          },
+          "small": {
+            "title": "Ave-Maria",
+            "text": "Reze uma Ave-Maria.",
+            "count": 7
+          },
+          "closing": {
+            "title": "Jaculatória",
+            "text": "Nossa Senhora das Dores, rogai por nós."
+          }
+        },
+        {
+          "title": "Maria recebe o corpo de Jesus",
+          "meditation": "Contemple esta dor de Maria e apresente a ela suas dores e as dores do mundo.",
+          "large": {
+            "title": "Pai-Nosso",
+            "text": "Reze um Pai-Nosso."
+          },
+          "small": {
+            "title": "Ave-Maria",
+            "text": "Reze uma Ave-Maria.",
+            "count": 7
+          },
+          "closing": {
+            "title": "Jaculatória",
+            "text": "Nossa Senhora das Dores, rogai por nós."
+          }
+        },
+        {
+          "title": "O sepultamento de Jesus",
+          "meditation": "Contemple esta dor de Maria e apresente a ela suas dores e as dores do mundo.",
+          "large": {
+            "title": "Pai-Nosso",
+            "text": "Reze um Pai-Nosso."
+          },
+          "small": {
+            "title": "Ave-Maria",
+            "text": "Reze uma Ave-Maria.",
+            "count": 7
+          },
+          "closing": {
+            "title": "Jaculatória",
+            "text": "Nossa Senhora das Dores, rogai por nós."
+          }
+        }
+      ],
+      "ending": [
+        "salve_rainha"
+      ]
+    },
+    "terco-providencia": {
+      "id": "terco-providencia",
+      "title": "Terço da Providência guiado",
+      "kind": "chaplet",
+      "intro": "Reze confiando suas necessidades à Providência de Deus, sem abandonar sua parte fiel.",
+      "start": [
+        "sinal_da_cruz"
+      ],
+      "groups": [
+        {
+          "title": "Confiança",
+          "meditation": "Apresente esta intenção diante de Deus: confiança.",
+          "large": {
+            "title": "Conta grande",
+            "text": "Senhor, eu creio na vossa Providência; ensinai-me a confiar e a fazer minha parte."
+          },
+          "small": {
+            "title": "Conta pequena",
+            "text": "Pai providente, cuidai de nós e conduzi nossos passos.",
+            "count": 10
+          },
+          "closing": {
+            "title": "Conclusão da dezena",
+            "text": "Senhor, aumentai em nós a confiança."
+          }
+        },
+        {
+          "title": "Prudência",
+          "meditation": "Apresente esta intenção diante de Deus: prudência.",
+          "large": {
+            "title": "Conta grande",
+            "text": "Senhor, eu creio na vossa Providência; ensinai-me a confiar e a fazer minha parte."
+          },
+          "small": {
+            "title": "Conta pequena",
+            "text": "Pai providente, cuidai de nós e conduzi nossos passos.",
+            "count": 10
+          },
+          "closing": {
+            "title": "Conclusão da dezena",
+            "text": "Senhor, aumentai em nós a confiança."
+          }
+        },
+        {
+          "title": "Trabalho fiel",
+          "meditation": "Apresente esta intenção diante de Deus: trabalho fiel.",
+          "large": {
+            "title": "Conta grande",
+            "text": "Senhor, eu creio na vossa Providência; ensinai-me a confiar e a fazer minha parte."
+          },
+          "small": {
+            "title": "Conta pequena",
+            "text": "Pai providente, cuidai de nós e conduzi nossos passos.",
+            "count": 10
+          },
+          "closing": {
+            "title": "Conclusão da dezena",
+            "text": "Senhor, aumentai em nós a confiança."
+          }
+        },
+        {
+          "title": "Desapego",
+          "meditation": "Apresente esta intenção diante de Deus: desapego.",
+          "large": {
+            "title": "Conta grande",
+            "text": "Senhor, eu creio na vossa Providência; ensinai-me a confiar e a fazer minha parte."
+          },
+          "small": {
+            "title": "Conta pequena",
+            "text": "Pai providente, cuidai de nós e conduzi nossos passos.",
+            "count": 10
+          },
+          "closing": {
+            "title": "Conclusão da dezena",
+            "text": "Senhor, aumentai em nós a confiança."
+          }
+        },
+        {
+          "title": "Gratidão",
+          "meditation": "Apresente esta intenção diante de Deus: gratidão.",
+          "large": {
+            "title": "Conta grande",
+            "text": "Senhor, eu creio na vossa Providência; ensinai-me a confiar e a fazer minha parte."
+          },
+          "small": {
+            "title": "Conta pequena",
+            "text": "Pai providente, cuidai de nós e conduzi nossos passos.",
+            "count": 10
+          },
+          "closing": {
+            "title": "Conclusão da dezena",
+            "text": "Senhor, aumentai em nós a confiança."
+          }
+        }
+      ],
+      "ending": [
+        {
+          "title": "Entrega final",
+          "text": "Deus Pai, entrego minhas necessidades à vossa Providência. Dai-me fé, prudência e coragem. Amém."
+        }
+      ]
+    },
+    "terco-sagrada-familia": {
+      "id": "terco-sagrada-familia",
+      "title": "Terço da Sagrada Família guiado",
+      "kind": "chaplet",
+      "intro": "Reze pela paz, pela unidade e pela santidade das famílias.",
+      "start": [
+        "sinal_da_cruz"
+      ],
+      "groups": [
+        {
+          "title": "Fé no lar",
+          "meditation": "Apresente esta intenção diante de Deus: fé no lar.",
+          "large": {
+            "title": "Conta grande",
+            "text": "Jesus, Maria e José, acolhei minha família em vosso cuidado."
+          },
+          "small": {
+            "title": "Conta pequena",
+            "text": "Sagrada Família de Nazaré, fazei de nossa casa um lugar de fé, paz e amor.",
+            "count": 10
+          },
+          "closing": {
+            "title": "Conclusão da dezena",
+            "text": "Jesus, Maria e José, guardai nossa família."
+          }
+        },
+        {
+          "title": "Obediência e escuta",
+          "meditation": "Apresente esta intenção diante de Deus: obediência e escuta.",
+          "large": {
+            "title": "Conta grande",
+            "text": "Jesus, Maria e José, acolhei minha família em vosso cuidado."
+          },
+          "small": {
+            "title": "Conta pequena",
+            "text": "Sagrada Família de Nazaré, fazei de nossa casa um lugar de fé, paz e amor.",
+            "count": 10
+          },
+          "closing": {
+            "title": "Conclusão da dezena",
+            "text": "Jesus, Maria e José, guardai nossa família."
+          }
+        },
+        {
+          "title": "Trabalho e cuidado",
+          "meditation": "Apresente esta intenção diante de Deus: trabalho e cuidado.",
+          "large": {
+            "title": "Conta grande",
+            "text": "Jesus, Maria e José, acolhei minha família em vosso cuidado."
+          },
+          "small": {
+            "title": "Conta pequena",
+            "text": "Sagrada Família de Nazaré, fazei de nossa casa um lugar de fé, paz e amor.",
+            "count": 10
+          },
+          "closing": {
+            "title": "Conclusão da dezena",
+            "text": "Jesus, Maria e José, guardai nossa família."
+          }
+        },
+        {
+          "title": "Silêncio e paciência",
+          "meditation": "Apresente esta intenção diante de Deus: silêncio e paciência.",
+          "large": {
+            "title": "Conta grande",
+            "text": "Jesus, Maria e José, acolhei minha família em vosso cuidado."
+          },
+          "small": {
+            "title": "Conta pequena",
+            "text": "Sagrada Família de Nazaré, fazei de nossa casa um lugar de fé, paz e amor.",
+            "count": 10
+          },
+          "closing": {
+            "title": "Conclusão da dezena",
+            "text": "Jesus, Maria e José, guardai nossa família."
+          }
+        },
+        {
+          "title": "Amor fiel",
+          "meditation": "Apresente esta intenção diante de Deus: amor fiel.",
+          "large": {
+            "title": "Conta grande",
+            "text": "Jesus, Maria e José, acolhei minha família em vosso cuidado."
+          },
+          "small": {
+            "title": "Conta pequena",
+            "text": "Sagrada Família de Nazaré, fazei de nossa casa um lugar de fé, paz e amor.",
+            "count": 10
+          },
+          "closing": {
+            "title": "Conclusão da dezena",
+            "text": "Jesus, Maria e José, guardai nossa família."
+          }
+        }
+      ],
+      "ending": [
+        {
+          "title": "Consagração breve",
+          "text": "Jesus, Maria e José, a vós confiamos nossa casa, nossas feridas e nossa esperança. Amém."
+        }
+      ]
+    },
+    "terco-espirito-santo": {
+      "id": "terco-espirito-santo",
+      "title": "Terço do Espírito Santo guiado",
+      "kind": "chaplet",
+      "intro": "Invoque o Espírito Santo pedindo luz, docilidade e os seus dons.",
+      "start": [
+        "sinal_da_cruz"
+      ],
+      "groups": [
+        {
+          "title": "Sabedoria",
+          "meditation": "Apresente esta intenção diante de Deus: sabedoria.",
+          "large": {
+            "title": "Conta grande",
+            "text": "Vinde, Espírito Santo, iluminai minha inteligência e fortalecei minha vontade."
+          },
+          "small": {
+            "title": "Conta pequena",
+            "text": "Espírito Santo, conduzi-me à vontade do Pai.",
+            "count": 10
+          },
+          "closing": {
+            "title": "Conclusão da dezena",
+            "text": "Vinde, Espírito Santo."
+          }
+        },
+        {
+          "title": "Entendimento",
+          "meditation": "Apresente esta intenção diante de Deus: entendimento.",
+          "large": {
+            "title": "Conta grande",
+            "text": "Vinde, Espírito Santo, iluminai minha inteligência e fortalecei minha vontade."
+          },
+          "small": {
+            "title": "Conta pequena",
+            "text": "Espírito Santo, conduzi-me à vontade do Pai.",
+            "count": 10
+          },
+          "closing": {
+            "title": "Conclusão da dezena",
+            "text": "Vinde, Espírito Santo."
+          }
+        },
+        {
+          "title": "Conselho",
+          "meditation": "Apresente esta intenção diante de Deus: conselho.",
+          "large": {
+            "title": "Conta grande",
+            "text": "Vinde, Espírito Santo, iluminai minha inteligência e fortalecei minha vontade."
+          },
+          "small": {
+            "title": "Conta pequena",
+            "text": "Espírito Santo, conduzi-me à vontade do Pai.",
+            "count": 10
+          },
+          "closing": {
+            "title": "Conclusão da dezena",
+            "text": "Vinde, Espírito Santo."
+          }
+        },
+        {
+          "title": "Fortaleza",
+          "meditation": "Apresente esta intenção diante de Deus: fortaleza.",
+          "large": {
+            "title": "Conta grande",
+            "text": "Vinde, Espírito Santo, iluminai minha inteligência e fortalecei minha vontade."
+          },
+          "small": {
+            "title": "Conta pequena",
+            "text": "Espírito Santo, conduzi-me à vontade do Pai.",
+            "count": 10
+          },
+          "closing": {
+            "title": "Conclusão da dezena",
+            "text": "Vinde, Espírito Santo."
+          }
+        },
+        {
+          "title": "Ciência, piedade e temor de Deus",
+          "meditation": "Apresente esta intenção diante de Deus: ciência, piedade e temor de deus.",
+          "large": {
+            "title": "Conta grande",
+            "text": "Vinde, Espírito Santo, iluminai minha inteligência e fortalecei minha vontade."
+          },
+          "small": {
+            "title": "Conta pequena",
+            "text": "Espírito Santo, conduzi-me à vontade do Pai.",
+            "count": 10
+          },
+          "closing": {
+            "title": "Conclusão da dezena",
+            "text": "Vinde, Espírito Santo."
+          }
+        }
+      ],
+      "ending": [
+        {
+          "title": "Oração final",
+          "text": "Vinde, Espírito Santo, renovai meu coração e conduzi-me à vontade do Pai. Amém."
+        }
+      ]
+    },
+    "terco-das-lagrimas-maria": {
+      "id": "terco-das-lagrimas-maria",
+      "title": "Terço das Lágrimas de Maria guiado",
+      "kind": "chaplet",
+      "intro": "Contemple as lágrimas de Maria diante dos sofrimentos de Cristo e dos filhos de Deus.",
+      "start": [
+        "sinal_da_cruz"
+      ],
+      "groups": [
+        {
+          "title": "Compaixão",
+          "meditation": "Apresente esta intenção diante de Deus: compaixão.",
+          "large": {
+            "title": "Conta grande",
+            "text": "Mãe das Dores, apresento a Deus as lágrimas e sofrimentos do vosso coração materno."
+          },
+          "small": {
+            "title": "Conta pequena",
+            "text": "Pelas lágrimas de Maria, Senhor, dai-nos conversão e paz.",
+            "count": 10
+          },
+          "closing": {
+            "title": "Conclusão da dezena",
+            "text": "Nossa Senhora das Lágrimas, rogai por nós."
+          }
+        },
+        {
+          "title": "Fidelidade",
+          "meditation": "Apresente esta intenção diante de Deus: fidelidade.",
+          "large": {
+            "title": "Conta grande",
+            "text": "Mãe das Dores, apresento a Deus as lágrimas e sofrimentos do vosso coração materno."
+          },
+          "small": {
+            "title": "Conta pequena",
+            "text": "Pelas lágrimas de Maria, Senhor, dai-nos conversão e paz.",
+            "count": 10
+          },
+          "closing": {
+            "title": "Conclusão da dezena",
+            "text": "Nossa Senhora das Lágrimas, rogai por nós."
+          }
+        },
+        {
+          "title": "Misericórdia",
+          "meditation": "Apresente esta intenção diante de Deus: misericórdia.",
+          "large": {
+            "title": "Conta grande",
+            "text": "Mãe das Dores, apresento a Deus as lágrimas e sofrimentos do vosso coração materno."
+          },
+          "small": {
+            "title": "Conta pequena",
+            "text": "Pelas lágrimas de Maria, Senhor, dai-nos conversão e paz.",
+            "count": 10
+          },
+          "closing": {
+            "title": "Conclusão da dezena",
+            "text": "Nossa Senhora das Lágrimas, rogai por nós."
+          }
+        },
+        {
+          "title": "Conversão",
+          "meditation": "Apresente esta intenção diante de Deus: conversão.",
+          "large": {
+            "title": "Conta grande",
+            "text": "Mãe das Dores, apresento a Deus as lágrimas e sofrimentos do vosso coração materno."
+          },
+          "small": {
+            "title": "Conta pequena",
+            "text": "Pelas lágrimas de Maria, Senhor, dai-nos conversão e paz.",
+            "count": 10
+          },
+          "closing": {
+            "title": "Conclusão da dezena",
+            "text": "Nossa Senhora das Lágrimas, rogai por nós."
+          }
+        },
+        {
+          "title": "Esperança",
+          "meditation": "Apresente esta intenção diante de Deus: esperança.",
+          "large": {
+            "title": "Conta grande",
+            "text": "Mãe das Dores, apresento a Deus as lágrimas e sofrimentos do vosso coração materno."
+          },
+          "small": {
+            "title": "Conta pequena",
+            "text": "Pelas lágrimas de Maria, Senhor, dai-nos conversão e paz.",
+            "count": 10
+          },
+          "closing": {
+            "title": "Conclusão da dezena",
+            "text": "Nossa Senhora das Lágrimas, rogai por nós."
+          }
+        }
+      ],
+      "ending": [
+        "salve_rainha"
+      ]
+    },
+    "terco-da-libertacao-interior": {
+      "id": "terco-da-libertacao-interior",
+      "title": "Terço da libertação interior guiado",
+      "kind": "chaplet",
+      "intro": "Reze pedindo que Cristo cure feridas, liberte do medo e conduza o coração à paz.",
+      "start": [
+        "sinal_da_cruz"
+      ],
+      "groups": [
+        {
+          "title": "Medo",
+          "meditation": "Apresente esta intenção diante de Deus: medo.",
+          "large": {
+            "title": "Conta grande",
+            "text": "Jesus, apresento-vos esta ferida e peço a vossa luz."
+          },
+          "small": {
+            "title": "Conta pequena",
+            "text": "Jesus, libertai meu coração e conduzi-me à paz.",
+            "count": 10
+          },
+          "closing": {
+            "title": "Conclusão da dezena",
+            "text": "Jesus, eu confio em vós."
+          }
+        },
+        {
+          "title": "Culpa",
+          "meditation": "Apresente esta intenção diante de Deus: culpa.",
+          "large": {
+            "title": "Conta grande",
+            "text": "Jesus, apresento-vos esta ferida e peço a vossa luz."
+          },
+          "small": {
+            "title": "Conta pequena",
+            "text": "Jesus, libertai meu coração e conduzi-me à paz.",
+            "count": 10
+          },
+          "closing": {
+            "title": "Conclusão da dezena",
+            "text": "Jesus, eu confio em vós."
+          }
+        },
+        {
+          "title": "Mágoa",
+          "meditation": "Apresente esta intenção diante de Deus: mágoa.",
+          "large": {
+            "title": "Conta grande",
+            "text": "Jesus, apresento-vos esta ferida e peço a vossa luz."
+          },
+          "small": {
+            "title": "Conta pequena",
+            "text": "Jesus, libertai meu coração e conduzi-me à paz.",
+            "count": 10
+          },
+          "closing": {
+            "title": "Conclusão da dezena",
+            "text": "Jesus, eu confio em vós."
+          }
+        },
+        {
+          "title": "Ansiedade",
+          "meditation": "Apresente esta intenção diante de Deus: ansiedade.",
+          "large": {
+            "title": "Conta grande",
+            "text": "Jesus, apresento-vos esta ferida e peço a vossa luz."
+          },
+          "small": {
+            "title": "Conta pequena",
+            "text": "Jesus, libertai meu coração e conduzi-me à paz.",
+            "count": 10
+          },
+          "closing": {
+            "title": "Conclusão da dezena",
+            "text": "Jesus, eu confio em vós."
+          }
+        },
+        {
+          "title": "Apego desordenado",
+          "meditation": "Apresente esta intenção diante de Deus: apego desordenado.",
+          "large": {
+            "title": "Conta grande",
+            "text": "Jesus, apresento-vos esta ferida e peço a vossa luz."
+          },
+          "small": {
+            "title": "Conta pequena",
+            "text": "Jesus, libertai meu coração e conduzi-me à paz.",
+            "count": 10
+          },
+          "closing": {
+            "title": "Conclusão da dezena",
+            "text": "Jesus, eu confio em vós."
+          }
+        }
+      ],
+      "ending": [
+        {
+          "title": "Entrega final",
+          "text": "Senhor Jesus, entrego-vos minha história, minhas feridas e meus medos. Libertai-me para amar e servir. Amém."
+        }
+      ]
+    },
+    "terco-da-paz": {
+      "id": "terco-da-paz",
+      "title": "Terço pela paz guiado",
+      "kind": "chaplet",
+      "intro": "Ofereça cada dezena por uma dimensão da paz.",
+      "start": [
+        "sinal_da_cruz"
+      ],
+      "groups": [
+        {
+          "title": "Paz no coração",
+          "meditation": "Apresente esta intenção diante de Deus: paz no coração.",
+          "large": {
+            "title": "Conta grande",
+            "text": "Senhor Jesus, príncipe da paz, visitai esta intenção."
+          },
+          "small": {
+            "title": "Conta pequena",
+            "text": "Jesus, dai-nos a vossa paz.",
+            "count": 10
+          },
+          "closing": {
+            "title": "Conclusão da dezena",
+            "text": "Nossa Senhora Rainha da Paz, rogai por nós."
+          }
+        },
+        {
+          "title": "Paz na família",
+          "meditation": "Apresente esta intenção diante de Deus: paz na família.",
+          "large": {
+            "title": "Conta grande",
+            "text": "Senhor Jesus, príncipe da paz, visitai esta intenção."
+          },
+          "small": {
+            "title": "Conta pequena",
+            "text": "Jesus, dai-nos a vossa paz.",
+            "count": 10
+          },
+          "closing": {
+            "title": "Conclusão da dezena",
+            "text": "Nossa Senhora Rainha da Paz, rogai por nós."
+          }
+        },
+        {
+          "title": "Paz na Igreja",
+          "meditation": "Apresente esta intenção diante de Deus: paz na igreja.",
+          "large": {
+            "title": "Conta grande",
+            "text": "Senhor Jesus, príncipe da paz, visitai esta intenção."
+          },
+          "small": {
+            "title": "Conta pequena",
+            "text": "Jesus, dai-nos a vossa paz.",
+            "count": 10
+          },
+          "closing": {
+            "title": "Conclusão da dezena",
+            "text": "Nossa Senhora Rainha da Paz, rogai por nós."
+          }
+        },
+        {
+          "title": "Paz no país",
+          "meditation": "Apresente esta intenção diante de Deus: paz no país.",
+          "large": {
+            "title": "Conta grande",
+            "text": "Senhor Jesus, príncipe da paz, visitai esta intenção."
+          },
+          "small": {
+            "title": "Conta pequena",
+            "text": "Jesus, dai-nos a vossa paz.",
+            "count": 10
+          },
+          "closing": {
+            "title": "Conclusão da dezena",
+            "text": "Nossa Senhora Rainha da Paz, rogai por nós."
+          }
+        },
+        {
+          "title": "Paz no mundo",
+          "meditation": "Apresente esta intenção diante de Deus: paz no mundo.",
+          "large": {
+            "title": "Conta grande",
+            "text": "Senhor Jesus, príncipe da paz, visitai esta intenção."
+          },
+          "small": {
+            "title": "Conta pequena",
+            "text": "Jesus, dai-nos a vossa paz.",
+            "count": 10
+          },
+          "closing": {
+            "title": "Conclusão da dezena",
+            "text": "Nossa Senhora Rainha da Paz, rogai por nós."
+          }
+        }
+      ],
+      "ending": [
+        {
+          "title": "Oração final pela paz",
+          "text": "Senhor, fazei de nós instrumentos de paz, reconciliação e esperança. Amém."
+        }
+      ]
+    },
+    "terco-dos-anjos-da-guarda": {
+      "id": "terco-dos-anjos-da-guarda",
+      "title": "Terço dos Anjos da Guarda guiado",
+      "kind": "chaplet",
+      "intro": "Peça a proteção dos Anjos da Guarda sobre a família, a casa, o trabalho, as viagens e a vida espiritual.",
+      "start": [
+        "sinal_da_cruz"
+      ],
+      "groups": [
+        {
+          "title": "Família",
+          "meditation": "Apresente esta intenção diante de Deus: família.",
+          "large": {
+            "title": "Conta grande",
+            "text": "Santos Anjos da Guarda, guardai-nos nos caminhos de Deus."
+          },
+          "small": {
+            "title": "Conta pequena",
+            "text": "Anjo de Deus, guardai-nos e conduzi-nos ao Senhor.",
+            "count": 10
+          },
+          "closing": {
+            "title": "Conclusão da dezena",
+            "text": "Santos Anjos da Guarda, rogai por nós."
+          }
+        },
+        {
+          "title": "Casa",
+          "meditation": "Apresente esta intenção diante de Deus: casa.",
+          "large": {
+            "title": "Conta grande",
+            "text": "Santos Anjos da Guarda, guardai-nos nos caminhos de Deus."
+          },
+          "small": {
+            "title": "Conta pequena",
+            "text": "Anjo de Deus, guardai-nos e conduzi-nos ao Senhor.",
+            "count": 10
+          },
+          "closing": {
+            "title": "Conclusão da dezena",
+            "text": "Santos Anjos da Guarda, rogai por nós."
+          }
+        },
+        {
+          "title": "Trabalho",
+          "meditation": "Apresente esta intenção diante de Deus: trabalho.",
+          "large": {
+            "title": "Conta grande",
+            "text": "Santos Anjos da Guarda, guardai-nos nos caminhos de Deus."
+          },
+          "small": {
+            "title": "Conta pequena",
+            "text": "Anjo de Deus, guardai-nos e conduzi-nos ao Senhor.",
+            "count": 10
+          },
+          "closing": {
+            "title": "Conclusão da dezena",
+            "text": "Santos Anjos da Guarda, rogai por nós."
+          }
+        },
+        {
+          "title": "Viagens",
+          "meditation": "Apresente esta intenção diante de Deus: viagens.",
+          "large": {
+            "title": "Conta grande",
+            "text": "Santos Anjos da Guarda, guardai-nos nos caminhos de Deus."
+          },
+          "small": {
+            "title": "Conta pequena",
+            "text": "Anjo de Deus, guardai-nos e conduzi-nos ao Senhor.",
+            "count": 10
+          },
+          "closing": {
+            "title": "Conclusão da dezena",
+            "text": "Santos Anjos da Guarda, rogai por nós."
+          }
+        },
+        {
+          "title": "Vida espiritual",
+          "meditation": "Apresente esta intenção diante de Deus: vida espiritual.",
+          "large": {
+            "title": "Conta grande",
+            "text": "Santos Anjos da Guarda, guardai-nos nos caminhos de Deus."
+          },
+          "small": {
+            "title": "Conta pequena",
+            "text": "Anjo de Deus, guardai-nos e conduzi-nos ao Senhor.",
+            "count": 10
+          },
+          "closing": {
+            "title": "Conclusão da dezena",
+            "text": "Santos Anjos da Guarda, rogai por nós."
+          }
+        }
+      ],
+      "ending": [
+        {
+          "title": "Oração ao Anjo da Guarda",
+          "text": "Santo Anjo do Senhor, meu zeloso guardador, se a ti me confiou a piedade divina, sempre me rege, guarda, governa e ilumina. Amém."
+        }
+      ]
+    },
+    "terco-pelas-vocacoes": {
+      "id": "terco-pelas-vocacoes",
+      "title": "Terço pelas vocações guiado",
+      "kind": "chaplet",
+      "intro": "Ofereça este terço pelas vocações sacerdotais, religiosas, matrimoniais e missionárias.",
+      "start": [
+        "sinal_da_cruz"
+      ],
+      "groups": [
+        {
+          "title": "Jovens em discernimento",
+          "meditation": "Apresente esta intenção diante de Deus: jovens em discernimento.",
+          "large": {
+            "title": "Conta grande",
+            "text": "Senhor da messe, olhai para a vossa Igreja."
+          },
+          "small": {
+            "title": "Conta pequena",
+            "text": "Senhor da messe, enviai operários para a vossa vinha.",
+            "count": 10
+          },
+          "closing": {
+            "title": "Conclusão da dezena",
+            "text": "Maria, Mãe das vocações, rogai por nós."
+          }
+        },
+        {
+          "title": "Famílias que geram vocações",
+          "meditation": "Apresente esta intenção diante de Deus: famílias que geram vocações.",
+          "large": {
+            "title": "Conta grande",
+            "text": "Senhor da messe, olhai para a vossa Igreja."
+          },
+          "small": {
+            "title": "Conta pequena",
+            "text": "Senhor da messe, enviai operários para a vossa vinha.",
+            "count": 10
+          },
+          "closing": {
+            "title": "Conclusão da dezena",
+            "text": "Maria, Mãe das vocações, rogai por nós."
+          }
+        },
+        {
+          "title": "Seminaristas e religiosos",
+          "meditation": "Apresente esta intenção diante de Deus: seminaristas e religiosos.",
+          "large": {
+            "title": "Conta grande",
+            "text": "Senhor da messe, olhai para a vossa Igreja."
+          },
+          "small": {
+            "title": "Conta pequena",
+            "text": "Senhor da messe, enviai operários para a vossa vinha.",
+            "count": 10
+          },
+          "closing": {
+            "title": "Conclusão da dezena",
+            "text": "Maria, Mãe das vocações, rogai por nós."
+          }
+        },
+        {
+          "title": "Matrimônios santos",
+          "meditation": "Apresente esta intenção diante de Deus: matrimônios santos.",
+          "large": {
+            "title": "Conta grande",
+            "text": "Senhor da messe, olhai para a vossa Igreja."
+          },
+          "small": {
+            "title": "Conta pequena",
+            "text": "Senhor da messe, enviai operários para a vossa vinha.",
+            "count": 10
+          },
+          "closing": {
+            "title": "Conclusão da dezena",
+            "text": "Maria, Mãe das vocações, rogai por nós."
+          }
+        },
+        {
+          "title": "Missionários",
+          "meditation": "Apresente esta intenção diante de Deus: missionários.",
+          "large": {
+            "title": "Conta grande",
+            "text": "Senhor da messe, olhai para a vossa Igreja."
+          },
+          "small": {
+            "title": "Conta pequena",
+            "text": "Senhor da messe, enviai operários para a vossa vinha.",
+            "count": 10
+          },
+          "closing": {
+            "title": "Conclusão da dezena",
+            "text": "Maria, Mãe das vocações, rogai por nós."
+          }
+        }
+      ],
+      "ending": [
+        {
+          "title": "Oração final",
+          "text": "Senhor, despertai vocações santas e generosas para a vossa Igreja. Amém."
+        }
+      ]
+    },
+    "terco-pelos-enfermos": {
+      "id": "terco-pelos-enfermos",
+      "title": "Terço pelos enfermos guiado",
+      "kind": "chaplet",
+      "intro": "Ofereça este terço pelos enfermos, por quem sofre em silêncio e por quem cuida deles.",
+      "start": [
+        "sinal_da_cruz"
+      ],
+      "groups": [
+        {
+          "title": "Quem está doente",
+          "meditation": "Apresente esta intenção diante de Deus: quem está doente.",
+          "large": {
+            "title": "Conta grande",
+            "text": "Jesus, médico das almas e dos corpos, visitai os enfermos."
+          },
+          "small": {
+            "title": "Conta pequena",
+            "text": "Jesus, médico das almas e dos corpos, tende piedade de nós.",
+            "count": 10
+          },
+          "closing": {
+            "title": "Conclusão da dezena",
+            "text": "Nossa Senhora da Saúde, rogai por nós."
+          }
+        },
+        {
+          "title": "Famílias dos enfermos",
+          "meditation": "Apresente esta intenção diante de Deus: famílias dos enfermos.",
+          "large": {
+            "title": "Conta grande",
+            "text": "Jesus, médico das almas e dos corpos, visitai os enfermos."
+          },
+          "small": {
+            "title": "Conta pequena",
+            "text": "Jesus, médico das almas e dos corpos, tende piedade de nós.",
+            "count": 10
+          },
+          "closing": {
+            "title": "Conclusão da dezena",
+            "text": "Nossa Senhora da Saúde, rogai por nós."
+          }
+        },
+        {
+          "title": "Médicos e cuidadores",
+          "meditation": "Apresente esta intenção diante de Deus: médicos e cuidadores.",
+          "large": {
+            "title": "Conta grande",
+            "text": "Jesus, médico das almas e dos corpos, visitai os enfermos."
+          },
+          "small": {
+            "title": "Conta pequena",
+            "text": "Jesus, médico das almas e dos corpos, tende piedade de nós.",
+            "count": 10
+          },
+          "closing": {
+            "title": "Conclusão da dezena",
+            "text": "Nossa Senhora da Saúde, rogai por nós."
+          }
+        },
+        {
+          "title": "Quem sofre em silêncio",
+          "meditation": "Apresente esta intenção diante de Deus: quem sofre em silêncio.",
+          "large": {
+            "title": "Conta grande",
+            "text": "Jesus, médico das almas e dos corpos, visitai os enfermos."
+          },
+          "small": {
+            "title": "Conta pequena",
+            "text": "Jesus, médico das almas e dos corpos, tende piedade de nós.",
+            "count": 10
+          },
+          "closing": {
+            "title": "Conclusão da dezena",
+            "text": "Nossa Senhora da Saúde, rogai por nós."
+          }
+        },
+        {
+          "title": "Os que estão no fim da vida",
+          "meditation": "Apresente esta intenção diante de Deus: os que estão no fim da vida.",
+          "large": {
+            "title": "Conta grande",
+            "text": "Jesus, médico das almas e dos corpos, visitai os enfermos."
+          },
+          "small": {
+            "title": "Conta pequena",
+            "text": "Jesus, médico das almas e dos corpos, tende piedade de nós.",
+            "count": 10
+          },
+          "closing": {
+            "title": "Conclusão da dezena",
+            "text": "Nossa Senhora da Saúde, rogai por nós."
+          }
+        }
+      ],
+      "ending": [
+        {
+          "title": "Oração final",
+          "text": "Senhor, dai força, fé e consolação aos enfermos e a todos que cuidam deles. Amém."
+        }
+      ]
+    },
+    "terco-pela-paz-nas-familias": {
+      "id": "terco-pela-paz-nas-familias",
+      "title": "Terço pela paz nas famílias guiado",
+      "kind": "chaplet",
+      "intro": "Ofereça este terço pela paz, diálogo e reconciliação dentro dos lares.",
+      "start": [
+        "sinal_da_cruz"
+      ],
+      "groups": [
+        {
+          "title": "Perdão",
+          "meditation": "Apresente esta intenção diante de Deus: perdão.",
+          "large": {
+            "title": "Conta grande",
+            "text": "Jesus, manso e humilde de coração, visitai esta família."
+          },
+          "small": {
+            "title": "Conta pequena",
+            "text": "Jesus, manso e humilde de coração, fazei nossa casa semelhante à vossa.",
+            "count": 10
+          },
+          "closing": {
+            "title": "Conclusão da dezena",
+            "text": "Sagrada Família de Nazaré, rogai por nós."
+          }
+        },
+        {
+          "title": "Diálogo",
+          "meditation": "Apresente esta intenção diante de Deus: diálogo.",
+          "large": {
+            "title": "Conta grande",
+            "text": "Jesus, manso e humilde de coração, visitai esta família."
+          },
+          "small": {
+            "title": "Conta pequena",
+            "text": "Jesus, manso e humilde de coração, fazei nossa casa semelhante à vossa.",
+            "count": 10
+          },
+          "closing": {
+            "title": "Conclusão da dezena",
+            "text": "Sagrada Família de Nazaré, rogai por nós."
+          }
+        },
+        {
+          "title": "Paciência",
+          "meditation": "Apresente esta intenção diante de Deus: paciência.",
+          "large": {
+            "title": "Conta grande",
+            "text": "Jesus, manso e humilde de coração, visitai esta família."
+          },
+          "small": {
+            "title": "Conta pequena",
+            "text": "Jesus, manso e humilde de coração, fazei nossa casa semelhante à vossa.",
+            "count": 10
+          },
+          "closing": {
+            "title": "Conclusão da dezena",
+            "text": "Sagrada Família de Nazaré, rogai por nós."
+          }
+        },
+        {
+          "title": "Fidelidade",
+          "meditation": "Apresente esta intenção diante de Deus: fidelidade.",
+          "large": {
+            "title": "Conta grande",
+            "text": "Jesus, manso e humilde de coração, visitai esta família."
+          },
+          "small": {
+            "title": "Conta pequena",
+            "text": "Jesus, manso e humilde de coração, fazei nossa casa semelhante à vossa.",
+            "count": 10
+          },
+          "closing": {
+            "title": "Conclusão da dezena",
+            "text": "Sagrada Família de Nazaré, rogai por nós."
+          }
+        },
+        {
+          "title": "Reconciliação",
+          "meditation": "Apresente esta intenção diante de Deus: reconciliação.",
+          "large": {
+            "title": "Conta grande",
+            "text": "Jesus, manso e humilde de coração, visitai esta família."
+          },
+          "small": {
+            "title": "Conta pequena",
+            "text": "Jesus, manso e humilde de coração, fazei nossa casa semelhante à vossa.",
+            "count": 10
+          },
+          "closing": {
+            "title": "Conclusão da dezena",
+            "text": "Sagrada Família de Nazaré, rogai por nós."
+          }
+        }
+      ],
+      "ending": [
+        {
+          "title": "Oração final",
+          "text": "Senhor Jesus, curai as feridas das famílias e fazei de nossos lares lugares de perdão e amor fiel. Amém."
+        }
+      ]
+    }
+  }
+}

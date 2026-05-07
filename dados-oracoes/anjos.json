@@ -1,0 +1,1026 @@
+{
+  "id": "anjos",
+  "title": "Anjos e Arcanjos",
+  "items": [
+    {
+      "id": "sao-gabriel-arcanjo",
+      "titulo": "Oração a São Gabriel Arcanjo",
+      "categoria": "anjos",
+      "tipo": "oracao",
+      "tags": [
+        "gabriel",
+        "anunciação",
+        "mensagem",
+        "vocação"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Antes de decisões, anúncios importantes, estudos, comunicação ou discernimento vocacional.",
+      "texto": "São Gabriel Arcanjo, mensageiro de Deus, intercedei por mim. Ajudai-me a ouvir a Palavra, acolher os chamados do Senhor e responder com fé como Maria: faça-se em mim segundo a vossa vontade. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "anjos-e-arcanjos",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "oracao a gabriel arcanjo"
+      ]
+    },
+    {
+      "id": "sao-rafael-arcanjo",
+      "titulo": "Oração a São Rafael Arcanjo",
+      "categoria": "anjos",
+      "tipo": "oracao",
+      "tags": [
+        "rafael",
+        "cura",
+        "viagem",
+        "proteção"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Em viagens, enfermidades, busca de cura interior ou proteção no caminho.",
+      "texto": "São Rafael Arcanjo, medicina de Deus e companheiro dos viajantes, acompanhai meu caminho. Intercedei pela cura do corpo e da alma, protegei minhas viagens e conduzi-me à paz do Senhor. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "anjos-e-arcanjos",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "oracao a rafael arcanjo"
+      ]
+    },
+    {
+      "id": "santos-arcanjos",
+      "titulo": "Oração aos Santos Arcanjos",
+      "categoria": "anjos",
+      "tipo": "oracao",
+      "tags": [
+        "arcanjos",
+        "miguel",
+        "gabriel",
+        "rafael",
+        "proteção"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para pedir a intercessão dos três arcanjos venerados pela Igreja.",
+      "texto": "São Miguel, defendei-nos no combate. São Gabriel, anunciai-nos a vontade de Deus. São Rafael, conduzi-nos pelo caminho da cura e da paz. Santos Arcanjos, guardai nossa casa e ajudai-nos a servir ao Senhor. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "anjos-e-arcanjos",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "anjo-da-guarda-familia",
+      "titulo": "Oração ao Anjo da Guarda da família",
+      "categoria": "anjos",
+      "tipo": "oracao",
+      "tags": [
+        "anjo da guarda",
+        "família",
+        "proteção"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Pela família, pelos filhos e pela proteção da casa.",
+      "texto": "Santos Anjos da Guarda, que velais por cada pessoa da nossa família, protegei nossa casa. Afastai-nos do mal, inspirai-nos o bem e conduzi nossos passos para Deus. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "anjos-e-arcanjos",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "anjo-da-guarda-noite",
+      "titulo": "Oração ao Anjo da Guarda antes de dormir",
+      "categoria": "anjos",
+      "tipo": "oracao",
+      "tags": [
+        "anjo da guarda",
+        "noite",
+        "sono"
+      ],
+      "momento": [
+        "noite"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Antes de dormir, especialmente em momentos de medo ou inquietação.",
+      "texto": "Meu santo Anjo da Guarda, ficai comigo nesta noite. Protegei meu sono, guardai meus pensamentos, afastai todo medo e ajudai-me a despertar em paz para servir a Deus. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "anjos-e-arcanjos",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "santos-anjos-protecao",
+      "titulo": "Oração aos Santos Anjos por proteção",
+      "categoria": "anjos",
+      "tipo": "oracao",
+      "tags": [
+        "anjos",
+        "proteção",
+        "casa"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Em momentos de insegurança, medo ou necessidade de proteção.",
+      "texto": "Santos Anjos de Deus, enviados pelo Senhor para guardar os seus filhos, protegei-nos nas tentações, defendei-nos dos perigos e ajudai-nos a caminhar na luz de Cristo. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "anjos-e-arcanjos",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "nove-coros-anjos",
+      "titulo": "Oração aos nove coros dos Anjos",
+      "categoria": "anjos",
+      "tipo": "oracao",
+      "tags": [
+        "anjos",
+        "adoração",
+        "louvor"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para louvor, adoração e devoção aos anjos.",
+      "texto": "Anjos e Arcanjos, Tronos e Dominações, Principados e Potestades, Virtudes, Querubins e Serafins, adorai a Deus conosco. Uni nossa pobre oração ao vosso louvor e conduzi-nos à presença do Senhor. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "anjos-e-arcanjos",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "ladainha-dos-santos-anjos-breve",
+      "titulo": "Ladainha dos Santos Anjos — forma breve",
+      "categoria": "anjos",
+      "tipo": "oracao",
+      "tags": [
+        "anjos",
+        "ladainha",
+        "proteção"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "tradicional",
+      "fonte_nome": "Forma breve inspirada nas litanias aos Santos Anjos",
+      "quando_rezar": "Para pedir proteção e companhia dos anjos na vida espiritual.",
+      "texto": "Santos Anjos de Deus, rogai por nós. São Miguel Arcanjo, defendei-nos. São Gabriel Arcanjo, anunciai-nos a Palavra. São Rafael Arcanjo, acompanhai-nos no caminho.\n\nSerafins ardentes, ensinai-nos o amor. Querubins luminosos, ensinai-nos a sabedoria. Tronos santos, ensinai-nos a adoração. Dominações, Virtudes e Potestades, ajudai-nos a servir a Deus. Principados, Arcanjos e Anjos, guardai-nos em Cristo. Amém.",
+      "explicacao": "Oração devocional composta para favorecer recolhimento, confiança e vida espiritual católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Tradicional",
+        "familia": "ladainhas",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "oracao-aos-serafins",
+      "titulo": "Oração aos Serafins",
+      "categoria": "anjos",
+      "tipo": "oracao",
+      "tags": [
+        "serafins",
+        "amor",
+        "anjos"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Em momentos de oração pessoal e devoção católica.",
+      "texto": "Santos Serafins, ardentes de amor diante de Deus, intercedei por mim. Pedi ao Senhor que acenda em meu coração o fogo da caridade, purificando minha frieza e fazendo-me amar com generosidade. Amém.",
+      "explicacao": "Oração devocional composta para favorecer recolhimento, confiança e vida espiritual católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "anjos-e-arcanjos",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "oracao-aos-querubins",
+      "titulo": "Oração aos Querubins",
+      "categoria": "anjos",
+      "tipo": "oracao",
+      "tags": [
+        "querubins",
+        "sabedoria",
+        "anjos"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Em momentos de oração pessoal e devoção católica.",
+      "texto": "Santos Querubins, cheios de luz e sabedoria, intercedei por mim. Pedi a Deus que ilumine minha inteligência, afaste a confusão e me conduza à verdade com humildade. Amém.",
+      "explicacao": "Oração devocional composta para favorecer recolhimento, confiança e vida espiritual católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "anjos-e-arcanjos",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "oracao-aos-tronos",
+      "titulo": "Oração aos Tronos",
+      "categoria": "anjos",
+      "tipo": "oracao",
+      "tags": [
+        "tronos",
+        "adoração",
+        "anjos"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Em momentos de oração pessoal e devoção católica.",
+      "texto": "Santos Tronos, que adorais a majestade de Deus, intercedei por mim. Ensinai-me reverência, silêncio e fidelidade, para que minha vida se torne um humilde louvor ao Senhor. Amém.",
+      "explicacao": "Oração devocional composta para favorecer recolhimento, confiança e vida espiritual católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "anjos-e-arcanjos",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "oracao-as-dominacoes",
+      "titulo": "Oração às Dominações",
+      "categoria": "anjos",
+      "tipo": "oracao",
+      "tags": [
+        "dominações",
+        "ordem",
+        "anjos"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Em momentos de oração pessoal e devoção católica.",
+      "texto": "Santas Dominações, que servis à ordem de Deus, intercedei por mim. Ajudai-me a ordenar minha vida, dominar minhas paixões e submeter minha vontade ao amor do Senhor. Amém.",
+      "explicacao": "Oração devocional composta para favorecer recolhimento, confiança e vida espiritual católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "anjos-e-arcanjos",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "oracao-as-virtudes-angelicas",
+      "titulo": "Oração às Virtudes Angélicas",
+      "categoria": "anjos",
+      "tipo": "oracao",
+      "tags": [
+        "virtudes",
+        "força",
+        "anjos"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Em momentos de oração pessoal e devoção católica.",
+      "texto": "Santas Virtudes, mensageiras da força de Deus, intercedei por mim. Fortalecei-me na prática do bem, na perseverança e na coragem de cumprir a vontade divina. Amém.",
+      "explicacao": "Oração devocional composta para favorecer recolhimento, confiança e vida espiritual católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "anjos-e-arcanjos",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "oracao-as-potestades",
+      "titulo": "Oração às Potestades",
+      "categoria": "anjos",
+      "tipo": "oracao",
+      "tags": [
+        "potestades",
+        "combate espiritual",
+        "anjos"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Em momentos de oração pessoal e devoção católica.",
+      "texto": "Santas Potestades, defensoras contra as forças do mal, intercedei por mim. Protegei-me das tentações, ajudai-me a vigiar e guardai minha alma na graça de Deus. Amém.",
+      "explicacao": "Oração devocional composta para favorecer recolhimento, confiança e vida espiritual católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "anjos-e-arcanjos",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "oracao-aos-principados",
+      "titulo": "Oração aos Principados",
+      "categoria": "anjos",
+      "tipo": "oracao",
+      "tags": [
+        "principados",
+        "governo",
+        "proteção"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Em momentos de oração pessoal e devoção católica.",
+      "texto": "Santos Principados, servidores dos desígnios de Deus sobre os povos, intercedei por nossas famílias, cidades e nações. Ajudai-nos a buscar justiça, paz e fidelidade ao Senhor. Amém.",
+      "explicacao": "Oração devocional composta para favorecer recolhimento, confiança e vida espiritual católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "anjos-e-arcanjos",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "oracao-aos-arcanjos",
+      "titulo": "Oração aos Arcanjos",
+      "categoria": "anjos",
+      "tipo": "oracao",
+      "tags": [
+        "arcanjos",
+        "miguel",
+        "gabriel",
+        "rafael"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Em momentos de oração pessoal e devoção católica.",
+      "texto": "Santos Arcanjos Miguel, Gabriel e Rafael, intercedei por nós. Miguel, defendei-nos no combate; Gabriel, ajudai-nos a ouvir a Palavra; Rafael, conduzi-nos pelos caminhos da cura e da paz. Amém.",
+      "explicacao": "Oração devocional composta para favorecer recolhimento, confiança e vida espiritual católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "anjos-e-arcanjos",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "oracao-aos-anjos-da-casa",
+      "titulo": "Oração aos Anjos pela casa",
+      "categoria": "anjos",
+      "tipo": "oracao",
+      "tags": [
+        "anjos",
+        "casa",
+        "família",
+        "proteção"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Em momentos de oração pessoal e devoção católica.",
+      "texto": "Santos Anjos de Deus, guardai esta casa. Protegei nossa entrada e saída, afastai discórdias, iluminai nossas conversas e conduzi nossa família à paz de Cristo. Amém.",
+      "explicacao": "Oração devocional composta para favorecer recolhimento, confiança e vida espiritual católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "anjos-e-arcanjos",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "oracao-oracao-ao-anjo-da-guarda-dos-filhos",
+      "titulo": "Oração ao Anjo da Guarda dos filhos",
+      "categoria": "anjos",
+      "tipo": "oracao",
+      "tags": [
+        "anjos",
+        "filhos",
+        "família",
+        "proteção"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para pedir auxílio dos anjos em temas ligados a a proteção dos filhos.",
+      "texto": "Santos Anjos de Deus, servidores do Altíssimo e mensageiros da sua vontade, guardai-me neste dia. Afastai de mim o mal, inspirai-me bons pensamentos e ajudai-me a caminhar na presença do Senhor.\n\nIntercedei por mim especialmente em tudo que toca a proteção dos filhos. Que eu viva com pureza de coração, prudência nas escolhas e confiança na proteção divina. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "santo-anjo",
+        "sao-miguel-arcanjo"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "anjos-e-arcanjos",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "oracao-oracao-ao-anjo-da-guarda-do-esposo-ou-esposa",
+      "titulo": "Oração ao Anjo da Guarda do esposo ou esposa",
+      "categoria": "anjos",
+      "tipo": "oracao",
+      "tags": [
+        "anjos",
+        "casamento",
+        "família",
+        "proteção"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para pedir auxílio dos anjos em temas ligados a a proteção do cônjuge.",
+      "texto": "Santos Anjos de Deus, servidores do Altíssimo e mensageiros da sua vontade, guardai-me neste dia. Afastai de mim o mal, inspirai-me bons pensamentos e ajudai-me a caminhar na presença do Senhor.\n\nIntercedei por mim especialmente em tudo que toca a proteção do cônjuge. Que eu viva com pureza de coração, prudência nas escolhas e confiança na proteção divina. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "santo-anjo",
+        "sao-miguel-arcanjo"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "anjos-e-arcanjos",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "oracao-oracao-aos-anjos-antes-de-viajar",
+      "titulo": "Oração aos Anjos antes de viajar",
+      "categoria": "anjos",
+      "tipo": "oracao",
+      "tags": [
+        "anjos",
+        "viagem",
+        "estrada",
+        "proteção"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para pedir auxílio dos anjos em temas ligados a as viagens e caminhos.",
+      "texto": "Santos Anjos de Deus, servidores do Altíssimo e mensageiros da sua vontade, guardai-me neste dia. Afastai de mim o mal, inspirai-me bons pensamentos e ajudai-me a caminhar na presença do Senhor.\n\nIntercedei por mim especialmente em tudo que toca as viagens e caminhos. Que eu viva com pureza de coração, prudência nas escolhas e confiança na proteção divina. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "santo-anjo",
+        "sao-miguel-arcanjo"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "anjos-e-arcanjos",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "oracao-oracao-aos-anjos-na-doenca",
+      "titulo": "Oração aos Anjos na doença",
+      "categoria": "anjos",
+      "tipo": "oracao",
+      "tags": [
+        "anjos",
+        "doença",
+        "cura",
+        "consolo"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para pedir auxílio dos anjos em temas ligados a a doença, tratamentos e recuperação.",
+      "texto": "Santos Anjos de Deus, servidores do Altíssimo e mensageiros da sua vontade, guardai-me neste dia. Afastai de mim o mal, inspirai-me bons pensamentos e ajudai-me a caminhar na presença do Senhor.\n\nIntercedei por mim especialmente em tudo que toca a doença, tratamentos e recuperação. Que eu viva com pureza de coração, prudência nas escolhas e confiança na proteção divina. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "santo-anjo",
+        "sao-miguel-arcanjo"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "anjos-e-arcanjos",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "oracao-oracao-aos-anjos-contra-pensamentos-ruins",
+      "titulo": "Oração aos Anjos contra pensamentos ruins",
+      "categoria": "anjos",
+      "tipo": "oracao",
+      "tags": [
+        "anjos",
+        "pensamentos",
+        "paz",
+        "tentação"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para pedir auxílio dos anjos em temas ligados a a guarda da mente e dos pensamentos.",
+      "texto": "Santos Anjos de Deus, servidores do Altíssimo e mensageiros da sua vontade, guardai-me neste dia. Afastai de mim o mal, inspirai-me bons pensamentos e ajudai-me a caminhar na presença do Senhor.\n\nIntercedei por mim especialmente em tudo que toca a guarda da mente e dos pensamentos. Que eu viva com pureza de coração, prudência nas escolhas e confiança na proteção divina. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "santo-anjo",
+        "sao-miguel-arcanjo"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "anjos-e-arcanjos",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "oracao-oracao-aos-anjos-pelo-lar",
+      "titulo": "Oração aos Anjos pelo lar",
+      "categoria": "anjos",
+      "tipo": "oracao",
+      "tags": [
+        "anjos",
+        "casa",
+        "lar",
+        "família"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para pedir auxílio dos anjos em temas ligados a a paz do lar.",
+      "texto": "Santos Anjos de Deus, servidores do Altíssimo e mensageiros da sua vontade, guardai-me neste dia. Afastai de mim o mal, inspirai-me bons pensamentos e ajudai-me a caminhar na presença do Senhor.\n\nIntercedei por mim especialmente em tudo que toca a paz do lar. Que eu viva com pureza de coração, prudência nas escolhas e confiança na proteção divina. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "santo-anjo",
+        "sao-miguel-arcanjo"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "anjos-e-arcanjos",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "oracao-oracao-aos-anjos-no-trabalho",
+      "titulo": "Oração aos Anjos no trabalho",
+      "categoria": "anjos",
+      "tipo": "oracao",
+      "tags": [
+        "anjos",
+        "trabalho",
+        "ambiente",
+        "proteção"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para pedir auxílio dos anjos em temas ligados a o ambiente de trabalho.",
+      "texto": "Santos Anjos de Deus, servidores do Altíssimo e mensageiros da sua vontade, guardai-me neste dia. Afastai de mim o mal, inspirai-me bons pensamentos e ajudai-me a caminhar na presença do Senhor.\n\nIntercedei por mim especialmente em tudo que toca o ambiente de trabalho. Que eu viva com pureza de coração, prudência nas escolhas e confiança na proteção divina. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "santo-anjo",
+        "sao-miguel-arcanjo"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "anjos-e-arcanjos",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "oracao-oracao-aos-anjos-pelo-sono",
+      "titulo": "Oração aos Anjos pelo sono",
+      "categoria": "anjos",
+      "tipo": "oracao",
+      "tags": [
+        "anjos",
+        "sono",
+        "noite",
+        "paz"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para pedir auxílio dos anjos em temas ligados a o descanso noturno.",
+      "texto": "Santos Anjos de Deus, servidores do Altíssimo e mensageiros da sua vontade, guardai-me neste dia. Afastai de mim o mal, inspirai-me bons pensamentos e ajudai-me a caminhar na presença do Senhor.\n\nIntercedei por mim especialmente em tudo que toca o descanso noturno. Que eu viva com pureza de coração, prudência nas escolhas e confiança na proteção divina. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "santo-anjo",
+        "sao-miguel-arcanjo"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "anjos-e-arcanjos",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "oracao-oracao-aos-anjos-pelos-sacerdotes",
+      "titulo": "Oração aos Anjos pelos sacerdotes",
+      "categoria": "anjos",
+      "tipo": "oracao",
+      "tags": [
+        "anjos",
+        "sacerdotes",
+        "igreja",
+        "proteção"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para pedir auxílio dos anjos em temas ligados a a proteção dos sacerdotes.",
+      "texto": "Santos Anjos de Deus, servidores do Altíssimo e mensageiros da sua vontade, guardai-me neste dia. Afastai de mim o mal, inspirai-me bons pensamentos e ajudai-me a caminhar na presença do Senhor.\n\nIntercedei por mim especialmente em tudo que toca a proteção dos sacerdotes. Que eu viva com pureza de coração, prudência nas escolhas e confiança na proteção divina. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "santo-anjo",
+        "sao-miguel-arcanjo"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "anjos-e-arcanjos",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "oracao-oracao-aos-anjos-pelas-criancas",
+      "titulo": "Oração aos Anjos pelas crianças",
+      "categoria": "anjos",
+      "tipo": "oracao",
+      "tags": [
+        "anjos",
+        "crianças",
+        "proteção",
+        "pureza"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para pedir auxílio dos anjos em temas ligados a a proteção das crianças.",
+      "texto": "Santos Anjos de Deus, servidores do Altíssimo e mensageiros da sua vontade, guardai-me neste dia. Afastai de mim o mal, inspirai-me bons pensamentos e ajudai-me a caminhar na presença do Senhor.\n\nIntercedei por mim especialmente em tudo que toca a proteção das crianças. Que eu viva com pureza de coração, prudência nas escolhas e confiança na proteção divina. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "santo-anjo",
+        "sao-miguel-arcanjo"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "anjos-e-arcanjos",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "oracao-oracao-aos-anjos-na-tentacao",
+      "titulo": "Oração aos Anjos na tentação",
+      "categoria": "anjos",
+      "tipo": "oracao",
+      "tags": [
+        "anjos",
+        "tentação",
+        "fortaleza",
+        "pureza"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para pedir auxílio dos anjos em temas ligados a a resistência à tentação.",
+      "texto": "Santos Anjos de Deus, servidores do Altíssimo e mensageiros da sua vontade, guardai-me neste dia. Afastai de mim o mal, inspirai-me bons pensamentos e ajudai-me a caminhar na presença do Senhor.\n\nIntercedei por mim especialmente em tudo que toca a resistência à tentação. Que eu viva com pureza de coração, prudência nas escolhas e confiança na proteção divina. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "santo-anjo",
+        "sao-miguel-arcanjo"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "anjos-e-arcanjos",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "oracao-oracao-aos-anjos-pela-igreja",
+      "titulo": "Oração aos Anjos pela Igreja",
+      "categoria": "anjos",
+      "tipo": "oracao",
+      "tags": [
+        "anjos",
+        "igreja",
+        "proteção",
+        "unidade"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para pedir auxílio dos anjos em temas ligados a a proteção da Igreja.",
+      "texto": "Santos Anjos de Deus, servidores do Altíssimo e mensageiros da sua vontade, guardai-me neste dia. Afastai de mim o mal, inspirai-me bons pensamentos e ajudai-me a caminhar na presença do Senhor.\n\nIntercedei por mim especialmente em tudo que toca a proteção da Igreja. Que eu viva com pureza de coração, prudência nas escolhas e confiança na proteção divina. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "santo-anjo",
+        "sao-miguel-arcanjo"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "anjos-e-arcanjos",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "oracao-ao-anjo-da-guarda-da-familia",
+      "titulo": "Ao Anjo da Guarda da família",
+      "categoria": "anjos",
+      "tipo": "oracao",
+      "tags": [
+        "anjo da guarda",
+        "família",
+        "proteção",
+        "casa"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para confiar a família à proteção dos anjos.",
+      "texto": "Santo Anjo enviado por Deus para guardar nossa família, protegei nossa casa, inspirai nossas escolhas e afastai de nós tudo o que divide, confunde ou enfraquece a fé.\n\nAjudai-nos a viver em paz, perdão e amor, conduzindo-nos sempre para Jesus. Amém.",
+      "explicacao": "Oração organizada para o Devocionário Lectio, com linguagem simples, reverente e fiel à espiritualidade católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "anjos-e-arcanjos",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "oracao-aos-anjos-na-viagem",
+      "titulo": "Aos Anjos na viagem",
+      "categoria": "anjos",
+      "tipo": "oracao",
+      "tags": [
+        "anjos",
+        "viagem",
+        "proteção",
+        "caminho"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Antes de viajar ou quando alguém da família está na estrada.",
+      "texto": "Santos Anjos de Deus, acompanhai nossos passos nesta viagem. Guardai o caminho, livrai-nos de acidentes, distrações e perigos, e conduzi-nos em paz ao destino.\n\nQue a prudência, a paciência e a proteção divina estejam conosco. Amém.",
+      "explicacao": "Oração organizada para o Devocionário Lectio, com linguagem simples, reverente e fiel à espiritualidade católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "anjos-e-arcanjos",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "oracao-aos-anjos-dos-filhos",
+      "titulo": "Aos Anjos da Guarda dos filhos",
+      "categoria": "anjos",
+      "tipo": "oracao",
+      "tags": [
+        "filhos",
+        "anjos",
+        "proteção",
+        "família"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para pais que desejam rezar pelos filhos.",
+      "texto": "Santos Anjos da Guarda dos meus filhos, protegei-os durante o dia e a noite. Defendei-os dos perigos visíveis e invisíveis, inspirai-lhes o bem e afastai deles as más companhias.\n\nLevai-os sempre para perto de Jesus e de Maria. Amém.",
+      "explicacao": "Oração organizada para o Devocionário Lectio, com linguagem simples, reverente e fiel à espiritualidade católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "anjos-e-arcanjos",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "oracao-aos-anjos-contra-a-confusao",
+      "titulo": "Aos Anjos contra a confusão interior",
+      "categoria": "anjos",
+      "tipo": "oracao",
+      "tags": [
+        "confusão",
+        "discernimento",
+        "anjos",
+        "paz"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Quando houver agitação, dúvida ou pensamentos desordenados.",
+      "texto": "Santos Anjos do Senhor, ajudai-me a ordenar o coração. Onde houver confusão, trazei luz; onde houver medo, trazei paz; onde houver tentação, trazei firmeza.\n\nGuardai minha mente em Deus e conduzi minhas escolhas pelo caminho da verdade. Amém.",
+      "explicacao": "Oração organizada para o Devocionário Lectio, com linguagem simples, reverente e fiel à espiritualidade católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "anjos-e-arcanjos",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "aos anjos contra a confuinterior"
+      ]
+    },
+    {
+      "id": "oracao-a-sao-miguel-pela-casa",
+      "titulo": "São Miguel pela casa",
+      "categoria": "anjos",
+      "tipo": "oracao",
+      "tags": [
+        "são miguel",
+        "casa",
+        "proteção",
+        "família"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para pedir proteção espiritual sobre a casa.",
+      "texto": "São Miguel Arcanjo, defensor do povo de Deus, guardai esta casa e todos os que nela vivem. Afugentai toda influência do mal, fortalecei nossa fé e ensinai-nos a combater com oração, humildade e confiança.\n\nQue Cristo reine neste lar. Amém.",
+      "explicacao": "Oração organizada para o Devocionário Lectio, com linguagem simples, reverente e fiel à espiritualidade católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "anjos-e-arcanjos",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "miguel pela casa"
+      ]
+    },
+    {
+      "id": "oracao-a-sao-rafael-pela-cura-interior",
+      "titulo": "São Rafael pela cura interior",
+      "categoria": "anjos",
+      "tipo": "oracao",
+      "tags": [
+        "são rafael",
+        "cura interior",
+        "feridas",
+        "paz"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Quando houver feridas emocionais, lembranças dolorosas ou necessidade de cura.",
+      "texto": "São Rafael Arcanjo, medicina de Deus, acompanhai meu caminho de cura. Levai ao Senhor as feridas que escondo e ajudai-me a receber com confiança a graça que restaura.\n\nConduzi-me à paz, à verdade e à liberdade dos filhos de Deus. Amém.",
+      "explicacao": "Oração organizada para o Devocionário Lectio, com linguagem simples, reverente e fiel à espiritualidade católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "anjos-e-arcanjos",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "rafael pela cura interior"
+      ]
+    }
+  ]
+}

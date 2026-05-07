@@ -1,0 +1,15 @@
+{
+  "name": "Lectio — Bíblia Católica de Estudo",
+  "short_name": "Lectio",
+  "description": "Bíblia católica completa com referências, Catecismo, Padres e Lectio Divina assistida por IA.",
+  "start_url": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0e0d0a",
+  "theme_color": "#c9a96a",
+  "lang": "pt-BR",
+  "icons": [
+    { "src": "assets/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "assets/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}

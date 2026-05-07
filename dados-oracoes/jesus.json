@@ -1,0 +1,1608 @@
+{
+  "id": "jesus",
+  "title": "Orações a Jesus",
+  "items": [
+    {
+      "id": "alma-de-cristo",
+      "titulo": "Alma de Cristo",
+      "categoria": "jesus",
+      "tipo": "oracao",
+      "tags": [
+        "jesus",
+        "eucaristia",
+        "comunhão",
+        "santificação"
+      ],
+      "momento": [
+        "missa",
+        "comunhao",
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "tradicional",
+      "fonte_nome": "Oração tradicional Anima Christi",
+      "quando_rezar": "Depois da comunhão, diante do Santíssimo ou em momentos de intimidade com Cristo.",
+      "texto": "Alma de Cristo, santificai-me. Corpo de Cristo, salvai-me. Sangue de Cristo, inebriai-me. Água do lado de Cristo, lavai-me. Paixão de Cristo, confortai-me.\n\nÓ bom Jesus, ouvi-me. Dentro de vossas chagas, escondei-me. Não permitais que eu me separe de vós. Do espírito maligno, defendei-me. Na hora da minha morte, chamai-me e mandai-me ir para vós, para que com os vossos santos vos louve por todos os séculos dos séculos. Amém.",
+      "explicacao": "Oração cristocêntrica que pede união profunda com Jesus, especialmente no mistério da Paixão e da Eucaristia.",
+      "relacionados": [
+        "depois-da-comunhao",
+        "diante-do-santissimo",
+        "comunhao-espiritual"
+      ],
+      "duracao": "media",
+      "curadoria": {
+        "selo": "Tradicional",
+        "familia": "rosario-tercos",
+        "uso": "oração pessoal",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "comunhao-espiritual",
+      "titulo": "Comunhão espiritual",
+      "categoria": "jesus",
+      "tipo": "oracao",
+      "tags": [
+        "eucaristia",
+        "missa",
+        "adoração",
+        "desejo de deus"
+      ],
+      "momento": [
+        "missa",
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "tradicional",
+      "fonte_nome": "Oração tradicional de comunhão espiritual",
+      "quando_rezar": "Quando não for possível receber a comunhão sacramental ou durante a adoração.",
+      "texto": "Meu Jesus, eu creio que estais presente no Santíssimo Sacramento. Amo-vos sobre todas as coisas e desejo receber-vos em minha alma.\n\nComo agora não posso receber-vos sacramentalmente, vinde ao menos espiritualmente ao meu coração.\n\nAbraço-me a vós como se já vos tivesse recebido e uno-me inteiramente a vós. Não permitais que eu jamais me separe de vós. Amém.",
+      "explicacao": "Ato de fé, amor e desejo de união com Cristo quando não se recebe a Eucaristia sacramentalmente.",
+      "relacionados": [
+        "alma-de-cristo",
+        "diante-do-santissimo",
+        "depois-da-comunhao"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Tradicional",
+        "familia": "jesus-e-eucaristia",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "jesus-eu-confio-em-vos",
+      "titulo": "Jesus, eu confio em Vós",
+      "categoria": "jesus",
+      "tipo": "oracao",
+      "tags": [
+        "misericórdia",
+        "confiança",
+        "medo",
+        "entrega"
+      ],
+      "momento": [
+        "tarde",
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "devocional",
+      "fonte_nome": "Devoção à Divina Misericórdia",
+      "quando_rezar": "Em momentos de medo, preocupação, culpa ou necessidade de confiança.",
+      "texto": "Jesus misericordioso, eu coloco em vós minha confiança.\n\nQuando meu coração se inquieta, ensinai-me a descansar em vossa misericórdia. Quando minhas forças diminuem, sustentai-me com vossa graça. Quando eu não compreender o caminho, ajudai-me a caminhar pela fé.\n\nJesus, eu confio em vós. Amém.",
+      "explicacao": "Oração de confiança na misericórdia de Cristo, simples e profunda para situações de fragilidade.",
+      "relacionados": [
+        "terco-misericordia",
+        "oracao-medo",
+        "oracao-discernimento"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Devoção à Divina Misericórdia",
+        "familia": "jesus-e-eucaristia",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "sagrado-coracao",
+      "titulo": "Ao Sagrado Coração de Jesus",
+      "categoria": "jesus",
+      "tipo": "oracao",
+      "tags": [
+        "sagrado coração",
+        "entrega",
+        "família",
+        "reparação"
+      ],
+      "momento": [
+        "qualquer_hora",
+        "sexta-feira"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Ao confiar a vida, a família e as necessidades ao amor de Cristo.",
+      "texto": "Sagrado Coração de Jesus, fonte de amor, misericórdia e mansidão, eu me aproximo de vós com confiança.\n\nRecebei minha vida, minha família, minhas dores e minhas esperanças. Fazei meu coração semelhante ao vosso: humilde, fiel, paciente e cheio de caridade.\n\nGuardai-me no vosso amor e conduzi-me sempre à vontade do Pai. Amém.",
+      "explicacao": "Oração de consagração simples ao amor de Cristo, contemplado no sinal do seu Coração.",
+      "relacionados": [
+        "oracao-da-familia",
+        "oferecimento-do-dia",
+        "jesus-eu-confio-em-vos"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "jesus-e-eucaristia",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "diante-do-santissimo",
+      "titulo": "Diante do Santíssimo Sacramento",
+      "categoria": "jesus",
+      "tipo": "oracao",
+      "tags": [
+        "adoração",
+        "eucaristia",
+        "silêncio",
+        "missa"
+      ],
+      "momento": [
+        "adoracao",
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Em visita ao Santíssimo, adoração eucarística ou antes de uma meditação silenciosa.",
+      "texto": "Senhor Jesus, presente no Santíssimo Sacramento, eu me coloco diante de vós.\n\nNão venho trazer grandes palavras, mas um coração necessitado da vossa presença. Olhai para mim com misericórdia, acolhei meu silêncio e ensinai-me a permanecer convosco.\n\nQue eu saia deste momento mais unido a vós, mais atento à vossa voz e mais disposto a amar. Amém.",
+      "explicacao": "Oração para iniciar uma visita eucarística com recolhimento, simplicidade e presença.",
+      "relacionados": [
+        "comunhao-espiritual",
+        "alma-de-cristo",
+        "depois-da-comunhao"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "jesus-e-eucaristia",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "oferecimento-do-dia",
+      "titulo": "Oferecimento do dia",
+      "categoria": "jesus",
+      "tipo": "oracao",
+      "tags": [
+        "manhã",
+        "trabalho",
+        "sacrifício",
+        "oferta"
+      ],
+      "momento": [
+        "manha"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Pela manhã, antes do trabalho, estudo ou tarefas do dia.",
+      "texto": "Senhor Jesus, ofereço-vos este dia: minhas alegrias, trabalhos, dificuldades, encontros e pequenas renúncias.\n\nUni tudo ao vosso amor e fazei que nada seja desperdiçado. Que minhas ações, mesmo simples, sejam feitas com fé, paciência e caridade.\n\nRecebei este dia como uma pequena oferta de amor. Amém.",
+      "explicacao": "Oração para transformar a rotina em oferta espiritual e viver o dia com intenção cristã.",
+      "relacionados": [
+        "oracao-da-manha",
+        "oracao-trabalho",
+        "sagrado-coracao"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "jesus-e-eucaristia",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "preciosissimo-sangue",
+      "titulo": "Oração ao Preciosíssimo Sangue de Jesus",
+      "categoria": "jesus",
+      "tipo": "oracao",
+      "tags": [
+        "jesus",
+        "preciosíssimo sangue",
+        "proteção"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Em momentos de devoção a Jesus e contemplação do mistério da salvação.",
+      "texto": "Senhor Jesus, pelo vosso Preciosíssimo Sangue derramado por amor, purificai meu coração, protegei minha família e fortalecei-me contra todo mal. Que o sangue da vossa Paixão lave minhas culpas e me conduza à vida nova. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "rosario-tercos",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "consagracao-sagrado-coracao",
+      "titulo": "Consagração ao Sagrado Coração de Jesus",
+      "categoria": "jesus",
+      "tipo": "oracao",
+      "tags": [
+        "sagrado coração",
+        "consagração",
+        "jesus"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Em momentos de devoção a Jesus e contemplação do mistério da salvação.",
+      "texto": "Sagrado Coração de Jesus, eu me consagro inteiramente a vós. Recebei minha vida, minha família, meus trabalhos, minhas alegrias e minhas dores. Reinai em meu coração e ensinai-me a amar com humildade, mansidão e fidelidade. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "rosario-tercos",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "ato-de-reparacao-sagrado-coracao",
+      "titulo": "Ato de reparação ao Sagrado Coração",
+      "categoria": "jesus",
+      "tipo": "oracao",
+      "tags": [
+        "reparação",
+        "sagrado coração",
+        "amor"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Em momentos de devoção a Jesus e contemplação do mistério da salvação.",
+      "texto": "Jesus, manso e humilde de coração, apresento-vos meu pobre amor em reparação pelas indiferenças, ofensas e esquecimentos contra o vosso Coração. Uni minha oração ao vosso sacrifício e fazei-me mais fiel ao vosso amor. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "rosario-tercos",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "jesus-manso-humilde",
+      "titulo": "Jesus manso e humilde de coração",
+      "categoria": "jesus",
+      "tipo": "oracao",
+      "tags": [
+        "mansidão",
+        "humildade",
+        "coração"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Em momentos de devoção a Jesus e contemplação do mistério da salvação.",
+      "texto": "Jesus, manso e humilde de coração, fazei o meu coração semelhante ao vosso. Livrai-me da dureza, do orgulho e da impaciência, e ensinai-me a responder com caridade, verdade e paz. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "rosario-tercos",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "adoracao-silenciosa",
+      "titulo": "Oração para adoração silenciosa",
+      "categoria": "jesus",
+      "tipo": "oracao",
+      "tags": [
+        "adoração",
+        "santíssimo",
+        "silêncio"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Em momentos de devoção a Jesus e contemplação do mistério da salvação.",
+      "texto": "Senhor Jesus, estou diante de vós em silêncio. Não preciso multiplicar palavras: vós conheceis meu coração. Acolhei minha presença pobre, aumentai minha fé e fazei-me permanecer convosco com amor. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "rosario-tercos",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "oracao-a-cristo-rei",
+      "titulo": "Oração a Cristo Rei",
+      "categoria": "jesus",
+      "tipo": "oracao",
+      "tags": [
+        "cristo rei",
+        "reino",
+        "jesus"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Em momentos de devoção a Jesus e contemplação do mistério da salvação.",
+      "texto": "Cristo Rei, Senhor do universo e da história, reinai em meu coração. Ordenai meus pensamentos, desejos e decisões segundo o vosso Evangelho. Que eu vos sirva com coragem, humildade e fidelidade. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "rosario-tercos",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "oracao-ao-menino-jesus",
+      "titulo": "Oração ao Menino Jesus",
+      "categoria": "jesus",
+      "tipo": "oracao",
+      "tags": [
+        "menino jesus",
+        "natal",
+        "simplicidade"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Em momentos de devoção a Jesus e contemplação do mistério da salvação.",
+      "texto": "Menino Jesus, Deus feito pequeno por amor, ensinai-me a simplicidade, a confiança e a pureza de coração. Visitai minha casa com vossa paz e fazei nascer em mim uma fé mais humilde e alegre. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "rosario-tercos",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "via-sacra-breve",
+      "titulo": "Via-Sacra — oferecimento breve",
+      "categoria": "jesus",
+      "tipo": "oracao",
+      "tags": [
+        "via-sacra",
+        "paixão",
+        "cruz"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Em momentos de devoção a Jesus e contemplação do mistério da salvação.",
+      "texto": "Senhor Jesus, quero acompanhar-vos no caminho da cruz. Dai-me a graça de contemplar vossa Paixão com gratidão, arrepender-me de meus pecados e carregar minhas cruzes unido ao vosso amor redentor. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "rosario-tercos",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "pai-eterno-divina-misericordia",
+      "titulo": "Pai Eterno — Divina Misericórdia",
+      "categoria": "jesus",
+      "tipo": "oracao",
+      "tags": [
+        "divina misericórdia",
+        "jesus",
+        "confiança"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "tradicional",
+      "fonte_nome": "Fórmula tradicional do Terço da Misericórdia",
+      "quando_rezar": "No Terço da Misericórdia, às quinze horas ou em súplica pela misericórdia.",
+      "texto": "Pai Eterno, eu vos ofereço o Corpo e Sangue, Alma e Divindade de vosso diletíssimo Filho, nosso Senhor Jesus Cristo, em expiação dos nossos pecados e dos pecados do mundo inteiro.\n\nPela sua dolorosa Paixão, tende misericórdia de nós e do mundo inteiro. Amém.",
+      "explicacao": "Oração breve para rezar com fé, recolhimento e confiança.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Tradicional",
+        "familia": "rosario-tercos",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "hora-da-misericordia",
+      "titulo": "Oração da Hora da Misericórdia",
+      "categoria": "jesus",
+      "tipo": "oracao",
+      "tags": [
+        "misericórdia",
+        "15h",
+        "paixão"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Às quinze horas ou em qualquer momento de confiança na misericórdia de Jesus.",
+      "texto": "Jesus misericordioso, nesta hora em que recordo a vossa Paixão, eu me coloco diante do vosso amor. Pela vossa cruz, tende misericórdia de mim, da minha família e do mundo inteiro. Jesus, eu confio em vós. Amém.",
+      "explicacao": "Oração breve para rezar com fé, recolhimento e confiança.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "jesus-e-eucaristia",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "oracao-ao-santissimo-nome-de-jesus",
+      "titulo": "Ao Santíssimo Nome de Jesus",
+      "categoria": "jesus",
+      "tipo": "oracao",
+      "tags": [
+        "jesus",
+        "santíssimo nome",
+        "proteção",
+        "louvor"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Em momentos de oração pessoal e devoção católica.",
+      "texto": "Santíssimo Nome de Jesus, sede minha luz, minha força e minha defesa. Que o vosso Nome esteja em meus lábios com reverência, em meu coração com amor e em minha vida como caminho de salvação. Amém.",
+      "explicacao": "Oração devocional composta para favorecer recolhimento, confiança e vida espiritual católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "jesus-e-eucaristia",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "oracao-ao-bom-pastor",
+      "titulo": "Ao Bom Pastor",
+      "categoria": "jesus",
+      "tipo": "oracao",
+      "tags": [
+        "jesus",
+        "bom pastor",
+        "confiança"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Em momentos de oração pessoal e devoção católica.",
+      "texto": "Jesus, Bom Pastor, conheceis minhas feridas, minhas fugas e meus caminhos perdidos. Tomai-me sobre os ombros, conduzi-me às águas tranquilas e ensinai-me a reconhecer vossa voz acima de todos os ruídos. Amém.",
+      "explicacao": "Oração devocional composta para favorecer recolhimento, confiança e vida espiritual católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "jesus-e-eucaristia",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "oracao-a-jesus-crucificado",
+      "titulo": "A Jesus Crucificado",
+      "categoria": "jesus",
+      "tipo": "oracao",
+      "tags": [
+        "cruz",
+        "paixão",
+        "jesus",
+        "oferecimento"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Em momentos de oração pessoal e devoção católica.",
+      "texto": "Jesus crucificado, diante da vossa cruz eu reconheço o amor que não voltou atrás. Uni minhas dores à vossa Paixão, purificai meu coração e ensinai-me a amar até o fim, com perdão, coragem e fidelidade. Amém.",
+      "explicacao": "Oração devocional composta para favorecer recolhimento, confiança e vida espiritual católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "jesus-e-eucaristia",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "oracao-ao-ressuscitado",
+      "titulo": "Ao Cristo Ressuscitado",
+      "categoria": "jesus",
+      "tipo": "oracao",
+      "tags": [
+        "ressurreição",
+        "páscoa",
+        "esperança"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Em momentos de oração pessoal e devoção católica.",
+      "texto": "Senhor Jesus Ressuscitado, vencei em mim tudo o que é morte, medo e desânimo. Fazei nascer esperança onde há cansaço, luz onde há confusão e vida nova onde eu já não consigo recomeçar. Amém.",
+      "explicacao": "Oração devocional composta para favorecer recolhimento, confiança e vida espiritual católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "jesus-e-eucaristia",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "oracao-a-jesus-mestre",
+      "titulo": "A Jesus Mestre",
+      "categoria": "jesus",
+      "tipo": "oracao",
+      "tags": [
+        "jesus mestre",
+        "palavra",
+        "discipulado"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Em momentos de oração pessoal e devoção católica.",
+      "texto": "Jesus Mestre, ensinai-me a viver segundo o Evangelho. Abri minha inteligência à verdade, meu coração à caridade e meus passos à obediência. Que eu não apenas conheça vossa Palavra, mas a pratique com fidelidade. Amém.",
+      "explicacao": "Oração devocional composta para favorecer recolhimento, confiança e vida espiritual católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "jesus-e-eucaristia",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "oracao-ao-cordeiro-de-deus",
+      "titulo": "Ao Cordeiro de Deus",
+      "categoria": "jesus",
+      "tipo": "oracao",
+      "tags": [
+        "cordeiro de deus",
+        "missa",
+        "misericórdia"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Em momentos de oração pessoal e devoção católica.",
+      "texto": "Cordeiro de Deus, que tirais o pecado do mundo, tende piedade de mim. Purificai minhas intenções, curai minhas feridas e dai-me a paz que nasce do vosso perdão. Amém.",
+      "explicacao": "Oração devocional composta para favorecer recolhimento, confiança e vida espiritual católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "jesus-e-eucaristia",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "oracao-pela-santificacao-do-trabalho",
+      "titulo": "Santificação do trabalho com Cristo",
+      "categoria": "jesus",
+      "tipo": "oracao",
+      "tags": [
+        "trabalho",
+        "oferecimento",
+        "jesus"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Em momentos de oração pessoal e devoção católica.",
+      "texto": "Senhor Jesus, que trabalhastes com mãos humanas, santificai meu trabalho. Que eu realize minhas tarefas com honestidade, competência e espírito de serviço, oferecendo cada esforço para a glória de Deus e o bem do próximo. Amém.",
+      "explicacao": "Oração devocional composta para favorecer recolhimento, confiança e vida espiritual católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "jesus-e-eucaristia",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "oracao-ao-coração-eucaristico",
+      "titulo": "Ao Coração Eucarístico de Jesus",
+      "categoria": "jesus",
+      "tipo": "oracao",
+      "tags": [
+        "eucaristia",
+        "sagrado coração",
+        "adoração"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Em momentos de oração pessoal e devoção católica.",
+      "texto": "Coração Eucarístico de Jesus, presente no altar por amor, atraí meu coração para vós. Aumentai minha fé na Eucaristia, meu desejo de comunhão e minha gratidão por tão grande mistério. Amém.",
+      "explicacao": "Oração devocional composta para favorecer recolhimento, confiança e vida espiritual católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "jesus-e-eucaristia",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "oracao-a-jesus-medico-das-almas",
+      "titulo": "A Jesus, médico das almas",
+      "categoria": "jesus",
+      "tipo": "oracao",
+      "tags": [
+        "cura",
+        "misericórdia",
+        "jesus"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Em momentos de oração pessoal e devoção católica.",
+      "texto": "Jesus, médico das almas, tocai minhas feridas interiores com vossa misericórdia. Curai o que está endurecido, iluminai o que está confuso e dai-me força para caminhar na verdade, no perdão e na paz. Amém.",
+      "explicacao": "Oração devocional composta para favorecer recolhimento, confiança e vida espiritual católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "jesus-e-eucaristia",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "oracao-ao-senhor-da-providencia",
+      "titulo": "Ao Senhor da Providência",
+      "categoria": "jesus",
+      "tipo": "oracao",
+      "tags": [
+        "providência",
+        "confiança",
+        "necessidade"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Em momentos de oração pessoal e devoção católica.",
+      "texto": "Senhor da Providência, nada vos é impossível. Entrego-vos minhas necessidades, meus medos e meus prazos. Ensinai-me a fazer minha parte com responsabilidade e a esperar vossa ação com confiança. Amém.",
+      "explicacao": "Oração devocional composta para favorecer recolhimento, confiança e vida espiritual católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "jesus-e-eucaristia",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "oracao-das-santas-chagas",
+      "titulo": "Às Santas Chagas de Jesus",
+      "categoria": "jesus",
+      "tipo": "oracao",
+      "tags": [
+        "santas chagas",
+        "paixão",
+        "cura"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Em momentos de oração pessoal e devoção católica.",
+      "texto": "Santas Chagas de Jesus, refúgio dos pecadores e fonte de misericórdia, acolhei minhas dores e minhas culpas. Pelas chagas do Senhor, curai meu coração, fortalecei minha fé e conduzi-me à salvação. Amém.",
+      "explicacao": "Oração devocional composta para favorecer recolhimento, confiança e vida espiritual católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "jesus-e-eucaristia",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "oracao-ao-espirito-de-cristo",
+      "titulo": "Ao Espírito de Cristo",
+      "categoria": "jesus",
+      "tipo": "oracao",
+      "tags": [
+        "espírito de cristo",
+        "conversão",
+        "vida nova"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Em momentos de oração pessoal e devoção católica.",
+      "texto": "Espírito de Cristo, vivei em mim. Pensai em meus pensamentos, amai em meu coração, falai em minhas palavras e agi em minhas obras, para que minha vida se torne sinal humilde do Evangelho. Amém.",
+      "explicacao": "Oração devocional composta para favorecer recolhimento, confiança e vida espiritual católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "jesus-e-eucaristia",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "oracao-ao-cristo-bom-samaritano",
+      "titulo": "Ao Cristo Bom Samaritano",
+      "categoria": "jesus",
+      "tipo": "oracao",
+      "tags": [
+        "jesus",
+        "cristo",
+        "misericórdia",
+        "cura",
+        "compaixão"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para rezar a Cristo em momentos ligados a a compaixão pelos feridos e a cura interior.",
+      "texto": "Senhor Jesus Cristo, eu me aproximo de vós com confiança. Iluminai meu coração, fortalecei minha fé e conduzi-me pelo caminho do Evangelho.\n\nEntrego-vos esta intenção e peço a graça de viver a compaixão pelos feridos e a cura interior com amor, coragem e fidelidade. Que eu permaneça unido a vós na oração, na Eucaristia e no serviço aos irmãos. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "alma-de-cristo",
+        "jesus-eu-confio-em-vos"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "jesus-e-eucaristia",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "oracao-ao-jesus-das-lagrimas",
+      "titulo": "Ao Jesus das Lágrimas",
+      "categoria": "jesus",
+      "tipo": "oracao",
+      "tags": [
+        "jesus",
+        "cristo",
+        "lágrimas",
+        "consolo",
+        "dor"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para rezar a Cristo em momentos ligados a a entrega das lágrimas e dores do coração.",
+      "texto": "Senhor Jesus Cristo, eu me aproximo de vós com confiança. Iluminai meu coração, fortalecei minha fé e conduzi-me pelo caminho do Evangelho.\n\nEntrego-vos esta intenção e peço a graça de viver a entrega das lágrimas e dores do coração com amor, coragem e fidelidade. Que eu permaneça unido a vós na oração, na Eucaristia e no serviço aos irmãos. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "alma-de-cristo",
+        "jesus-eu-confio-em-vos"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "jesus-e-eucaristia",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "oracao-ao-senhor-dos-passos",
+      "titulo": "Ao Senhor dos Passos",
+      "categoria": "jesus",
+      "tipo": "oracao",
+      "tags": [
+        "jesus",
+        "cristo",
+        "paixão",
+        "sofrimento",
+        "caminho"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para rezar a Cristo em momentos ligados a a perseverança nos caminhos difíceis.",
+      "texto": "Senhor Jesus Cristo, eu me aproximo de vós com confiança. Iluminai meu coração, fortalecei minha fé e conduzi-me pelo caminho do Evangelho.\n\nEntrego-vos esta intenção e peço a graça de viver a perseverança nos caminhos difíceis com amor, coragem e fidelidade. Que eu permaneça unido a vós na oração, na Eucaristia e no serviço aos irmãos. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "alma-de-cristo",
+        "jesus-eu-confio-em-vos"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "jesus-e-eucaristia",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "oracao-ao-cristo-da-divina-providencia",
+      "titulo": "Ao Cristo da Divina Providência",
+      "categoria": "jesus",
+      "tipo": "oracao",
+      "tags": [
+        "jesus",
+        "cristo",
+        "providência",
+        "confiança",
+        "necessidade"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para rezar a Cristo em momentos ligados a a confiança na providência divina.",
+      "texto": "Senhor Jesus Cristo, eu me aproximo de vós com confiança. Iluminai meu coração, fortalecei minha fé e conduzi-me pelo caminho do Evangelho.\n\nEntrego-vos esta intenção e peço a graça de viver a confiança na providência divina com amor, coragem e fidelidade. Que eu permaneça unido a vós na oração, na Eucaristia e no serviço aos irmãos. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "alma-de-cristo",
+        "jesus-eu-confio-em-vos"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "jesus-e-eucaristia",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "oracao-ao-jesus-misericordioso-pelos-pecadores",
+      "titulo": "Ao Jesus Misericordioso pelos pecadores",
+      "categoria": "jesus",
+      "tipo": "oracao",
+      "tags": [
+        "jesus",
+        "cristo",
+        "misericórdia",
+        "pecadores",
+        "conversão"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para rezar a Cristo em momentos ligados a a conversão dos pecadores e a misericórdia.",
+      "texto": "Senhor Jesus Cristo, eu me aproximo de vós com confiança. Iluminai meu coração, fortalecei minha fé e conduzi-me pelo caminho do Evangelho.\n\nEntrego-vos esta intenção e peço a graça de viver a conversão dos pecadores e a misericórdia com amor, coragem e fidelidade. Que eu permaneça unido a vós na oração, na Eucaristia e no serviço aos irmãos. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "alma-de-cristo",
+        "jesus-eu-confio-em-vos"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "jesus-e-eucaristia",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "oracao-ao-coracao-de-jesus-pela-familia",
+      "titulo": "Ao Coração de Jesus pela família",
+      "categoria": "jesus",
+      "tipo": "oracao",
+      "tags": [
+        "jesus",
+        "cristo",
+        "sagrado coração",
+        "família",
+        "lar"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para rezar a Cristo em momentos ligados a a consagração da família ao amor de Cristo.",
+      "texto": "Senhor Jesus Cristo, eu me aproximo de vós com confiança. Iluminai meu coração, fortalecei minha fé e conduzi-me pelo caminho do Evangelho.\n\nEntrego-vos esta intenção e peço a graça de viver a consagração da família ao amor de Cristo com amor, coragem e fidelidade. Que eu permaneça unido a vós na oração, na Eucaristia e no serviço aos irmãos. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "alma-de-cristo",
+        "jesus-eu-confio-em-vos"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "jesus-e-eucaristia",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "oracao-a-jesus-no-getsemani",
+      "titulo": "A Jesus no Getsêmani",
+      "categoria": "jesus",
+      "tipo": "oracao",
+      "tags": [
+        "jesus",
+        "cristo",
+        "agonia",
+        "entrega",
+        "vontade de Deus"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para rezar a Cristo em momentos ligados a a entrega da própria vontade ao Pai.",
+      "texto": "Senhor Jesus Cristo, eu me aproximo de vós com confiança. Iluminai meu coração, fortalecei minha fé e conduzi-me pelo caminho do Evangelho.\n\nEntrego-vos esta intenção e peço a graça de viver a entrega da própria vontade ao Pai com amor, coragem e fidelidade. Que eu permaneça unido a vós na oração, na Eucaristia e no serviço aos irmãos. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "alma-de-cristo",
+        "jesus-eu-confio-em-vos"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "jesus-e-eucaristia",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "oracao-a-jesus-flagelado",
+      "titulo": "A Jesus Flagelado",
+      "categoria": "jesus",
+      "tipo": "oracao",
+      "tags": [
+        "jesus",
+        "cristo",
+        "paixão",
+        "reparação",
+        "sofrimento"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para rezar a Cristo em momentos ligados a a reparação e a união à Paixão.",
+      "texto": "Senhor Jesus Cristo, eu me aproximo de vós com confiança. Iluminai meu coração, fortalecei minha fé e conduzi-me pelo caminho do Evangelho.\n\nEntrego-vos esta intenção e peço a graça de viver a reparação e a união à Paixão com amor, coragem e fidelidade. Que eu permaneça unido a vós na oração, na Eucaristia e no serviço aos irmãos. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "alma-de-cristo",
+        "jesus-eu-confio-em-vos"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "jesus-e-eucaristia",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "oracao-a-jesus-coroado-de-espinhos",
+      "titulo": "A Jesus Coroado de Espinhos",
+      "categoria": "jesus",
+      "tipo": "oracao",
+      "tags": [
+        "jesus",
+        "cristo",
+        "humilhação",
+        "pensamentos",
+        "paixão"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para rezar a Cristo em momentos ligados a a purificação dos pensamentos e do orgulho.",
+      "texto": "Senhor Jesus Cristo, eu me aproximo de vós com confiança. Iluminai meu coração, fortalecei minha fé e conduzi-me pelo caminho do Evangelho.\n\nEntrego-vos esta intenção e peço a graça de viver a purificação dos pensamentos e do orgulho com amor, coragem e fidelidade. Que eu permaneça unido a vós na oração, na Eucaristia e no serviço aos irmãos. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "alma-de-cristo",
+        "jesus-eu-confio-em-vos"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "jesus-e-eucaristia",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "oracao-a-jesus-carregando-a-cruz",
+      "titulo": "A Jesus carregando a Cruz",
+      "categoria": "jesus",
+      "tipo": "oracao",
+      "tags": [
+        "jesus",
+        "cristo",
+        "cruz",
+        "paciência",
+        "força"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para rezar a Cristo em momentos ligados a a paciência para carregar a cruz diária.",
+      "texto": "Senhor Jesus Cristo, eu me aproximo de vós com confiança. Iluminai meu coração, fortalecei minha fé e conduzi-me pelo caminho do Evangelho.\n\nEntrego-vos esta intenção e peço a graça de viver a paciência para carregar a cruz diária com amor, coragem e fidelidade. Que eu permaneça unido a vós na oração, na Eucaristia e no serviço aos irmãos. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "alma-de-cristo",
+        "jesus-eu-confio-em-vos"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "jesus-e-eucaristia",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "oracao-a-jesus-morto-na-cruz",
+      "titulo": "A Jesus morto na Cruz",
+      "categoria": "jesus",
+      "tipo": "oracao",
+      "tags": [
+        "jesus",
+        "cristo",
+        "cruz",
+        "salvação",
+        "entrega"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para rezar a Cristo em momentos ligados a a contemplação do amor até o fim.",
+      "texto": "Senhor Jesus Cristo, eu me aproximo de vós com confiança. Iluminai meu coração, fortalecei minha fé e conduzi-me pelo caminho do Evangelho.\n\nEntrego-vos esta intenção e peço a graça de viver a contemplação do amor até o fim com amor, coragem e fidelidade. Que eu permaneça unido a vós na oração, na Eucaristia e no serviço aos irmãos. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "alma-de-cristo",
+        "jesus-eu-confio-em-vos"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "jesus-e-eucaristia",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "oracao-a-jesus-no-sepulcro",
+      "titulo": "A Jesus no Sepulcro",
+      "categoria": "jesus",
+      "tipo": "oracao",
+      "tags": [
+        "jesus",
+        "cristo",
+        "silêncio",
+        "esperança",
+        "sábado santo"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para rezar a Cristo em momentos ligados a a esperança nos tempos de silêncio.",
+      "texto": "Senhor Jesus Cristo, eu me aproximo de vós com confiança. Iluminai meu coração, fortalecei minha fé e conduzi-me pelo caminho do Evangelho.\n\nEntrego-vos esta intenção e peço a graça de viver a esperança nos tempos de silêncio com amor, coragem e fidelidade. Que eu permaneça unido a vós na oração, na Eucaristia e no serviço aos irmãos. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "alma-de-cristo",
+        "jesus-eu-confio-em-vos"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "jesus-e-eucaristia",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "oracao-a-jesus-fonte-de-agua-viva",
+      "titulo": "A Jesus fonte de água viva",
+      "categoria": "jesus",
+      "tipo": "oracao",
+      "tags": [
+        "jesus",
+        "cristo",
+        "graça",
+        "vida",
+        "sede espiritual"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para rezar a Cristo em momentos ligados a a sede de Deus e a graça da vida nova.",
+      "texto": "Senhor Jesus Cristo, eu me aproximo de vós com confiança. Iluminai meu coração, fortalecei minha fé e conduzi-me pelo caminho do Evangelho.\n\nEntrego-vos esta intenção e peço a graça de viver a sede de Deus e a graça da vida nova com amor, coragem e fidelidade. Que eu permaneça unido a vós na oração, na Eucaristia e no serviço aos irmãos. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "alma-de-cristo",
+        "jesus-eu-confio-em-vos"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "jesus-e-eucaristia",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "oracao-a-jesus-pao-da-vida",
+      "titulo": "A Jesus pão da vida",
+      "categoria": "jesus",
+      "tipo": "oracao",
+      "tags": [
+        "jesus",
+        "cristo",
+        "eucaristia",
+        "comunhão",
+        "vida"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para rezar a Cristo em momentos ligados a a fome espiritual pela Eucaristia.",
+      "texto": "Senhor Jesus Cristo, eu me aproximo de vós com confiança. Iluminai meu coração, fortalecei minha fé e conduzi-me pelo caminho do Evangelho.\n\nEntrego-vos esta intenção e peço a graça de viver a fome espiritual pela Eucaristia com amor, coragem e fidelidade. Que eu permaneça unido a vós na oração, na Eucaristia e no serviço aos irmãos. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "alma-de-cristo",
+        "jesus-eu-confio-em-vos"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "jesus-e-eucaristia",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "oracao-a-jesus-luz-do-mundo",
+      "titulo": "A Jesus luz do mundo",
+      "categoria": "jesus",
+      "tipo": "oracao",
+      "tags": [
+        "jesus",
+        "cristo",
+        "luz",
+        "verdade",
+        "caminho"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para rezar a Cristo em momentos ligados a a busca da verdade e da luz de Cristo.",
+      "texto": "Senhor Jesus Cristo, eu me aproximo de vós com confiança. Iluminai meu coração, fortalecei minha fé e conduzi-me pelo caminho do Evangelho.\n\nEntrego-vos esta intenção e peço a graça de viver a busca da verdade e da luz de Cristo com amor, coragem e fidelidade. Que eu permaneça unido a vós na oração, na Eucaristia e no serviço aos irmãos. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "alma-de-cristo",
+        "jesus-eu-confio-em-vos"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "jesus-e-eucaristia",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "oracao-a-jesus-caminho-verdade-e-vida",
+      "titulo": "A Jesus caminho, verdade e vida",
+      "categoria": "jesus",
+      "tipo": "oracao",
+      "tags": [
+        "jesus",
+        "cristo",
+        "evangelho",
+        "caminho",
+        "verdade"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para rezar a Cristo em momentos ligados a a fidelidade ao Evangelho.",
+      "texto": "Senhor Jesus Cristo, eu me aproximo de vós com confiança. Iluminai meu coração, fortalecei minha fé e conduzi-me pelo caminho do Evangelho.\n\nEntrego-vos esta intenção e peço a graça de viver a fidelidade ao Evangelho com amor, coragem e fidelidade. Que eu permaneça unido a vós na oração, na Eucaristia e no serviço aos irmãos. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "alma-de-cristo",
+        "jesus-eu-confio-em-vos"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "jesus-e-eucaristia",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "oracao-a-jesus-amigo-dos-pobres",
+      "titulo": "A Jesus amigo dos pobres",
+      "categoria": "jesus",
+      "tipo": "oracao",
+      "tags": [
+        "jesus",
+        "cristo",
+        "pobres",
+        "caridade",
+        "serviço"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para rezar a Cristo em momentos ligados a a caridade concreta e o serviço aos pobres.",
+      "texto": "Senhor Jesus Cristo, eu me aproximo de vós com confiança. Iluminai meu coração, fortalecei minha fé e conduzi-me pelo caminho do Evangelho.\n\nEntrego-vos esta intenção e peço a graça de viver a caridade concreta e o serviço aos pobres com amor, coragem e fidelidade. Que eu permaneça unido a vós na oração, na Eucaristia e no serviço aos irmãos. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "alma-de-cristo",
+        "jesus-eu-confio-em-vos"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "jesus-e-eucaristia",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "oracao-a-jesus-mestre-da-oracao",
+      "titulo": "A Jesus mestre da oração",
+      "categoria": "jesus",
+      "tipo": "oracao",
+      "tags": [
+        "jesus",
+        "cristo",
+        "oração",
+        "discípulo",
+        "escuta"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para rezar a Cristo em momentos ligados a a aprendizagem da oração perseverante.",
+      "texto": "Senhor Jesus Cristo, eu me aproximo de vós com confiança. Iluminai meu coração, fortalecei minha fé e conduzi-me pelo caminho do Evangelho.\n\nEntrego-vos esta intenção e peço a graça de viver a aprendizagem da oração perseverante com amor, coragem e fidelidade. Que eu permaneça unido a vós na oração, na Eucaristia e no serviço aos irmãos. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "alma-de-cristo",
+        "jesus-eu-confio-em-vos"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "jesus-e-eucaristia",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "oracao-a-jesus-pela-cura-das-memorias",
+      "titulo": "A Jesus pela cura das memórias",
+      "categoria": "jesus",
+      "tipo": "oracao",
+      "tags": [
+        "jesus",
+        "cristo",
+        "cura interior",
+        "memória",
+        "perdão"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para rezar a Cristo em momentos ligados a a cura das lembranças feridas.",
+      "texto": "Senhor Jesus Cristo, eu me aproximo de vós com confiança. Iluminai meu coração, fortalecei minha fé e conduzi-me pelo caminho do Evangelho.\n\nEntrego-vos esta intenção e peço a graça de viver a cura das lembranças feridas com amor, coragem e fidelidade. Que eu permaneça unido a vós na oração, na Eucaristia e no serviço aos irmãos. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "alma-de-cristo",
+        "jesus-eu-confio-em-vos"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "jesus-e-eucaristia",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "oracao-a-jesus-pela-libertacao-do-rancor",
+      "titulo": "A Jesus pela libertação do rancor",
+      "categoria": "jesus",
+      "tipo": "oracao",
+      "tags": [
+        "jesus",
+        "cristo",
+        "perdão",
+        "rancor",
+        "libertação"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para rezar a Cristo em momentos ligados a a libertação do ressentimento.",
+      "texto": "Senhor Jesus Cristo, eu me aproximo de vós com confiança. Iluminai meu coração, fortalecei minha fé e conduzi-me pelo caminho do Evangelho.\n\nEntrego-vos esta intenção e peço a graça de viver a libertação do ressentimento com amor, coragem e fidelidade. Que eu permaneça unido a vós na oração, na Eucaristia e no serviço aos irmãos. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "alma-de-cristo",
+        "jesus-eu-confio-em-vos"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "jesus-e-eucaristia",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "oracao-ao-preciosissimo-sangue",
+      "titulo": "Ao Preciosíssimo Sangue de Jesus",
+      "categoria": "jesus",
+      "tipo": "oracao",
+      "tags": [
+        "preciosíssimo sangue",
+        "redenção",
+        "proteção",
+        "misericórdia"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para pedir proteção, purificação e confiança na redenção de Cristo.",
+      "texto": "Senhor Jesus, pelo vosso Preciosíssimo Sangue, derramado por amor na cruz, lavai minhas feridas, purificai minhas intenções e fortalecei minha alma contra todo mal.\n\nQue o preço da vossa redenção não seja esquecido em minha vida. Guardai-me no vosso amor e conduzi-me à santidade. Amém.",
+      "explicacao": "Oração organizada para o Devocionário Lectio, com linguagem simples, reverente e fiel à espiritualidade católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "jesus-e-eucaristia",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "oracao-ao-cristo-rei",
+      "titulo": "A Cristo Rei",
+      "categoria": "jesus",
+      "tipo": "oracao",
+      "tags": [
+        "cristo rei",
+        "reino de deus",
+        "entrega",
+        "missão"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Na solenidade de Cristo Rei ou quando quiser renovar a entrega da vida a Jesus.",
+      "texto": "Jesus Cristo, Rei do universo e Senhor da minha vida, reinai em meu coração. Ordenai meus pensamentos, desejos, escolhas e afetos segundo o vosso Evangelho.\n\nQue eu não sirva aos ídolos do orgulho, do medo ou da vaidade, mas viva sob a liberdade do vosso Reino. Amém.",
+      "explicacao": "Oração organizada para o Devocionário Lectio, com linguagem simples, reverente e fiel à espiritualidade católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "jesus-e-eucaristia",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "oracao-a-jesus-bom-pastor",
+      "titulo": "A Jesus Bom Pastor",
+      "categoria": "jesus",
+      "tipo": "oracao",
+      "tags": [
+        "bom pastor",
+        "proteção",
+        "direção",
+        "ovelha perdida"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Quando precisar de direção, cuidado e retorno ao caminho de Deus.",
+      "texto": "Jesus, Bom Pastor, conheceis minha voz e minhas feridas. Procurai-me quando eu me afastar, conduzi-me quando eu me perder e carregai-me quando eu não tiver forças.\n\nFazei-me reconhecer vossa voz no meio de tantas vozes e seguir-vos com confiança. Amém.",
+      "explicacao": "Oração organizada para o Devocionário Lectio, com linguagem simples, reverente e fiel à espiritualidade católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "jesus-e-eucaristia",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "oracao-a-jesus-ressuscitado",
+      "titulo": "A Jesus Ressuscitado",
+      "categoria": "jesus",
+      "tipo": "oracao",
+      "tags": [
+        "ressurreição",
+        "esperança",
+        "páscoa",
+        "vida nova"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "No Tempo Pascal ou quando precisar recuperar esperança.",
+      "texto": "Jesus ressuscitado, vencedor da morte, entrai nas partes fechadas do meu coração e dizei também a mim: a paz esteja contigo.\n\nRenovai minha esperança, levantai-me das quedas e fazei-me viver como testemunha da vida nova. Amém.",
+      "explicacao": "Oração organizada para o Devocionário Lectio, com linguagem simples, reverente e fiel à espiritualidade católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "jesus-e-eucaristia",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "oracao-a-jesus-misericordioso-pelos-pecadores",
+      "titulo": "A Jesus Misericordioso pelos pecadores",
+      "categoria": "jesus",
+      "tipo": "oracao",
+      "tags": [
+        "misericórdia",
+        "pecadores",
+        "conversão",
+        "perdão"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para interceder por quem está afastado de Deus.",
+      "texto": "Jesus misericordioso, olhai com compaixão para todos os pecadores, especialmente para aqueles que perderam a esperança de voltar. Tocai os corações endurecidos, curai as feridas escondidas e conduzi todos à alegria do perdão.\n\nJesus, eu confio em vós. Amém.",
+      "explicacao": "Oração organizada para o Devocionário Lectio, com linguagem simples, reverente e fiel à espiritualidade católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "jesus-e-eucaristia",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "oracao-eucaristica-de-desejo",
+      "titulo": "Desejo de receber Jesus na Eucaristia",
+      "categoria": "jesus",
+      "tipo": "oracao",
+      "tags": [
+        "eucaristia",
+        "comunhão espiritual",
+        "desejo",
+        "missa"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Quando não puder comungar sacramentalmente ou antes da Missa.",
+      "texto": "Jesus, pão vivo descido do céu, aumentai em mim a fome da Eucaristia. Que eu nunca me acostume com esse mistério, nem vos receba com frieza ou distração.\n\nPreparai meu coração para vos acolher com fé, reverência e amor. Amém.",
+      "explicacao": "Oração organizada para o Devocionário Lectio, com linguagem simples, reverente e fiel à espiritualidade católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "jesus-e-eucaristia",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    }
+  ]
+}

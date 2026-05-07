@@ -1,0 +1,1539 @@
+{
+  "id": "essenciais",
+  "title": "Orações essenciais",
+  "items": [
+    {
+      "id": "pai-nosso",
+      "titulo": "Pai-Nosso",
+      "categoria": "essenciais",
+      "tipo": "oracao",
+      "tags": [
+        "básica",
+        "evangelho",
+        "confiança",
+        "todos os dias"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "tradicional",
+      "fonte_nome": "Oração tradicional da Igreja",
+      "quando_rezar": "Em qualquer momento do dia, especialmente ao iniciar ou concluir uma oração.",
+      "texto": "Pai nosso que estais nos céus, santificado seja o vosso nome; venha a nós o vosso Reino; seja feita a vossa vontade, assim na terra como no céu.\n\nO pão nosso de cada dia nos dai hoje; perdoai-nos as nossas ofensas, assim como nós perdoamos a quem nos tem ofendido; e não nos deixeis cair em tentação, mas livrai-nos do mal. Amém.",
+      "explicacao": "A oração ensinada por Jesus, centro da oração cristã e confiança filial diante do Pai.",
+      "relacionados": [
+        "ave-maria",
+        "gloria-ao-pai",
+        "credo-apostolico"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Tradicional",
+        "familia": "jesus-e-eucaristia",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "fórmula da igreja",
+        "oração básica"
+      ]
+    },
+    {
+      "id": "ave-maria",
+      "titulo": "Ave-Maria",
+      "categoria": "essenciais",
+      "tipo": "oracao",
+      "tags": [
+        "maria",
+        "rosário",
+        "proteção",
+        "mãe"
+      ],
+      "momento": [
+        "qualquer_hora",
+        "noite"
+      ],
+      "fonte_tipo": "tradicional",
+      "fonte_nome": "Oração tradicional mariana",
+      "quando_rezar": "No Rosário, nas devoções marianas ou em momentos de entrega a Nossa Senhora.",
+      "texto": "Ave Maria, cheia de graça, o Senhor é convosco; bendita sois vós entre as mulheres, e bendito é o fruto do vosso ventre, Jesus.\n\nSanta Maria, Mãe de Deus, rogai por nós, pecadores, agora e na hora de nossa morte. Amém.",
+      "explicacao": "Oração mariana que une saudação bíblica, louvor a Cristo e pedido de intercessão materna.",
+      "relacionados": [
+        "salve-rainha",
+        "angelus",
+        "santo-rosario"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Tradicional",
+        "familia": "rosario-tercos",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "fórmula da igreja",
+        "oração básica"
+      ]
+    },
+    {
+      "id": "gloria-ao-pai",
+      "titulo": "Glória ao Pai",
+      "categoria": "essenciais",
+      "tipo": "oracao",
+      "tags": [
+        "louvor",
+        "trindade",
+        "rosário",
+        "breve"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "tradicional",
+      "fonte_nome": "Doxologia tradicional",
+      "quando_rezar": "Ao concluir uma dezena, salmo, meditação ou oração breve.",
+      "texto": "Glória ao Pai, ao Filho e ao Espírito Santo.\n\nComo era no princípio, agora e sempre. Amém.",
+      "explicacao": "Breve louvor à Santíssima Trindade, usado na oração pessoal e em diversas devoções.",
+      "relacionados": [
+        "pai-nosso",
+        "ave-maria",
+        "santo-rosario"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Tradicional",
+        "familia": "rosario-tercos",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "fórmula da igreja",
+        "oração básica"
+      ]
+    },
+    {
+      "id": "credo-apostolico",
+      "titulo": "Credo dos Apóstolos",
+      "categoria": "essenciais",
+      "tipo": "oracao",
+      "tags": [
+        "fé",
+        "profissão de fé",
+        "doutrina",
+        "batismo"
+      ],
+      "momento": [
+        "manha",
+        "missa",
+        "rosario"
+      ],
+      "fonte_tipo": "tradicional",
+      "fonte_nome": "Símbolo dos Apóstolos",
+      "quando_rezar": "Ao professar a fé, no início do Rosário ou em momentos de renovação espiritual.",
+      "texto": "Creio em Deus Pai todo-poderoso, criador do céu e da terra; e em Jesus Cristo, seu único Filho, nosso Senhor; que foi concebido pelo poder do Espírito Santo; nasceu da Virgem Maria; padeceu sob Pôncio Pilatos, foi crucificado, morto e sepultado; desceu à mansão dos mortos; ressuscitou ao terceiro dia; subiu aos céus; está sentado à direita de Deus Pai todo-poderoso, donde há de vir a julgar os vivos e os mortos.\n\nCreio no Espírito Santo; na Santa Igreja Católica; na comunhão dos santos; na remissão dos pecados; na ressurreição da carne; na vida eterna. Amém.",
+      "explicacao": "Profissão sintética da fé cristã, rezada como memória viva do que a Igreja crê.",
+      "relacionados": [
+        "pai-nosso",
+        "santo-rosario",
+        "vinde-espirito-santo"
+      ],
+      "duracao": "media",
+      "curadoria": {
+        "selo": "Tradicional",
+        "familia": "rosario-tercos",
+        "uso": "oração pessoal",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "fórmula da igreja",
+        "oração básica"
+      ]
+    },
+    {
+      "id": "salve-rainha",
+      "titulo": "Salve Rainha",
+      "categoria": "essenciais",
+      "tipo": "oracao",
+      "tags": [
+        "maria",
+        "esperança",
+        "misericórdia",
+        "noite"
+      ],
+      "momento": [
+        "noite",
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "tradicional",
+      "fonte_nome": "Antífona mariana tradicional",
+      "quando_rezar": "Ao concluir o Rosário, à noite ou em momentos de confiança maternal.",
+      "texto": "Salve, Rainha, Mãe de misericórdia, vida, doçura e esperança nossa, salve!\n\nA vós bradamos, os degredados filhos de Eva; a vós suspiramos, gemendo e chorando neste vale de lágrimas.\n\nEia, pois, advogada nossa, esses vossos olhos misericordiosos a nós volvei; e depois deste desterro, mostrai-nos Jesus, bendito fruto do vosso ventre.\n\nÓ clemente, ó piedosa, ó doce sempre Virgem Maria. Rogai por nós, santa Mãe de Deus, para que sejamos dignos das promessas de Cristo. Amém.",
+      "explicacao": "Oração de confiança na intercessão materna de Maria, especialmente diante das dores da vida.",
+      "relacionados": [
+        "ave-maria",
+        "lembrai-vos",
+        "santo-rosario"
+      ],
+      "duracao": "media",
+      "curadoria": {
+        "selo": "Tradicional",
+        "familia": "rosario-tercos",
+        "uso": "oração pessoal",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "fórmula da igreja",
+        "oração básica"
+      ]
+    },
+    {
+      "id": "santo-anjo",
+      "titulo": "Santo Anjo do Senhor",
+      "categoria": "essenciais",
+      "tipo": "oracao",
+      "tags": [
+        "proteção",
+        "anjo da guarda",
+        "crianças",
+        "noite"
+      ],
+      "momento": [
+        "manha",
+        "noite"
+      ],
+      "fonte_tipo": "tradicional",
+      "fonte_nome": "Oração tradicional ao Anjo da Guarda",
+      "quando_rezar": "Ao acordar, antes de dormir ou ao pedir proteção cotidiana.",
+      "texto": "Santo Anjo do Senhor, meu zeloso guardador, se a ti me confiou a piedade divina, sempre me rege, guarda, governa e ilumina. Amém.",
+      "explicacao": "Oração simples de confiança na proteção e condução do Anjo da Guarda.",
+      "relacionados": [
+        "sao-miguel-arcanjo",
+        "oracao-da-noite",
+        "oracao-protecao"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Tradicional",
+        "familia": "anjos-e-arcanjos",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "anjo do senhor",
+        "fórmula da igreja",
+        "oração básica"
+      ]
+    },
+    {
+      "id": "ato-contricao",
+      "titulo": "Ato de Contrição",
+      "categoria": "essenciais",
+      "tipo": "oracao",
+      "tags": [
+        "confissão",
+        "perdão",
+        "arrependimento",
+        "exame"
+      ],
+      "momento": [
+        "noite",
+        "confissao"
+      ],
+      "fonte_tipo": "tradicional",
+      "fonte_nome": "Oração penitencial tradicional",
+      "quando_rezar": "No exame de consciência, antes da confissão ou ao pedir perdão a Deus.",
+      "texto": "Meu Deus, eu me arrependo de todo o coração de vos ter ofendido, porque sois tão bom e amável.\n\nPrometo, com a vossa graça, esforçar-me para não mais pecar, fugir das ocasiões de pecado e buscar sinceramente a conversão. Amém.",
+      "explicacao": "Oração de arrependimento sincero, pedindo a graça de voltar para Deus com humildade.",
+      "relacionados": [
+        "exame-de-consciencia",
+        "antes-da-confissao",
+        "oracao-perdao"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Tradicional",
+        "familia": "liturgia-sacramentos",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "fórmula da igreja",
+        "oração básica"
+      ]
+    },
+    {
+      "id": "vinde-espirito-santo",
+      "titulo": "Vinde, Espírito Santo",
+      "categoria": "essenciais",
+      "tipo": "oracao",
+      "tags": [
+        "espírito santo",
+        "sabedoria",
+        "discernimento",
+        "estudo"
+      ],
+      "momento": [
+        "manha",
+        "estudo",
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "tradicional",
+      "fonte_nome": "Invocação tradicional ao Espírito Santo",
+      "quando_rezar": "Antes de estudar a Bíblia, tomar decisões ou iniciar uma oração.",
+      "texto": "Vinde, Espírito Santo, enchei os corações dos vossos fiéis e acendei neles o fogo do vosso amor.\n\nEnviai o vosso Espírito e tudo será criado; e renovareis a face da terra.\n\nÓ Deus, que instruístes os corações dos vossos fiéis com a luz do Espírito Santo, fazei que apreciemos retamente todas as coisas segundo o mesmo Espírito e gozemos sempre da sua consolação. Por Cristo, Senhor nosso. Amém.",
+      "explicacao": "Invocação para pedir luz, sabedoria e docilidade à ação do Espírito Santo.",
+      "relacionados": [
+        "oracao-discernimento",
+        "vinde-espirito-santo",
+        "credo-apostolico"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Tradicional",
+        "familia": "santos",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "fórmula da igreja",
+        "oração básica"
+      ]
+    },
+    {
+      "id": "oracao-da-manha",
+      "titulo": "Oração da manhã",
+      "categoria": "essenciais",
+      "tipo": "oracao",
+      "tags": [
+        "manhã",
+        "começar o dia",
+        "oferecimento",
+        "gratidão"
+      ],
+      "momento": [
+        "manha"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Ao acordar, antes de começar as atividades do dia.",
+      "texto": "Senhor Deus, eu vos agradeço por este novo dia.\n\nEntrego-vos meus pensamentos, minhas palavras, minhas escolhas e todo o trabalho que terei pela frente.\n\nGuardai meu coração da pressa, da vaidade e da distração. Dai-me luz para fazer o bem, paciência para carregar o que for difícil e humildade para reconhecer vossa presença nas pequenas coisas.\n\nQue este dia comece em vós e termine em vossa paz. Amém.",
+      "explicacao": "Oração breve para consagrar o dia a Deus com serenidade e propósito.",
+      "relacionados": [
+        "oferecimento-do-dia",
+        "vinde-espirito-santo",
+        "oracao-gratidao"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "formulas-da-igreja",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "fórmula da igreja",
+        "oração básica"
+      ]
+    },
+    {
+      "id": "oracao-da-noite",
+      "titulo": "Oração da noite",
+      "categoria": "essenciais",
+      "tipo": "oracao",
+      "tags": [
+        "noite",
+        "descanso",
+        "paz",
+        "exame"
+      ],
+      "momento": [
+        "noite"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Antes de dormir, para entregar o dia vivido a Deus.",
+      "texto": "Senhor, ao terminar este dia, coloco diante de vós tudo o que vivi.\n\nRecebei minha gratidão pelo bem recebido, perdoai minhas faltas e curai aquilo que ficou pesado dentro de mim.\n\nVelai por minha casa, por minha família e por todos que precisam de consolo nesta noite.\n\nQue meu descanso seja simples, confiante e guardado por vossa paz. Amém.",
+      "explicacao": "Oração de entrega e descanso, unindo gratidão, arrependimento e confiança.",
+      "relacionados": [
+        "exame-de-consciencia",
+        "santo-anjo",
+        "ato-contricao"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "formulas-da-igreja",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "fórmula da igreja",
+        "oração básica"
+      ]
+    },
+    {
+      "id": "credo-niceno-constantinopolitano",
+      "titulo": "Credo Niceno-Constantinopolitano",
+      "categoria": "essenciais",
+      "tipo": "oracao",
+      "tags": [
+        "credo",
+        "fé",
+        "missa",
+        "doutrina",
+        "símbolo"
+      ],
+      "momento": [
+        "missa",
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "tradicional",
+      "fonte_nome": "Símbolo Niceno-Constantinopolitano",
+      "quando_rezar": "Na Missa, em solenidades, na profissão de fé e no estudo da doutrina católica.",
+      "texto": "Creio em um só Deus, Pai todo-poderoso, criador do céu e da terra, de todas as coisas visíveis e invisíveis.\n\nCreio em um só Senhor, Jesus Cristo, Filho unigênito de Deus, nascido do Pai antes de todos os séculos: Deus de Deus, luz da luz, Deus verdadeiro de Deus verdadeiro; gerado, não criado, consubstancial ao Pai. Por Ele todas as coisas foram feitas. E por nós, homens, e para nossa salvação, desceu dos céus.\n\nE se encarnou pelo Espírito Santo, no seio da Virgem Maria, e se fez homem. Também por nós foi crucificado sob Pôncio Pilatos; padeceu e foi sepultado. Ressuscitou ao terceiro dia, conforme as Escrituras, e subiu aos céus, onde está sentado à direita do Pai. E de novo há de vir, em sua glória, para julgar os vivos e os mortos; e o seu Reino não terá fim.\n\nCreio no Espírito Santo, Senhor que dá a vida, e procede do Pai e do Filho; e com o Pai e o Filho é adorado e glorificado: Ele que falou pelos profetas.\n\nCreio na Igreja una, santa, católica e apostólica. Professo um só batismo para remissão dos pecados. E espero a ressurreição dos mortos e a vida do mundo que há de vir. Amém.",
+      "explicacao": "Profissão solene da fé cristã formulada nos concílios de Niceia e Constantinopla.",
+      "relacionados": [],
+      "duracao": "longa",
+      "curadoria": {
+        "selo": "Tradicional",
+        "familia": "liturgia-sacramentos",
+        "uso": "leitura orante longa",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "fórmula da igreja",
+        "oração básica"
+      ]
+    },
+    {
+      "id": "ato-de-fe",
+      "titulo": "Ato de Fé",
+      "categoria": "essenciais",
+      "tipo": "oracao",
+      "tags": [
+        "fé",
+        "virtudes",
+        "doutrina"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "tradicional",
+      "fonte_nome": "Ato tradicional de fé",
+      "quando_rezar": "Para renovar a fé e combater dúvidas.",
+      "texto": "Meu Deus, eu creio firmemente em tudo o que revelastes e a Santa Igreja nos propõe para crer, porque sois a própria verdade que não pode enganar-se nem enganar-nos. Nesta fé quero viver e morrer. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Tradicional",
+        "familia": "formulas-da-igreja",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "fórmula da igreja",
+        "oração básica"
+      ]
+    },
+    {
+      "id": "ato-de-esperanca",
+      "titulo": "Ato de Esperança",
+      "categoria": "essenciais",
+      "tipo": "oracao",
+      "tags": [
+        "esperança",
+        "virtudes",
+        "confiança"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "tradicional",
+      "fonte_nome": "Ato tradicional de esperança",
+      "quando_rezar": "Para renovar a confiança nas promessas de Deus.",
+      "texto": "Meu Deus, espero com firme confiança que me dareis, pelos merecimentos de Jesus Cristo, a vossa graça neste mundo e, se eu guardar os vossos mandamentos, a felicidade eterna no outro, porque assim o prometestes e sois infinitamente fiel. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Tradicional",
+        "familia": "formulas-da-igreja",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "fórmula da igreja",
+        "oração básica"
+      ]
+    },
+    {
+      "id": "ato-de-caridade",
+      "titulo": "Ato de Caridade",
+      "categoria": "essenciais",
+      "tipo": "oracao",
+      "tags": [
+        "caridade",
+        "amor",
+        "virtudes"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "tradicional",
+      "fonte_nome": "Ato tradicional de caridade",
+      "quando_rezar": "Para renovar o amor a Deus e ao próximo.",
+      "texto": "Meu Deus, eu vos amo de todo o meu coração e sobre todas as coisas, porque sois infinitamente bom e amável; e por amor de vós amo o meu próximo como a mim mesmo. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Tradicional",
+        "familia": "formulas-da-igreja",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "fórmula da igreja",
+        "oração básica"
+      ]
+    },
+    {
+      "id": "confiteor",
+      "titulo": "Confesso a Deus",
+      "categoria": "essenciais",
+      "tipo": "oracao",
+      "tags": [
+        "missa",
+        "penitência",
+        "contrição"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "liturgico",
+      "fonte_nome": "Fórmula litúrgica do ato penitencial",
+      "quando_rezar": "Na Missa, no exame de consciência ou antes da confissão.",
+      "texto": "Confesso a Deus todo-poderoso e a vós, irmãos e irmãs, que pequei muitas vezes por pensamentos e palavras, atos e omissões, por minha culpa, minha culpa, minha tão grande culpa.\n\nE peço à Virgem Maria, aos anjos e santos, e a vós, irmãos e irmãs, que rogueis por mim a Deus, nosso Senhor. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Fórmula litúrgica do ato penitencial",
+        "familia": "liturgia-sacramentos",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "fórmula da igreja",
+        "oração básica"
+      ]
+    },
+    {
+      "id": "gloria-missa",
+      "titulo": "Glória a Deus nas alturas",
+      "categoria": "essenciais",
+      "tipo": "oracao",
+      "tags": [
+        "missa",
+        "louvor",
+        "liturgia"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "liturgico",
+      "fonte_nome": "Hino litúrgico Gloria in excelsis",
+      "quando_rezar": "Na liturgia e em momentos de louvor.",
+      "texto": "Glória a Deus nas alturas, e paz na terra aos homens por Ele amados.\n\nSenhor Deus, Rei dos céus, Deus Pai todo-poderoso, nós vos louvamos, nós vos bendizemos, nós vos adoramos, nós vos glorificamos, nós vos damos graças por vossa imensa glória.\n\nSenhor Jesus Cristo, Filho unigênito, Senhor Deus, Cordeiro de Deus, Filho de Deus Pai: vós que tirais o pecado do mundo, tende piedade de nós; vós que tirais o pecado do mundo, acolhei a nossa súplica; vós que estais à direita do Pai, tende piedade de nós.\n\nSó vós sois o Santo, só vós, o Senhor, só vós, o Altíssimo, Jesus Cristo, com o Espírito Santo, na glória de Deus Pai. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [],
+      "duracao": "media",
+      "curadoria": {
+        "selo": "Hino litúrgico Gloria in excelsis",
+        "familia": "liturgia-sacramentos",
+        "uso": "oração pessoal",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "fórmula da igreja",
+        "oração básica"
+      ]
+    },
+    {
+      "id": "magnificat",
+      "titulo": "Magnificat",
+      "categoria": "essenciais",
+      "tipo": "oracao",
+      "tags": [
+        "maria",
+        "bíblico",
+        "louvor",
+        "vesperas"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "biblico",
+      "fonte_nome": "Cântico de Maria",
+      "quando_rezar": "No fim da tarde, em louvor, gratidão e devoção mariana.",
+      "texto": "A minha alma engrandece o Senhor, e o meu espírito se alegra em Deus, meu Salvador, porque olhou para a humildade de sua serva.\n\nDoravante todas as gerações me chamarão bem-aventurada, porque o Todo-Poderoso fez grandes coisas em meu favor. O seu nome é santo, e sua misericórdia se estende de geração em geração sobre aqueles que o temem.\n\nManifestou o poder do seu braço, dispersou os soberbos; derrubou do trono os poderosos e elevou os humildes; saciou de bens os famintos e despediu os ricos de mãos vazias.\n\nAcolheu Israel, seu servo, lembrado de sua misericórdia, conforme prometera a nossos pais, em favor de Abraão e de sua descendência para sempre. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [],
+      "duracao": "media",
+      "curadoria": {
+        "selo": "Cântico de Maria",
+        "familia": "maria",
+        "uso": "oração pessoal",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "fórmula da igreja",
+        "oração básica"
+      ]
+    },
+    {
+      "id": "benedictus",
+      "titulo": "Benedictus",
+      "categoria": "essenciais",
+      "tipo": "oracao",
+      "tags": [
+        "bíblico",
+        "manhã",
+        "louvor"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "biblico",
+      "fonte_nome": "Cântico de Zacarias",
+      "quando_rezar": "Pela manhã, para consagrar o dia ao Senhor.",
+      "texto": "Bendito seja o Senhor Deus de Israel, porque visitou e libertou o seu povo. Fez surgir para nós um poderoso Salvador na casa de Davi, seu servo.\n\nComo falara pela boca de seus santos profetas, desde os tempos antigos, para nos salvar dos nossos inimigos e da mão de todos os que nos odeiam.\n\nAssim mostrou misericórdia a nossos pais, recordando a sua santa aliança e o juramento feito a Abraão. Concedeu-nos que, livres do medo e arrancados das mãos dos inimigos, o servíssemos em santidade e justiça, em sua presença, todos os nossos dias.\n\nE tu, menino, serás chamado profeta do Altíssimo, pois irás à frente do Senhor para preparar os seus caminhos. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [],
+      "duracao": "media",
+      "curadoria": {
+        "selo": "Cântico de Zacarias",
+        "familia": "formulas-da-igreja",
+        "uso": "oração pessoal",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "fórmula da igreja",
+        "oração básica"
+      ]
+    },
+    {
+      "id": "te-deum",
+      "titulo": "Te Deum",
+      "categoria": "essenciais",
+      "tipo": "oracao",
+      "tags": [
+        "louvor",
+        "ação de graças",
+        "igreja"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "tradicional",
+      "fonte_nome": "Hino cristão tradicional",
+      "quando_rezar": "Em ações de graças, solenidades e encerramento de graças recebidas.",
+      "texto": "Nós vos louvamos, ó Deus, nós vos bendizemos, Senhor. Toda a terra vos adora, Pai eterno e onipotente.\n\nA vós cantam os anjos, os céus e todas as potestades: Santo, Santo, Santo, Senhor Deus do universo. Os céus e a terra proclamam a vossa glória.\n\nA vós louva o glorioso coro dos apóstolos, a vós louva a venerável multidão dos profetas, a vós louva o exército resplandecente dos mártires.\n\nSenhor, salvai o vosso povo e abençoai a vossa herança. Conduzi-nos, protegei-nos e fazei que sejamos contados entre os vossos santos. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [],
+      "duracao": "media",
+      "curadoria": {
+        "selo": "Tradicional",
+        "familia": "formulas-da-igreja",
+        "uso": "oração pessoal",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "fórmula da igreja",
+        "oração básica"
+      ]
+    },
+    {
+      "id": "veni-creator-spiritus",
+      "titulo": "Veni Creator Spiritus",
+      "categoria": "essenciais",
+      "tipo": "oracao",
+      "tags": [
+        "espírito santo",
+        "discernimento",
+        "missão"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "tradicional",
+      "fonte_nome": "Hino tradicional ao Espírito Santo",
+      "quando_rezar": "Antes de decisões, estudos, missão ou início de uma obra espiritual.",
+      "texto": "Vinde, Espírito Criador, visitai as almas dos vossos fiéis e enchei com a graça do alto os corações que criastes.\n\nSois chamado Consolador, dom do Deus Altíssimo, fonte viva, fogo, caridade e unção espiritual.\n\nIluminai os sentidos, infundi amor nos corações, fortalecei nossas fraquezas com vosso poder eterno.\n\nAfastai de nós o inimigo, dai-nos a paz sem demora, e guiados por vós evitemos todo mal. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Tradicional",
+        "familia": "santos",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "fórmula da igreja",
+        "oração básica"
+      ]
+    },
+    {
+      "id": "sinal-da-cruz",
+      "titulo": "Sinal da Cruz",
+      "categoria": "essenciais",
+      "tipo": "oracao",
+      "tags": [
+        "sinal da cruz",
+        "básica",
+        "trindade"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "tradicional",
+      "fonte_nome": "Oração tradicional da Igreja",
+      "quando_rezar": "Ao iniciar e concluir qualquer oração.",
+      "texto": "Pelo sinal da santa cruz, livrai-nos, Deus, nosso Senhor, dos nossos inimigos.\n\nEm nome do Pai, e do Filho, e do Espírito Santo. Amém.",
+      "explicacao": "Oração breve para rezar com fé, recolhimento e confiança.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Tradicional",
+        "familia": "formulas-da-igreja",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "fórmula da igreja",
+        "oração básica"
+      ]
+    },
+    {
+      "id": "ato-de-adoracao",
+      "titulo": "Ato de Adoração",
+      "categoria": "essenciais",
+      "tipo": "oracao",
+      "tags": [
+        "adoração",
+        "fé",
+        "deus",
+        "louvor"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "tradicional",
+      "fonte_nome": "Ato devocional tradicional",
+      "quando_rezar": "Para adorar a Deus no início da oração, diante do Santíssimo ou em recolhimento pessoal.",
+      "texto": "Meu Deus, eu vos adoro profundamente. Reconheço que sois meu Criador, meu Senhor e meu fim último. Diante de vós me inclino com reverência, entregando-vos meu coração, minha inteligência, minha vontade e minha vida. Amém.",
+      "explicacao": "Oração devocional composta para favorecer recolhimento, confiança e vida espiritual católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Tradicional",
+        "familia": "jesus-e-eucaristia",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "fórmula da igreja",
+        "oração básica"
+      ]
+    },
+    {
+      "id": "ato-de-humildade",
+      "titulo": "Ato de Humildade",
+      "categoria": "essenciais",
+      "tipo": "oracao",
+      "tags": [
+        "humildade",
+        "conversão",
+        "oração"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para pedir humildade antes de decisões, conversas difíceis ou exame de consciência.",
+      "texto": "Senhor, ensinai-me a reconhecer minha pequenez sem desânimo e minha dignidade sem orgulho. Livrai-me da vaidade, da comparação e da dureza do coração. Dai-me a humildade dos santos, que tudo recebem como graça e tudo devolvem em amor. Amém.",
+      "explicacao": "Oração devocional composta para favorecer recolhimento, confiança e vida espiritual católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "santos",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "fórmula da igreja",
+        "oração básica"
+      ]
+    },
+    {
+      "id": "ato-de-abandono",
+      "titulo": "Ato de abandono nas mãos de Deus",
+      "categoria": "essenciais",
+      "tipo": "oracao",
+      "tags": [
+        "abandono",
+        "confiança",
+        "providência"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para momentos de incerteza, sofrimento ou entrega confiante à Providência.",
+      "texto": "Pai santo, abandono-me em vossas mãos. Fazei de mim o que quiserdes, porque sei que tudo o que permitis pode tornar-se caminho de salvação quando unido ao vosso amor. Dai-me confiança, paciência e coração obediente. Amém.",
+      "explicacao": "Oração devocional composta para favorecer recolhimento, confiança e vida espiritual católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "formulas-da-igreja",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "fórmula da igreja",
+        "oração básica"
+      ]
+    },
+    {
+      "id": "oracao-ao-espirito-santo-antes-de-estudar",
+      "titulo": "Ao Espírito Santo antes de estudar",
+      "categoria": "essenciais",
+      "tipo": "oracao",
+      "tags": [
+        "espírito santo",
+        "estudo",
+        "sabedoria",
+        "luz"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Antes dos estudos, provas, leitura espiritual ou preparação de aulas.",
+      "texto": "Espírito Santo, iluminai minha inteligência, fortalecei minha memória e ordenai minha atenção. Ajudai-me a estudar com disciplina, compreender com clareza e usar todo conhecimento para o bem, a verdade e o serviço. Amém.",
+      "explicacao": "Oração devocional composta para favorecer recolhimento, confiança e vida espiritual católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "santos",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "ao espirito antes de estudar",
+        "fórmula da igreja",
+        "oração básica"
+      ]
+    },
+    {
+      "id": "oracao-ao-espirito-santo-antes-de-decidir",
+      "titulo": "Ao Espírito Santo antes de decidir",
+      "categoria": "essenciais",
+      "tipo": "oracao",
+      "tags": [
+        "espírito santo",
+        "discernimento",
+        "decisão"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Antes de decisões importantes, conversas difíceis ou mudanças de caminho.",
+      "texto": "Vinde, Espírito Santo, e orientai minhas escolhas. Afastai de mim a pressa, o medo, a vaidade e a confusão. Mostrai-me o caminho que mais agrada a Deus e dai-me coragem para segui-lo com paz. Amém.",
+      "explicacao": "Oração devocional composta para favorecer recolhimento, confiança e vida espiritual católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "santos",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "ao espirito antes de decidir",
+        "fórmula da igreja",
+        "oração básica"
+      ]
+    },
+    {
+      "id": "oracao-de-consagracao-do-dia",
+      "titulo": "Consagração do dia",
+      "categoria": "essenciais",
+      "tipo": "oracao",
+      "tags": [
+        "manhã",
+        "oferecimento",
+        "rotina"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Pela manhã, antes de iniciar as atividades.",
+      "texto": "Senhor, eu vos consagro este dia: meus pensamentos, palavras, trabalhos, encontros, alegrias e dificuldades. Que tudo seja vivido em vossa presença, com fé, paciência e caridade. Guardai-me do pecado e conduzi-me no vosso amor. Amém.",
+      "explicacao": "Oração devocional composta para favorecer recolhimento, confiança e vida espiritual católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "formulas-da-igreja",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "fórmula da igreja",
+        "oração básica"
+      ]
+    },
+    {
+      "id": "oracao-breve-antes-de-dormir",
+      "titulo": "Oração breve antes de dormir",
+      "categoria": "essenciais",
+      "tipo": "oracao",
+      "tags": [
+        "noite",
+        "sono",
+        "proteção"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "À noite, antes de dormir, especialmente quando se deseja uma oração curta.",
+      "texto": "Senhor, obrigado por este dia. Perdoai minhas faltas, acolhei minhas preocupações e guardai meu descanso. Que eu durma em paz e acorde disposto a vos amar melhor amanhã. Amém.",
+      "explicacao": "Oração devocional composta para favorecer recolhimento, confiança e vida espiritual católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "formulas-da-igreja",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "fórmula da igreja",
+        "oração básica"
+      ]
+    },
+    {
+      "id": "oracao-de-silencio",
+      "titulo": "Oração do silêncio",
+      "categoria": "essenciais",
+      "tipo": "oracao",
+      "tags": [
+        "silêncio",
+        "contemplação",
+        "paz"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Antes da Lectio Divina, da adoração ou de um tempo de recolhimento.",
+      "texto": "Senhor, calai em mim o barulho que me afasta de vós. Fazei silêncio no meu coração, para que eu possa ouvir vossa Palavra, acolher vossa presença e descansar no vosso amor. Amém.",
+      "explicacao": "Oração devocional composta para favorecer recolhimento, confiança e vida espiritual católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "formulas-da-igreja",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "fórmula da igreja",
+        "oração básica"
+      ]
+    },
+    {
+      "id": "jaculatoria-jesus-maria-jose",
+      "titulo": "Jesus, Maria e José",
+      "categoria": "essenciais",
+      "tipo": "oracao",
+      "tags": [
+        "jaculatória",
+        "família",
+        "boa morte"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "Jaculatória tradicional",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para rezar como jaculatória breve de confiança e entrega familiar.",
+      "texto": "Jesus, Maria e José, eu vos dou o meu coração e a minha alma. Jesus, Maria e José, assisti-me na última agonia. Jesus, Maria e José, expire em paz convosco a minha alma. Amém.",
+      "explicacao": "tradicional",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Composição devocional do Lectio",
+        "familia": "maria",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "fórmula da igreja",
+        "oração básica"
+      ]
+    },
+    {
+      "id": "jaculatoria-meu-jesus-misericordia",
+      "titulo": "Meu Jesus, misericórdia",
+      "categoria": "essenciais",
+      "tipo": "oracao",
+      "tags": [
+        "jaculatória",
+        "misericórdia",
+        "arrependimento"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Em momentos de arrependimento, fragilidade ou pedido de misericórdia.",
+      "texto": "Meu Jesus, misericórdia. Senhor, tende compaixão de mim, purificai meu coração e conduzi-me de volta ao caminho da graça. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "jesus-e-eucaristia",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "fórmula da igreja",
+        "oração básica"
+      ]
+    },
+    {
+      "id": "jaculatoria-sagrado-coracao",
+      "titulo": "Sagrado Coração de Jesus, eu confio em Vós",
+      "categoria": "essenciais",
+      "tipo": "oracao",
+      "tags": [
+        "jaculatória",
+        "sagrado coração",
+        "confiança"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para repetir durante o dia como ato breve de confiança.",
+      "texto": "Sagrado Coração de Jesus, eu confio em Vós. Guardai meu coração, fortalecei minha esperança e ensinai-me a amar como vós amais. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "jesus-e-eucaristia",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "fórmula da igreja",
+        "oração básica"
+      ]
+    },
+    {
+      "id": "jaculatoria-maria-concebida-sem-pecado",
+      "titulo": "Ó Maria concebida sem pecado",
+      "categoria": "essenciais",
+      "tipo": "oracao",
+      "tags": [
+        "jaculatória",
+        "maria",
+        "medalha milagrosa"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para pedir a intercessão de Maria com uma jaculatória tradicional.",
+      "texto": "Ó Maria concebida sem pecado, rogai por nós que recorremos a vós. Guardai-nos na fé, conduzi-nos a Jesus e socorrei-nos em nossas necessidades. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "maria",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "fórmula da igreja",
+        "oração básica"
+      ]
+    },
+    {
+      "id": "oracao-ao-espirito-santo-luz",
+      "titulo": "Espírito Santo, luz do coração",
+      "categoria": "essenciais",
+      "tipo": "oracao",
+      "tags": [
+        "espírito santo",
+        "luz",
+        "discernimento"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Antes de estudar, decidir, conversar ou rezar.",
+      "texto": "Espírito Santo, luz do coração, vinde iluminar minha inteligência, ordenar meus afetos e fortalecer minha vontade. Que eu reconheça o bem, rejeite o mal e siga com alegria a vontade de Deus. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "jesus-e-eucaristia",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "espirito luz do coracao",
+        "fórmula da igreja",
+        "oração básica"
+      ]
+    },
+    {
+      "id": "oracao-para-ouvir-a-palavra",
+      "titulo": "Para ouvir a Palavra de Deus",
+      "categoria": "essenciais",
+      "tipo": "oracao",
+      "tags": [
+        "bíblia",
+        "escuta",
+        "palavra"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Antes da leitura bíblica, missa ou lectio divina.",
+      "texto": "Senhor, abri meus ouvidos e meu coração para a vossa Palavra. Que eu não a escute apenas como informação, mas como voz viva que me chama à conversão, à esperança e ao amor. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "liturgia-sacramentos",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "fórmula da igreja",
+        "oração básica"
+      ]
+    },
+    {
+      "id": "oracao-da-presenca-de-deus",
+      "titulo": "Oração da presença de Deus",
+      "categoria": "essenciais",
+      "tipo": "oracao",
+      "tags": [
+        "silêncio",
+        "presença",
+        "recolhimento"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para iniciar qualquer momento de oração com recolhimento.",
+      "texto": "Senhor, colocai-me na vossa presença. Acalmai minha mente, recolhei meu coração e ajudai-me a lembrar que estou diante de vós, que me vedes, me conheceis e me amais. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "formulas-da-igreja",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "fórmula da igreja",
+        "oração básica"
+      ]
+    },
+    {
+      "id": "oracao-de-confianca-filial",
+      "titulo": "Oração de confiança filial",
+      "categoria": "essenciais",
+      "tipo": "oracao",
+      "tags": [
+        "confiança",
+        "filiação",
+        "pai"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Quando faltar segurança interior ou confiança em Deus.",
+      "texto": "Pai amado, entrego-me em vossas mãos como filho que confia. Guardai-me do medo, ensinai-me a descansar em vossa providência e fazei-me viver hoje como quem sabe que é amado. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "formulas-da-igreja",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "fórmula da igreja",
+        "oração básica"
+      ]
+    },
+    {
+      "id": "oracao-breve-de-arrependimento",
+      "titulo": "Oração breve de arrependimento",
+      "categoria": "essenciais",
+      "tipo": "oracao",
+      "tags": [
+        "arrependimento",
+        "conversão",
+        "perdão"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Após exame de consciência ou queda pessoal.",
+      "texto": "Senhor, arrependo-me do mal que pratiquei e do bem que deixei de fazer. Dai-me um coração novo, humilde e decidido a recomeçar convosco. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "santos",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "fórmula da igreja",
+        "oração básica"
+      ]
+    },
+    {
+      "id": "oracao-de-oferecimento-da-semana",
+      "titulo": "Oferecimento da semana",
+      "categoria": "essenciais",
+      "tipo": "oracao",
+      "tags": [
+        "oferecimento",
+        "semana",
+        "rotina"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "No domingo à noite ou início da semana.",
+      "texto": "Senhor, ofereço-vos esta semana: meus trabalhos, encontros, cansaços, alegrias e preocupações. Que tudo seja vivido em união convosco e para maior glória do vosso nome. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "formulas-da-igreja",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "fórmula da igreja",
+        "oração básica"
+      ]
+    },
+    {
+      "id": "divinos-louvores",
+      "titulo": "Divinos Louvores",
+      "categoria": "essenciais",
+      "tipo": "oracao",
+      "tags": [
+        "adoração",
+        "eucaristia",
+        "bênção",
+        "louvor"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "tradicional",
+      "fonte_nome": "Oração tradicional dos Divinos Louvores",
+      "quando_rezar": "Após a bênção do Santíssimo, em adoração ou para louvar a Deus com reverência.",
+      "texto": "Bendito seja Deus.\nBendito seja o seu santo nome.\nBendito seja Jesus Cristo, verdadeiro Deus e verdadeiro homem.\nBendito seja o nome de Jesus.\nBendito seja o seu Sacratíssimo Coração.\nBendito seja o seu Preciosíssimo Sangue.\nBendito seja Jesus no Santíssimo Sacramento do Altar.\nBendito seja o Espírito Santo Paráclito.\nBendita seja a grande Mãe de Deus, Maria Santíssima.\nBendita seja a sua santa e Imaculada Conceição.\nBendita seja a sua gloriosa Assunção.\nBendito seja o nome de Maria, Virgem e Mãe.\nBendito seja São José, seu castíssimo esposo.\nBendito seja Deus nos seus anjos e nos seus santos. Amém.",
+      "explicacao": "Oração organizada para o Devocionário Lectio, com linguagem simples, reverente e fiel à espiritualidade católica.",
+      "relacionados": [],
+      "duracao": "media",
+      "curadoria": {
+        "selo": "Tradicional",
+        "familia": "jesus-e-eucaristia",
+        "uso": "oração pessoal",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "fórmula da igreja",
+        "oração básica"
+      ]
+    },
+    {
+      "id": "o-sacrum-convivium",
+      "titulo": "O Sacrum Convivium",
+      "categoria": "essenciais",
+      "tipo": "oracao",
+      "tags": [
+        "eucaristia",
+        "adoração",
+        "santíssimo",
+        "comunhão"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "tradicional",
+      "fonte_nome": "Antífona eucarística tradicional",
+      "quando_rezar": "Diante do Santíssimo Sacramento ou como breve oração eucarística.",
+      "texto": "Ó sagrado banquete, no qual Cristo é recebido, a memória da sua Paixão é celebrada, a alma se enche de graça e nos é dado o penhor da glória futura.\n\nVós lhes destes o pão do céu.\nQue contém todo sabor e toda doçura.\n\nOremos: Ó Deus, que neste admirável sacramento nos deixastes o memorial da vossa Paixão, concedei-nos venerar de tal modo os sagrados mistérios do vosso Corpo e Sangue, que sintamos continuamente em nós o fruto da vossa redenção. Amém.",
+      "explicacao": "Oração organizada para o Devocionário Lectio, com linguagem simples, reverente e fiel à espiritualidade católica.",
+      "relacionados": [],
+      "duracao": "media",
+      "curadoria": {
+        "selo": "Tradicional",
+        "familia": "jesus-e-eucaristia",
+        "uso": "oração pessoal",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "fórmula da igreja",
+        "oração básica"
+      ]
+    },
+    {
+      "id": "tantum-ergo",
+      "titulo": "Tantum Ergo — Tão Sublime Sacramento",
+      "categoria": "essenciais",
+      "tipo": "oracao",
+      "tags": [
+        "eucaristia",
+        "adoração",
+        "bênção",
+        "santíssimo"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "tradicional",
+      "fonte_nome": "Hino eucarístico tradicional",
+      "quando_rezar": "Na adoração eucarística, especialmente antes da bênção do Santíssimo.",
+      "texto": "Tão sublime sacramento adoremos neste altar, pois o Antigo Testamento deu ao Novo o seu lugar. Venha a fé, por suplemento, os sentidos completar.\n\nAo eterno Pai cantemos e a Jesus, o Salvador; ao Espírito exaltemos, na Trindade eterno amor. Ao Deus uno e trino demos a alegria do louvor. Amém.",
+      "explicacao": "Oração organizada para o Devocionário Lectio, com linguagem simples, reverente e fiel à espiritualidade católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Tradicional",
+        "familia": "jesus-e-eucaristia",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "fórmula da igreja",
+        "oração básica"
+      ]
+    },
+    {
+      "id": "nunc-dimittis",
+      "titulo": "Nunc Dimittis — Cântico de Simeão",
+      "categoria": "essenciais",
+      "tipo": "oracao",
+      "tags": [
+        "noite",
+        "confiança",
+        "entrega",
+        "liturgia das horas"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "tradicional",
+      "fonte_nome": "Cântico evangélico tradicional",
+      "quando_rezar": "À noite, antes de dormir, ou quando desejar entregar o dia a Deus.",
+      "texto": "Agora, Senhor, deixai o vosso servo ir em paz, segundo a vossa palavra, porque meus olhos contemplaram a salvação que preparastes para todos os povos: luz para iluminar as nações e glória do vosso povo.\n\nGlória ao Pai, ao Filho e ao Espírito Santo. Como era no princípio, agora e sempre. Amém.",
+      "explicacao": "Oração organizada para o Devocionário Lectio, com linguagem simples, reverente e fiel à espiritualidade católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Tradicional",
+        "familia": "formulas-da-igreja",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "fórmula da igreja",
+        "oração básica"
+      ]
+    },
+    {
+      "id": "de-profundis",
+      "titulo": "De Profundis — Das profundezas",
+      "categoria": "essenciais",
+      "tipo": "oracao",
+      "tags": [
+        "salmo",
+        "misericórdia",
+        "falecidos",
+        "arrependimento"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "tradicional",
+      "fonte_nome": "Salmo 129/130 em forma devocional",
+      "quando_rezar": "Pelos fiéis defuntos, em tempos de sofrimento ou quando se busca a misericórdia de Deus.",
+      "texto": "Das profundezas clamo a vós, Senhor; escutai a minha voz. Estejam atentos os vossos ouvidos à súplica do meu coração.\n\nSe levardes em conta nossas faltas, quem poderá subsistir? Mas em vós se encontra o perdão, e por isso esperamos em vós.\n\nMinha alma espera no Senhor mais do que a sentinela pela aurora. No Senhor está a misericórdia e abundante redenção. Amém.",
+      "explicacao": "Oração organizada para o Devocionário Lectio, com linguagem simples, reverente e fiel à espiritualidade católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Tradicional",
+        "familia": "formulas-da-igreja",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "fórmula da igreja",
+        "oração básica"
+      ]
+    },
+    {
+      "id": "ato-de-louvor",
+      "titulo": "Ato de Louvor",
+      "categoria": "essenciais",
+      "tipo": "oracao",
+      "tags": [
+        "louvor",
+        "gratidão",
+        "adoração",
+        "alegria"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para louvar a Deus no começo ou no fim do dia.",
+      "texto": "Senhor Deus, eu vos louvo porque sois bom, santo e misericordioso. Louvo-vos pelas graças visíveis e pelas graças escondidas, pelos dons recebidos e também pelas cruzes que me educam no amor.\n\nQue minha vida inteira se torne um pequeno louvor à vossa glória. Amém.",
+      "explicacao": "Oração organizada para o Devocionário Lectio, com linguagem simples, reverente e fiel à espiritualidade católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "formulas-da-igreja",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "fórmula da igreja",
+        "oração básica"
+      ]
+    },
+    {
+      "id": "oracao-para-santificar-o-trabalho",
+      "titulo": "Para santificar o trabalho",
+      "categoria": "essenciais",
+      "tipo": "oracao",
+      "tags": [
+        "trabalho",
+        "oferecimento",
+        "rotina",
+        "santificação"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Antes de começar o trabalho, estudo ou serviço diário.",
+      "texto": "Senhor, ofereço-vos o trabalho deste dia. Que minhas mãos sejam honestas, minha mente atenta, minhas palavras justas e meu coração livre da vaidade.\n\nAjudai-me a servir com responsabilidade, a suportar os cansaços com paciência e a transformar minhas tarefas em caminho de santificação. Amém.",
+      "explicacao": "Oração organizada para o Devocionário Lectio, com linguagem simples, reverente e fiel à espiritualidade católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "formulas-da-igreja",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "fórmula da igreja",
+        "oração básica"
+      ]
+    },
+    {
+      "id": "oracao-do-silencio",
+      "titulo": "Oração do silêncio interior",
+      "categoria": "essenciais",
+      "tipo": "oracao",
+      "tags": [
+        "silêncio",
+        "contemplação",
+        "paz",
+        "recolhimento"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Antes da Lectio Divina, adoração ou quando houver muita agitação interior.",
+      "texto": "Senhor, aquietai em mim os ruídos que me dispersam. Ensinai-me a calar por dentro, para que eu possa escutar a vossa voz com sinceridade.\n\nDai-me um coração recolhido, atento, simples e aberto à vossa vontade. Amém.",
+      "explicacao": "Oração organizada para o Devocionário Lectio, com linguagem simples, reverente e fiel à espiritualidade católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "formulas-da-igreja",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "fórmula da igreja",
+        "oração básica"
+      ]
+    }
+  ]
+}

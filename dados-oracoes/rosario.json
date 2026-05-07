@@ -1,0 +1,672 @@
+{
+  "id": "rosario",
+  "title": "Rosário e terços",
+  "items": [
+    {
+      "id": "santo-rosario",
+      "titulo": "Santo Rosário — guia breve",
+      "categoria": "rosario",
+      "tipo": "guia",
+      "tags": [
+        "rosário",
+        "maria",
+        "mistérios",
+        "meditação",
+        "terço"
+      ],
+      "momento": [
+        "qualquer_hora",
+        "noite"
+      ],
+      "fonte_tipo": "tradicional",
+      "fonte_nome": "Estrutura tradicional do Santo Rosário",
+      "quando_rezar": "Em família, sozinho, diante de uma intenção ou como meditação dos mistérios de Cristo.",
+      "texto": "Como rezar de forma simples:\n\n1. Faça o Sinal da Cruz.\n2. Reze o Credo.\n3. Reze um Pai-Nosso.\n4. Reze três Ave-Marias.\n5. Reze o Glória ao Pai.\n6. Anuncie o mistério.\n7. Reze um Pai-Nosso.\n8. Reze dez Ave-Marias.\n9. Reze o Glória ao Pai.\n10. Repita para os cinco mistérios e conclua com a Salve Rainha.",
+      "explicacao": "O Rosário conduz a oração pela contemplação dos mistérios da vida de Cristo com Maria.",
+      "relacionados": [
+        "pai-nosso",
+        "ave-maria",
+        "salve-rainha"
+      ],
+      "duracao": "guiada",
+      "curadoria": {
+        "selo": "Guia devocional",
+        "familia": "rosario-tercos",
+        "uso": "oração guiada",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "rosario guia breve",
+        "santo rosário guia breve"
+      ]
+    },
+    {
+      "id": "misterios-rosario",
+      "titulo": "Mistérios do Rosário",
+      "categoria": "rosario",
+      "tipo": "guia",
+      "tags": [
+        "rosário",
+        "mistérios",
+        "segunda",
+        "terça",
+        "quarta",
+        "domingo"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "tradicional",
+      "fonte_nome": "Distribuição devocional dos mistérios",
+      "quando_rezar": "Ao escolher os mistérios do dia antes de começar o Terço.",
+      "texto": "Mistérios Gozosos: anunciação, visitação, nascimento de Jesus, apresentação no Templo e encontro de Jesus no Templo.\n\nMistérios Luminosos: batismo de Jesus, bodas de Caná, anúncio do Reino, transfiguração e instituição da Eucaristia.\n\nMistérios Dolorosos: agonia no Horto, flagelação, coroação de espinhos, caminho da cruz e crucifixão.\n\nMistérios Gloriosos: ressurreição, ascensão, vinda do Espírito Santo, assunção de Maria e coroação de Nossa Senhora.",
+      "explicacao": "Mapa devocional para meditar os principais momentos da vida de Cristo no Rosário.",
+      "relacionados": [
+        "santo-rosario",
+        "ave-maria",
+        "angelus"
+      ],
+      "duracao": "guiada",
+      "curadoria": {
+        "selo": "Guia devocional",
+        "familia": "rosario-tercos",
+        "uso": "oração guiada",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "misterios do rosário"
+      ]
+    },
+    {
+      "id": "terco-misericordia",
+      "titulo": "Terço da Misericórdia — guia breve",
+      "categoria": "rosario",
+      "tipo": "guia",
+      "tags": [
+        "misericórdia",
+        "terço",
+        "jesus",
+        "15h",
+        "confiança"
+      ],
+      "momento": [
+        "tarde",
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "devocional",
+      "fonte_nome": "Devoção à Divina Misericórdia",
+      "quando_rezar": "Especialmente às 15h, por intenção de misericórdia, perdão e confiança em Jesus.",
+      "texto": "Inicie com o Pai-Nosso, a Ave-Maria e o Credo.\n\nNas contas grandes, reze: Eterno Pai, eu vos ofereço o Corpo e Sangue, Alma e Divindade de vosso diletíssimo Filho, Nosso Senhor Jesus Cristo, em expiação dos nossos pecados e dos pecados do mundo inteiro.\n\nNas contas pequenas, reze: Pela sua dolorosa Paixão, tende misericórdia de nós e do mundo inteiro.\n\nAo final, reze três vezes: Deus Santo, Deus Forte, Deus Imortal, tende piedade de nós e do mundo inteiro.",
+      "explicacao": "Terço centrado na misericórdia de Deus e na Paixão de Cristo, rezado com confiança.",
+      "relacionados": [
+        "jesus-eu-confio-em-vos",
+        "ato-contricao",
+        "oracao-perdao"
+      ],
+      "duracao": "guiada",
+      "curadoria": {
+        "selo": "Guia devocional",
+        "familia": "rosario-tercos",
+        "uso": "oração guiada",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "terço da misericordia guia breve"
+      ]
+    },
+    {
+      "id": "terco-sao-miguel",
+      "titulo": "Terço de São Miguel — intenção breve",
+      "categoria": "rosario",
+      "tipo": "guia",
+      "tags": [
+        "são miguel",
+        "proteção",
+        "arcanjos",
+        "combate espiritual"
+      ],
+      "momento": [
+        "qualquer_hora",
+        "noite"
+      ],
+      "fonte_tipo": "devocional",
+      "fonte_nome": "Devoção popular católica",
+      "quando_rezar": "Ao pedir proteção espiritual e auxílio dos anjos.",
+      "texto": "Antes de iniciar, recolha-se e peça a proteção de Deus.\n\nReze invocando São Miguel Arcanjo e os coros angélicos, pedindo defesa contra o mal, fidelidade no combate espiritual e paz interior.\n\nConclua com a oração a São Miguel Arcanjo, entregando sua casa, sua família e suas decisões à proteção de Deus.",
+      "explicacao": "Guia simples de intenção para o Terço de São Miguel; a versão interativa completa pode ser adicionada em etapa própria.",
+      "relacionados": [
+        "sao-miguel-arcanjo",
+        "santo-anjo",
+        "oracao-protecao"
+      ],
+      "duracao": "guiada",
+      "curadoria": {
+        "selo": "Guia devocional",
+        "familia": "rosario-tercos",
+        "uso": "oração guiada",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "terco de miguel intencao breve",
+        "terço de sao miguel intencao breve"
+      ]
+    },
+    {
+      "id": "terco-santas-chagas",
+      "titulo": "Terço das Santas Chagas — guia breve",
+      "categoria": "rosario",
+      "tipo": "oracao",
+      "tags": [
+        "terço",
+        "santas chagas",
+        "paixão"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para meditar a Paixão de Cristo e pedir misericórdia.",
+      "texto": "Guia breve para rezar o Terço das Santas Chagas.\n\nInicie com o sinal da cruz. Apresente sua intenção a Jesus crucificado. Em cada dezena, contemple uma chaga do Senhor e peça misericórdia, cura e conversão.\n\nConclua oferecendo suas dores, sua família e o mundo inteiro às Santas Chagas de Cristo. Amém.",
+      "explicacao": "Oração devocional composta para favorecer recolhimento, confiança e vida espiritual católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "rosario-tercos",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "terço das santas chagas guia breve"
+      ]
+    },
+    {
+      "id": "coroa-sete-dores",
+      "titulo": "Coroa das Sete Dores de Nossa Senhora — guia breve",
+      "categoria": "rosario",
+      "tipo": "oracao",
+      "tags": [
+        "maria",
+        "sete dores",
+        "terço"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para meditar as dores de Maria e unir sofrimentos à Paixão de Cristo.",
+      "texto": "Guia breve para a Coroa das Sete Dores.\n\nContemple as dores de Maria: a profecia de Simeão, a fuga para o Egito, a perda do Menino Jesus, o encontro no caminho do Calvário, a morte de Jesus, a descida da cruz e o sepultamento.\n\nReze com Maria, pedindo a graça de permanecer fiel junto à cruz. Amém.",
+      "explicacao": "Oração devocional composta para favorecer recolhimento, confiança e vida espiritual católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "rosario-tercos",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "coroa das sete dores de mae de deus guia breve",
+        "coroa das sete dores de virgem maria guia breve"
+      ]
+    },
+    {
+      "id": "terco-providencia",
+      "titulo": "Terço da Providência — guia breve",
+      "categoria": "rosario",
+      "tipo": "oracao",
+      "tags": [
+        "terço",
+        "providência",
+        "confiança"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para necessidades materiais, decisões e confiança em Deus.",
+      "texto": "Guia breve para rezar confiando na Providência.\n\nFaça o sinal da cruz, entregue suas necessidades a Deus e reze cada dezena pedindo confiança, prudência e abertura aos caminhos do Senhor.\n\nConclua dizendo: Senhor, eu creio na vossa Providência; ensinai-me a confiar e a fazer minha parte com fidelidade. Amém.",
+      "explicacao": "Oração devocional composta para favorecer recolhimento, confiança e vida espiritual católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "rosario-tercos",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "terço da providencia guia breve"
+      ]
+    },
+    {
+      "id": "terco-sagrada-familia",
+      "titulo": "Terço da Sagrada Família — guia breve",
+      "categoria": "rosario",
+      "tipo": "oracao",
+      "tags": [
+        "terço",
+        "sagrada família",
+        "família"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Pelas famílias, casamentos, filhos e reconciliações.",
+      "texto": "Guia breve para rezar pela família.\n\nEm cada dezena, contemple uma virtude da Sagrada Família: fé, obediência, trabalho, silêncio e amor. Apresente sua casa a Jesus, Maria e José.\n\nConclua pedindo paz, proteção, diálogo e fidelidade para todos os lares. Amém.",
+      "explicacao": "Oração devocional composta para favorecer recolhimento, confiança e vida espiritual católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "rosario-tercos",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "terço da sagrada familia guia breve"
+      ]
+    },
+    {
+      "id": "terco-espirito-santo",
+      "titulo": "Terço do Espírito Santo — guia breve",
+      "categoria": "rosario",
+      "tipo": "oracao",
+      "tags": [
+        "terço",
+        "espírito santo",
+        "dons"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para discernimento, decisões, missão e renovação espiritual.",
+      "texto": "Guia breve para invocar o Espírito Santo.\n\nInicie pedindo luz e docilidade. Em cada dezena, peça um dom: sabedoria, entendimento, conselho, fortaleza, ciência, piedade e temor de Deus.\n\nConclua: Vinde, Espírito Santo, renovai meu coração e conduzi-me à vontade do Pai. Amém.",
+      "explicacao": "Oração devocional composta para favorecer recolhimento, confiança e vida espiritual católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "rosario-tercos",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "terco do espirito guia breve",
+        "terço do espirito santo guia breve"
+      ]
+    },
+    {
+      "id": "rosario-pelos-filhos",
+      "titulo": "Rosário pelos filhos — intenção breve",
+      "categoria": "rosario",
+      "tipo": "guia",
+      "tags": [
+        "rosário",
+        "filhos",
+        "família"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Guia devocional do Lectio",
+      "quando_rezar": "Para rezar uma intenção específica usando a estrutura do terço ou do rosário.",
+      "texto": "Ofereça cada mistério pelos filhos, pedindo que conheçam Cristo, sejam guardados no bem, permaneçam na fé e encontrem bons caminhos. Ao final, reze uma Salve Rainha e consagre sua família a Nossa Senhora.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "santo-rosario",
+        "ave-maria",
+        "pai-nosso"
+      ],
+      "duracao": "guiada",
+      "curadoria": {
+        "selo": "Guia devocional",
+        "familia": "rosario-tercos",
+        "uso": "oração guiada",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "rosário pelos filhos intencao breve"
+      ]
+    },
+    {
+      "id": "rosario-pela-familia",
+      "titulo": "Rosário pela família — intenção breve",
+      "categoria": "rosario",
+      "tipo": "guia",
+      "tags": [
+        "rosário",
+        "família",
+        "paz"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Guia devocional do Lectio",
+      "quando_rezar": "Para rezar uma intenção específica usando a estrutura do terço ou do rosário.",
+      "texto": "Reze o Rosário apresentando cada pessoa da família. Em cada mistério, peça cura, perdão, unidade e fidelidade a Deus dentro do lar.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "santo-rosario",
+        "ave-maria",
+        "pai-nosso"
+      ],
+      "duracao": "guiada",
+      "curadoria": {
+        "selo": "Guia devocional",
+        "familia": "rosario-tercos",
+        "uso": "oração guiada",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "rosário pela familia intencao breve"
+      ]
+    },
+    {
+      "id": "rosario-pelos-enfermos",
+      "titulo": "Rosário pelos enfermos — intenção breve",
+      "categoria": "rosario",
+      "tipo": "guia",
+      "tags": [
+        "rosário",
+        "enfermos",
+        "cura"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Guia devocional do Lectio",
+      "quando_rezar": "Para rezar uma intenção específica usando a estrutura do terço ou do rosário.",
+      "texto": "Ofereça cada dezena por uma pessoa enferma, pelos médicos, cuidadores e familiares, pedindo força, fé e consolação.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "santo-rosario",
+        "ave-maria",
+        "pai-nosso"
+      ],
+      "duracao": "guiada",
+      "curadoria": {
+        "selo": "Guia devocional",
+        "familia": "rosario-tercos",
+        "uso": "oração guiada",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "rosário pelos enfermos intencao breve"
+      ]
+    },
+    {
+      "id": "rosario-pelas-almas",
+      "titulo": "Rosário pelas almas do purgatório — intenção breve",
+      "categoria": "rosario",
+      "tipo": "guia",
+      "tags": [
+        "rosário",
+        "purgatório",
+        "falecidos"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Guia devocional do Lectio",
+      "quando_rezar": "Para rezar uma intenção específica usando a estrutura do terço ou do rosário.",
+      "texto": "Ofereça o Rosário pelas almas do purgatório, especialmente as mais esquecidas, pedindo que a misericórdia de Deus as conduza à luz eterna.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "santo-rosario",
+        "ave-maria",
+        "pai-nosso"
+      ],
+      "duracao": "guiada",
+      "curadoria": {
+        "selo": "Guia devocional",
+        "familia": "rosario-tercos",
+        "uso": "oração guiada",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "rosário pelas almas do purgatorio intencao breve"
+      ]
+    },
+    {
+      "id": "terco-das-lagrimas-maria",
+      "titulo": "Terço das Lágrimas de Maria — guia breve",
+      "categoria": "rosario",
+      "tipo": "guia",
+      "tags": [
+        "terço",
+        "maria",
+        "lágrimas"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Guia devocional do Lectio",
+      "quando_rezar": "Para rezar uma intenção específica usando a estrutura do terço ou do rosário.",
+      "texto": "Guia devocional breve: ofereça cada dezena contemplando as dores de Maria e peça um coração compassivo diante dos sofrimentos de Cristo e dos irmãos.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "santo-rosario",
+        "ave-maria",
+        "pai-nosso"
+      ],
+      "duracao": "guiada",
+      "curadoria": {
+        "selo": "Guia devocional",
+        "familia": "rosario-tercos",
+        "uso": "oração guiada",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "terço das lagrimas de maria guia breve"
+      ]
+    },
+    {
+      "id": "terco-da-libertacao-interior",
+      "titulo": "Terço da libertação interior — guia breve",
+      "categoria": "rosario",
+      "tipo": "guia",
+      "tags": [
+        "terço",
+        "cura interior",
+        "libertação"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Guia devocional do Lectio",
+      "quando_rezar": "Para rezar uma intenção específica usando a estrutura do terço ou do rosário.",
+      "texto": "Guia breve para rezar pedindo que Cristo cure feridas, liberte do medo, rompa cadeias interiores e conduza o coração à paz.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "santo-rosario",
+        "ave-maria",
+        "pai-nosso"
+      ],
+      "duracao": "guiada",
+      "curadoria": {
+        "selo": "Guia devocional",
+        "familia": "rosario-tercos",
+        "uso": "oração guiada",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "terço da libertacao interior guia breve"
+      ]
+    },
+    {
+      "id": "terco-da-paz",
+      "titulo": "Terço pela paz — guia breve",
+      "categoria": "rosario",
+      "tipo": "guia",
+      "tags": [
+        "terço",
+        "paz",
+        "mundo"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Guia devocional do Lectio",
+      "quando_rezar": "Para rezar uma intenção específica usando a estrutura do terço ou do rosário.",
+      "texto": "Ofereça cada dezena por uma dimensão da paz: coração, família, Igreja, país e mundo. Conclua pedindo a intercessão de Nossa Senhora Rainha da Paz.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "santo-rosario",
+        "ave-maria",
+        "pai-nosso"
+      ],
+      "duracao": "guiada",
+      "curadoria": {
+        "selo": "Guia devocional",
+        "familia": "rosario-tercos",
+        "uso": "oração guiada",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "terço pela paz guia breve"
+      ]
+    },
+    {
+      "id": "terco-dos-anjos-da-guarda",
+      "titulo": "Terço dos Anjos da Guarda — guia breve",
+      "categoria": "rosario",
+      "tipo": "guia",
+      "tags": [
+        "terço",
+        "anjos",
+        "proteção"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Guia devocional do Lectio",
+      "quando_rezar": "Para rezar uma intenção específica usando a estrutura do terço ou do rosário.",
+      "texto": "Guia breve para pedir a proteção dos Anjos da Guarda sobre a família, a casa, o trabalho, as viagens e a vida espiritual.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "santo-rosario",
+        "ave-maria",
+        "pai-nosso"
+      ],
+      "duracao": "guiada",
+      "curadoria": {
+        "selo": "Guia devocional",
+        "familia": "rosario-tercos",
+        "uso": "oração guiada",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "terço dos anjos da guarda guia breve"
+      ]
+    },
+    {
+      "id": "terco-pelas-vocacoes",
+      "titulo": "Terço pelas vocações — guia breve",
+      "categoria": "rosario",
+      "tipo": "guia",
+      "tags": [
+        "terço",
+        "vocações",
+        "igreja",
+        "jovens"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para rezar pedindo santas vocações para a Igreja.",
+      "texto": "Oferecimento: Senhor, ofereço este terço pelas vocações sacerdotais, religiosas, matrimoniais e missionárias.\n\nEm cada mistério, apresente a Deus os jovens, as famílias e todos os que precisam discernir seu chamado. Ao fim de cada dezena, reze: Senhor da messe, enviai operários para a vossa vinha.\n\nConclua confiando as vocações ao Imaculado Coração de Maria. Amém.",
+      "explicacao": "Guia breve para rezar o terço com intenção vocacional.",
+      "relacionados": [],
+      "duracao": "guiada",
+      "curadoria": {
+        "selo": "Guia devocional",
+        "familia": "rosario-tercos",
+        "uso": "oração guiada",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "terço pelas vocacoes guia breve"
+      ]
+    },
+    {
+      "id": "terco-pelos-enfermos",
+      "titulo": "Terço pelos enfermos — guia breve",
+      "categoria": "rosario",
+      "tipo": "guia",
+      "tags": [
+        "terço",
+        "enfermos",
+        "cura",
+        "maria"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para rezar por pessoas doentes e seus cuidadores.",
+      "texto": "Oferecimento: Mãe Santíssima, ofereço este terço pelos enfermos, pelos que sofrem em silêncio e por quem cuida deles.\n\nEm cada mistério, apresente uma pessoa ou situação concreta. Após cada dezena, reze: Jesus, médico das almas e dos corpos, tende piedade de nós.\n\nConclua pedindo paz, força e esperança para todos os doentes. Amém.",
+      "explicacao": "Guia breve para rezar o terço pelos enfermos.",
+      "relacionados": [],
+      "duracao": "guiada",
+      "curadoria": {
+        "selo": "Guia devocional",
+        "familia": "rosario-tercos",
+        "uso": "oração guiada",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "terço pelos enfermos guia breve"
+      ]
+    },
+    {
+      "id": "terco-pela-paz-nas-familias",
+      "titulo": "Terço pela paz nas famílias — guia breve",
+      "categoria": "rosario",
+      "tipo": "guia",
+      "tags": [
+        "terço",
+        "família",
+        "paz",
+        "reconciliação"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para rezar por lares feridos, casamentos e filhos.",
+      "texto": "Oferecimento: Senhor Jesus, por intercessão de Maria, ofereço este terço pela paz nas famílias.\n\nEm cada mistério, entregue uma família, uma ferida ou uma reconciliação necessária. Após cada dezena, reze: Jesus, manso e humilde de coração, fazei nossa casa semelhante à vossa.\n\nConclua pedindo perdão, diálogo e amor fiel. Amém.",
+      "explicacao": "Guia breve para rezar o terço pela família.",
+      "relacionados": [],
+      "duracao": "guiada",
+      "curadoria": {
+        "selo": "Guia devocional",
+        "familia": "rosario-tercos",
+        "uso": "oração guiada",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "terço pela paz nas familias guia breve"
+      ]
+    }
+  ]
+}

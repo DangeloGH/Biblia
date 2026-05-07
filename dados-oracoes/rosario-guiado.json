@@ -1,0 +1,46 @@
+{
+  "schema": 1,
+  "updated": "2026-05-05",
+  "title": "Rosário guiado Lectio",
+  "description": "Estrutura interativa do Santo Rosário, com mistérios automáticos por dia da semana, contador de contas e progresso local.",
+  "default_by_weekday": { "0": "gloriosos", "1": "gozosos", "2": "dolorosos", "3": "gloriosos", "4": "luminosos", "5": "dolorosos", "6": "gozosos" },
+  "prayers": {
+    "sinal_da_cruz": { "title": "Sinal da Cruz", "text": "Pelo sinal da Santa Cruz, livrai-nos, Deus, Nosso Senhor, dos nossos inimigos. Em nome do Pai, do Filho e do Espírito Santo. Amém." },
+    "credo": { "title": "Credo dos Apóstolos", "text": "Creio em Deus Pai todo-poderoso, criador do céu e da terra; e em Jesus Cristo, seu único Filho, nosso Senhor; que foi concebido pelo poder do Espírito Santo; nasceu da Virgem Maria; padeceu sob Pôncio Pilatos, foi crucificado, morto e sepultado; desceu à mansão dos mortos; ressuscitou ao terceiro dia; subiu aos céus; está sentado à direita de Deus Pai todo-poderoso, donde há de vir a julgar os vivos e os mortos.\n\nCreio no Espírito Santo; na Santa Igreja Católica; na comunhão dos santos; na remissão dos pecados; na ressurreição da carne; na vida eterna. Amém." },
+    "pai_nosso": { "title": "Pai-Nosso", "text": "Pai nosso que estais nos céus, santificado seja o vosso nome; venha a nós o vosso Reino; seja feita a vossa vontade, assim na terra como no céu.\n\nO pão nosso de cada dia nos dai hoje; perdoai-nos as nossas ofensas, assim como nós perdoamos a quem nos tem ofendido; e não nos deixeis cair em tentação, mas livrai-nos do mal. Amém." },
+    "ave_maria": { "title": "Ave-Maria", "text": "Ave Maria, cheia de graça, o Senhor é convosco; bendita sois vós entre as mulheres, e bendito é o fruto do vosso ventre, Jesus.\n\nSanta Maria, Mãe de Deus, rogai por nós, pecadores, agora e na hora de nossa morte. Amém." },
+    "gloria": { "title": "Glória ao Pai", "text": "Glória ao Pai, ao Filho e ao Espírito Santo.\n\nComo era no princípio, agora e sempre. Amém." },
+    "fatima": { "title": "Ó meu Jesus", "text": "Ó meu Jesus, perdoai-nos, livrai-nos do fogo do inferno, levai as almas todas para o céu e socorrei principalmente as que mais precisarem. Amém." },
+    "salve_rainha": { "title": "Salve Rainha", "text": "Salve, Rainha, Mãe de misericórdia, vida, doçura e esperança nossa, salve!\n\nA vós bradamos, os degredados filhos de Eva; a vós suspiramos, gemendo e chorando neste vale de lágrimas.\n\nEia, pois, advogada nossa, esses vossos olhos misericordiosos a nós volvei; e depois deste desterro, mostrai-nos Jesus, bendito fruto do vosso ventre.\n\nÓ clemente, ó piedosa, ó doce sempre Virgem Maria. Rogai por nós, santa Mãe de Deus, para que sejamos dignos das promessas de Cristo. Amém." }
+  },
+  "mystery_sets": {
+    "gozosos": { "title": "Mistérios Gozosos", "days": "Segunda-feira e sábado", "tone": "alegria humilde, infância de Jesus e confiança de Maria", "mysteries": [
+      { "title": "A Anunciação do Anjo a Maria", "meditation": "Contemple Maria acolhendo a vontade de Deus com humildade e fé.", "reference": "Lc 1,26-38" },
+      { "title": "A Visitação de Maria a Isabel", "meditation": "Contemple a caridade que se apressa para servir e levar Cristo ao outro.", "reference": "Lc 1,39-56" },
+      { "title": "O Nascimento de Jesus", "meditation": "Contemple o Verbo feito carne na pobreza de Belém.", "reference": "Lc 2,1-20" },
+      { "title": "A Apresentação de Jesus no Templo", "meditation": "Contemple a entrega de Jesus ao Pai e a fidelidade da Sagrada Família.", "reference": "Lc 2,22-35" },
+      { "title": "O Encontro de Jesus no Templo", "meditation": "Contemple o coração que procura Jesus e o reencontra na casa do Pai.", "reference": "Lc 2,41-52" }
+    ]},
+    "luminosos": { "title": "Mistérios Luminosos", "days": "Quinta-feira", "tone": "luz, missão pública de Cristo e revelação do Reino", "mysteries": [
+      { "title": "O Batismo de Jesus no Jordão", "meditation": "Contemple Cristo que entra nas águas e revela o amor do Pai.", "reference": "Mt 3,13-17" },
+      { "title": "As Bodas de Caná", "meditation": "Contemple Maria conduzindo os servos à obediência: fazei tudo o que Ele vos disser.", "reference": "Jo 2,1-12" },
+      { "title": "O Anúncio do Reino de Deus", "meditation": "Contemple Jesus chamando à conversão e à confiança no Evangelho.", "reference": "Mc 1,14-15" },
+      { "title": "A Transfiguração do Senhor", "meditation": "Contemple a glória de Cristo que fortalece os discípulos para a cruz.", "reference": "Mt 17,1-8" },
+      { "title": "A Instituição da Eucaristia", "meditation": "Contemple Jesus que se entrega como alimento e permanece com a Igreja.", "reference": "Lc 22,14-20" }
+    ]},
+    "dolorosos": { "title": "Mistérios Dolorosos", "days": "Terça-feira e sexta-feira", "tone": "paixão, silêncio, reparação e amor levado até a cruz", "mysteries": [
+      { "title": "A Agonia de Jesus no Horto", "meditation": "Contemple Jesus em oração, entregando sua vontade ao Pai.", "reference": "Mt 26,36-46" },
+      { "title": "A Flagelação de Jesus", "meditation": "Contemple o Cordeiro inocente que sofre por amor e permanece manso.", "reference": "Jo 19,1" },
+      { "title": "A Coroação de Espinhos", "meditation": "Contemple Cristo humilhado, Rei manso, ferido pela soberba humana.", "reference": "Mt 27,27-31" },
+      { "title": "Jesus Carrega a Cruz", "meditation": "Contemple o Senhor caminhando com a cruz e sustentando todos os que sofrem.", "reference": "Lc 23,26-32" },
+      { "title": "A Crucifixão e Morte de Jesus", "meditation": "Contemple o amor extremo de Cristo que entrega a vida pela salvação do mundo.", "reference": "Jo 19,17-37" }
+    ]},
+    "gloriosos": { "title": "Mistérios Gloriosos", "days": "Quarta-feira e domingo", "tone": "ressurreição, esperança, Igreja e vitória de Cristo", "mysteries": [
+      { "title": "A Ressurreição de Jesus", "meditation": "Contemple Cristo vivo, vencedor da morte e fonte da nossa esperança.", "reference": "Mt 28,1-10" },
+      { "title": "A Ascensão do Senhor", "meditation": "Contemple Jesus que sobe ao Pai e envia a Igreja em missão.", "reference": "At 1,6-11" },
+      { "title": "A Vinda do Espírito Santo", "meditation": "Contemple o Espírito inflamando a Igreja para testemunhar o Evangelho.", "reference": "At 2,1-13" },
+      { "title": "A Assunção de Nossa Senhora", "meditation": "Contemple Maria elevada à glória, sinal de esperança para a Igreja.", "reference": "Tradição da Igreja" },
+      { "title": "A Coroação de Maria", "meditation": "Contemple Maria, Rainha do Céu, intercedendo por seus filhos.", "reference": "Tradição da Igreja" }
+    ]}
+  }
+}

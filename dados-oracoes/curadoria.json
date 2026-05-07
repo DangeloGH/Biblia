@@ -1,0 +1,72 @@
+{
+  "schema": 1,
+  "title": "Curadoria do Devocionário Lectio",
+  "updated": "2026-05-06",
+  "description": "Documento técnico de organização do conteúdo devocional. Não substitui fontes oficiais da Igreja; serve para classificar e melhorar a experiência de navegação.",
+  "principios": [
+    "Manter orações tradicionais identificadas como tradicionais.",
+    "Identificar composições próprias do Lectio como Texto Lectio.",
+    "Evitar misturar textos modernos protegidos sem fonte e autorização.",
+    "Organizar por duração, uso espiritual, família devocional e intenção."
+  ],
+  "duracoes": {
+    "breve": "Até cerca de 70 palavras; ideal para rezar rapidamente.",
+    "media": "Entre cerca de 71 e 180 palavras; leitura orante comum.",
+    "longa": "Mais de 180 palavras; exige leitura mais calma.",
+    "guiada": "Roteiro ou guia devocional com passos.",
+    "novena": "Caminho devocional de nove dias."
+  },
+  "familias": {
+    "formulas-da-igreja": "Orações básicas, credos, atos e fórmulas comuns.",
+    "jesus-e-eucaristia": "Orações a Jesus, Sagrado Coração, Eucaristia e adoração.",
+    "maria": "Orações marianas e devoções a Nossa Senhora.",
+    "santos": "Intercessão dos santos.",
+    "anjos-e-arcanjos": "Anjos da guarda e arcanjos.",
+    "rosario-tercos": "Rosário, terços e mistérios.",
+    "ladainhas": "Ladainhas e invocações repetitivas.",
+    "novenas": "Novenas e caminhos de 9 dias.",
+    "liturgia-sacramentos": "Missa, confissão, comunhão e sacramentos.",
+    "intencoes": "Necessidades concretas da vida cotidiana."
+  },
+  "contagem": {
+    "categoria": {
+      "anjos": 35,
+      "essenciais": 47,
+      "intencoes": 93,
+      "jesus": 54,
+      "ladainhas": 26,
+      "liturgicas": 32,
+      "maria": 57,
+      "novenas": 21,
+      "rosario": 20,
+      "santos": 161
+    },
+    "duracao": {
+      "breve": 399,
+      "media": 110,
+      "longa": 1,
+      "novena": 21,
+      "guiada": 15
+    },
+    "fonte": {
+      "lectio": 502,
+      "tradicional": 35,
+      "liturgico": 2,
+      "biblico": 2,
+      "Jaculatória tradicional": 1,
+      "devocional": 4
+    },
+    "familia": {
+      "anjos-e-arcanjos": 40,
+      "ladainhas": 26,
+      "jesus-e-eucaristia": 78,
+      "rosario-tercos": 40,
+      "liturgia-sacramentos": 31,
+      "santos": 148,
+      "formulas-da-igreja": 20,
+      "maria": 69,
+      "intencoes": 73,
+      "novenas": 21
+    }
+  }
+}

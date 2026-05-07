@@ -1,0 +1,942 @@
+{
+  "id": "liturgicas",
+  "title": "Orações litúrgicas e sacramentais",
+  "items": [
+    {
+      "id": "antes-da-missa",
+      "titulo": "Antes da Missa",
+      "categoria": "liturgicas",
+      "tipo": "oracao",
+      "tags": [
+        "missa",
+        "eucaristia",
+        "recolhimento",
+        "liturgia"
+      ],
+      "momento": [
+        "missa"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Antes da celebração da Missa, para preparar o coração.",
+      "texto": "Senhor, estou diante do mistério da vossa presença e do sacrifício de Cristo.\n\nAjudai-me a participar desta Missa com fé, atenção e reverência. Que eu não esteja apenas presente com o corpo, mas também com o coração.\n\nRecebei minhas intenções, purificai meus pensamentos e ensinai-me a ouvir a vossa Palavra. Amém.",
+      "explicacao": "Oração de preparação para viver a Missa com recolhimento e participação interior.",
+      "relacionados": [
+        "comunhao-espiritual",
+        "depois-da-comunhao",
+        "alma-de-cristo"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "jesus-e-eucaristia",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "depois-da-comunhao",
+      "titulo": "Depois da Comunhão",
+      "categoria": "liturgicas",
+      "tipo": "oracao",
+      "tags": [
+        "comunhão",
+        "eucaristia",
+        "agradecimento",
+        "missa"
+      ],
+      "momento": [
+        "comunhao",
+        "missa"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Após receber a Sagrada Comunhão ou após uma comunhão espiritual.",
+      "texto": "Senhor Jesus, eu vos agradeço porque viestes ao meu encontro.\n\nPermanecei comigo, purificai meu coração e fazei que eu leve para a vida aquilo que recebi neste mistério.\n\nQue a comunhão convosco me torne mais humilde, mais paciente, mais caridoso e mais fiel. Amém.",
+      "explicacao": "Oração de ação de graças após a comunhão, pedindo que a Eucaristia transforme a vida.",
+      "relacionados": [
+        "alma-de-cristo",
+        "comunhao-espiritual",
+        "diante-do-santissimo"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "jesus-e-eucaristia",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "antes-da-confissao",
+      "titulo": "Antes da Confissão",
+      "categoria": "liturgicas",
+      "tipo": "oracao",
+      "tags": [
+        "confissão",
+        "perdão",
+        "arrependimento",
+        "sacramento"
+      ],
+      "momento": [
+        "confissao"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Antes do sacramento da Reconciliação, para pedir humildade e verdade.",
+      "texto": "Senhor, dai-me luz para reconhecer meus pecados com sinceridade e sem medo.\n\nAfastai de mim a desculpa, a dureza e o orgulho. Dai-me arrependimento verdadeiro, confiança na vossa misericórdia e desejo sincero de recomeçar.\n\nConduzi-me à confissão como filho que volta para casa. Amém.",
+      "explicacao": "Oração para preparar a consciência e o coração antes da confissão sacramental.",
+      "relacionados": [
+        "ato-contricao",
+        "exame-de-consciencia",
+        "oracao-perdao"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "jesus-e-eucaristia",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "exame-de-consciencia",
+      "titulo": "Exame de consciência breve",
+      "categoria": "liturgicas",
+      "tipo": "guia",
+      "tags": [
+        "noite",
+        "confissão",
+        "consciência",
+        "conversão"
+      ],
+      "momento": [
+        "noite",
+        "confissao"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Guia devocional do Lectio",
+      "quando_rezar": "À noite ou antes da confissão, em silêncio e honestidade diante de Deus.",
+      "texto": "Coloque-se na presença de Deus e pergunte com calma:\n\nHoje eu amei a Deus acima das minhas distrações?\nFui paciente com as pessoas?\nUsei bem minhas palavras?\nGuardei ressentimento?\nFui justo no trabalho, nos estudos e nas responsabilidades?\nProcurei o bem ou apenas minha vontade?\n\nDepois, agradeça pelo bem recebido, peça perdão pelas faltas e reze o Ato de Contrição.",
+      "explicacao": "Pequeno roteiro para revisar o dia com gratidão, arrependimento e desejo de conversão.",
+      "relacionados": [
+        "ato-contricao",
+        "oracao-da-noite",
+        "antes-da-confissao"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Guia devocional",
+        "familia": "liturgia-sacramentos",
+        "uso": "oração guiada",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "antes-da-comunhao",
+      "titulo": "Antes da Comunhão",
+      "categoria": "liturgicas",
+      "tipo": "oracao",
+      "tags": [
+        "comunhão",
+        "missa",
+        "eucaristia"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para rezar em relação aos sacramentos, à Missa e à vida litúrgica.",
+      "texto": "Senhor Jesus, eu me aproximo de vós com fé e humildade. Não sou digno de que entreis em minha morada, mas dizei uma só palavra e serei salvo. Preparai meu coração para vos receber com amor. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "jesus-e-eucaristia",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "depois-da-missa",
+      "titulo": "Depois da Missa",
+      "categoria": "liturgicas",
+      "tipo": "oracao",
+      "tags": [
+        "missa",
+        "ação de graças",
+        "envio"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para rezar em relação aos sacramentos, à Missa e à vida litúrgica.",
+      "texto": "Senhor, obrigado por esta Missa e por tudo o que recebi. Que a vossa Palavra permaneça em mim, que a Eucaristia frutifique em minha vida e que eu volte para casa disposto a amar e servir. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "liturgia-sacramentos",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "visita-ao-santissimo",
+      "titulo": "Visita ao Santíssimo Sacramento",
+      "categoria": "liturgicas",
+      "tipo": "oracao",
+      "tags": [
+        "santíssimo",
+        "adoração",
+        "eucaristia"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para rezar em relação aos sacramentos, à Missa e à vida litúrgica.",
+      "texto": "Jesus presente no Santíssimo Sacramento, eu vos adoro com fé. Aqui estou diante de vós, pobre e necessitado. Recebei minha gratidão, minhas dores e minhas intenções. Ficai comigo, Senhor. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "jesus-e-eucaristia",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "pelas-almas-purgatorio",
+      "titulo": "Pelas almas do purgatório",
+      "categoria": "liturgicas",
+      "tipo": "oracao",
+      "tags": [
+        "purgatório",
+        "fiéis defuntos",
+        "misericórdia"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para rezar em relação aos sacramentos, à Missa e à vida litúrgica.",
+      "texto": "Senhor de misericórdia, acolhei as almas dos fiéis defuntos e purificai-as no vosso amor. Concedei-lhes o descanso eterno e fazei brilhar para elas a vossa luz. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "liturgia-sacramentos",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "oracao-antes-da-lectio-divina",
+      "titulo": "Antes da Lectio Divina",
+      "categoria": "liturgicas",
+      "tipo": "oracao",
+      "tags": [
+        "lectio divina",
+        "bíblia",
+        "espírito santo"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Em momentos de oração pessoal e devoção católica.",
+      "texto": "Senhor, vou me aproximar da vossa Palavra. Dai-me silêncio, atenção e docilidade. Que eu leia com fé, medite com verdade, reze com amor e contemple com humildade aquilo que desejais falar ao meu coração. Amém.",
+      "explicacao": "Oração devocional composta para favorecer recolhimento, confiança e vida espiritual católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "liturgia-sacramentos",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "oracao-depois-da-lectio-divina",
+      "titulo": "Depois da Lectio Divina",
+      "categoria": "liturgicas",
+      "tipo": "oracao",
+      "tags": [
+        "lectio divina",
+        "oração",
+        "palavra"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Em momentos de oração pessoal e devoção católica.",
+      "texto": "Senhor, obrigado pela Palavra que recebi. Guardai-a em meu coração e fazei que ela produza frutos em minhas escolhas, palavras e atitudes. Que eu não seja apenas ouvinte, mas praticante do Evangelho. Amém.",
+      "explicacao": "Oração devocional composta para favorecer recolhimento, confiança e vida espiritual católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "liturgia-sacramentos",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "oracao-antes-da-leitura-biblica",
+      "titulo": "Antes da leitura bíblica",
+      "categoria": "liturgicas",
+      "tipo": "oracao",
+      "tags": [
+        "bíblia",
+        "leitura",
+        "palavra"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Em momentos de oração pessoal e devoção católica.",
+      "texto": "Espírito Santo, abri meus ouvidos e meu coração para a Sagrada Escritura. Que eu leia com respeito, compreenda com humildade e acolha a Palavra como luz para minha vida. Amém.",
+      "explicacao": "Oração devocional composta para favorecer recolhimento, confiança e vida espiritual católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "liturgia-sacramentos",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "oracao-depois-da-confissao",
+      "titulo": "Depois da Confissão",
+      "categoria": "liturgicas",
+      "tipo": "oracao",
+      "tags": [
+        "confissão",
+        "perdão",
+        "misericórdia"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Em momentos de oração pessoal e devoção católica.",
+      "texto": "Senhor, obrigado pelo vosso perdão. Ajudai-me a recomeçar com humildade, reparar o que for possível e fugir das ocasiões de pecado. Que a vossa misericórdia transforme minha vida. Amém.",
+      "explicacao": "Oração devocional composta para favorecer recolhimento, confiança e vida espiritual católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "liturgia-sacramentos",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "oracao-pela-santa-missa",
+      "titulo": "Pela Santa Missa",
+      "categoria": "liturgicas",
+      "tipo": "oracao",
+      "tags": [
+        "missa",
+        "eucaristia",
+        "igreja"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Em momentos de oração pessoal e devoção católica.",
+      "texto": "Senhor, fazei-me participar da Santa Missa com fé, atenção e amor. Que eu una minha vida ao sacrifício de Cristo e receba a graça de sair da celebração mais disposto a servir. Amém.",
+      "explicacao": "Oração devocional composta para favorecer recolhimento, confiança e vida espiritual católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "jesus-e-eucaristia",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "pela missa"
+      ]
+    },
+    {
+      "id": "oracao-para-comungar-bem",
+      "titulo": "Para comungar bem",
+      "categoria": "liturgicas",
+      "tipo": "oracao",
+      "tags": [
+        "comunhão",
+        "eucaristia",
+        "missa"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Em momentos de oração pessoal e devoção católica.",
+      "texto": "Jesus Eucarístico, preparai meu coração para vos receber. Aumentai minha fé, purificai minhas intenções e fazei que a comunhão produza em mim frutos de amor, conversão e paz. Amém.",
+      "explicacao": "Oração devocional composta para favorecer recolhimento, confiança e vida espiritual católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "jesus-e-eucaristia",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "oracao-pela-liturgia-do-dia",
+      "titulo": "Pela Liturgia do dia",
+      "categoria": "liturgicas",
+      "tipo": "oracao",
+      "tags": [
+        "liturgia",
+        "evangelho do dia",
+        "igreja"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Em momentos de oração pessoal e devoção católica.",
+      "texto": "Senhor, que a liturgia de hoje forme meu coração. Ajudai-me a escutar o Evangelho com atenção, unir-me à oração da Igreja e viver durante o dia aquilo que celebro na fé. Amém.",
+      "explicacao": "Oração devocional composta para favorecer recolhimento, confiança e vida espiritual católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "liturgia-sacramentos",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "oracao-pelo-santo-padre",
+      "titulo": "Pelo Santo Padre",
+      "categoria": "liturgicas",
+      "tipo": "oracao",
+      "tags": [
+        "papa",
+        "igreja",
+        "pastor"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Em momentos de oração pessoal e devoção católica.",
+      "texto": "Senhor Jesus, guardai o Santo Padre. Dai-lhe sabedoria, coragem, saúde e fidelidade para confirmar os irmãos na fé e conduzir a Igreja na caridade e na verdade. Amém.",
+      "explicacao": "Oração devocional composta para favorecer recolhimento, confiança e vida espiritual católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "liturgia-sacramentos",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "pelo padre"
+      ]
+    },
+    {
+      "id": "oracao-pelos-bispos",
+      "titulo": "Pelos bispos",
+      "categoria": "liturgicas",
+      "tipo": "oracao",
+      "tags": [
+        "bispos",
+        "igreja",
+        "pastores"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Em momentos de oração pessoal e devoção católica.",
+      "texto": "Senhor, abençoai os bispos da vossa Igreja. Que sejam pastores segundo o vosso coração, firmes na fé, humildes no serviço e atentos ao povo que lhes foi confiado. Amém.",
+      "explicacao": "Oração devocional composta para favorecer recolhimento, confiança e vida espiritual católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "liturgia-sacramentos",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "oracao-pelas-vocacoes",
+      "titulo": "Pelas vocações",
+      "categoria": "liturgicas",
+      "tipo": "oracao",
+      "tags": [
+        "vocação",
+        "sacerdotes",
+        "religiosos"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Em momentos de oração pessoal e devoção católica.",
+      "texto": "Senhor da messe, chamai operários para a vossa vinha. Despertai vocações sacerdotais, religiosas, missionárias, matrimoniais e leigas santas. Dai aos chamados coragem para responder com generosidade. Amém.",
+      "explicacao": "Oração devocional composta para favorecer recolhimento, confiança e vida espiritual católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "liturgia-sacramentos",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "oracao-para-rezar-antes-do-oficio-divino",
+      "titulo": "Para rezar antes do Ofício Divino",
+      "categoria": "liturgicas",
+      "tipo": "oracao",
+      "tags": [
+        "liturgia",
+        "liturgia das horas",
+        "salmos",
+        "ofício"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para preparar ou concluir momentos ligados a a Liturgia das Horas.",
+      "texto": "Senhor, preparai meu coração para viver a Liturgia das Horas com fé e reverência. Que eu não me aproxime das coisas santas de modo distraído, mas com amor, silêncio interior e desejo de conversão.\n\nEnsinai-me a escutar a vossa Palavra, participar da oração da Igreja e oferecer minha vida unida ao sacrifício de Cristo. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "antes-da-missa",
+        "depois-da-comunhao"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "liturgia-sacramentos",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "oracao-para-rezar-depois-do-oficio-divino",
+      "titulo": "Para rezar depois do Ofício Divino",
+      "categoria": "liturgicas",
+      "tipo": "oracao",
+      "tags": [
+        "liturgia",
+        "liturgia das horas",
+        "gratidão",
+        "salmos"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para preparar ou concluir momentos ligados a a conclusão da Liturgia das Horas.",
+      "texto": "Senhor, preparai meu coração para viver a conclusão da Liturgia das Horas com fé e reverência. Que eu não me aproxime das coisas santas de modo distraído, mas com amor, silêncio interior e desejo de conversão.\n\nEnsinai-me a escutar a vossa Palavra, participar da oração da Igreja e oferecer minha vida unida ao sacrifício de Cristo. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "antes-da-missa",
+        "depois-da-comunhao"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "liturgia-sacramentos",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "oracao-antes-da-adoracao-eucaristica",
+      "titulo": "Antes da Adoração Eucarística",
+      "categoria": "liturgicas",
+      "tipo": "oracao",
+      "tags": [
+        "liturgia",
+        "adoração",
+        "eucaristia",
+        "silêncio"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para preparar ou concluir momentos ligados a a adoração eucarística.",
+      "texto": "Senhor, preparai meu coração para viver a adoração eucarística com fé e reverência. Que eu não me aproxime das coisas santas de modo distraído, mas com amor, silêncio interior e desejo de conversão.\n\nEnsinai-me a escutar a vossa Palavra, participar da oração da Igreja e oferecer minha vida unida ao sacrifício de Cristo. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "antes-da-missa",
+        "depois-da-comunhao"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "jesus-e-eucaristia",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "oracao-depois-da-adoracao-eucaristica",
+      "titulo": "Depois da Adoração Eucarística",
+      "categoria": "liturgicas",
+      "tipo": "oracao",
+      "tags": [
+        "liturgia",
+        "adoração",
+        "gratidão",
+        "eucaristia"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para preparar ou concluir momentos ligados a a conclusão da adoração eucarística.",
+      "texto": "Senhor, preparai meu coração para viver a conclusão da adoração eucarística com fé e reverência. Que eu não me aproxime das coisas santas de modo distraído, mas com amor, silêncio interior e desejo de conversão.\n\nEnsinai-me a escutar a vossa Palavra, participar da oração da Igreja e oferecer minha vida unida ao sacrifício de Cristo. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "antes-da-missa",
+        "depois-da-comunhao"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "jesus-e-eucaristia",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "oracao-para-preparar-o-domingo",
+      "titulo": "Para preparar o Domingo",
+      "categoria": "liturgicas",
+      "tipo": "oracao",
+      "tags": [
+        "liturgia",
+        "domingo",
+        "missa",
+        "evangelho"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para preparar ou concluir momentos ligados a a preparação do Dia do Senhor.",
+      "texto": "Senhor, preparai meu coração para viver a preparação do Dia do Senhor com fé e reverência. Que eu não me aproxime das coisas santas de modo distraído, mas com amor, silêncio interior e desejo de conversão.\n\nEnsinai-me a escutar a vossa Palavra, participar da oração da Igreja e oferecer minha vida unida ao sacrifício de Cristo. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "antes-da-missa",
+        "depois-da-comunhao"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "liturgia-sacramentos",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "oracao-para-a-sexta-feira-da-paixao",
+      "titulo": "Para a Sexta-feira da Paixão",
+      "categoria": "liturgicas",
+      "tipo": "oracao",
+      "tags": [
+        "liturgia",
+        "sexta-feira",
+        "paixão",
+        "cruz"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para preparar ou concluir momentos ligados a a memória da Paixão do Senhor.",
+      "texto": "Senhor, preparai meu coração para viver a memória da Paixão do Senhor com fé e reverência. Que eu não me aproxime das coisas santas de modo distraído, mas com amor, silêncio interior e desejo de conversão.\n\nEnsinai-me a escutar a vossa Palavra, participar da oração da Igreja e oferecer minha vida unida ao sacrifício de Cristo. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "antes-da-missa",
+        "depois-da-comunhao"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "liturgia-sacramentos",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "oracao-para-o-tempo-do-advento",
+      "titulo": "Para o Tempo do Advento",
+      "categoria": "liturgicas",
+      "tipo": "oracao",
+      "tags": [
+        "liturgia",
+        "advento",
+        "espera",
+        "vinda"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para preparar ou concluir momentos ligados a a espera do Senhor no Advento.",
+      "texto": "Senhor, preparai meu coração para viver a espera do Senhor no Advento com fé e reverência. Que eu não me aproxime das coisas santas de modo distraído, mas com amor, silêncio interior e desejo de conversão.\n\nEnsinai-me a escutar a vossa Palavra, participar da oração da Igreja e oferecer minha vida unida ao sacrifício de Cristo. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "antes-da-missa",
+        "depois-da-comunhao"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "liturgia-sacramentos",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "oracao-para-o-tempo-do-natal",
+      "titulo": "Para o Tempo do Natal",
+      "categoria": "liturgicas",
+      "tipo": "oracao",
+      "tags": [
+        "liturgia",
+        "natal",
+        "encarnação",
+        "alegria"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para preparar ou concluir momentos ligados a a alegria da Encarnação.",
+      "texto": "Senhor, preparai meu coração para viver a alegria da Encarnação com fé e reverência. Que eu não me aproxime das coisas santas de modo distraído, mas com amor, silêncio interior e desejo de conversão.\n\nEnsinai-me a escutar a vossa Palavra, participar da oração da Igreja e oferecer minha vida unida ao sacrifício de Cristo. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "antes-da-missa",
+        "depois-da-comunhao"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "liturgia-sacramentos",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "oracao-para-o-tempo-da-quaresma",
+      "titulo": "Para o Tempo da Quaresma",
+      "categoria": "liturgicas",
+      "tipo": "oracao",
+      "tags": [
+        "liturgia",
+        "quaresma",
+        "penitência",
+        "conversão"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para preparar ou concluir momentos ligados a a conversão quaresmal.",
+      "texto": "Senhor, preparai meu coração para viver a conversão quaresmal com fé e reverência. Que eu não me aproxime das coisas santas de modo distraído, mas com amor, silêncio interior e desejo de conversão.\n\nEnsinai-me a escutar a vossa Palavra, participar da oração da Igreja e oferecer minha vida unida ao sacrifício de Cristo. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "antes-da-missa",
+        "depois-da-comunhao"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "liturgia-sacramentos",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "oracao-para-o-tempo-pascal",
+      "titulo": "Para o Tempo Pascal",
+      "categoria": "liturgicas",
+      "tipo": "oracao",
+      "tags": [
+        "liturgia",
+        "páscoa",
+        "ressurreição",
+        "alegria"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para preparar ou concluir momentos ligados a a alegria da Ressurreição.",
+      "texto": "Senhor, preparai meu coração para viver a alegria da Ressurreição com fé e reverência. Que eu não me aproxime das coisas santas de modo distraído, mas com amor, silêncio interior e desejo de conversão.\n\nEnsinai-me a escutar a vossa Palavra, participar da oração da Igreja e oferecer minha vida unida ao sacrifício de Cristo. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "antes-da-missa",
+        "depois-da-comunhao"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "liturgia-sacramentos",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "oracao-antes-da-via-sacra",
+      "titulo": "Antes da Via-Sacra",
+      "categoria": "liturgicas",
+      "tipo": "oracao",
+      "tags": [
+        "via-sacra",
+        "quaresma",
+        "cruz",
+        "paixão"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Antes de rezar a Via-Sacra.",
+      "texto": "Jesus, vou acompanhar vossos passos rumo à cruz. Dai-me um coração atento, sem curiosidade vazia nem sentimentalismo superficial.\n\nQue cada estação me converta, me faça reconhecer meus pecados e me ensine a amar como vós amastes. Amém.",
+      "explicacao": "Oração organizada para o Devocionário Lectio, com linguagem simples, reverente e fiel à espiritualidade católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "liturgia-sacramentos",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "oracao-depois-da-via-sacra",
+      "titulo": "Depois da Via-Sacra",
+      "categoria": "liturgicas",
+      "tipo": "oracao",
+      "tags": [
+        "via-sacra",
+        "cruz",
+        "paixão",
+        "conversão"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Depois de rezar a Via-Sacra.",
+      "texto": "Senhor Jesus, depois de contemplar vossa Paixão, não permitais que eu volte igual. Gravai em meu coração o preço do vosso amor e fazei-me rejeitar o pecado com decisão.\n\nQue a vossa cruz seja minha escola de fidelidade. Amém.",
+      "explicacao": "Oração organizada para o Devocionário Lectio, com linguagem simples, reverente e fiel à espiritualidade católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "liturgia-sacramentos",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "oracao-para-domingo",
+      "titulo": "Oração para o Domingo",
+      "categoria": "liturgicas",
+      "tipo": "oracao",
+      "tags": [
+        "domingo",
+        "ressurreição",
+        "missa",
+        "família"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "No domingo, especialmente antes ou depois da Missa.",
+      "texto": "Senhor ressuscitado, santificai este domingo. Que ele não seja apenas descanso do corpo, mas retorno da alma ao centro: vossa presença, vossa Palavra e vossa Eucaristia.\n\nAbençoai minha família e fazei deste dia uma memória viva da ressurreição. Amém.",
+      "explicacao": "Oração organizada para o Devocionário Lectio, com linguagem simples, reverente e fiel à espiritualidade católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "liturgia-sacramentos",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "oracao-para-sexta-feira",
+      "titulo": "Oração para a Sexta-feira",
+      "categoria": "liturgicas",
+      "tipo": "oracao",
+      "tags": [
+        "sexta-feira",
+        "paixão",
+        "cruz",
+        "penitência"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Às sextas-feiras, em memória da Paixão do Senhor.",
+      "texto": "Jesus crucificado, nesta sexta-feira uno meu coração ao vosso sacrifício. Dai-me espírito de penitência, humildade para reconhecer meus pecados e generosidade para amar mais.\n\nQue vossa cruz me ensine a viver com seriedade e esperança. Amém.",
+      "explicacao": "Oração organizada para o Devocionário Lectio, com linguagem simples, reverente e fiel à espiritualidade católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "liturgia-sacramentos",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    }
+  ]
+}

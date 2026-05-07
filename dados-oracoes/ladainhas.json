@@ -1,0 +1,761 @@
+{
+  "id": "ladainhas",
+  "title": "Ladainhas",
+  "items": [
+    {
+      "id": "ladainha-nossa-senhora-breve",
+      "titulo": "Ladainha de Nossa Senhora — forma breve",
+      "categoria": "ladainhas",
+      "tipo": "oracao",
+      "tags": [
+        "ladainha",
+        "maria",
+        "intercessão"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "tradicional",
+      "fonte_nome": "Forma breve inspirada na Ladainha Lauretana",
+      "quando_rezar": "Em devoção mariana, especialmente no mês de maio ou após o terço.",
+      "texto": "Santa Maria, rogai por nós. Santa Mãe de Deus, rogai por nós. Santa Virgem das virgens, rogai por nós.\n\nMãe de Cristo, rogai por nós. Mãe da Igreja, rogai por nós. Mãe da divina graça, rogai por nós. Mãe puríssima, rogai por nós.\n\nVirgem prudentíssima, rogai por nós. Sede da Sabedoria, rogai por nós. Causa da nossa alegria, rogai por nós. Refúgio dos pecadores, rogai por nós.\n\nConsoladora dos aflitos, rogai por nós. Auxílio dos cristãos, rogai por nós. Rainha do Santo Rosário, rogai por nós. Rainha da paz, rogai por nós. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [],
+      "duracao": "media",
+      "curadoria": {
+        "selo": "Tradicional",
+        "familia": "rosario-tercos",
+        "uso": "oração pessoal",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "ladainha de mae de deus forma breve",
+        "ladainha de virgem maria forma breve"
+      ]
+    },
+    {
+      "id": "ladainha-sao-jose-breve",
+      "titulo": "Ladainha de São José — forma breve",
+      "categoria": "ladainhas",
+      "tipo": "oracao",
+      "tags": [
+        "ladainha",
+        "são josé",
+        "família"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "tradicional",
+      "fonte_nome": "Forma breve inspirada na Ladainha de São José",
+      "quando_rezar": "Em devoção a São José, por família, trabalho e proteção.",
+      "texto": "São José, rogai por nós. Ilustre filho de Davi, rogai por nós. Luz dos patriarcas, rogai por nós. Esposo da Mãe de Deus, rogai por nós.\n\nGuarda do Redentor, rogai por nós. Casto guarda da Virgem, rogai por nós. Chefe da Sagrada Família, rogai por nós. José justíssimo, rogai por nós.\n\nModelo dos trabalhadores, rogai por nós. Amparo das famílias, rogai por nós. Esperança dos enfermos, rogai por nós. Padroeiro dos moribundos, rogai por nós. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [],
+      "duracao": "media",
+      "curadoria": {
+        "selo": "Tradicional",
+        "familia": "ladainhas",
+        "uso": "oração pessoal",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "ladainha de jose forma breve"
+      ]
+    },
+    {
+      "id": "ladainha-sagrado-coracao-breve",
+      "titulo": "Ladainha do Sagrado Coração — forma breve",
+      "categoria": "ladainhas",
+      "tipo": "oracao",
+      "tags": [
+        "ladainha",
+        "sagrado coração",
+        "jesus"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "tradicional",
+      "fonte_nome": "Forma breve inspirada na Ladainha do Sagrado Coração",
+      "quando_rezar": "Na devoção ao Sagrado Coração e em reparação.",
+      "texto": "Coração de Jesus, Filho do Pai eterno, tende piedade de nós. Coração de Jesus, formado pelo Espírito Santo no seio da Virgem Maria, tende piedade de nós.\n\nCoração de Jesus, templo santo de Deus, tende piedade de nós. Coração de Jesus, fonte de vida e santidade, tende piedade de nós. Coração de Jesus, cheio de bondade e amor, tende piedade de nós.\n\nCoração de Jesus, paciente e misericordioso, tende piedade de nós. Coração de Jesus, nossa paz e reconciliação, tende piedade de nós. Jesus, manso e humilde de coração, fazei o nosso coração semelhante ao vosso. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [],
+      "duracao": "media",
+      "curadoria": {
+        "selo": "Tradicional",
+        "familia": "ladainhas",
+        "uso": "oração pessoal",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "ladainha-todos-os-santos-breve",
+      "titulo": "Ladainha de Todos os Santos — forma breve",
+      "categoria": "ladainhas",
+      "tipo": "oracao",
+      "tags": [
+        "ladainha",
+        "santos",
+        "igreja"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "tradicional",
+      "fonte_nome": "Forma breve inspirada na Ladainha de Todos os Santos",
+      "quando_rezar": "Em intercessão, momentos fortes de oração e memória dos santos.",
+      "texto": "Senhor, tende piedade de nós. Cristo, tende piedade de nós. Senhor, tende piedade de nós.\n\nSanta Maria, Mãe de Deus, rogai por nós. São Miguel, rogai por nós. São João Batista, rogai por nós. São José, rogai por nós.\n\nSão Pedro e São Paulo, rogai por nós. Santo André, rogai por nós. Santa Maria Madalena, rogai por nós. Santo Estêvão, rogai por nós.\n\nSanto Inácio de Antioquia, rogai por nós. Santa Perpétua e Santa Felicidade, rogai por nós. São Bento, rogai por nós. São Francisco e São Domingos, rogai por nós. Todos os santos e santas de Deus, rogai por nós. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [],
+      "duracao": "media",
+      "curadoria": {
+        "selo": "Tradicional",
+        "familia": "ladainhas",
+        "uso": "oração pessoal",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "ladainha-divina-misericordia-breve",
+      "titulo": "Ladainha da Divina Misericórdia — forma breve",
+      "categoria": "ladainhas",
+      "tipo": "oracao",
+      "tags": [
+        "ladainha",
+        "misericórdia",
+        "jesus"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Em momentos de oração pessoal e devoção católica.",
+      "texto": "Misericórdia divina, fonte de todo amor, eu confio em vós. Misericórdia divina, que brota do Coração de Jesus, eu confio em vós. Misericórdia divina, esperança dos pecadores, eu confio em vós.\n\nMisericórdia divina, consolo dos aflitos, eu confio em vós. Misericórdia divina, paz dos corações feridos, eu confio em vós. Misericórdia divina, maior que o nosso pecado, eu confio em vós. Amém.",
+      "explicacao": "Oração devocional composta para favorecer recolhimento, confiança e vida espiritual católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "ladainhas",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "ladainha-espirito-santo-breve",
+      "titulo": "Ladainha do Espírito Santo — forma breve",
+      "categoria": "ladainhas",
+      "tipo": "oracao",
+      "tags": [
+        "ladainha",
+        "espírito santo",
+        "dons"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Em momentos de oração pessoal e devoção católica.",
+      "texto": "Espírito Santo, consolador prometido, vinde a nós. Espírito de sabedoria, iluminai-nos. Espírito de entendimento, conduzi-nos. Espírito de conselho, orientai-nos. Espírito de fortaleza, sustentai-nos.\n\nEspírito de ciência, purificai nosso olhar. Espírito de piedade, aquecei nosso coração. Espírito de temor de Deus, guardai-nos na reverência. Amém.",
+      "explicacao": "Oração devocional composta para favorecer recolhimento, confiança e vida espiritual católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "ladainhas",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "ladainha do espirito forma breve"
+      ]
+    },
+    {
+      "id": "ladainha-santissimo-nome-jesus-breve",
+      "titulo": "Ladainha do Santíssimo Nome de Jesus — forma breve",
+      "categoria": "ladainhas",
+      "tipo": "oracao",
+      "tags": [
+        "ladainha",
+        "nome de jesus",
+        "proteção"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Em momentos de oração pessoal e devoção católica.",
+      "texto": "Jesus, Filho do Deus vivo, tende piedade de nós. Jesus, esplendor do Pai, tende piedade de nós. Jesus, Rei da glória, tende piedade de nós. Jesus, manso e humilde de coração, tende piedade de nós.\n\nJesus, nossa paz, tende piedade de nós. Jesus, nossa salvação, tende piedade de nós. Jesus, alegria dos anjos, tende piedade de nós. Jesus, esperança dos pecadores, tende piedade de nós. Amém.",
+      "explicacao": "Oração devocional composta para favorecer recolhimento, confiança e vida espiritual católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "ladainhas",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "ladainha-cristo-rei-breve",
+      "titulo": "Ladainha de Cristo Rei — forma breve",
+      "categoria": "ladainhas",
+      "tipo": "oracao",
+      "tags": [
+        "ladainha",
+        "cristo rei",
+        "reino de deus"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Em momentos de oração pessoal e devoção católica.",
+      "texto": "Cristo Rei, governai meu coração. Cristo Rei, reinai em minha família. Cristo Rei, iluminai a Igreja. Cristo Rei, conduzi as nações à justiça e à paz.\n\nRei de misericórdia, tende piedade de nós. Rei de verdade, tende piedade de nós. Rei de amor, tende piedade de nós. Venha a nós o vosso Reino. Amém.",
+      "explicacao": "Oração devocional composta para favorecer recolhimento, confiança e vida espiritual católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "ladainhas",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "ladainha-preciosissimo-sangue-breve",
+      "titulo": "Ladainha do Preciosíssimo Sangue — forma breve",
+      "categoria": "ladainhas",
+      "tipo": "oracao",
+      "tags": [
+        "ladainha",
+        "preciosíssimo sangue",
+        "paixão"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Em momentos de oração pessoal e devoção católica.",
+      "texto": "Sangue de Cristo, preço da nossa salvação, salvai-nos. Sangue de Cristo, derramado na cruz, purificai-nos. Sangue de Cristo, fonte de misericórdia, lavai-nos.\n\nSangue de Cristo, força dos mártires, sustentai-nos. Sangue de Cristo, esperança dos pecadores, perdoai-nos. Sangue de Cristo, proteção em nossas lutas, guardai-nos. Amém.",
+      "explicacao": "Oração devocional composta para favorecer recolhimento, confiança e vida espiritual católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "ladainhas",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "ladainha-santo-antonio-breve",
+      "titulo": "Ladainha de Santo Antônio — forma breve",
+      "categoria": "ladainhas",
+      "tipo": "oracao",
+      "tags": [
+        "ladainha",
+        "santo antônio",
+        "intercessão"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Em momentos de oração pessoal e devoção católica.",
+      "texto": "Santo Antônio, amigo do Menino Jesus, rogai por nós. Santo Antônio, pregador do Evangelho, rogai por nós. Santo Antônio, doutor da verdade, rogai por nós.\n\nSanto Antônio, socorro dos aflitos, rogai por nós. Santo Antônio, auxílio nas perdas e necessidades, rogai por nós. Santo Antônio, amigo dos pobres, rogai por nós. Amém.",
+      "explicacao": "Oração devocional composta para favorecer recolhimento, confiança e vida espiritual católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "ladainhas",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "ladainha de antonio forma breve"
+      ]
+    },
+    {
+      "id": "ladainha-sao-bento-breve",
+      "titulo": "Ladainha de São Bento — forma breve",
+      "categoria": "ladainhas",
+      "tipo": "oracao",
+      "tags": [
+        "ladainha",
+        "são bento",
+        "proteção"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Em momentos de oração pessoal e devoção católica.",
+      "texto": "São Bento, pai dos monges, rogai por nós. São Bento, homem de oração, rogai por nós. São Bento, mestre da obediência, rogai por nós.\n\nSão Bento, defensor contra o mal, rogai por nós. São Bento, amigo do silêncio, rogai por nós. São Bento, guia no caminho da paz, rogai por nós. Amém.",
+      "explicacao": "Oração devocional composta para favorecer recolhimento, confiança e vida espiritual católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "ladainhas",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "ladainha de bento forma breve"
+      ]
+    },
+    {
+      "id": "ladainha-santa-teresinha-breve",
+      "titulo": "Ladainha de Santa Teresinha — forma breve",
+      "categoria": "ladainhas",
+      "tipo": "oracao",
+      "tags": [
+        "ladainha",
+        "santa teresinha",
+        "pequena via"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Em momentos de oração pessoal e devoção católica.",
+      "texto": "Santa Teresinha do Menino Jesus, rogai por nós. Flor do Carmelo, rogai por nós. Mestra da pequena via, rogai por nós.\n\nAlma simples e confiante, rogai por nós. Missionária pelo amor, rogai por nós. Amiga dos pequenos gestos, rogai por nós. Amém.",
+      "explicacao": "Oração devocional composta para favorecer recolhimento, confiança e vida espiritual católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "ladainhas",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "ladainha de teresinha forma breve"
+      ]
+    },
+    {
+      "id": "ladainha-dos-santos-doutores-forma-breve-breve-lectio",
+      "titulo": "Ladainha dos Santos Doutores — forma breve",
+      "categoria": "ladainhas",
+      "tipo": "oracao",
+      "tags": [
+        "ladainha",
+        "doutores",
+        "sabedoria",
+        "estudo"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Forma breve devocional do Lectio",
+      "quando_rezar": "Para rezar em forma de súplica repetida e contemplativa.",
+      "texto": "Senhor, tende piedade de nós. Cristo, tende piedade de nós. Senhor, tende piedade de nós.\n\nSão Gregório Magno, rogai por nós.\nSanto Agostinho, rogai por nós.\nSão Jerônimo, rogai por nós.\nSanto Ambrósio, rogai por nós.\nSão Tomás de Aquino, rogai por nós.\nSanta Teresa d'Ávila, rogai por nós.\nSão João da Cruz, rogai por nós.\nSanta Catarina de Sena, rogai por nós.\n\nJesus Cristo, ouvi-nos. Jesus Cristo, atendei-nos. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "pai-nosso"
+      ],
+      "duracao": "media",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "ladainhas",
+        "uso": "oração pessoal",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "ladainha-dos-santos-brasileiros-forma-breve-breve-lectio",
+      "titulo": "Ladainha dos Santos Brasileiros — forma breve",
+      "categoria": "ladainhas",
+      "tipo": "oracao",
+      "tags": [
+        "ladainha",
+        "brasil",
+        "santos brasileiros",
+        "intercessão"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Forma breve devocional do Lectio",
+      "quando_rezar": "Para rezar em forma de súplica repetida e contemplativa.",
+      "texto": "Senhor, tende piedade de nós. Cristo, tende piedade de nós. Senhor, tende piedade de nós.\n\nNossa Senhora Aparecida, rogai por nós.\nSão José de Anchieta, rogai por nós.\nSanta Dulce dos Pobres, rogai por nós.\nSanta Paulina, rogai por nós.\nSão Frei Galvão, rogai por nós.\n\nJesus Cristo, ouvi-nos. Jesus Cristo, atendei-nos. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "pai-nosso"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "ladainhas",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "ladainha-dos-santos-jovens-forma-breve-breve-lectio",
+      "titulo": "Ladainha dos Santos Jovens — forma breve",
+      "categoria": "ladainhas",
+      "tipo": "oracao",
+      "tags": [
+        "ladainha",
+        "jovens",
+        "juventude",
+        "pureza"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Forma breve devocional do Lectio",
+      "quando_rezar": "Para rezar em forma de súplica repetida e contemplativa.",
+      "texto": "Senhor, tende piedade de nós. Cristo, tende piedade de nós. Senhor, tende piedade de nós.\n\nSão Luís Gonzaga, rogai por nós.\nSanto Estanislau Kostka, rogai por nós.\nSanta Maria Goretti, rogai por nós.\nSão Tarcísio, rogai por nós.\nSão Carlo Acutis, rogai por nós.\nSão Pier Giorgio Frassati, rogai por nós.\n\nJesus Cristo, ouvi-nos. Jesus Cristo, atendei-nos. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "pai-nosso"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "ladainhas",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "ladainha-pelos-enfermos-forma-breve-breve-lectio",
+      "titulo": "Ladainha pelos Enfermos — forma breve",
+      "categoria": "ladainhas",
+      "tipo": "oracao",
+      "tags": [
+        "ladainha",
+        "enfermos",
+        "cura",
+        "saúde"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Forma breve devocional do Lectio",
+      "quando_rezar": "Para rezar em forma de súplica repetida e contemplativa.",
+      "texto": "Senhor, tende piedade de nós. Cristo, tende piedade de nós. Senhor, tende piedade de nós.\n\nSão Camilo de Lellis, rogai por nós.\nSão João de Deus, rogai por nós.\nSão Peregrino, rogai por nós.\nSanta Bernadette, rogai por nós.\nSão Roque, rogai por nós.\nNossa Senhora da Saúde, rogai por nós.\n\nJesus Cristo, ouvi-nos. Jesus Cristo, atendei-nos. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "pai-nosso"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "ladainhas",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "ladainha-da-familia-forma-breve-breve-lectio",
+      "titulo": "Ladainha da Família — forma breve",
+      "categoria": "ladainhas",
+      "tipo": "oracao",
+      "tags": [
+        "ladainha",
+        "família",
+        "lar",
+        "casamento"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Forma breve devocional do Lectio",
+      "quando_rezar": "Para rezar em forma de súplica repetida e contemplativa.",
+      "texto": "Senhor, tende piedade de nós. Cristo, tende piedade de nós. Senhor, tende piedade de nós.\n\nJesus, Maria e José, rogai por nós.\nSão José, rogai por nós.\nSanta Ana, rogai por nós.\nSão Joaquim, rogai por nós.\nSanta Mônica, rogai por nós.\nSanta Rita de Cássia, rogai por nós.\n\nJesus Cristo, ouvi-nos. Jesus Cristo, atendei-nos. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "pai-nosso"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "ladainhas",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "ladainha-da-humildade-forma-breve-breve-lectio",
+      "titulo": "Ladainha da Humildade — forma breve",
+      "categoria": "ladainhas",
+      "tipo": "oracao",
+      "tags": [
+        "ladainha",
+        "humildade",
+        "orgulho",
+        "virtude"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Forma breve devocional do Lectio",
+      "quando_rezar": "Para rezar em forma de súplica repetida e contemplativa.",
+      "texto": "Senhor, tende piedade de nós. Cristo, tende piedade de nós. Senhor, tende piedade de nós.\n\nJesus manso e humilde de coração, rogai por nós.\nMaria, serva do Senhor, rogai por nós.\nSão José, homem justo, rogai por nós.\nSão Francisco de Assis, rogai por nós.\nSanta Teresinha do Menino Jesus, rogai por nós.\n\nJesus Cristo, ouvi-nos. Jesus Cristo, atendei-nos. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "pai-nosso"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "ladainhas",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "ladainha-pela-paz-forma-breve-breve-lectio",
+      "titulo": "Ladainha pela Paz — forma breve",
+      "categoria": "ladainhas",
+      "tipo": "oracao",
+      "tags": [
+        "ladainha",
+        "paz",
+        "mundo",
+        "reconciliação"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Forma breve devocional do Lectio",
+      "quando_rezar": "Para rezar em forma de súplica repetida e contemplativa.",
+      "texto": "Senhor, tende piedade de nós. Cristo, tende piedade de nós. Senhor, tende piedade de nós.\n\nCristo, nossa paz, rogai por nós.\nNossa Senhora Rainha da Paz, rogai por nós.\nSão Francisco de Assis, rogai por nós.\nSão João Paulo II, rogai por nós.\nSanta Teresa de Calcutá, rogai por nós.\n\nJesus Cristo, ouvi-nos. Jesus Cristo, atendei-nos. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "pai-nosso"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "ladainhas",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "ladainha-dos-apostolos-forma-breve-breve-lectio",
+      "titulo": "Ladainha dos Apóstolos — forma breve",
+      "categoria": "ladainhas",
+      "tipo": "oracao",
+      "tags": [
+        "ladainha",
+        "apóstolos",
+        "missão",
+        "igreja"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Forma breve devocional do Lectio",
+      "quando_rezar": "Para rezar em forma de súplica repetida e contemplativa.",
+      "texto": "Senhor, tende piedade de nós. Cristo, tende piedade de nós. Senhor, tende piedade de nós.\n\nSão Pedro, rogai por nós.\nSão Paulo, rogai por nós.\nSanto André, rogai por nós.\nSão Tiago, rogai por nós.\nSão João, rogai por nós.\nSão Tomé, rogai por nós.\nSão Mateus, rogai por nós.\nSão Filipe, rogai por nós.\nSão Bartolomeu, rogai por nós.\nSão Simão e São Judas, rogai por nós.\n\nJesus Cristo, ouvi-nos. Jesus Cristo, atendei-nos. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "pai-nosso"
+      ],
+      "duracao": "media",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "ladainhas",
+        "uso": "oração pessoal",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "ladainha-pelas-almas-do-purgatorio-forma-breve-breve-lectio",
+      "titulo": "Ladainha pelas Almas do Purgatório — forma breve",
+      "categoria": "ladainhas",
+      "tipo": "oracao",
+      "tags": [
+        "ladainha",
+        "purgatório",
+        "misericórdia",
+        "falecidos"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Forma breve devocional do Lectio",
+      "quando_rezar": "Para rezar em forma de súplica repetida e contemplativa.",
+      "texto": "Senhor, tende piedade de nós. Cristo, tende piedade de nós. Senhor, tende piedade de nós.\n\nJesus misericordioso, rogai por nós.\nMaria, Mãe de misericórdia, rogai por nós.\nSão José, rogai por nós.\nSão Miguel Arcanjo, rogai por nós.\nTodos os santos e santas de Deus, rogai por nós.\n\nJesus Cristo, ouvi-nos. Jesus Cristo, atendei-nos. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "pai-nosso"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "ladainhas",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "ladainha-da-confianca-forma-breve-breve-lectio",
+      "titulo": "Ladainha da Confiança — forma breve",
+      "categoria": "ladainhas",
+      "tipo": "oracao",
+      "tags": [
+        "ladainha",
+        "confiança",
+        "providência",
+        "esperança"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Forma breve devocional do Lectio",
+      "quando_rezar": "Para rezar em forma de súplica repetida e contemplativa.",
+      "texto": "Senhor, tende piedade de nós. Cristo, tende piedade de nós. Senhor, tende piedade de nós.\n\nPai providente, rogai por nós.\nJesus misericordioso, rogai por nós.\nEspírito Santo consolador, rogai por nós.\nMaria, Mãe da esperança, rogai por nós.\nSão José, protetor fiel, rogai por nós.\n\nJesus Cristo, ouvi-nos. Jesus Cristo, atendei-nos. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "pai-nosso"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "ladainhas",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "ladainha-santissimo-sacramento-breve",
+      "titulo": "Ladainha do Santíssimo Sacramento — forma breve",
+      "categoria": "ladainhas",
+      "tipo": "oracao",
+      "tags": [
+        "ladainha",
+        "eucaristia",
+        "santíssimo",
+        "adoração"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Diante do Santíssimo ou antes da comunhão.",
+      "texto": "Senhor, tende piedade de nós.\nCristo, tende piedade de nós.\nJesus, pão vivo descido do céu, aumentai nossa fé.\nJesus, alimento dos fracos, fortalecei-nos.\nJesus, presença real no altar, atraí-nos a vós.\nJesus, remédio das almas, curai-nos.\nJesus, vínculo de caridade, uni-nos em vosso amor.\nCordeiro de Deus, que tirais o pecado do mundo, tende piedade de nós.\nSenhor, dai-nos fome da Eucaristia e reverência diante do vosso mistério. Amém.",
+      "explicacao": "Oração organizada para o Devocionário Lectio, com linguagem simples, reverente e fiel à espiritualidade católica.",
+      "relacionados": [],
+      "duracao": "media",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "ladainhas",
+        "uso": "oração pessoal",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "ladainha-dos-apostolos-breve",
+      "titulo": "Ladainha dos Apóstolos — forma breve — versão Lectio",
+      "categoria": "ladainhas",
+      "tipo": "oracao",
+      "tags": [
+        "ladainha",
+        "apóstolos",
+        "missão",
+        "igreja"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para pedir fé apostólica e coragem missionária.",
+      "texto": "Senhor, tende piedade de nós.\nCristo, tende piedade de nós.\nSão Pedro e São Paulo, rogai por nós.\nSanto André e São Tiago, rogai por nós.\nSão João e São Mateus, rogai por nós.\nSão Filipe e São Bartolomeu, rogai por nós.\nSão Tomé e São Tiago Menor, rogai por nós.\nSão Simão e São Judas Tadeu, rogai por nós.\nSão Matias, rogai por nós.\nSenhor, conservai-nos na fé recebida dos apóstolos. Amém.",
+      "explicacao": "Oração organizada para o Devocionário Lectio, com linguagem simples, reverente e fiel à espiritualidade católica.",
+      "relacionados": [],
+      "duracao": "media",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "ladainhas",
+        "uso": "oração pessoal",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "ladainha-dos-doutores-da-igreja-breve",
+      "titulo": "Ladainha dos Doutores da Igreja — forma breve",
+      "categoria": "ladainhas",
+      "tipo": "oracao",
+      "tags": [
+        "ladainha",
+        "doutores da igreja",
+        "sabedoria",
+        "estudo"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Antes de estudar teologia, Bíblia ou doutrina.",
+      "texto": "Senhor, tende piedade de nós.\nCristo, tende piedade de nós.\nSanto Agostinho, rogai por nós.\nSão Jerônimo, rogai por nós.\nSão Gregório Magno, rogai por nós.\nSão Tomás de Aquino, rogai por nós.\nSanta Teresa d’Ávila, rogai por nós.\nSão João da Cruz, rogai por nós.\nSanta Teresinha, rogai por nós.\nSenhor, dai-nos amor à verdade e humildade para aprender. Amém.",
+      "explicacao": "Oração organizada para o Devocionário Lectio, com linguagem simples, reverente e fiel à espiritualidade católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "ladainhas",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "ladainha-dos-santos-jovens-breve",
+      "titulo": "Ladainha dos Santos Jovens — forma breve — versão Lectio",
+      "categoria": "ladainhas",
+      "tipo": "oracao",
+      "tags": [
+        "ladainha",
+        "jovens",
+        "santidade",
+        "vocação"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Por jovens, estudantes, adolescentes e vocações.",
+      "texto": "Senhor, tende piedade de nós.\nCristo, tende piedade de nós.\nSão Domingos Sávio, rogai por nós.\nSão Luís Gonzaga, rogai por nós.\nSanta Maria Goretti, rogai por nós.\nSão Carlo Acutis, rogai por nós.\nBeato Pier Giorgio Frassati, rogai por nós.\nSanta Teresinha do Menino Jesus, rogai por nós.\nSenhor, despertai nos jovens o desejo da santidade. Amém.",
+      "explicacao": "Oração organizada para o Devocionário Lectio, com linguagem simples, reverente e fiel à espiritualidade católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "ladainhas",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    }
+  ]
+}

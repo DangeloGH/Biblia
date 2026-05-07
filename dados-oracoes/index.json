@@ -1,0 +1,412 @@
+{
+  "schema": 2,
+  "updated": "2026-05-06",
+  "title": "Devocionário Lectio",
+  "description": "Orações católicas tradicionais, composições devocionais Lectio, santos, anjos, ladainhas, terços, novenas e intenções organizadas com curadoria por tema, duração e uso espiritual.",
+  "packs": [
+    {
+      "id": "essenciais",
+      "title": "Essenciais",
+      "file": "essenciais.json",
+      "icon": "✠",
+      "description": "As orações fundamentais da vida católica."
+    },
+    {
+      "id": "jesus",
+      "title": "A Jesus",
+      "file": "jesus.json",
+      "icon": "IHS",
+      "description": "Orações ao Senhor, ao Sagrado Coração e à Eucaristia."
+    },
+    {
+      "id": "maria",
+      "title": "Nossa Senhora",
+      "file": "maria.json",
+      "icon": "✦",
+      "description": "Orações marianas, consagrações e súplicas."
+    },
+    {
+      "id": "santos",
+      "title": "Santos",
+      "file": "santos.json",
+      "icon": "☩",
+      "description": "Orações a santos e intercessores."
+    },
+    {
+      "id": "anjos",
+      "title": "Anjos e Arcanjos",
+      "file": "anjos.json",
+      "icon": "✧",
+      "description": "Orações aos anjos da guarda e aos arcanjos Miguel, Gabriel e Rafael."
+    },
+    {
+      "id": "rosario",
+      "title": "Rosário e Terços",
+      "file": "rosario.json",
+      "icon": "○",
+      "description": "Guias de oração para rosário, terços e mistérios."
+    },
+    {
+      "id": "ladainhas",
+      "title": "Ladainhas",
+      "file": "ladainhas.json",
+      "icon": "☩",
+      "description": "Ladainhas breves e tradicionais para devoção pessoal."
+    },
+    {
+      "id": "novenas",
+      "title": "Novenas",
+      "file": "novenas.json",
+      "icon": "9",
+      "description": "Novenas guiadas de nove dias para intenções e devoções."
+    },
+    {
+      "id": "liturgicas",
+      "title": "Litúrgicas",
+      "file": "liturgicas.json",
+      "icon": "☉",
+      "description": "Orações antes e depois dos sacramentos e da Missa."
+    },
+    {
+      "id": "intencoes",
+      "title": "Por intenção",
+      "file": "intencoes.json",
+      "icon": "♡",
+      "description": "Orações por família, medo, trabalho, luto, gratidão e discernimento."
+    }
+  ],
+  "featured": [
+    "divinos-louvores",
+    "o-sacrum-convivium",
+    "tantum-ergo",
+    "oracao-ao-preciosissimo-sangue",
+    "oracao-a-nossa-senhora-de-guadalupe",
+    "oracao-a-sao-domingos-savio",
+    "oracao-a-santa-luzia",
+    "oracao-pelos-sacerdotes",
+    "novena-pelas-vocacoes",
+    "pai-nosso",
+    "ave-maria",
+    "sao-miguel-arcanjo",
+    "ato-contricao",
+    "oracao-da-manha",
+    "oracao-da-noite",
+    "novena-sao-jose",
+    "novena-divina-misericordia",
+    "credo-niceno-constantinopolitano",
+    "sao-joao-paulo-ii",
+    "sao-gabriel-arcanjo",
+    "sao-rafael-arcanjo",
+    "santos-arcanjos",
+    "ladainha-nossa-senhora-breve",
+    "sao-padre-pio",
+    "nossa-senhora-fatima",
+    "sao-carlo-acutis",
+    "sao-pier-giorgio-frassati",
+    "nossa-senhora-auxiliadora",
+    "nossa-senhora-desatadora-dos-nos",
+    "ladainha-divina-misericordia-breve",
+    "terco-santas-chagas",
+    "oracao-antes-da-lectio-divina",
+    "oracao-estudos-provas",
+    "oracao-ansiedade-serenidade",
+    "santa-dulce-dos-pobres"
+  ],
+  "suggestions": {
+    "manha": [
+      "oracao-para-santificar-o-trabalho",
+      "oracao-por-memoria-e-estudos",
+      "oracao-da-manha",
+      "oracao-de-consagracao-do-dia",
+      "oferecimento-do-dia",
+      "vinde-espirito-santo",
+      "benedictus",
+      "oracao-aos-arcanjos",
+      "sao-carlo-acutis"
+    ],
+    "meio_dia": [
+      "angelus",
+      "o-sacrum-convivium",
+      "oracao-pelos-sacerdotes",
+      "oracao-da-familia",
+      "oracao-pela-igreja",
+      "oracao-paz",
+      "nossa-senhora-rainha-da-paz",
+      "sao-joao-paulo-ii"
+    ],
+    "tarde": [
+      "terco-pelos-enfermos",
+      "oracao-ao-preciosissimo-sangue",
+      "oracao-por-decisao-financeira",
+      "terco-misericordia",
+      "jesus-eu-confio-em-vos",
+      "hora-da-misericordia",
+      "oracao-ambiente-trabalho",
+      "terco-espirito-santo",
+      "visita-ao-santissimo"
+    ],
+    "noite": [
+      "nunc-dimittis",
+      "de-profundis",
+      "oracao-aos-anjos-dos-filhos",
+      "oracao-da-noite",
+      "oracao-breve-antes-de-dormir",
+      "exame-de-consciencia",
+      "ato-contricao",
+      "anjo-da-guarda-noite",
+      "oracao-tristeza-profunda",
+      "pelas-almas-purgatorio"
+    ]
+  },
+  "curatorial_blocks": [
+    {
+      "id": "formulas-da-igreja",
+      "icon": "✠",
+      "kicker": "Base oficial",
+      "title": "Fórmulas da Igreja",
+      "description": "Credos, atos, cânticos e orações comuns para fortalecer a base da fé católica.",
+      "items": [
+        "pai-nosso",
+        "ave-maria",
+        "gloria-ao-pai",
+        "credo-apostolico",
+        "credo-niceno-constantinopolitano",
+        "ato-de-fe",
+        "ato-de-esperanca",
+        "ato-de-caridade",
+        "ato-contricao",
+        "divinos-louvores",
+        "te-deum",
+        "nunc-dimittis"
+      ]
+    },
+    {
+      "id": "eucaristia-e-santissimo",
+      "icon": "IHS",
+      "kicker": "Adoração",
+      "title": "Eucaristia e Santíssimo",
+      "description": "Orações para Missa, comunhão espiritual, adoração, bênção e amor à presença real de Cristo.",
+      "items": [
+        "comunhao-espiritual",
+        "alma-de-cristo",
+        "o-sacrum-convivium",
+        "tantum-ergo",
+        "divinos-louvores",
+        "oracao-antes-da-adoracao-eucaristica",
+        "oracao-depois-da-adoracao-eucaristica",
+        "oracao-eucaristica-de-desejo",
+        "oracao-ao-cordeiro-de-deus",
+        "visita-ao-santissimo"
+      ]
+    },
+    {
+      "id": "maria-classica",
+      "icon": "✦",
+      "kicker": "Devoção mariana",
+      "title": "Maria: clássicas e devoções",
+      "description": "Orações tradicionais, títulos marianos e súplicas para rezar com Nossa Senhora.",
+      "items": [
+        "salve-rainha",
+        "lembrai-vos",
+        "angelus",
+        "regina-caeli",
+        "sub-tuum-praesidium",
+        "consagracao-nossa-senhora",
+        "oracao-a-nossa-senhora-do-rosario",
+        "oracao-a-nossa-senhora-de-guadalupe",
+        "oracao-a-nossa-senhora-de-lourdes",
+        "oracao-a-maria-mae-da-igreja"
+      ]
+    },
+    {
+      "id": "protecao-e-combate",
+      "icon": "✧",
+      "kicker": "Proteção",
+      "title": "Proteção e combate espiritual",
+      "description": "São Miguel, anjos, casa, família e orações para pedir firmeza contra medo, confusão e maldade.",
+      "items": [
+        "sao-miguel-arcanjo",
+        "sao-gabriel-arcanjo",
+        "sao-rafael-arcanjo",
+        "oracao-aos-arcanjos",
+        "oracao-a-sao-miguel-pela-casa",
+        "oracao-ao-anjo-da-guarda-da-familia",
+        "oracao-aos-anjos-contra-a-confusao",
+        "oracao-contra-inveja-e-maldade",
+        "oracao-medo",
+        "sao-bento"
+      ]
+    },
+    {
+      "id": "familia-filhos-casa",
+      "icon": "♡",
+      "kicker": "Vida diária",
+      "title": "Família, filhos e casa",
+      "description": "Orações para casamento, filhos, proteção das crianças, reconciliação e paz no lar.",
+      "items": [
+        "oracao-da-familia",
+        "oracao-por-conversao-de-um-filho",
+        "oracao-por-restauracao-do-casamento",
+        "oracao-por-paz-na-casa",
+        "oracao-pelos-filhos",
+        "oracao-aos-anjos-dos-filhos",
+        "oracao-pela-casa",
+        "oracao-protecao-das-criancas",
+        "terco-pela-paz-nas-familias",
+        "novena-pela-familia"
+      ]
+    },
+    {
+      "id": "enfermos-cura-consolo",
+      "icon": "☩",
+      "kicker": "Consolo",
+      "title": "Enfermos, cura e consolação",
+      "description": "Orações por doentes, cuidadores, cura interior, hospitais e esperança no sofrimento.",
+      "items": [
+        "oracao-pelos-enfermos",
+        "oracao-por-quem-cuida-de-enfermo",
+        "oracao-a-nossa-senhora-de-lourdes",
+        "oracao-a-sao-peregrino",
+        "oracao-a-sao-camilo-de-lellis",
+        "oracao-a-santa-luzia",
+        "oracao-a-sao-rafael-pela-cura-interior",
+        "terco-pelos-enfermos",
+        "novena-pelos-enfermos",
+        "oracao-tristeza-profunda"
+      ]
+    },
+    {
+      "id": "jovens-vocacao-estudos",
+      "icon": "9",
+      "kicker": "Chamado",
+      "title": "Jovens, vocação e estudos",
+      "description": "Orações para discernimento, juventude, provas, memória, pureza, internet e chamados de Deus.",
+      "items": [
+        "oracao-por-vocacao",
+        "oracao-pelas-vocacoes",
+        "oracao-por-memoria-e-estudos",
+        "oracao-estudos-provas",
+        "oracao-a-sao-domingos-savio",
+        "oracao-a-sao-luiz-gonzaga",
+        "sao-carlo-acutis",
+        "sao-pier-giorgio-frassati",
+        "oracao-a-sao-isidoro-de-sevilha",
+        "novena-pelas-vocacoes"
+      ]
+    },
+    {
+      "id": "santos-doutores-mestres",
+      "icon": "☩",
+      "kicker": "Sabedoria",
+      "title": "Santos doutores e mestres",
+      "description": "Intercessores para estudo, ensino, escrita, discernimento e amor à verdade.",
+      "items": [
+        "santo-agostinho",
+        "sao-tomas-aquino",
+        "sao-jeronimo",
+        "santa-teresa-avila",
+        "sao-joao-da-cruz",
+        "santa-edith-stein",
+        "oracao-a-santo-afonso-maria-ligorio",
+        "oracao-a-sao-francisco-de-sales",
+        "ladainha-dos-doutores-da-igreja-breve",
+        "oracao-ao-espirito-santo-antes-de-estudar"
+      ]
+    },
+    {
+      "id": "quaresma-paixao-ressurreicao",
+      "icon": "☉",
+      "kicker": "Ano litúrgico",
+      "title": "Cruz, Quaresma e Páscoa",
+      "description": "Via-Sacra, sexta-feira, paixão, arrependimento e esperança pascal.",
+      "items": [
+        "via-sacra-breve",
+        "oracao-antes-da-via-sacra",
+        "oracao-depois-da-via-sacra",
+        "oracao-a-jesus-crucificado",
+        "oracao-para-sexta-feira",
+        "ato-contricao",
+        "de-profundis",
+        "oracao-a-jesus-ressuscitado",
+        "oracao-para-o-tempo-pascal",
+        "oracao-para-domingo"
+      ]
+    },
+    {
+      "id": "vida-pratica-providencia",
+      "icon": "♡",
+      "kicker": "Intenções",
+      "title": "Trabalho, dinheiro e decisões",
+      "description": "Orações para trabalho, desemprego, decisões financeiras, ansiedade, rotina e providência.",
+      "items": [
+        "oracao-para-santificar-o-trabalho",
+        "oracao-por-quem-esta-desempregado",
+        "oracao-ambiente-trabalho",
+        "oracao-por-decisao-financeira",
+        "oracao-dividas",
+        "oracao-ansiedade-serenidade",
+        "oracao-por-libertacao-de-vicio",
+        "oracao-por-quem-mora-longe",
+        "oracao-pelos-professores-e-educadores",
+        "oracao-do-silencio"
+      ]
+    }
+  ],
+  "content_revision": {
+    "version": "etapa-25",
+    "title": "Curadoria fina do Devocionário",
+    "description": "Padronização de metadados, duração, origem, famílias espirituais e filtros rápidos, mantendo todas as orações existentes.",
+    "total_items": 546,
+    "categories": 10
+  },
+  "quick_filters": [
+    {
+      "id": "rapidas",
+      "label": "Orações breves",
+      "query": "breve",
+      "description": "Para rezar em poucos minutos."
+    },
+    {
+      "id": "tradicionais",
+      "label": "Tradicionais",
+      "query": "tradicional",
+      "description": "Fórmulas clássicas e devoções conhecidas."
+    },
+    {
+      "id": "eucaristia",
+      "label": "Eucaristia",
+      "query": "eucaristia",
+      "description": "Adoração, Missa e comunhão espiritual."
+    },
+    {
+      "id": "maria",
+      "label": "Nossa Senhora",
+      "query": "maria",
+      "description": "Orações marianas e consagrações."
+    },
+    {
+      "id": "protecao",
+      "label": "Proteção",
+      "query": "proteção",
+      "description": "Medo, combate espiritual e guarda."
+    },
+    {
+      "id": "familia",
+      "label": "Família",
+      "query": "família",
+      "description": "Casa, filhos e casamento."
+    },
+    {
+      "id": "novenas",
+      "label": "Novenas",
+      "query": "novena",
+      "description": "Caminhos de nove dias."
+    },
+    {
+      "id": "noite",
+      "label": "Para a noite",
+      "query": "noite",
+      "description": "Encerrar o dia em paz."
+    }
+  ]
+}

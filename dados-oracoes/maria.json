@@ -1,0 +1,1883 @@
+{
+  "id": "maria",
+  "title": "Orações a Nossa Senhora",
+  "items": [
+    {
+      "id": "lembrai-vos",
+      "titulo": "Lembrai-vos",
+      "categoria": "maria",
+      "tipo": "oracao",
+      "tags": [
+        "maria",
+        "socorro",
+        "confiança",
+        "mãe"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "tradicional",
+      "fonte_nome": "Oração mariana tradicional",
+      "quando_rezar": "Em necessidades urgentes, momentos de fragilidade ou confiança na intercessão de Maria.",
+      "texto": "Lembrai-vos, ó puríssima Virgem Maria, que nunca se ouviu dizer que algum daqueles que têm recorrido à vossa proteção, implorado a vossa assistência e reclamado o vosso socorro fosse por vós desamparado.\n\nAnimado eu, pois, com igual confiança, a vós, Virgem entre todas singular, como a Mãe recorro; de vós me valho e, gemendo sob o peso dos meus pecados, me prostro a vossos pés.\n\nNão desprezeis as minhas súplicas, ó Mãe do Filho de Deus, mas dignai-vos de as ouvir propícia e de me alcançar o que vos rogo. Amém.",
+      "explicacao": "Súplica confiante à intercessão materna de Maria, muito rezada em momentos de necessidade.",
+      "relacionados": [
+        "salve-rainha",
+        "ave-maria",
+        "consagracao-nossa-senhora"
+      ],
+      "duracao": "media",
+      "curadoria": {
+        "selo": "Tradicional",
+        "familia": "maria",
+        "uso": "oração pessoal",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "consagracao-nossa-senhora",
+      "titulo": "Consagração a Nossa Senhora",
+      "categoria": "maria",
+      "tipo": "oracao",
+      "tags": [
+        "maria",
+        "consagração",
+        "entrega",
+        "proteção"
+      ],
+      "momento": [
+        "manha",
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "devocional",
+      "fonte_nome": "Fórmula tradicional breve",
+      "quando_rezar": "Ao confiar a própria vida à proteção e intercessão de Nossa Senhora.",
+      "texto": "Ó minha Senhora e minha Mãe, eu me ofereço todo a vós; e em prova da minha devoção para convosco, vos consagro neste dia meus olhos, meus ouvidos, minha boca, meu coração e inteiramente todo o meu ser.\n\nE porque assim sou vosso, ó incomparável Mãe, guardai-me e defendei-me como coisa e propriedade vossa. Amém.",
+      "explicacao": "Oração breve de entrega filial a Nossa Senhora, pedindo proteção e pertença espiritual.",
+      "relacionados": [
+        "ave-maria",
+        "lembrai-vos",
+        "salve-rainha"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Fórmula tradicional breve",
+        "familia": "maria",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "consagracao a mae de deus",
+        "consagracao a virgem maria"
+      ]
+    },
+    {
+      "id": "angelus",
+      "titulo": "Angelus",
+      "categoria": "maria",
+      "tipo": "oracao",
+      "tags": [
+        "maria",
+        "encarnação",
+        "meio-dia",
+        "tradição"
+      ],
+      "momento": [
+        "meio_dia",
+        "manha",
+        "tarde"
+      ],
+      "fonte_tipo": "tradicional",
+      "fonte_nome": "Oração tradicional do Angelus",
+      "quando_rezar": "Tradicionalmente pela manhã, ao meio-dia ou ao entardecer.",
+      "texto": "O Anjo do Senhor anunciou a Maria.\nE ela concebeu do Espírito Santo.\nAve-Maria...\n\nEis aqui a serva do Senhor.\nFaça-se em mim segundo a vossa palavra.\nAve-Maria...\n\nE o Verbo se fez carne.\nE habitou entre nós.\nAve-Maria...\n\nRogai por nós, Santa Mãe de Deus, para que sejamos dignos das promessas de Cristo.\n\nInfundi, Senhor, como vos pedimos, a vossa graça em nossos corações, para que nós, que pela anunciação do Anjo conhecemos a encarnação de Cristo, vosso Filho, pela sua paixão e cruz sejamos conduzidos à glória da ressurreição. Por Cristo, Senhor nosso. Amém.",
+      "explicacao": "Oração que recorda o mistério da Encarnação e a resposta de Maria ao plano de Deus.",
+      "relacionados": [
+        "ave-maria",
+        "salve-rainha",
+        "consagracao-nossa-senhora"
+      ],
+      "duracao": "media",
+      "curadoria": {
+        "selo": "Tradicional",
+        "familia": "rosario-tercos",
+        "uso": "oração pessoal",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "sub-tuum-praesidium",
+      "titulo": "À vossa proteção recorremos",
+      "categoria": "maria",
+      "tipo": "oracao",
+      "tags": [
+        "maria",
+        "proteção",
+        "antiga",
+        "socorro"
+      ],
+      "momento": [
+        "noite",
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "tradicional",
+      "fonte_nome": "Antiga antífona mariana",
+      "quando_rezar": "Ao pedir proteção materna de Nossa Senhora para si, a família ou a comunidade.",
+      "texto": "À vossa proteção recorremos, Santa Mãe de Deus.\n\nNão desprezeis as nossas súplicas em nossas necessidades, mas livrai-nos sempre de todos os perigos, ó Virgem gloriosa e bendita. Amém.",
+      "explicacao": "Uma das mais antigas súplicas marianas, marcada pela confiança na proteção de Maria.",
+      "relacionados": [
+        "lembrai-vos",
+        "salve-rainha",
+        "oracao-protecao"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Tradicional",
+        "familia": "maria",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "nossa-senhora-aparecida",
+      "titulo": "Oração a Nossa Senhora Aparecida",
+      "categoria": "maria",
+      "tipo": "oracao",
+      "tags": [
+        "aparecida",
+        "brasil",
+        "maria",
+        "família"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Ao pedir a intercessão da Padroeira do Brasil por sua família e pelo povo brasileiro.",
+      "texto": "Nossa Senhora Aparecida, Mãe querida e Padroeira do Brasil, olhai por mim e por minha família.\n\nConduzi-nos a Jesus, fortalecei nossa fé e ensinai-nos a viver com humildade, esperança e amor.\n\nIntercedei pelos que sofrem, pelos que perderam a paz e por todos os lares que precisam de luz. Amém.",
+      "explicacao": "Oração devocional simples, dirigida a Nossa Senhora Aparecida como mãe e intercessora.",
+      "relacionados": [
+        "consagracao-nossa-senhora",
+        "oracao-da-familia",
+        "salve-rainha"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "maria",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "oracao a mae de deus aparecida",
+        "oracao a virgem maria aparecida"
+      ]
+    },
+    {
+      "id": "regina-caeli",
+      "titulo": "Regina Caeli — Rainha do Céu",
+      "categoria": "maria",
+      "tipo": "oracao",
+      "tags": [
+        "maria",
+        "páscoa",
+        "regina caeli"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Em devoção mariana e pedido de intercessão materna.",
+      "texto": "Rainha do Céu, alegrai-vos, aleluia. Porque aquele que merecestes trazer em vosso seio, aleluia, ressuscitou como disse, aleluia.\n\nRogai a Deus por nós, aleluia. Alegrai-vos e exultai, ó Virgem Maria, aleluia, porque o Senhor ressuscitou verdadeiramente, aleluia.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "maria",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "nossa-senhora-fatima",
+      "titulo": "Oração a Nossa Senhora de Fátima",
+      "categoria": "maria",
+      "tipo": "oracao",
+      "tags": [
+        "fátima",
+        "maria",
+        "paz"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Em devoção mariana e pedido de intercessão materna.",
+      "texto": "Nossa Senhora de Fátima, Mãe de misericórdia e de esperança, conduzi-nos a Jesus. Ensinai-nos a rezar com fé, a viver a conversão e a oferecer nossa vida pela paz e pela salvação das almas. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "maria",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "oracao a mae de deus de fatima",
+        "oracao a virgem maria de fatima"
+      ]
+    },
+    {
+      "id": "nossa-senhora-do-carmo",
+      "titulo": "Oração a Nossa Senhora do Carmo",
+      "categoria": "maria",
+      "tipo": "oracao",
+      "tags": [
+        "carmo",
+        "maria",
+        "escapulário"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Em devoção mariana e pedido de intercessão materna.",
+      "texto": "Nossa Senhora do Carmo, revesti-me com o amor de Cristo e guardai-me sob vossa proteção materna. Ajudai-me a viver na graça, a perseverar na fé e a caminhar com confiança até Deus. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "maria",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "oracao a mae de deus do carmo",
+        "oracao a virgem maria do carmo"
+      ]
+    },
+    {
+      "id": "nossa-senhora-das-dores",
+      "titulo": "Oração a Nossa Senhora das Dores",
+      "categoria": "maria",
+      "tipo": "oracao",
+      "tags": [
+        "dores",
+        "maria",
+        "sofrimento"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Em devoção mariana e pedido de intercessão materna.",
+      "texto": "Nossa Senhora das Dores, que permanecestes de pé junto à cruz, ensinai-me a sofrer unido a Jesus. Consolai os aflitos, fortalecei os que choram e conduzi nossos corações à esperança. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "maria",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "oracao a mae de deus das dores",
+        "oracao a virgem maria das dores"
+      ]
+    },
+    {
+      "id": "nossa-senhora-perpetuo-socorro",
+      "titulo": "Oração a Nossa Senhora do Perpétuo Socorro",
+      "categoria": "maria",
+      "tipo": "oracao",
+      "tags": [
+        "perpétuo socorro",
+        "maria",
+        "auxílio"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Em devoção mariana e pedido de intercessão materna.",
+      "texto": "Nossa Senhora do Perpétuo Socorro, olhai com bondade para minhas necessidades. Ajudai-me nas dificuldades, socorrei-me nas tentações e conduzi-me sempre ao vosso Filho Jesus. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "maria",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "oracao a mae de deus do perpetuo socorro",
+        "oracao a virgem maria do perpetuo socorro"
+      ]
+    },
+    {
+      "id": "nossa-senhora-medalha-milagrosa",
+      "titulo": "Oração da Medalha Milagrosa",
+      "categoria": "maria",
+      "tipo": "oracao",
+      "tags": [
+        "medalha milagrosa",
+        "maria",
+        "graças"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Em devoção mariana e pedido de intercessão materna.",
+      "texto": "Ó Maria concebida sem pecado, rogai por nós que recorremos a vós. Derramai sobre nós as graças de vosso Filho e ajudai-nos a viver com fé, pureza e confiança. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "maria",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "imaculado-coracao-maria",
+      "titulo": "Ao Imaculado Coração de Maria",
+      "categoria": "maria",
+      "tipo": "oracao",
+      "tags": [
+        "imaculado coração",
+        "maria",
+        "consagração"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Em devoção mariana e pedido de intercessão materna.",
+      "texto": "Imaculado Coração de Maria, refúgio dos pecadores e caminho seguro para Jesus, acolhei minha vida. Purificai meus afetos, fortalecei minha fé e guardai-me na paz de Deus. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "maria",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "nossa-senhora-guadalupe",
+      "titulo": "Oração a Nossa Senhora de Guadalupe",
+      "categoria": "maria",
+      "tipo": "oracao",
+      "tags": [
+        "guadalupe",
+        "maria",
+        "américas"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Em devoção mariana e pedido de intercessão materna.",
+      "texto": "Nossa Senhora de Guadalupe, Mãe das Américas, cobri-nos com vosso manto. Protegei nossas famílias, fortalecei os pequenos e ensinai-nos a levar Cristo com ternura e coragem. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "maria",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "oracao a mae de deus de guadalupe",
+        "oracao a virgem maria de guadalupe"
+      ]
+    },
+    {
+      "id": "nossa-senhora-lourdes",
+      "titulo": "Oração a Nossa Senhora de Lourdes",
+      "categoria": "maria",
+      "tipo": "oracao",
+      "tags": [
+        "lourdes",
+        "cura",
+        "maria"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Em devoção mariana e pedido de intercessão materna.",
+      "texto": "Nossa Senhora de Lourdes, consoladora dos enfermos, intercedei por todos os que sofrem no corpo e na alma. Dai-nos fé, paciência e confiança na misericórdia de Deus. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "maria",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "oracao a mae de deus de lourdes",
+        "oracao a virgem maria de lourdes"
+      ]
+    },
+    {
+      "id": "nossa-senhora-gracas",
+      "titulo": "Oração a Nossa Senhora das Graças",
+      "categoria": "maria",
+      "tipo": "oracao",
+      "tags": [
+        "graças",
+        "maria",
+        "intercessão"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Em devoção mariana e pedido de intercessão materna.",
+      "texto": "Nossa Senhora das Graças, alcançai-nos do Senhor as graças necessárias para viver bem, amar mais e perseverar na fé. Que eu saiba reconhecer e agradecer os dons de Deus. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "maria",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "oracao a mae de deus das gracas",
+        "oracao a virgem maria das gracas"
+      ]
+    },
+    {
+      "id": "sagrada-familia",
+      "titulo": "Oração à Sagrada Família",
+      "categoria": "maria",
+      "tipo": "oracao",
+      "tags": [
+        "sagrada família",
+        "família",
+        "casa"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Em devoção mariana e pedido de intercessão materna.",
+      "texto": "Jesus, Maria e José, Sagrada Família de Nazaré, guardai nossa casa na fé, no perdão e no amor. Ensinai-nos a rezar juntos, servir uns aos outros e permanecer unidos em Deus. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "maria",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "nossa-senhora-imaculada-conceicao",
+      "titulo": "Oração à Imaculada Conceição",
+      "categoria": "maria",
+      "tipo": "oracao",
+      "tags": [
+        "maria",
+        "imaculada conceição",
+        "pureza"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Em momentos de oração pessoal e devoção católica.",
+      "texto": "Ó Maria concebida sem pecado, rogai por nós que recorremos a vós. Guardai meu coração na pureza, protegei minha fé e conduzi-me sempre a Jesus, vosso Filho e nosso Salvador. Amém.",
+      "explicacao": "Oração devocional composta para favorecer recolhimento, confiança e vida espiritual católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "maria",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "nossa-senhora-auxiliadora",
+      "titulo": "Oração a Nossa Senhora Auxiliadora",
+      "categoria": "maria",
+      "tipo": "oracao",
+      "tags": [
+        "maria",
+        "auxiliadora",
+        "proteção"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Em momentos de oração pessoal e devoção católica.",
+      "texto": "Nossa Senhora Auxiliadora, socorro dos cristãos, amparai-me nas lutas da vida. Sede auxílio em minhas necessidades, proteção em meus perigos e caminho seguro até Jesus. Amém.",
+      "explicacao": "Oração devocional composta para favorecer recolhimento, confiança e vida espiritual católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "maria",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "oracao a mae de deus auxiliadora",
+        "oracao a virgem maria auxiliadora"
+      ]
+    },
+    {
+      "id": "nossa-senhora-do-rosario",
+      "titulo": "Oração a Nossa Senhora do Rosário",
+      "categoria": "maria",
+      "tipo": "oracao",
+      "tags": [
+        "maria",
+        "rosário",
+        "devoção"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Em momentos de oração pessoal e devoção católica.",
+      "texto": "Nossa Senhora do Rosário, ensinai-me a contemplar Jesus com o vosso coração. Que cada Ave-Maria me aproxime mais do Evangelho, da paz e da perseverança na fé. Amém.",
+      "explicacao": "Oração devocional composta para favorecer recolhimento, confiança e vida espiritual católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "rosario-tercos",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "oracao a mae de deus do rosario",
+        "oracao a nossa senhora do rosário",
+        "oracao a virgem maria do rosario"
+      ]
+    },
+    {
+      "id": "nossa-senhora-do-bom-conselho",
+      "titulo": "Oração a Nossa Senhora do Bom Conselho",
+      "categoria": "maria",
+      "tipo": "oracao",
+      "tags": [
+        "maria",
+        "conselho",
+        "discernimento"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Em momentos de oração pessoal e devoção católica.",
+      "texto": "Nossa Senhora do Bom Conselho, alcançai-me luz para escolher o bem. Quando eu estiver confuso, conduzi-me à prudência; quando eu estiver com medo, conduzi-me à confiança; quando eu estiver fraco, conduzi-me a Jesus. Amém.",
+      "explicacao": "Oração devocional composta para favorecer recolhimento, confiança e vida espiritual católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "maria",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "oracao a mae de deus do bom conselho",
+        "oracao a virgem maria do bom conselho"
+      ]
+    },
+    {
+      "id": "nossa-senhora-da-saude",
+      "titulo": "Oração a Nossa Senhora da Saúde",
+      "categoria": "maria",
+      "tipo": "oracao",
+      "tags": [
+        "maria",
+        "saúde",
+        "enfermos"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Em momentos de oração pessoal e devoção católica.",
+      "texto": "Nossa Senhora da Saúde, intercedei pelos enfermos e por todos os que cuidam deles. Levai ao vosso Filho nossas dores, nossos tratamentos e nossas esperanças, para que tudo seja sustentado pela graça. Amém.",
+      "explicacao": "Oração devocional composta para favorecer recolhimento, confiança e vida espiritual católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "maria",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "oracao a mae de deus da saude",
+        "oracao a virgem maria da saude"
+      ]
+    },
+    {
+      "id": "nossa-senhora-rainha-da-paz",
+      "titulo": "Oração a Nossa Senhora Rainha da Paz",
+      "categoria": "maria",
+      "tipo": "oracao",
+      "tags": [
+        "maria",
+        "paz",
+        "família"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Em momentos de oração pessoal e devoção católica.",
+      "texto": "Nossa Senhora Rainha da Paz, pacificai meu coração e minha casa. Afastai de nós a discórdia, a agressividade e o orgulho, e ensinai-nos a viver a paz que nasce de Cristo. Amém.",
+      "explicacao": "Oração devocional composta para favorecer recolhimento, confiança e vida espiritual católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "maria",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "oracao a mae de deus rainha da paz",
+        "oracao a virgem maria rainha da paz"
+      ]
+    },
+    {
+      "id": "nossa-senhora-desatadora-dos-nos",
+      "titulo": "Oração a Nossa Senhora Desatadora dos Nós",
+      "categoria": "maria",
+      "tipo": "oracao",
+      "tags": [
+        "maria",
+        "nós",
+        "problemas",
+        "família"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Em momentos de oração pessoal e devoção católica.",
+      "texto": "Maria, Mãe que desata os nós, apresento-vos as situações confusas da minha vida. Levai tudo a Jesus, desatai o que me prende ao medo e ajudai-me a caminhar com fé, paciência e esperança. Amém.",
+      "explicacao": "Oração devocional composta para favorecer recolhimento, confiança e vida espiritual católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "maria",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "oracao a mae de deus desatadora dos nos",
+        "oracao a virgem maria desatadora dos nos"
+      ]
+    },
+    {
+      "id": "nossa-senhora-do-silencio",
+      "titulo": "Oração a Nossa Senhora do Silêncio",
+      "categoria": "maria",
+      "tipo": "oracao",
+      "tags": [
+        "maria",
+        "silêncio",
+        "contemplação"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Em momentos de oração pessoal e devoção católica.",
+      "texto": "Nossa Senhora do Silêncio, ensinai-me a guardar a Palavra no coração. Livrai-me da fala apressada, da inquietação e da dispersão, para que eu saiba escutar Deus com amor e responder com fidelidade. Amém.",
+      "explicacao": "Oração devocional composta para favorecer recolhimento, confiança e vida espiritual católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "maria",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "oracao a mae de deus do silencio",
+        "oracao a virgem maria do silencio"
+      ]
+    },
+    {
+      "id": "nossa-senhora-mae-da-igreja",
+      "titulo": "Oração a Maria, Mãe da Igreja",
+      "categoria": "maria",
+      "tipo": "oracao",
+      "tags": [
+        "maria",
+        "igreja",
+        "mãe da igreja"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Em momentos de oração pessoal e devoção católica.",
+      "texto": "Maria, Mãe da Igreja, protegei o povo de Deus. Intercedei pelo Papa, pelos bispos, sacerdotes, consagrados e leigos, para que todos vivam unidos a Cristo e fiéis ao Evangelho. Amém.",
+      "explicacao": "Oração devocional composta para favorecer recolhimento, confiança e vida espiritual católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "maria",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "nossa-senhora-do-desterro",
+      "titulo": "Oração a Nossa Senhora do Desterro",
+      "categoria": "maria",
+      "tipo": "oracao",
+      "tags": [
+        "maria",
+        "proteção",
+        "família",
+        "viagem"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Em momentos de oração pessoal e devoção católica.",
+      "texto": "Nossa Senhora do Desterro, que conhecestes o caminho da fuga e da insegurança, acompanhai quem precisa de proteção, abrigo e direção. Guardai minha família e conduzi-nos sempre ao refúgio de Deus. Amém.",
+      "explicacao": "Oração devocional composta para favorecer recolhimento, confiança e vida espiritual católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "maria",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "oracao a mae de deus do desterro",
+        "oracao a virgem maria do desterro"
+      ]
+    },
+    {
+      "id": "nossa-senhora-da-boa-morte",
+      "titulo": "Oração a Nossa Senhora da Boa Morte",
+      "categoria": "maria",
+      "tipo": "oracao",
+      "tags": [
+        "maria",
+        "boa morte",
+        "esperança"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Em momentos de oração pessoal e devoção católica.",
+      "texto": "Nossa Senhora da Boa Morte, acompanhai-me na hora final e em todos os dias que me preparam para ela. Alcançai-me perseverança, confiança em Jesus e a graça de partir deste mundo em paz com Deus. Amém.",
+      "explicacao": "Oração devocional composta para favorecer recolhimento, confiança e vida espiritual católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "maria",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "oracao a mae de deus da boa morte",
+        "oracao a virgem maria da boa morte"
+      ]
+    },
+    {
+      "id": "nossa-senhora-das-vitorias",
+      "titulo": "Oração a Nossa Senhora das Vitórias",
+      "categoria": "maria",
+      "tipo": "oracao",
+      "tags": [
+        "maria",
+        "vitória",
+        "esperança"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Em momentos de oração pessoal e devoção católica.",
+      "texto": "Nossa Senhora das Vitórias, ajudai-me a vencer o pecado, o desânimo e tudo aquilo que me afasta de Deus. Que minha maior vitória seja permanecer fiel a Jesus em todas as circunstâncias. Amém.",
+      "explicacao": "Oração devocional composta para favorecer recolhimento, confiança e vida espiritual católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "maria",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "oracao a mae de deus das vitorias",
+        "oracao a virgem maria das vitorias"
+      ]
+    },
+    {
+      "id": "oracao-a-nossa-senhora-de-nazare",
+      "titulo": "Oração a Nossa Senhora de Nazaré",
+      "categoria": "maria",
+      "tipo": "oracao",
+      "tags": [
+        "nazaré",
+        "círio",
+        "família",
+        "maria",
+        "nossa senhora"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para rezar pedindo a intercessão materna de Maria em temas ligados a proteção materna, fé simples e vida familiar.",
+      "texto": "Nossa Senhora de Nazaré, Mãe de Jesus e nossa Mãe, acolhei-me sob vosso cuidado materno. Conduzi-me a Cristo, guardai minha fé e ensinai-me a confiar no amor de Deus.\n\nIntercedei por mim nesta intenção, especialmente quando eu precisar de proteção materna, fé simples e vida familiar. Que meu coração permaneça simples, obediente e fiel, como o vosso diante da Palavra do Senhor. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "ave-maria",
+        "salve-rainha",
+        "lembrai-vos"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "maria",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "oracao a mae de deus de nazare",
+        "oracao a virgem maria de nazare"
+      ]
+    },
+    {
+      "id": "oracao-a-nossa-senhora-da-penha",
+      "titulo": "Oração a Nossa Senhora da Penha",
+      "categoria": "maria",
+      "tipo": "oracao",
+      "tags": [
+        "penha",
+        "proteção",
+        "refúgio",
+        "maria",
+        "nossa senhora"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para rezar pedindo a intercessão materna de Maria em temas ligados a proteção nas dificuldades e firmeza na fé.",
+      "texto": "Nossa Senhora da Penha, Mãe de Jesus e nossa Mãe, acolhei-me sob vosso cuidado materno. Conduzi-me a Cristo, guardai minha fé e ensinai-me a confiar no amor de Deus.\n\nIntercedei por mim nesta intenção, especialmente quando eu precisar de proteção nas dificuldades e firmeza na fé. Que meu coração permaneça simples, obediente e fiel, como o vosso diante da Palavra do Senhor. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "ave-maria",
+        "salve-rainha",
+        "lembrai-vos"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "maria",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "oracao a mae de deus da penha",
+        "oracao a virgem maria da penha"
+      ]
+    },
+    {
+      "id": "oracao-a-nossa-senhora-da-salette",
+      "titulo": "Oração a Nossa Senhora da Salette",
+      "categoria": "maria",
+      "tipo": "oracao",
+      "tags": [
+        "reconciliação",
+        "conversão",
+        "lágrimas",
+        "maria",
+        "nossa senhora"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para rezar pedindo a intercessão materna de Maria em temas ligados a conversão, reconciliação e retorno a Deus.",
+      "texto": "Nossa Senhora da Salette, Mãe de Jesus e nossa Mãe, acolhei-me sob vosso cuidado materno. Conduzi-me a Cristo, guardai minha fé e ensinai-me a confiar no amor de Deus.\n\nIntercedei por mim nesta intenção, especialmente quando eu precisar de conversão, reconciliação e retorno a Deus. Que meu coração permaneça simples, obediente e fiel, como o vosso diante da Palavra do Senhor. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "ave-maria",
+        "salve-rainha",
+        "lembrai-vos"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "maria",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "oracao a mae de deus da salette",
+        "oracao a virgem maria da salette"
+      ]
+    },
+    {
+      "id": "oracao-a-nossa-senhora-do-pilar",
+      "titulo": "Oração a Nossa Senhora do Pilar",
+      "categoria": "maria",
+      "tipo": "oracao",
+      "tags": [
+        "pilar",
+        "firmeza",
+        "fé",
+        "maria",
+        "nossa senhora"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para rezar pedindo a intercessão materna de Maria em temas ligados a firmeza na fé e perseverança.",
+      "texto": "Nossa Senhora do Pilar, Mãe de Jesus e nossa Mãe, acolhei-me sob vosso cuidado materno. Conduzi-me a Cristo, guardai minha fé e ensinai-me a confiar no amor de Deus.\n\nIntercedei por mim nesta intenção, especialmente quando eu precisar de firmeza na fé e perseverança. Que meu coração permaneça simples, obediente e fiel, como o vosso diante da Palavra do Senhor. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "ave-maria",
+        "salve-rainha",
+        "lembrai-vos"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "maria",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "oracao a mae de deus do pilar",
+        "oracao a virgem maria do pilar"
+      ]
+    },
+    {
+      "id": "oracao-a-nossa-senhora-da-candelaria",
+      "titulo": "Oração a Nossa Senhora da Candelária",
+      "categoria": "maria",
+      "tipo": "oracao",
+      "tags": [
+        "luz",
+        "apresentação",
+        "família",
+        "maria",
+        "nossa senhora"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para rezar pedindo a intercessão materna de Maria em temas ligados a luz para a família e para a caminhada cristã.",
+      "texto": "Nossa Senhora da Candelária, Mãe de Jesus e nossa Mãe, acolhei-me sob vosso cuidado materno. Conduzi-me a Cristo, guardai minha fé e ensinai-me a confiar no amor de Deus.\n\nIntercedei por mim nesta intenção, especialmente quando eu precisar de luz para a família e para a caminhada cristã. Que meu coração permaneça simples, obediente e fiel, como o vosso diante da Palavra do Senhor. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "ave-maria",
+        "salve-rainha",
+        "lembrai-vos"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "maria",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "oracao a mae de deus da candelaria",
+        "oracao a virgem maria da candelaria"
+      ]
+    },
+    {
+      "id": "oracao-a-nossa-senhora-do-bom-parto",
+      "titulo": "Oração a Nossa Senhora do Bom Parto",
+      "categoria": "maria",
+      "tipo": "oracao",
+      "tags": [
+        "gestantes",
+        "parto",
+        "maternidade",
+        "maria",
+        "nossa senhora"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para rezar pedindo a intercessão materna de Maria em temas ligados a proteção para gestantes e mães.",
+      "texto": "Nossa Senhora do Bom Parto, Mãe de Jesus e nossa Mãe, acolhei-me sob vosso cuidado materno. Conduzi-me a Cristo, guardai minha fé e ensinai-me a confiar no amor de Deus.\n\nIntercedei por mim nesta intenção, especialmente quando eu precisar de proteção para gestantes e mães. Que meu coração permaneça simples, obediente e fiel, como o vosso diante da Palavra do Senhor. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "ave-maria",
+        "salve-rainha",
+        "lembrai-vos"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "maria",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "oracao a mae de deus do bom parto",
+        "oracao a virgem maria do bom parto"
+      ]
+    },
+    {
+      "id": "oracao-a-nossa-senhora-da-cabeca",
+      "titulo": "Oração a Nossa Senhora da Cabeça",
+      "categoria": "maria",
+      "tipo": "oracao",
+      "tags": [
+        "família",
+        "mente",
+        "proteção",
+        "maria",
+        "nossa senhora"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para rezar pedindo a intercessão materna de Maria em temas ligados a proteção da mente, da família e dos lares.",
+      "texto": "Nossa Senhora da Cabeça, Mãe de Jesus e nossa Mãe, acolhei-me sob vosso cuidado materno. Conduzi-me a Cristo, guardai minha fé e ensinai-me a confiar no amor de Deus.\n\nIntercedei por mim nesta intenção, especialmente quando eu precisar de proteção da mente, da família e dos lares. Que meu coração permaneça simples, obediente e fiel, como o vosso diante da Palavra do Senhor. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "ave-maria",
+        "salve-rainha",
+        "lembrai-vos"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "maria",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "oracao a mae de deus da cabeca",
+        "oracao a virgem maria da cabeca"
+      ]
+    },
+    {
+      "id": "oracao-a-nossa-senhora-de-pompeia",
+      "titulo": "Oração a Nossa Senhora de Pompeia",
+      "categoria": "maria",
+      "tipo": "oracao",
+      "tags": [
+        "rosário",
+        "pompeia",
+        "súplica",
+        "maria",
+        "nossa senhora"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para rezar pedindo a intercessão materna de Maria em temas ligados a perseverança no Rosário e confiança nas súplicas.",
+      "texto": "Nossa Senhora de Pompeia, Mãe de Jesus e nossa Mãe, acolhei-me sob vosso cuidado materno. Conduzi-me a Cristo, guardai minha fé e ensinai-me a confiar no amor de Deus.\n\nIntercedei por mim nesta intenção, especialmente quando eu precisar de perseverança no Rosário e confiança nas súplicas. Que meu coração permaneça simples, obediente e fiel, como o vosso diante da Palavra do Senhor. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "ave-maria",
+        "salve-rainha",
+        "lembrai-vos"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "rosario-tercos",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "oracao a mae de deus de pompeia",
+        "oracao a virgem maria de pompeia"
+      ]
+    },
+    {
+      "id": "oracao-a-nossa-senhora-de-czestochowa",
+      "titulo": "Oração a Nossa Senhora de Czestochowa",
+      "categoria": "maria",
+      "tipo": "oracao",
+      "tags": [
+        "mãe",
+        "proteção",
+        "igreja",
+        "maria",
+        "nossa senhora"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para rezar pedindo a intercessão materna de Maria em temas ligados a proteção da Igreja, das famílias e dos povos.",
+      "texto": "Nossa Senhora de Czestochowa, Mãe de Jesus e nossa Mãe, acolhei-me sob vosso cuidado materno. Conduzi-me a Cristo, guardai minha fé e ensinai-me a confiar no amor de Deus.\n\nIntercedei por mim nesta intenção, especialmente quando eu precisar de proteção da Igreja, das famílias e dos povos. Que meu coração permaneça simples, obediente e fiel, como o vosso diante da Palavra do Senhor. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "ave-maria",
+        "salve-rainha",
+        "lembrai-vos"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "maria",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "oracao a mae de deus de czestochowa",
+        "oracao a virgem maria de czestochowa"
+      ]
+    },
+    {
+      "id": "oracao-a-nossa-senhora-de-schoenstatt",
+      "titulo": "Oração a Nossa Senhora de Schoenstatt",
+      "categoria": "maria",
+      "tipo": "oracao",
+      "tags": [
+        "aliança",
+        "família",
+        "missão",
+        "maria",
+        "nossa senhora"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para rezar pedindo a intercessão materna de Maria em temas ligados a aliança de amor, família e missão.",
+      "texto": "Nossa Senhora de Schoenstatt, Mãe de Jesus e nossa Mãe, acolhei-me sob vosso cuidado materno. Conduzi-me a Cristo, guardai minha fé e ensinai-me a confiar no amor de Deus.\n\nIntercedei por mim nesta intenção, especialmente quando eu precisar de aliança de amor, família e missão. Que meu coração permaneça simples, obediente e fiel, como o vosso diante da Palavra do Senhor. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "ave-maria",
+        "salve-rainha",
+        "lembrai-vos"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "maria",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "oracao a mae de deus de schoenstatt",
+        "oracao a virgem maria de schoenstatt"
+      ]
+    },
+    {
+      "id": "oracao-a-nossa-senhora-de-loreto",
+      "titulo": "Oração a Nossa Senhora de Loreto",
+      "categoria": "maria",
+      "tipo": "oracao",
+      "tags": [
+        "lar",
+        "família",
+        "casa",
+        "maria",
+        "nossa senhora"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para rezar pedindo a intercessão materna de Maria em temas ligados a proteção do lar e santificação da casa.",
+      "texto": "Nossa Senhora de Loreto, Mãe de Jesus e nossa Mãe, acolhei-me sob vosso cuidado materno. Conduzi-me a Cristo, guardai minha fé e ensinai-me a confiar no amor de Deus.\n\nIntercedei por mim nesta intenção, especialmente quando eu precisar de proteção do lar e santificação da casa. Que meu coração permaneça simples, obediente e fiel, como o vosso diante da Palavra do Senhor. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "ave-maria",
+        "salve-rainha",
+        "lembrai-vos"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "maria",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "oracao a mae de deus de loreto",
+        "oracao a virgem maria de loreto"
+      ]
+    },
+    {
+      "id": "oracao-a-nossa-senhora-da-boa-viagem",
+      "titulo": "Oração a Nossa Senhora da Boa Viagem",
+      "categoria": "maria",
+      "tipo": "oracao",
+      "tags": [
+        "viagem",
+        "proteção",
+        "caminho",
+        "maria",
+        "nossa senhora"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para rezar pedindo a intercessão materna de Maria em temas ligados a proteção nas viagens e caminhos.",
+      "texto": "Nossa Senhora da Boa Viagem, Mãe de Jesus e nossa Mãe, acolhei-me sob vosso cuidado materno. Conduzi-me a Cristo, guardai minha fé e ensinai-me a confiar no amor de Deus.\n\nIntercedei por mim nesta intenção, especialmente quando eu precisar de proteção nas viagens e caminhos. Que meu coração permaneça simples, obediente e fiel, como o vosso diante da Palavra do Senhor. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "ave-maria",
+        "salve-rainha",
+        "lembrai-vos"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "maria",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "oracao a mae de deus da boa viagem",
+        "oracao a virgem maria da boa viagem"
+      ]
+    },
+    {
+      "id": "oracao-a-nossa-senhora-dos-navegantes",
+      "titulo": "Oração a Nossa Senhora dos Navegantes",
+      "categoria": "maria",
+      "tipo": "oracao",
+      "tags": [
+        "viagem",
+        "mar",
+        "proteção",
+        "maria",
+        "nossa senhora"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para rezar pedindo a intercessão materna de Maria em temas ligados a proteção nas travessias e perigos.",
+      "texto": "Nossa Senhora dos Navegantes, Mãe de Jesus e nossa Mãe, acolhei-me sob vosso cuidado materno. Conduzi-me a Cristo, guardai minha fé e ensinai-me a confiar no amor de Deus.\n\nIntercedei por mim nesta intenção, especialmente quando eu precisar de proteção nas travessias e perigos. Que meu coração permaneça simples, obediente e fiel, como o vosso diante da Palavra do Senhor. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "ave-maria",
+        "salve-rainha",
+        "lembrai-vos"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "maria",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "oracao a mae de deus dos navegantes",
+        "oracao a virgem maria dos navegantes"
+      ]
+    },
+    {
+      "id": "oracao-a-nossa-senhora-do-sorriso",
+      "titulo": "Oração a Nossa Senhora do Sorriso",
+      "categoria": "maria",
+      "tipo": "oracao",
+      "tags": [
+        "alegria",
+        "tristeza",
+        "consolo",
+        "maria",
+        "nossa senhora"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para rezar pedindo a intercessão materna de Maria em temas ligados a consolo nas tristezas e recuperação da alegria.",
+      "texto": "Nossa Senhora do Sorriso, Mãe de Jesus e nossa Mãe, acolhei-me sob vosso cuidado materno. Conduzi-me a Cristo, guardai minha fé e ensinai-me a confiar no amor de Deus.\n\nIntercedei por mim nesta intenção, especialmente quando eu precisar de consolo nas tristezas e recuperação da alegria. Que meu coração permaneça simples, obediente e fiel, como o vosso diante da Palavra do Senhor. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "ave-maria",
+        "salve-rainha",
+        "lembrai-vos"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "maria",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "oracao a mae de deus do sorriso",
+        "oracao a virgem maria do sorriso"
+      ]
+    },
+    {
+      "id": "oracao-a-nossa-senhora-da-esperanca",
+      "titulo": "Oração a Nossa Senhora da Esperança",
+      "categoria": "maria",
+      "tipo": "oracao",
+      "tags": [
+        "esperança",
+        "confiança",
+        "futuro",
+        "maria",
+        "nossa senhora"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para rezar pedindo a intercessão materna de Maria em temas ligados a esperança em tempos difíceis.",
+      "texto": "Nossa Senhora da Esperança, Mãe de Jesus e nossa Mãe, acolhei-me sob vosso cuidado materno. Conduzi-me a Cristo, guardai minha fé e ensinai-me a confiar no amor de Deus.\n\nIntercedei por mim nesta intenção, especialmente quando eu precisar de esperança em tempos difíceis. Que meu coração permaneça simples, obediente e fiel, como o vosso diante da Palavra do Senhor. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "ave-maria",
+        "salve-rainha",
+        "lembrai-vos"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "maria",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "oracao a mae de deus da esperanca",
+        "oracao a virgem maria da esperanca"
+      ]
+    },
+    {
+      "id": "oracao-a-nossa-senhora-da-ternura",
+      "titulo": "Oração a Nossa Senhora da Ternura",
+      "categoria": "maria",
+      "tipo": "oracao",
+      "tags": [
+        "ternura",
+        "mãe",
+        "consolo",
+        "maria",
+        "nossa senhora"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para rezar pedindo a intercessão materna de Maria em temas ligados a acolhimento materno e cura do coração.",
+      "texto": "Nossa Senhora da Ternura, Mãe de Jesus e nossa Mãe, acolhei-me sob vosso cuidado materno. Conduzi-me a Cristo, guardai minha fé e ensinai-me a confiar no amor de Deus.\n\nIntercedei por mim nesta intenção, especialmente quando eu precisar de acolhimento materno e cura do coração. Que meu coração permaneça simples, obediente e fiel, como o vosso diante da Palavra do Senhor. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "ave-maria",
+        "salve-rainha",
+        "lembrai-vos"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "maria",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "oracao a mae de deus da ternura",
+        "oracao a virgem maria da ternura"
+      ]
+    },
+    {
+      "id": "oracao-a-nossa-senhora-do-amparo",
+      "titulo": "Oração a Nossa Senhora do Amparo",
+      "categoria": "maria",
+      "tipo": "oracao",
+      "tags": [
+        "amparo",
+        "socorro",
+        "proteção",
+        "maria",
+        "nossa senhora"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para rezar pedindo a intercessão materna de Maria em temas ligados a amparo nas necessidades urgentes.",
+      "texto": "Nossa Senhora do Amparo, Mãe de Jesus e nossa Mãe, acolhei-me sob vosso cuidado materno. Conduzi-me a Cristo, guardai minha fé e ensinai-me a confiar no amor de Deus.\n\nIntercedei por mim nesta intenção, especialmente quando eu precisar de amparo nas necessidades urgentes. Que meu coração permaneça simples, obediente e fiel, como o vosso diante da Palavra do Senhor. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "ave-maria",
+        "salve-rainha",
+        "lembrai-vos"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "maria",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "oracao a mae de deus do amparo",
+        "oracao a virgem maria do amparo"
+      ]
+    },
+    {
+      "id": "oracao-a-nossa-senhora-da-consolacao",
+      "titulo": "Oração a Nossa Senhora da Consolação",
+      "categoria": "maria",
+      "tipo": "oracao",
+      "tags": [
+        "consolo",
+        "luto",
+        "aflição",
+        "maria",
+        "nossa senhora"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para rezar pedindo a intercessão materna de Maria em temas ligados a consolo nos sofrimentos e lutos.",
+      "texto": "Nossa Senhora da Consolação, Mãe de Jesus e nossa Mãe, acolhei-me sob vosso cuidado materno. Conduzi-me a Cristo, guardai minha fé e ensinai-me a confiar no amor de Deus.\n\nIntercedei por mim nesta intenção, especialmente quando eu precisar de consolo nos sofrimentos e lutos. Que meu coração permaneça simples, obediente e fiel, como o vosso diante da Palavra do Senhor. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "ave-maria",
+        "salve-rainha",
+        "lembrai-vos"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "maria",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "oracao a mae de deus da consolacao",
+        "oracao a virgem maria da consolacao"
+      ]
+    },
+    {
+      "id": "oracao-a-nossa-senhora-dos-impossiveis",
+      "titulo": "Oração a Nossa Senhora dos Impossíveis",
+      "categoria": "maria",
+      "tipo": "oracao",
+      "tags": [
+        "impossíveis",
+        "confiança",
+        "necessidade",
+        "maria",
+        "nossa senhora"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para rezar pedindo a intercessão materna de Maria em temas ligados a confiança diante de situações humanamente difíceis.",
+      "texto": "Nossa Senhora dos Impossíveis, Mãe de Jesus e nossa Mãe, acolhei-me sob vosso cuidado materno. Conduzi-me a Cristo, guardai minha fé e ensinai-me a confiar no amor de Deus.\n\nIntercedei por mim nesta intenção, especialmente quando eu precisar de confiança diante de situações humanamente difíceis. Que meu coração permaneça simples, obediente e fiel, como o vosso diante da Palavra do Senhor. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "ave-maria",
+        "salve-rainha",
+        "lembrai-vos"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "maria",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "oracao a mae de deus dos impossiveis",
+        "oracao a virgem maria dos impossiveis"
+      ]
+    },
+    {
+      "id": "oracao-a-nossa-senhora-do-equilibrio",
+      "titulo": "Oração a Nossa Senhora do Equilíbrio",
+      "categoria": "maria",
+      "tipo": "oracao",
+      "tags": [
+        "equilíbrio",
+        "serenidade",
+        "família",
+        "maria",
+        "nossa senhora"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para rezar pedindo a intercessão materna de Maria em temas ligados a equilíbrio emocional e serenidade.",
+      "texto": "Nossa Senhora do Equilíbrio, Mãe de Jesus e nossa Mãe, acolhei-me sob vosso cuidado materno. Conduzi-me a Cristo, guardai minha fé e ensinai-me a confiar no amor de Deus.\n\nIntercedei por mim nesta intenção, especialmente quando eu precisar de equilíbrio emocional e serenidade. Que meu coração permaneça simples, obediente e fiel, como o vosso diante da Palavra do Senhor. Amém.",
+      "explicacao": "Oração devocional para ajudar o fiel a rezar com fé, recolhimento e confiança.",
+      "relacionados": [
+        "ave-maria",
+        "salve-rainha",
+        "lembrai-vos"
+      ],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "maria",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "oracao a mae de deus do equilibrio",
+        "oracao a virgem maria do equilibrio"
+      ]
+    },
+    {
+      "id": "oracao-a-nossa-senhora-de-guadalupe",
+      "titulo": "Oração de intercessão a Nossa Senhora de Guadalupe",
+      "categoria": "maria",
+      "tipo": "oracao",
+      "tags": [
+        "guadalupe",
+        "maria",
+        "américa",
+        "proteção"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para pedir proteção maternal, especialmente pelas famílias e povos da América.",
+      "texto": "Nossa Senhora de Guadalupe, Mãe amorosa que manifestastes ternura aos pequenos, cobri-nos com vosso manto. Protegei nossas famílias, curai nossas divisões e ensinai-nos a levar Cristo com simplicidade e coragem.\n\nMãe do verdadeiro Deus por quem se vive, rogai por nós. Amém.",
+      "explicacao": "Oração organizada para o Devocionário Lectio, com linguagem simples, reverente e fiel à espiritualidade católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "maria",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "oracao a mae de deus de guadalupe",
+        "oracao a virgem maria de guadalupe"
+      ]
+    },
+    {
+      "id": "oracao-a-nossa-senhora-de-lourdes",
+      "titulo": "Oração de intercessão a Nossa Senhora de Lourdes",
+      "categoria": "maria",
+      "tipo": "oracao",
+      "tags": [
+        "lourdes",
+        "cura",
+        "doentes",
+        "maria"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Pelos enfermos, cuidadores e pessoas que buscam cura física ou interior.",
+      "texto": "Nossa Senhora de Lourdes, Mãe dos doentes e consoladora dos aflitos, levai a Jesus nossas dores e fragilidades. Dai esperança aos enfermos, força aos cuidadores e paz aos que sofrem.\n\nQue a fé nos ajude a atravessar a dor sem perder a confiança. Amém.",
+      "explicacao": "Oração organizada para o Devocionário Lectio, com linguagem simples, reverente e fiel à espiritualidade católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "maria",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "oracao a mae de deus de lourdes",
+        "oracao a virgem maria de lourdes"
+      ]
+    },
+    {
+      "id": "oracao-a-nossa-senhora-do-rosario",
+      "titulo": "Oração de intercessão a Nossa Senhora do Rosário",
+      "categoria": "maria",
+      "tipo": "oracao",
+      "tags": [
+        "rosário",
+        "maria",
+        "família",
+        "mistérios"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Antes ou depois do terço, ou para pedir perseverança na oração.",
+      "texto": "Nossa Senhora do Rosário, ensinai-me a contemplar Cristo com os vossos olhos. Fazei do meu terço uma escola de fé, paciência e amor.\n\nConduzi minha família pelos mistérios da alegria, da luz, da dor e da glória, até chegarmos mais perto de Jesus. Amém.",
+      "explicacao": "Oração organizada para o Devocionário Lectio, com linguagem simples, reverente e fiel à espiritualidade católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "rosario-tercos",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "oracao a mae de deus do rosario",
+        "oracao a nossa senhora do rosário",
+        "oracao a virgem maria do rosario"
+      ]
+    },
+    {
+      "id": "oracao-a-nossa-senhora-das-gracas",
+      "titulo": "Oração de intercessão a Nossa Senhora das Graças",
+      "categoria": "maria",
+      "tipo": "oracao",
+      "tags": [
+        "graças",
+        "maria",
+        "medalha milagrosa",
+        "intercessão"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para pedir graças espirituais, conversão e proteção.",
+      "texto": "Nossa Senhora das Graças, Mãe que intercede sem cessar, alcançai de Deus as graças necessárias para minha salvação. Guardai-me do pecado, aumentai minha fé e ajudai-me a reconhecer os sinais da providência.\n\nÓ Maria concebida sem pecado, rogai por nós que recorremos a vós. Amém.",
+      "explicacao": "Oração organizada para o Devocionário Lectio, com linguagem simples, reverente e fiel à espiritualidade católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "maria",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "oracao a mae de deus das gracas",
+        "oracao a virgem maria das gracas"
+      ]
+    },
+    {
+      "id": "oracao-a-nossa-senhora-do-silencio",
+      "titulo": "Oração de intercessão a Nossa Senhora do Silêncio",
+      "categoria": "maria",
+      "tipo": "oracao",
+      "tags": [
+        "silêncio",
+        "maria",
+        "escuta",
+        "recolhimento"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Quando precisar de recolhimento, prudência e paz interior.",
+      "texto": "Nossa Senhora do Silêncio, guardiã da Palavra no coração, ensinai-me a calar o que fere, a escutar antes de responder e a meditar os acontecimentos à luz de Deus.\n\nDai-me um coração sereno, discreto e fiel. Amém.",
+      "explicacao": "Oração organizada para o Devocionário Lectio, com linguagem simples, reverente e fiel à espiritualidade católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "maria",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      },
+      "aliases": [
+        "oracao a mae de deus do silencio",
+        "oracao a virgem maria do silencio"
+      ]
+    },
+    {
+      "id": "oracao-a-maria-mae-da-igreja",
+      "titulo": "Oração de intercessão a Maria, Mãe da Igreja",
+      "categoria": "maria",
+      "tipo": "oracao",
+      "tags": [
+        "mãe da igreja",
+        "igreja",
+        "unidade",
+        "maria"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Pela Igreja, pelos pastores, vocações e unidade dos fiéis.",
+      "texto": "Maria, Mãe da Igreja, acompanhai o povo de Deus com vossa intercessão. Guardai os pastores na fidelidade, os leigos na missão, as famílias na fé e os jovens na esperança.\n\nFazei da Igreja uma casa de comunhão, verdade e misericórdia. Amém.",
+      "explicacao": "Oração organizada para o Devocionário Lectio, com linguagem simples, reverente e fiel à espiritualidade católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "maria",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "oracao-a-maria-estrela-da-evangelizacao",
+      "titulo": "Maria, Estrela da Evangelização",
+      "categoria": "maria",
+      "tipo": "oracao",
+      "tags": [
+        "evangelização",
+        "missão",
+        "maria",
+        "testemunho"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Antes de evangelizar, catequizar, ensinar ou publicar conteúdo de fé.",
+      "texto": "Maria, Estrela da Evangelização, guiai meus passos para que eu anuncie Jesus sem vaidade e sem medo. Purificai minhas palavras, minhas intenções e meu testemunho.\n\nQue tudo o que eu fizer conduza almas a Cristo e nunca a mim mesmo. Amém.",
+      "explicacao": "Oração organizada para o Devocionário Lectio, com linguagem simples, reverente e fiel à espiritualidade católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "maria",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "oracao-a-maria-refugio-dos-pecadores",
+      "titulo": "Maria, Refúgio dos Pecadores",
+      "categoria": "maria",
+      "tipo": "oracao",
+      "tags": [
+        "conversão",
+        "misericórdia",
+        "maria",
+        "perdão"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para pedir conversão pessoal ou interceder por alguém afastado de Deus.",
+      "texto": "Maria, Refúgio dos Pecadores, acolhei-me quando eu me envergonhar das minhas quedas. Levai-me de volta a Jesus, ensinai-me a pedir perdão e a recomeçar sem desespero.\n\nMãe de misericórdia, rogai por nós. Amém.",
+      "explicacao": "Oração organizada para o Devocionário Lectio, com linguagem simples, reverente e fiel à espiritualidade católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "maria",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    },
+    {
+      "id": "oracao-a-maria-rainha-dos-anjos",
+      "titulo": "Maria, Rainha dos Anjos",
+      "categoria": "maria",
+      "tipo": "oracao",
+      "tags": [
+        "anjos",
+        "proteção",
+        "maria",
+        "combate espiritual"
+      ],
+      "momento": [
+        "qualquer_hora"
+      ],
+      "fonte_tipo": "lectio",
+      "fonte_nome": "Composição devocional do Lectio",
+      "quando_rezar": "Para pedir proteção espiritual junto de Maria e dos anjos.",
+      "texto": "Maria, Rainha dos Anjos, ordenai as milícias celestes em nosso favor e guardai-nos sob vosso manto. Onde houver medo, confusão e tentação, alcançai-nos luz, paz e firmeza.\n\nConduzi-nos sempre a Jesus, Rei dos anjos e dos santos. Amém.",
+      "explicacao": "Oração organizada para o Devocionário Lectio, com linguagem simples, reverente e fiel à espiritualidade católica.",
+      "relacionados": [],
+      "duracao": "breve",
+      "curadoria": {
+        "selo": "Texto Lectio",
+        "familia": "anjos-e-arcanjos",
+        "uso": "oração breve",
+        "revisao": "Etapa 25 · curadoria de conteúdo"
+      }
+    }
+  ]
+}
