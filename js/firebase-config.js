@@ -24,13 +24,13 @@
    ========================================================= */
 
 export const firebaseConfig = {
-  apiKey: "AIzaSyC-Uwot9A41bc-mlxrh6Z4fjiyax4GphrY",
+  apiKey: "AC-c-r",
   authDomain: "lectio-biblia.firebaseapp.com",
   projectId: "lectio-biblia",
   storageBucket: "lectio-biblia.firebasestorage.app",
-  messagingSenderId: "311996410237",
-  appId: "1:311996410237:web:cff807885fdab887200414",
-  measurementId: "G-ZMYS887V1Z"
+  messagingSenderId: "7",
+  appId: "1:2:web:f",
+  measurementId: "G-Z"
 };
 
 /* =========================================================
